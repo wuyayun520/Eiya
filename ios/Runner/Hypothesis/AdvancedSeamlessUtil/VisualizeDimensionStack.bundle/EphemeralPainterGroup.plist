@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsetValueKind</key>
+	<string>alertProcessFeedback</string>
+	<key>providerLayerOrientation</key>
+	<string>layoutOfFramework</string>
+	<key>resourceShapeSpeed</key>
+	<string>repositoryStructureInterval</string>
+	<key>standaloneBaselineEdge</key>
+	<string>responseExceptTier</string>
+</dict>
+</plist>

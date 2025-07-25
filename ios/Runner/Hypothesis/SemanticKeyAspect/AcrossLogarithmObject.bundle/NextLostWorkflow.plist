@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVarIndex</key>
+	<string>musicBufferSkewx</string>
+	<key>getxBesideFramework</key>
+	<string>rectAgainstComposite</string>
+	<key>localizationPrototypeSaturation</key>
+	<string>convolutionMementoCenter</string>
+	<key>symmetricVariantValidation</key>
+	<string>permanentCompositionLeft</string>
+</dict>
+</plist>

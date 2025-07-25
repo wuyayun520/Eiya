@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPatternType</key>
+	<string>statelessRowStyle</string>
+	<key>groupTierFrequency</key>
+	<string>stateDuringKind</string>
+	<key>integerFacadeOrientation</key>
+	<string>matrixOrStyle</string>
+	<key>operationMementoDepth</key>
+	<string>finalMetadataStyle</string>
+	<key>rectBesideFlyweight</key>
+	<string>marginShapeBottom</string>
+	<key>statefulLabelVisible</key>
+	<string>currentFlexFormat</string>
+	<key>textfieldSinceValue</key>
+	<string>instructionOperationOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPreviewTheme</key>
+	<string>heroNearForm</string>
+	<key>imperativeAnimatedcontainerBottom</key>
+	<string>tweenFrameworkTop</string>
+	<key>layoutJobSize</key>
+	<string>bufferProxyPosition</string>
+	<key>missedInjectionSkewy</key>
+	<string>standaloneStatelessInteraction</string>
+	<key>opaqueNavigatorStatus</key>
+	<string>particleAmongNumber</string>
+	<key>rectProxyHue</key>
+	<string>zoneInsideKind</string>
+	<key>reducerModeDepth</key>
+	<string>grayscaleStateMode</string>
+	<key>statefulFormFlags</key>
+	<string>textProcessLeft</string>
+</dict>
+</plist>

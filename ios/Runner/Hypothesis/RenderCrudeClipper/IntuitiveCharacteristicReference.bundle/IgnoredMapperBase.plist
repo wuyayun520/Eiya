@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nibBesideAction</key>
+	<string>pointInsideWork</string>
+	<key>operationNumberKind</key>
+	<string>referenceBridgeStyle</string>
+	<key>reducerAboutParameter</key>
+	<string>promiseCycleBorder</string>
+	<key>scrollPrototypeSkewy</key>
+	<string>interactiveBoxTheme</string>
+	<key>streamCompositeTransparency</key>
+	<string>customStreamOrientation</string>
+	<key>textureViaPattern</key>
+	<string>isolateByStrategy</string>
+	<key>transformerAdapterRate</key>
+	<string>hashUntilAction</string>
+</dict>
+</plist>

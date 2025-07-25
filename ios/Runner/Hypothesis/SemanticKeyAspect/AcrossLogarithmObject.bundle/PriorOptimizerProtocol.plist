@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardStreamShade</key>
+	<string>assetAdapterBehavior</string>
+	<key>entityTypeFeedback</key>
+	<string>customizedProviderSaturation</string>
+	<key>integerStageValidation</key>
+	<string>builderWithMethod</string>
+	<key>labelSingletonKind</key>
+	<string>firstLogDelay</string>
+	<key>protectedNibDelay</key>
+	<string>stampByBuffer</string>
+	<key>retainedMasterOrigin</key>
+	<string>radioAtShape</string>
+</dict>
+</plist>

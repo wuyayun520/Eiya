@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorUntilFramework</key>
+	<string>sizedboxCommandDuration</string>
+	<key>denseAsyncFeedback</key>
+	<string>synchronousAwaitRate</string>
+	<key>labelProcessContrast</key>
+	<string>finalRowLocation</string>
+	<key>providerCommandRate</key>
+	<string>transitionViaTier</string>
+	<key>resolverContextShape</key>
+	<string>viewOfPrototype</string>
+	<key>zoneViaWork</key>
+	<string>screenEnvironmentPosition</string>
+</dict>
+</plist>

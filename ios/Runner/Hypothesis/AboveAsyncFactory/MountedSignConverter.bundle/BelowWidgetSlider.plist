@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitZoneName</key>
+	<string>titleAtVariable</string>
+	<key>masterProcessBehavior</key>
+	<string>roleModeLocation</string>
+	<key>nodeFacadeCenter</key>
+	<string>allocatorVersusInterpreter</string>
+	<key>observerUntilPlatform</key>
+	<string>gridValueMargin</string>
+	<key>sampleValueState</key>
+	<string>entitySinceParam</string>
+	<key>sceneInJob</key>
+	<string>rowProcessRight</string>
+	<key>switchNearMemento</key>
+	<string>delegateDespiteProxy</string>
+</dict>
+</plist>

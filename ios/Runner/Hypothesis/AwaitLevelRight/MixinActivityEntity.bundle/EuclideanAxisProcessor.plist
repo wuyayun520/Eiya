@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentIncludeMode</key>
+	<string>coordinatorAsTask</string>
+	<key>dimensionDespiteParam</key>
+	<string>hashVisitorInset</string>
+	<key>entityParamVisibility</key>
+	<string>interfaceWithoutPrototype</string>
+	<key>mediaqueryDecoratorDepth</key>
+	<string>dependencyPatternMode</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVisitorInteraction</key>
+	<string>expandedOutsideComposite</string>
+	<key>disabledGiftMode</key>
+	<string>queryAsEnvironment</string>
+	<key>fragmentModeFeedback</key>
+	<string>largeDependencyFeedback</string>
+	<key>grainContextOffset</key>
+	<string>resultVersusPlatform</string>
+	<key>lastTaskSaturation</key>
+	<string>synchronousMediaqueryMode</string>
+	<key>lazyChecklistDistance</key>
+	<string>sortedSizePadding</string>
+	<key>operationForTemple</key>
+	<string>vectorAmongTier</string>
+	<key>subsequentTransitionState</key>
+	<string>sessionBesideFacade</string>
+	<key>topicProcessDepth</key>
+	<string>interpolationFromChain</string>
+</dict>
+</plist>

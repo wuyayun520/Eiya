@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardHandlerShape</key>
+	<string>petVersusBridge</string>
+	<key>descriptorByStructure</key>
+	<string>monsterParamState</string>
+	<key>easyTransitionHue</key>
+	<string>boxshadowValueState</string>
+	<key>liteViewBrightness</key>
+	<string>primaryTimerVisibility</string>
+	<key>priorityTypeVisibility</key>
+	<string>scaleWithObserver</string>
+	<key>responseSystemDensity</key>
+	<string>smallSemanticsDistance</string>
+	<key>sinkFunctionRight</key>
+	<string>missedSpriteOrientation</string>
+	<key>synchronousTextOffset</key>
+	<string>contractionVersusNumber</string>
+</dict>
+</plist>

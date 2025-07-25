@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleInteractorInterval</key>
+	<string>tickerBufferHue</string>
+	<key>gridUntilVar</key>
+	<string>radiusLevelPosition</string>
+	<key>invisibleGraphicFlags</key>
+	<string>toolInsideState</string>
+	<key>serviceInBuffer</key>
+	<string>standaloneTextShape</string>
+	<key>smallLogOrigin</key>
+	<string>difficultReferenceCount</string>
+	<key>subsequentMediaKind</key>
+	<string>progressbarThroughFunction</string>
+</dict>
+</plist>

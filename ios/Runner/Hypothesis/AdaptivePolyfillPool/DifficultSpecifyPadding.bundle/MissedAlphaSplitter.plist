@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customImageMode</key>
+	<string>cupertinoButtonCoord</string>
+	<key>directConstraintLocation</key>
+	<string>sequentialEqualizationBrightness</string>
+	<key>fixedPresenterDistance</key>
+	<string>modalPhaseTail</string>
+	<key>flexibleZoneOrigin</key>
+	<string>zoneFunctionSize</string>
+	<key>indicatorVarResponse</key>
+	<string>intuitiveProviderBrightness</string>
+	<key>resolverFacadeSkewx</key>
+	<string>typicalQueryPressure</string>
+	<key>rowBesideVariable</key>
+	<string>profileNearOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPageviewBorder</key>
+	<string>priorChapterVisible</string>
+	<key>commandAmongMemento</key>
+	<string>transitionPlatformDensity</string>
+	<key>cubitCompositeTag</key>
+	<string>pinchableSegmentCount</string>
+	<key>hashViaForm</key>
+	<string>kernelFormRotation</string>
+	<key>navigatorAndFunction</key>
+	<string>certificateByForm</string>
+	<key>scaleOperationKind</key>
+	<string>cubitPerLevel</string>
+	<key>symmetricSymbolCount</key>
+	<string>intuitiveVectorSkewx</string>
+</dict>
+</plist>

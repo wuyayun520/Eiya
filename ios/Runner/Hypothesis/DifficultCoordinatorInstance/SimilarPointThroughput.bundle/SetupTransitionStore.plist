@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintForPhase</key>
+	<string>nodeSingletonTop</string>
+	<key>multiExtensionFeedback</key>
+	<string>customizedGraphicColor</string>
+	<key>oldBrushForce</key>
+	<string>errorVarCoord</string>
+	<key>resilientCoordinatorDuration</key>
+	<string>projectAlongParameter</string>
+	<key>specifyLoopSaturation</key>
+	<string>intermediateSliderRate</string>
+	<key>stepUntilPlatform</key>
+	<string>iterativeZoneIndex</string>
+	<key>viewActionFeedback</key>
+	<string>loopParamTint</string>
+</dict>
+</plist>

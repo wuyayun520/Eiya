@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableSpriteTail</key>
+	<string>sophisticatedHeroPadding</string>
+	<key>localizationAboutFramework</key>
+	<string>chartInterpreterTheme</string>
+	<key>nativeExpandedRotation</key>
+	<string>signStageOpacity</string>
+	<key>priorityModeOffset</key>
+	<string>queryBridgeRotation</string>
+	<key>secondBulletBehavior</key>
+	<string>dialogsModeFeedback</string>
+	<key>significantFutureInset</key>
+	<string>frameFromPlatform</string>
+	<key>subsequentCurveIndex</key>
+	<string>subpixelWithFacade</string>
+	<key>topicExceptPrototype</key>
+	<string>gemAtKind</string>
+</dict>
+</plist>

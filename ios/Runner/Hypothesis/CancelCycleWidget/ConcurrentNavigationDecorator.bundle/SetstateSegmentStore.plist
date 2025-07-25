@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCubitInteraction</key>
+	<string>uniformDependencyFlags</string>
+	<key>delegateEnvironmentTheme</key>
+	<string>movementLevelContrast</string>
+	<key>materialIncludeVar</key>
+	<string>animatedCycleEdge</string>
+	<key>methodStructureFormat</key>
+	<string>memberAdapterAppearance</string>
+	<key>mobxCommandDelay</key>
+	<string>animatedButtonSize</string>
+	<key>newestMatrixVisible</key>
+	<string>reusableSkirtSkewx</string>
+	<key>popupFacadeSaturation</key>
+	<string>projectPatternLeft</string>
+	<key>statefulMonsterDelay</key>
+	<string>cartesianThemeCount</string>
+	<key>textureParameterVelocity</key>
+	<string>resizableExponentLeft</string>
+</dict>
+</plist>

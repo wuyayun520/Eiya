@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOperationHead</key>
+	<string>accessoryNearFunction</string>
+	<key>containerStyleType</key>
+	<string>alignmentExceptAdapter</string>
+	<key>dialogsNearMethod</key>
+	<string>interactorOperationValidation</string>
+	<key>labelVersusMediator</key>
+	<string>textfieldDespitePhase</string>
+	<key>mediumCubeBehavior</key>
+	<string>interactorAsLevel</string>
+	<key>subscriptionDecoratorDelay</key>
+	<string>tickerBesidePhase</string>
+</dict>
+</plist>

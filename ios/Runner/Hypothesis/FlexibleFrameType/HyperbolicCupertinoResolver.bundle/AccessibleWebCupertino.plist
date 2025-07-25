@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstStreamCenter</key>
+	<string>delegateFromVisitor</string>
+	<key>functionalLossDelay</key>
+	<string>arithmeticFromMode</string>
+	<key>observerInFlyweight</key>
+	<string>factoryAroundMediator</string>
+	<key>priorityInPhase</key>
+	<string>progressbarPatternBrightness</string>
+	<key>sliderEnvironmentColor</key>
+	<string>apertureParamOpacity</string>
+	<key>standalonePreviewPosition</key>
+	<string>smartLayoutMomentum</string>
+</dict>
+</plist>

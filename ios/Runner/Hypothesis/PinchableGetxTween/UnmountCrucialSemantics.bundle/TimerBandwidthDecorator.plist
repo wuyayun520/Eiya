@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAwaitValidation</key>
+	<string>offsetVarVisibility</string>
+	<key>beginnerMetadataTransparency</key>
+	<string>layerFrameworkSkewy</string>
+	<key>cubitStyleDistance</key>
+	<string>mobxOperationMode</string>
+	<key>uniqueQueryShape</key>
+	<string>disparateSessionLocation</string>
+</dict>
+</plist>

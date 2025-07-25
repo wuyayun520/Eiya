@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationSystemFlags</key>
+	<string>storyboardOrFunction</string>
+	<key>disabledPointForce</key>
+	<string>grainDecoratorAcceleration</string>
+	<key>globalChapterFrequency</key>
+	<string>localizationPrototypeDepth</string>
+	<key>overlayNearContext</key>
+	<string>usedSceneCount</string>
+	<key>riverpodOrComposite</key>
+	<string>missedMatrixBorder</string>
+	<key>semanticProjectFormat</key>
+	<string>labelAndCommand</string>
+	<key>signatureAsLayer</key>
+	<string>mobileControllerPressure</string>
+	<key>statelessMomentumCenter</key>
+	<string>symmetricMemberStyle</string>
+</dict>
+</plist>

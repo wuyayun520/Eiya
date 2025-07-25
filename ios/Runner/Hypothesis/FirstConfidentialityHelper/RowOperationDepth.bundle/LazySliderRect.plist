@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationObserverVelocity</key>
+	<string>interactorBridgeTop</string>
+	<key>cartesianScreenValidation</key>
+	<string>autoCompletionMomentum</string>
+	<key>completionOfStructure</key>
+	<string>gridviewWithoutJob</string>
+	<key>errorWithType</key>
+	<string>localizationStateAlignment</string>
+	<key>materialTitleBehavior</key>
+	<string>substantialSizeShade</string>
+	<key>normalMapTail</key>
+	<string>pinchableSignatureTag</string>
+	<key>playbackFlyweightPosition</key>
+	<string>tappableMenuBehavior</string>
+	<key>requestStateScale</key>
+	<string>offsetStageDensity</string>
+	<key>responsiveResourceShade</key>
+	<string>asyncContainParameter</string>
+</dict>
+</plist>

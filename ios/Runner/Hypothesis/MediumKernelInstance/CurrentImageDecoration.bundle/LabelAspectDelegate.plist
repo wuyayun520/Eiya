@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOutsideVar</key>
+	<string>streamAsScope</string>
+	<key>errorPerPattern</key>
+	<string>stackUntilLevel</string>
+	<key>futureAroundPhase</key>
+	<string>awaitBeyondKind</string>
+	<key>mainStoreCenter</key>
+	<string>sinkVisitorValidation</string>
+	<key>mediumDelegateMomentum</key>
+	<string>compositionalMatrixSpacing</string>
+	<key>mutableTextHue</key>
+	<string>labelLevelLocation</string>
+	<key>providerNumberDelay</key>
+	<string>animatedMaterialBrightness</string>
+	<key>streamOperationHue</key>
+	<string>firstHeapTop</string>
+	<key>taskFlyweightFlags</key>
+	<string>commandAndCommand</string>
+</dict>
+</plist>

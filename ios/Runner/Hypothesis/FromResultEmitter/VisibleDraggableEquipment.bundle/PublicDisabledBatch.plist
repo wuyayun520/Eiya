@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderFrameworkDepth</key>
+	<string>previewShapeDepth</string>
+	<key>buttonAsBridge</key>
+	<string>subscriptionIncludeVar</string>
+	<key>customizedCoordinatorOffset</key>
+	<string>storyboardDecoratorCenter</string>
+	<key>gemAroundMediator</key>
+	<string>parallelTabviewIndex</string>
+	<key>graphAroundDecorator</key>
+	<string>gridModeDepth</string>
+	<key>resolverBufferBorder</key>
+	<string>dropdownbuttonFacadeIndex</string>
+	<key>sortedWidgetOrigin</key>
+	<string>iconOperationVisibility</string>
+	<key>sustainableCoordinatorCenter</key>
+	<string>alphaForVariable</string>
+	<key>swiftInterpreterStyle</key>
+	<string>serviceAlongNumber</string>
+</dict>
+</plist>

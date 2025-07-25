@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredConsumerSkewy</key>
+	<string>cupertinoDecorationCenter</string>
+	<key>reducerParamRate</key>
+	<string>documentWithoutCycle</string>
+	<key>semanticControllerIndex</key>
+	<string>boxObserverLocation</string>
+	<key>signAboutMethod</key>
+	<string>lastTickerAcceleration</string>
+	<key>sliderAroundActivity</key>
+	<string>chartAndState</string>
+	<key>temporaryPrecisionPadding</key>
+	<string>permissiveResourceOrientation</string>
+</dict>
+</plist>

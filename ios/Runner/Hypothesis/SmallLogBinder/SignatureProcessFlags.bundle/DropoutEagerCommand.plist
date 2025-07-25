@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchMethodState</key>
+	<string>notificationFormHue</string>
+	<key>blocVarPressure</key>
+	<string>actionVarFeedback</string>
+	<key>cardCycleBorder</key>
+	<string>taskScopeContrast</string>
+	<key>enabledCosineAcceleration</key>
+	<string>sizeAsSystem</string>
+	<key>positionPerState</key>
+	<string>mediumQueueContrast</string>
+	<key>sharedIconType</key>
+	<string>crucialTransformerStatus</string>
+	<key>statefulAnimatedcontainerVisibility</key>
+	<string>advancedCharacterIndex</string>
+	<key>symmetricMenuForce</key>
+	<string>numericalTickerForce</string>
+</dict>
+</plist>

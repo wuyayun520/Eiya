@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorStateFrequency</key>
+	<string>granularFlexVelocity</string>
+	<key>displayableBlocSpeed</key>
+	<string>sensorStageDensity</string>
+	<key>interfacePhaseLocation</key>
+	<string>permanentDelegateVisibility</string>
+	<key>reusableGesturedetectorFlags</key>
+	<string>errorInsideFlyweight</string>
+	<key>tableStateScale</key>
+	<string>multiDialogsCount</string>
+	<key>textfieldExceptActivity</key>
+	<string>intensitySystemFlags</string>
+	<key>transitionStateAcceleration</key>
+	<string>textureChainOrigin</string>
+</dict>
+</plist>

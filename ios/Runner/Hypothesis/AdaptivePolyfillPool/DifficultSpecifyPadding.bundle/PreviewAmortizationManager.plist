@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxLayerFlags</key>
+	<string>roleActionShade</string>
+	<key>imperativeTitleOrigin</key>
+	<string>topicTaskContrast</string>
+	<key>persistentTextfieldPosition</key>
+	<string>handlerViaStrategy</string>
+	<key>progressbarLevelDensity</key>
+	<string>consumerLayerFeedback</string>
+	<key>rapidNotifierDirection</key>
+	<string>substantialArithmeticSpacing</string>
+	<key>similarControllerBottom</key>
+	<string>interfaceAboutNumber</string>
+	<key>smallInteractorBorder</key>
+	<string>interactiveConstraintBound</string>
+</dict>
+</plist>

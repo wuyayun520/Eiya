@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerInteractorName</key>
+	<string>elasticTopicTransparency</string>
+	<key>exceptionThroughSystem</key>
+	<string>layerAtType</string>
+	<key>independentActionRate</key>
+	<string>logParamFrequency</string>
+	<key>mutableGramStyle</key>
+	<string>batchNumberTransparency</string>
+	<key>requestInterpreterShade</key>
+	<string>equalizationLayerCenter</string>
+	<key>routeOperationValidation</key>
+	<string>smartStorageTransparency</string>
+	<key>rowDuringKind</key>
+	<string>activatedTextureRotation</string>
+</dict>
+</plist>

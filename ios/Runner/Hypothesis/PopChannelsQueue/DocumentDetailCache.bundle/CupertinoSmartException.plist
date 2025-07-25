@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetDuringMode</key>
+	<string>fixedChapterState</string>
+	<key>customBufferVisibility</key>
+	<string>threadPhaseVisibility</string>
+	<key>disabledToolBrightness</key>
+	<string>observerInsideAction</string>
+	<key>immediateGroupHue</key>
+	<string>deferredAnimationMargin</string>
+	<key>normalDurationOrigin</key>
+	<string>routeInsideVar</string>
+</dict>
+</plist>

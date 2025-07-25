@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchParameterDistance</key>
+	<string>originalBoxshadowContrast</string>
+	<key>buttonAroundContext</key>
+	<string>visibleSizeShade</string>
+	<key>compositionStructureBound</key>
+	<string>smartCollectionTint</string>
+	<key>indicatorBesideComposite</key>
+	<string>sortedObserverSize</string>
+	<key>inheritedFeatureFormat</key>
+	<string>subscriptionActivityCount</string>
+	<key>operationContainKind</key>
+	<string>elasticMusicSaturation</string>
+	<key>scalePerObserver</key>
+	<string>statefulActivityBound</string>
+</dict>
+</plist>

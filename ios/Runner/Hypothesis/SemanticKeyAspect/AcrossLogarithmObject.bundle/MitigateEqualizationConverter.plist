@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInsideJob</key>
+	<string>inactiveCycleScale</string>
+	<key>localizationCommandTint</key>
+	<string>directCollectionVelocity</string>
+	<key>matrixPerEnvironment</key>
+	<string>asyncCompositionTint</string>
+	<key>tabbarCommandColor</key>
+	<string>localizationLevelDelay</string>
+	<key>taskInterpreterOpacity</key>
+	<string>tickerInsideDecorator</string>
+	<key>viewChainSkewx</key>
+	<string>otherInjectionVisible</string>
+</dict>
+</plist>

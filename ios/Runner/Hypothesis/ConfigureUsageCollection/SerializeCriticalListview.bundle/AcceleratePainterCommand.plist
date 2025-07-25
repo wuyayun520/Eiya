@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSessionLeft</key>
+	<string>curveStateVisibility</string>
+	<key>cursorModeScale</key>
+	<string>chapterAndMediator</string>
+	<key>inactiveButtonDistance</key>
+	<string>invisibleSpotRotation</string>
+	<key>lostMomentumBrightness</key>
+	<string>oldStreamMargin</string>
+</dict>
+</plist>

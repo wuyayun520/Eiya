@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaTaskValidation</key>
+	<string>signatureBridgeTransparency</string>
+	<key>animatedCapacitiesSpacing</key>
+	<string>batchIncludeFramework</string>
+	<key>commonCubitDirection</key>
+	<string>commandAwayStage</string>
+	<key>isolateOutsideStage</key>
+	<string>gestureActionFormat</string>
+	<key>masterAgainstBridge</key>
+	<string>notificationStructureName</string>
+	<key>mobxWithMediator</key>
+	<string>futureThanDecorator</string>
+	<key>providerActivityPressure</key>
+	<string>memberLikePhase</string>
+	<key>transformerParameterTheme</key>
+	<string>listviewWithCommand</string>
+	<key>utilAroundActivity</key>
+	<string>curveWorkAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexSinceFramework</key>
+	<string>operationSinceFunction</string>
+	<key>futureShapeMargin</key>
+	<string>interactiveProgressbarSaturation</string>
+	<key>lostDecorationBound</key>
+	<string>capsuleActionEdge</string>
+	<key>overlayActionTag</key>
+	<string>radioDuringPhase</string>
+	<key>presenterInterpreterHue</key>
+	<string>promiseDuringPlatform</string>
+	<key>routeModeFlags</key>
+	<string>streamUntilCycle</string>
+	<key>tabviewFrameworkAlignment</key>
+	<string>actionDespiteLevel</string>
+	<key>unsortedBrushCoord</key>
+	<string>discardedProviderAppearance</string>
+</dict>
+</plist>

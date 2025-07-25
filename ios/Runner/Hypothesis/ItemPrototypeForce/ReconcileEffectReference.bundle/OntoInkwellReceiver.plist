@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocViaStrategy</key>
+	<string>significantInjectionVelocity</string>
+	<key>cycleObserverDepth</key>
+	<string>observerFunctionDelay</string>
+	<key>diversifiedResourceIndex</key>
+	<string>blocJobCount</string>
+	<key>geometricNavigatorTag</key>
+	<string>prevUtilOrigin</string>
+</dict>
+</plist>

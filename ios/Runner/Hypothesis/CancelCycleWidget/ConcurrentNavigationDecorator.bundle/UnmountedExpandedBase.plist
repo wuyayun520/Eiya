@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentUsageMode</key>
+	<string>resultSystemShade</string>
+	<key>flexibleActionValidation</key>
+	<string>hierarchicalStatefulDirection</string>
+	<key>mediaqueryAsOperation</key>
+	<string>unaryFlyweightRight</string>
+	<key>parallelPlaybackHue</key>
+	<string>assetParameterIndex</string>
+	<key>ternaryMethodBound</key>
+	<string>gridOrSingleton</string>
+</dict>
+</plist>

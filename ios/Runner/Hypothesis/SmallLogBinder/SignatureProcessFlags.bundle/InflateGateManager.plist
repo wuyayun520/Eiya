@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFromContext</key>
+	<string>brushFlyweightBottom</string>
+	<key>gradientContainShape</key>
+	<string>localizationAroundBuffer</string>
+	<key>immutableControllerDuration</key>
+	<string>routeNearCommand</string>
+	<key>injectionPerParam</key>
+	<string>dependencyAtEnvironment</string>
+	<key>intensityKindDensity</key>
+	<string>builderAroundPrototype</string>
+	<key>oldPageviewLeft</key>
+	<string>taskMethodResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteRectTag</key>
+	<string>largeHandlerEdge</string>
+	<key>optionBeyondTier</key>
+	<string>robustTangentDensity</string>
+	<key>queueCycleOpacity</key>
+	<string>euclideanRadioMargin</string>
+</dict>
+</plist>

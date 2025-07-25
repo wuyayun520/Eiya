@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushSingletonColor</key>
+	<string>hardOptimizerDensity</string>
+	<key>constraintViaAdapter</key>
+	<string>seamlessResponseOffset</string>
+	<key>factoryVersusTask</key>
+	<string>commonListviewTheme</string>
+	<key>invisibleServiceBottom</key>
+	<string>reducerSinceState</string>
+	<key>layoutInsideActivity</key>
+	<string>fusedHeroDensity</string>
+	<key>menuPlatformAppearance</key>
+	<string>giftViaSystem</string>
+	<key>metadataThroughActivity</key>
+	<string>flexibleGrayscaleStyle</string>
+	<key>primarySubpixelContrast</key>
+	<string>prevInteractorPosition</string>
+	<key>unactivatedTimerBrightness</key>
+	<string>aspectratioAroundBridge</string>
+</dict>
+</plist>

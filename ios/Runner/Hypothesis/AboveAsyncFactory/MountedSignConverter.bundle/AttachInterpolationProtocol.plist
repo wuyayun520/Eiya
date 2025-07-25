@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedLabelPadding</key>
+	<string>presenterOfEnvironment</string>
+	<key>dialogsStyleColor</key>
+	<string>crucialGridInteraction</string>
+	<key>exceptionFromAdapter</key>
+	<string>layoutParamAppearance</string>
+	<key>exponentPerTask</key>
+	<string>mediaqueryNearSystem</string>
+	<key>groupAgainstStructure</key>
+	<string>desktopClipperAcceleration</string>
+	<key>layoutBridgeMode</key>
+	<string>imageContextContrast</string>
+</dict>
+</plist>

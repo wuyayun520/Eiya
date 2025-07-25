@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentWorkContrast</key>
+	<string>associatedCupertinoDistance</string>
+	<key>instructionStateSkewy</key>
+	<string>interfaceVarShape</string>
+	<key>layoutKindInset</key>
+	<string>accordionMultiplicationState</string>
+	<key>lostSliderEdge</key>
+	<string>lossMementoPadding</string>
+	<key>pivotalKernelAppearance</key>
+	<string>momentumStrategyAppearance</string>
+	<key>routeAlongStrategy</key>
+	<string>scrollPhaseStyle</string>
+	<key>routeOutsideCycle</key>
+	<string>equalizationLevelTint</string>
+	<key>segueMediatorInterval</key>
+	<string>firstUsageIndex</string>
+	<key>sequentialGraphDensity</key>
+	<string>commandContainComposite</string>
+	<key>singletonMethodShade</key>
+	<string>resourceFunctionStatus</string>
+</dict>
+</plist>

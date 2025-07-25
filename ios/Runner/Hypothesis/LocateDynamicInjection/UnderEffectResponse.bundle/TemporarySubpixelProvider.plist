@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstMethodCenter</key>
+	<string>localizationAmongTier</string>
+	<key>gateOutsideStage</key>
+	<string>lastSensorDirection</string>
+	<key>ignoredCubitState</key>
+	<string>modulusAgainstProcess</string>
+	<key>inactiveStateSpeed</key>
+	<string>finalStorageFormat</string>
+	<key>metadataLevelAppearance</key>
+	<string>gridviewAmongWork</string>
+	<key>sortedInjectionDepth</key>
+	<string>viewParameterMargin</string>
+	<key>symmetricContainerInteraction</key>
+	<string>cacheStyleAppearance</string>
+</dict>
+</plist>

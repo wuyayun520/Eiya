@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAsProxy</key>
+	<string>methodWorkDuration</string>
+	<key>coordinatorAndJob</key>
+	<string>textActivityShape</string>
+	<key>grainStructureMargin</key>
+	<string>managerOperationIndex</string>
+	<key>greatCycleOffset</key>
+	<string>requestWorkInterval</string>
+	<key>listenerBufferDelay</key>
+	<string>providerAroundDecorator</string>
+	<key>priorZoneSaturation</key>
+	<string>offsetThanBuffer</string>
+	<key>radioPrototypeSaturation</key>
+	<string>overlayMediatorDistance</string>
+	<key>rectOfBridge</key>
+	<string>specifierStyleInteraction</string>
+	<key>routeWithMode</key>
+	<string>textLikePrototype</string>
+</dict>
+</plist>

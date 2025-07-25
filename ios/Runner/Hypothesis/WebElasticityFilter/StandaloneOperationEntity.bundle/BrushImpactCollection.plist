@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteInterfaceScale</key>
+	<string>drawerOrStage</string>
+	<key>entityAwayParameter</key>
+	<string>sinkViaStage</string>
+	<key>entityExceptStructure</key>
+	<string>constEffectStatus</string>
+	<key>euclideanClipperVisibility</key>
+	<string>coordinatorPrototypeCenter</string>
+	<key>groupLevelOpacity</key>
+	<string>responsiveViewDensity</string>
+	<key>immutableModalPressure</key>
+	<string>persistentIsolateFrequency</string>
+	<key>riverpodBufferTag</key>
+	<string>reducerAsScope</string>
+</dict>
+</plist>

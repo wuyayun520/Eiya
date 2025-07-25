@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertMethodMomentum</key>
+	<string>tickerSystemCoord</string>
+	<key>diffableContractionMode</key>
+	<string>reactiveTickerContrast</string>
+	<key>gesturedetectorOutsideCycle</key>
+	<string>errorWorkForce</string>
+	<key>materialDuringPhase</key>
+	<string>pointOfStrategy</string>
+	<key>momentumOutsideScope</key>
+	<string>brushOfTask</string>
+	<key>pivotalBulletResponse</key>
+	<string>adaptiveScreenForce</string>
+	<key>reactiveGridOpacity</key>
+	<string>signLayerDuration</string>
+	<key>storeForFunction</key>
+	<string>collectionActivityColor</string>
+</dict>
+</plist>

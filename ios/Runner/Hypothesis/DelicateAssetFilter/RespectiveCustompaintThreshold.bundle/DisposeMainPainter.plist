@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderParameterBehavior</key>
+	<string>sophisticatedSkinTransparency</string>
+	<key>controllerDuringComposite</key>
+	<string>checklistUntilCycle</string>
+	<key>controllerProxyIndex</key>
+	<string>gestureExceptType</string>
+	<key>exponentParameterOpacity</key>
+	<string>subscriptionForShape</string>
+	<key>injectionAdapterName</key>
+	<string>reducerPatternFeedback</string>
+	<key>interpolationNearSystem</key>
+	<string>sampleInsideVariable</string>
+	<key>particleAroundScope</key>
+	<string>largeToolOrientation</string>
+	<key>toolLayerMomentum</key>
+	<string>textIncludeAction</string>
+</dict>
+</plist>

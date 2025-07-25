@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocProcessIndex</key>
+	<string>pinchableConstraintFrequency</string>
+	<key>customizedBorderIndex</key>
+	<string>awaitTaskRotation</string>
+	<key>dimensionIncludeTask</key>
+	<string>retainedSceneContrast</string>
+	<key>gestureOperationTint</key>
+	<string>explicitPageviewResponse</string>
+	<key>mediaqueryAdapterInset</key>
+	<string>exceptionModeForce</string>
+	<key>nativeProviderCoord</key>
+	<string>giftAtParam</string>
+	<key>referenceAsOperation</key>
+	<string>transitionAlongSystem</string>
+	<key>routeObserverFrequency</key>
+	<string>shaderValueSpacing</string>
+	<key>rowOutsideCommand</key>
+	<string>lastListviewKind</string>
+	<key>spriteLikeOperation</key>
+	<string>scaleTaskBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPhaseTag</key>
+	<string>oldIntegerOpacity</string>
+	<key>permanentAccessoryOrigin</key>
+	<string>utilModeDirection</string>
+	<key>stackValueKind</key>
+	<string>navigatorSingletonTail</string>
+	<key>threadFromMethod</key>
+	<string>groupThroughVariable</string>
+</dict>
+</plist>

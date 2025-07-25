@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBesideVar</key>
+	<string>mediocreScaffoldOffset</string>
+	<key>constGestureResponse</key>
+	<string>assetPlatformLeft</string>
+	<key>interactorAmongFacade</key>
+	<string>menuAdapterPadding</string>
+	<key>interactorEnvironmentResponse</key>
+	<string>hardMenuForce</string>
+</dict>
+</plist>

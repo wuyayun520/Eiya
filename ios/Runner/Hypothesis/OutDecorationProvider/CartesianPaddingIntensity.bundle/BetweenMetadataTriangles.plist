@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAdapterCenter</key>
+	<string>playbackAsJob</string>
+	<key>borderPerCommand</key>
+	<string>checklistMethodOrientation</string>
+	<key>cubeOperationDepth</key>
+	<string>dropdownbuttonOutsideStyle</string>
+	<key>decorationInPattern</key>
+	<string>kernelAlongFramework</string>
+	<key>equipmentParameterLocation</key>
+	<string>currentConstraintLeft</string>
+	<key>labelProcessSkewy</key>
+	<string>mobileParamBrightness</string>
+	<key>particleMediatorScale</key>
+	<string>commonAperturePosition</string>
+	<key>prevSignTint</key>
+	<string>customizedNodeBottom</string>
+	<key>shaderContainBuffer</key>
+	<string>memberMethodPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintPrototypeDelay</key>
+	<string>textfieldInsidePhase</string>
+	<key>draggableStoryboardFormat</key>
+	<string>cubitInsideDecorator</string>
+	<key>groupBesideProxy</key>
+	<string>standaloneTouchOpacity</string>
+	<key>popupFormMode</key>
+	<string>richtextAwayActivity</string>
+	<key>priorityMediatorFrequency</key>
+	<string>touchMementoOpacity</string>
+</dict>
+</plist>

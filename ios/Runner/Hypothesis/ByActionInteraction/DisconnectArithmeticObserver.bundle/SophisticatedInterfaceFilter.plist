@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelIncludeBuffer</key>
+	<string>uniformAppbarSpacing</string>
+	<key>mapAsTier</key>
+	<string>sortedPaddingState</string>
+	<key>projectionVersusProxy</key>
+	<string>sizeNearWork</string>
+	<key>storeNearProxy</key>
+	<string>themeAndAction</string>
+</dict>
+</plist>

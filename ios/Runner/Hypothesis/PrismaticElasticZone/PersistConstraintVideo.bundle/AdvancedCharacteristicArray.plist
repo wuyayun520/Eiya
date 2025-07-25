@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocExceptAdapter</key>
+	<string>disabledAnimationState</string>
+	<key>bulletProcessSkewy</key>
+	<string>resilientPopupScale</string>
+	<key>frameAboutProcess</key>
+	<string>criticalViewInset</string>
+	<key>managerAwayScope</key>
+	<string>sequentialInkwellSpeed</string>
+	<key>presenterInsideDecorator</key>
+	<string>catalystAwayScope</string>
+	<key>referenceMediatorAppearance</key>
+	<string>subscriptionFormBottom</string>
+	<key>skinOfPattern</key>
+	<string>concurrentResultFeedback</string>
+	<key>synchronousNavigationFeedback</key>
+	<string>layoutMediatorBottom</string>
+	<key>zoneKindOrientation</key>
+	<string>statefulHeapIndex</string>
+</dict>
+</plist>

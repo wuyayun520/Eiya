@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRadioLocation</key>
+	<string>baselineStateState</string>
+	<key>agileCubitScale</key>
+	<string>agileBufferRotation</string>
+	<key>blocPhaseVisible</key>
+	<string>reactiveSizedboxVisible</string>
+	<key>discardedBaselineStyle</key>
+	<string>masterTierAppearance</string>
+	<key>radiusTierTail</key>
+	<string>discardedLayerTint</string>
+	<key>responseFlyweightShade</key>
+	<string>themeLevelEdge</string>
+</dict>
+</plist>

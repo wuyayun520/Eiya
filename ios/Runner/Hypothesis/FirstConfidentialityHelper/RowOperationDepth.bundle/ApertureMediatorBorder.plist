@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAtOperation</key>
+	<string>richtextOrStage</string>
+	<key>decorationEnvironmentBorder</key>
+	<string>prismaticMediaqueryRotation</string>
+	<key>intuitiveModalMode</key>
+	<string>boxCycleContrast</string>
+	<key>overlayStateCount</key>
+	<string>geometricGrainSpacing</string>
+	<key>projectionTypeFlags</key>
+	<string>requiredChannelOffset</string>
+	<key>queryOrParameter</key>
+	<string>sophisticatedRepositoryDepth</string>
+	<key>rapidMissionCenter</key>
+	<string>isolateTaskPadding</string>
+	<key>symmetricReductionDensity</key>
+	<string>backwardCellFormat</string>
+</dict>
+</plist>

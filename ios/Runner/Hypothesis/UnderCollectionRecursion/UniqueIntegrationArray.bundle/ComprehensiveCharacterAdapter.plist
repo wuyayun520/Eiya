@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSessionAcceleration</key>
+	<string>frameDespiteLayer</string>
+	<key>containerProxyState</key>
+	<string>listviewTypeTint</string>
+	<key>crucialOptionSpacing</key>
+	<string>commandInBridge</string>
+	<key>newestCallbackDelay</key>
+	<string>decorationLayerType</string>
+	<key>positionFrameworkDepth</key>
+	<string>elasticExceptionInset</string>
+	<key>tappableGridviewSaturation</key>
+	<string>symmetricResourceName</string>
+</dict>
+</plist>

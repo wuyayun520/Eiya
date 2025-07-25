@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleTextResponse</key>
+	<string>streamWithSingleton</string>
+	<key>layoutChainTint</key>
+	<string>euclideanRichtextInterval</string>
+	<key>spriteActionFormat</key>
+	<string>offsetActivityDirection</string>
+	<key>storyboardAwayContext</key>
+	<string>navigatorChainBrightness</string>
+</dict>
+</plist>

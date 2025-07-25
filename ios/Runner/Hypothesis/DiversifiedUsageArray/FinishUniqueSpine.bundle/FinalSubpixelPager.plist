@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFunctionRotation</key>
+	<string>taskVarLeft</string>
+	<key>commonSceneTheme</key>
+	<string>methodObserverTint</string>
+	<key>cupertinoStrategySaturation</key>
+	<string>stepDuringShape</string>
+	<key>sustainableResourceOffset</key>
+	<string>optionScopeDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticMobileSpeed</key>
+	<string>callbackInStage</string>
+	<key>gesturedetectorBufferSkewx</key>
+	<string>extensionBridgeForce</string>
+	<key>managerOrState</key>
+	<string>scaleWorkValidation</string>
+	<key>musicDuringInterpreter</key>
+	<string>coordinatorPhaseType</string>
+	<key>oldQueryAcceleration</key>
+	<string>frameSingletonShape</string>
+	<key>radiusShapeBehavior</key>
+	<string>symmetricCubeDensity</string>
+	<key>topicStructureFlags</key>
+	<string>mobileCycleDepth</string>
+</dict>
+</plist>

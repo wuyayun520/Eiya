@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAmongFacade</key>
+	<string>constraintDuringShape</string>
+	<key>memberSystemInterval</key>
+	<string>spriteChainDelay</string>
+	<key>reductionAmongTemple</key>
+	<string>discardedDocumentVelocity</string>
+	<key>requestFormBorder</key>
+	<string>geometricProjectSize</string>
+	<key>resilientBuilderEdge</key>
+	<string>mobxFlyweightSkewx</string>
+	<key>usedRequestDepth</key>
+	<string>nativeTweenCoord</string>
+</dict>
+</plist>

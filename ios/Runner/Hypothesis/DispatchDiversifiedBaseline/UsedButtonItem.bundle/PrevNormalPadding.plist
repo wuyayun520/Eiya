@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTempleSaturation</key>
+	<string>seguePlatformBorder</string>
+	<key>declarativeScreenOrientation</key>
+	<string>flexLayerFeedback</string>
+	<key>dedicatedResponseTint</key>
+	<string>descriptionBeyondJob</string>
+	<key>gramActionMargin</key>
+	<string>reductionCommandTail</string>
+	<key>graphicPlatformDepth</key>
+	<string>heapSingletonTag</string>
+	<key>immediateSpriteRight</key>
+	<string>customizedLocalizationDirection</string>
+	<key>rectTierAlignment</key>
+	<string>routeInterpreterState</string>
+	<key>singletonForStyle</key>
+	<string>specifierPatternTail</string>
+	<key>uniformBitrateShade</key>
+	<string>sliderSingletonMargin</string>
+</dict>
+</plist>

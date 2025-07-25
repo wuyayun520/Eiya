@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFrameworkStyle</key>
+	<string>stateAwayContext</string>
+	<key>canvasViaPhase</key>
+	<string>movementFacadeOpacity</string>
+	<key>displayableTransformerType</key>
+	<string>featureForFacade</string>
+	<key>gesturedetectorProcessLocation</key>
+	<string>exceptionParameterBrightness</string>
+	<key>integerWithLayer</key>
+	<string>sustainableEffectResponse</string>
+	<key>isolateAlongMemento</key>
+	<string>iconVarFeedback</string>
+	<key>labelInVisitor</key>
+	<string>durationProcessStyle</string>
+	<key>mobileBorderLocation</key>
+	<string>logStructureSpeed</string>
+</dict>
+</plist>

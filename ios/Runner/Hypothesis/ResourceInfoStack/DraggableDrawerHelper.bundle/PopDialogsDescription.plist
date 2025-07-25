@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryNearPlatform</key>
+	<string>labelBesideAdapter</string>
+	<key>alphaFunctionState</key>
+	<string>pinchableInterfaceHue</string>
+	<key>appbarFacadeContrast</key>
+	<string>originalPositionForce</string>
+	<key>completerModeDelay</key>
+	<string>commonGrainCenter</string>
+	<key>dedicatedPreviewTransparency</key>
+	<string>usecaseModeDensity</string>
+	<key>dependencyOrParameter</key>
+	<string>resolverPrototypeStyle</string>
+	<key>materialSpotInteraction</key>
+	<string>agileIndicatorCenter</string>
+	<key>mobileTweenState</key>
+	<string>effectJobValidation</string>
+	<key>petAtObserver</key>
+	<string>cubitParamTint</string>
+	<key>webRectDistance</key>
+	<string>appbarActionStatus</string>
+</dict>
+</plist>

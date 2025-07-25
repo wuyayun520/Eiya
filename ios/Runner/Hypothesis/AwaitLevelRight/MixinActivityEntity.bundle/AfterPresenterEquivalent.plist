@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableLoopBehavior</key>
+	<string>alignmentOrWork</string>
+	<key>injectionWithoutValue</key>
+	<string>awaitTierOpacity</string>
+	<key>lazyOptionTop</key>
+	<string>otherLabelStyle</string>
+	<key>normalNavigatorVisibility</key>
+	<string>responseInterpreterMode</string>
+	<key>permanentStateShade</key>
+	<string>lossAboutNumber</string>
+	<key>segueActionHead</key>
+	<string>scaffoldAgainstParam</string>
+	<key>singletonForFacade</key>
+	<string>containerVersusType</string>
+</dict>
+</plist>

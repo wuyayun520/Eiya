@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGroupTheme</key>
+	<string>resultActivityVisible</string>
+	<key>baseContainPattern</key>
+	<string>gridviewOfSingleton</string>
+	<key>commonMetadataColor</key>
+	<string>textfieldPhaseScale</string>
+	<key>containerPatternAcceleration</key>
+	<string>comprehensiveNodeRight</string>
+	<key>hardChapterFeedback</key>
+	<string>referenceShapeBehavior</string>
+	<key>layoutNearPlatform</key>
+	<string>routePhaseScale</string>
+	<key>lossBridgeDistance</key>
+	<string>exponentIncludePattern</string>
+	<key>precisionValueOrientation</key>
+	<string>scrollAndContext</string>
+	<key>themeMethodColor</key>
+	<string>particleOrTask</string>
+</dict>
+</plist>

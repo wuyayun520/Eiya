@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveStyleShade</key>
+	<string>inkwellParamPosition</string>
+	<key>errorDuringActivity</key>
+	<string>stateParameterState</string>
+	<key>graphicAndCommand</key>
+	<string>canvasSingletonInterval</string>
+</dict>
+</plist>

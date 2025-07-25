@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeControllerInterval</key>
+	<string>channelsPerProcess</string>
+	<key>equipmentContainForm</key>
+	<string>resizableProgressbarRate</string>
+	<key>immediateBinaryDensity</key>
+	<string>sensorTierStatus</string>
+	<key>labelAtCommand</key>
+	<string>visibleMethodInterval</string>
+	<key>permissiveEquipmentTop</key>
+	<string>queryAroundMode</string>
+	<key>popupChainMargin</key>
+	<string>dependencyVersusWork</string>
+	<key>statelessNavigationCenter</key>
+	<string>overlayInterpreterCoord</string>
+	<key>visibleCubitBorder</key>
+	<string>cardActionTag</string>
+</dict>
+</plist>

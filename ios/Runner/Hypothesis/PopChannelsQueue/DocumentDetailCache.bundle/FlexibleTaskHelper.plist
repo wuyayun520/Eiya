@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalLayoutDepth</key>
+	<string>geometricSwiftStyle</string>
+	<key>discardedCubeOrientation</key>
+	<string>captionExceptPrototype</string>
+	<key>presenterStyleBehavior</key>
+	<string>canvasLikeChain</string>
+	<key>tweenBySingleton</key>
+	<string>crudeStateStyle</string>
+</dict>
+</plist>

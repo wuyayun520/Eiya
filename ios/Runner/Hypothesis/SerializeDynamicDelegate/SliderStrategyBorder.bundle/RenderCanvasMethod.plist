@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnVarSkewx</key>
+	<string>providerProxyInteraction</string>
+	<key>effectStageBound</key>
+	<string>loopLayerValidation</string>
+	<key>interactorAtTier</key>
+	<string>eagerPositionSkewy</string>
+	<key>profileFacadeFormat</key>
+	<string>resizableOperationSize</string>
+	<key>requestWorkEdge</key>
+	<string>remainderBesideAction</string>
+	<key>resourceOutsideParameter</key>
+	<string>displayableChartScale</string>
+	<key>rowOutsideVariable</key>
+	<string>deferredSpineValidation</string>
+	<key>segueJobTag</key>
+	<string>nextSpotColor</string>
+	<key>statefulOperationMargin</key>
+	<string>heroSystemColor</string>
+</dict>
+</plist>

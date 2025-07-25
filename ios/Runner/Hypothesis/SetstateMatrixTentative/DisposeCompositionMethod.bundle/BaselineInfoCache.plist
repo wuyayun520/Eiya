@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTransitionKind</key>
+	<string>zoneMediatorSkewy</string>
+	<key>binaryInMethod</key>
+	<string>popupLikeStructure</string>
+	<key>borderChainOpacity</key>
+	<string>textWithState</string>
+	<key>canvasExceptFacade</key>
+	<string>semanticSizeLocation</string>
+	<key>discardedStepHead</key>
+	<string>unsortedResourceStyle</string>
+	<key>requestTempleOrientation</key>
+	<string>notifierExceptFunction</string>
+	<key>resizableSensorVisibility</key>
+	<string>euclideanListenerInteraction</string>
+	<key>semanticInterpolationStyle</key>
+	<string>nibFlyweightType</string>
+	<key>workflowInsideVariable</key>
+	<string>singletonOrInterpreter</string>
+</dict>
+</plist>

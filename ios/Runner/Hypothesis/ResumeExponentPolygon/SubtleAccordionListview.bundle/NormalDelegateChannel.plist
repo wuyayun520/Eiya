@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionPatternLocation</key>
+	<string>usedAnimatedcontainerDensity</string>
+	<key>grainStrategyBrightness</key>
+	<string>semanticsSinceShape</string>
+	<key>mediaAndTier</key>
+	<string>tweenForState</string>
+	<key>progressbarChainTheme</key>
+	<string>petVarOrientation</string>
+	<key>requiredAnchorResponse</key>
+	<string>plateAtObserver</string>
+	<key>transitionWorkOrientation</key>
+	<string>resultInsideValue</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFromPattern</key>
+	<string>equalizationSingletonCenter</string>
+	<key>controllerPerVariable</key>
+	<string>ternaryAtProcess</string>
+	<key>labelFormFeedback</key>
+	<string>mapVersusProxy</string>
+	<key>otherOffsetRotation</key>
+	<string>layoutIncludeProcess</string>
+	<key>resultStateVelocity</key>
+	<string>routerAlongEnvironment</string>
+	<key>textureOperationAcceleration</key>
+	<string>easyConstraintAcceleration</string>
+</dict>
+</plist>

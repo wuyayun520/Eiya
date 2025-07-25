@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEntityValidation</key>
+	<string>precisionKindSpacing</string>
+	<key>boxshadowInterpreterAppearance</key>
+	<string>queueSingletonAppearance</string>
+	<key>captionStageValidation</key>
+	<string>particleOfSystem</string>
+	<key>convolutionPrototypeBehavior</key>
+	<string>bitrateAtBuffer</string>
+	<key>effectAdapterPosition</key>
+	<string>viewAndParam</string>
+	<key>handlerValueDensity</key>
+	<string>equalizationProxyOffset</string>
+	<key>nextCurveFlags</key>
+	<string>responseAdapterTransparency</string>
+</dict>
+</plist>

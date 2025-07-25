@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPerOperation</key>
+	<string>configurationSinceMode</string>
+	<key>commonPriorityBottom</key>
+	<string>deferredObserverOrientation</string>
+	<key>cosineObserverPressure</key>
+	<string>graphFrameworkRotation</string>
+	<key>curveFacadeOpacity</key>
+	<string>menuExceptContext</string>
+	<key>delegatePerValue</key>
+	<string>subscriptionEnvironmentCoord</string>
+	<key>descriptionObserverVelocity</key>
+	<string>multiplicationThroughSystem</string>
+	<key>disparateSignatureCount</key>
+	<string>rectFormTint</string>
+	<key>keyDialogsOrientation</key>
+	<string>themeOutsideAction</string>
+	<key>responsiveFragmentState</key>
+	<string>crucialCosineBrightness</string>
+</dict>
+</plist>

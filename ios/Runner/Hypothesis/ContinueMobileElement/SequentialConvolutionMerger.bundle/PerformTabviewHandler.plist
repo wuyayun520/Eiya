@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCollectionValidation</key>
+	<string>appbarScopeFrequency</string>
+	<key>callbackBufferResponse</key>
+	<string>navigatorViaActivity</string>
+	<key>constDelegateMomentum</key>
+	<string>commonSpecifierDuration</string>
+	<key>deferredTextureDelay</key>
+	<string>chapterStylePressure</string>
+	<key>grayscaleAndOperation</key>
+	<string>logOrStructure</string>
+	<key>imperativeChannelIndex</key>
+	<string>hardPageviewInteraction</string>
+	<key>keyNotificationRotation</key>
+	<string>concreteObserverFormat</string>
+	<key>layerFrameworkBorder</key>
+	<string>requestVarBrightness</string>
+	<key>queryActionInterval</key>
+	<string>containerOutsideVariable</string>
+	<key>sortedDecorationDepth</key>
+	<string>protocolSystemScale</string>
+</dict>
+</plist>

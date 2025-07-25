@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoVersusType</key>
+	<string>invisiblePopupTop</string>
+	<key>euclideanGrainBehavior</key>
+	<string>inkwellDecoratorLeft</string>
+	<key>numericalNodeHue</key>
+	<string>iterativeFlexBrightness</string>
+	<key>sampleCompositeBehavior</key>
+	<string>themeUntilContext</string>
+	<key>segmentFunctionHead</key>
+	<string>mobileInterpreterMode</string>
+	<key>skirtThroughFunction</key>
+	<string>reusableConsumerInset</string>
+	<key>symmetricBufferMargin</key>
+	<string>mediaqueryBufferAcceleration</string>
+	<key>tensorLocalizationAlignment</key>
+	<string>checkboxAsDecorator</string>
+	<key>viewViaParameter</key>
+	<string>compositionLevelTag</string>
+</dict>
+</plist>

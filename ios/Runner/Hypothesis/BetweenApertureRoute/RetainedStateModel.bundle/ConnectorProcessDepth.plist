@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMementoDepth</key>
+	<string>diversifiedCatalystShade</string>
+	<key>delegateOperationStyle</key>
+	<string>vectorAroundContext</string>
+	<key>localizationInsideState</key>
+	<string>mobileAroundForm</string>
+	<key>presenterAgainstVar</key>
+	<string>interactorDespiteMemento</string>
+	<key>synchronousPreviewDepth</key>
+	<string>logUntilStage</string>
+	<key>textDuringJob</key>
+	<string>profileParamLocation</string>
+	<key>textfieldFunctionDelay</key>
+	<string>notificationChainBound</string>
+</dict>
+</plist>

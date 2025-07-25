@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorLikePlatform</key>
+	<string>disparateBufferCenter</string>
+	<key>composableBulletBrightness</key>
+	<string>singletonBufferCenter</string>
+	<key>constraintFrameworkTheme</key>
+	<string>statefulBaseDelay</string>
+	<key>intuitivePageviewShade</key>
+	<string>widgetCompositeKind</string>
+	<key>visibleDelegateBound</key>
+	<string>compositionalMemberColor</string>
+</dict>
+</plist>

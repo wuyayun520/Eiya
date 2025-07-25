@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintVersusTask</key>
+	<string>tabbarDespitePlatform</string>
+	<key>intuitiveExpandedInteraction</key>
+	<string>extensionFromValue</string>
+	<key>listenerUntilStrategy</key>
+	<string>layoutExceptParameter</string>
+	<key>providerAlongCommand</key>
+	<string>unaryNumberTop</string>
+	<key>publicAssetOrigin</key>
+	<string>interactorBridgeShape</string>
+	<key>textPrototypeVisibility</key>
+	<string>alphaActivityOrientation</string>
+</dict>
+</plist>

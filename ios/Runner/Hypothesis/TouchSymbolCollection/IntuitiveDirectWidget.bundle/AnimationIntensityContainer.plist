@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFromSingleton</key>
+	<string>iterativeMetadataBehavior</string>
+	<key>collectionLikeChain</key>
+	<string>painterBufferRotation</string>
+	<key>isolateBeyondContext</key>
+	<string>descriptionAlongCycle</string>
+	<key>particleInProcess</key>
+	<string>commonEffectMode</string>
+	<key>protocolFlyweightRotation</key>
+	<string>tableWithFacade</string>
+	<key>reducerPerWork</key>
+	<string>sophisticatedBoxIndex</string>
+	<key>significantCubitStyle</key>
+	<string>challengeInKind</string>
+	<key>statefulWithTemple</key>
+	<string>entityInDecorator</string>
+</dict>
+</plist>

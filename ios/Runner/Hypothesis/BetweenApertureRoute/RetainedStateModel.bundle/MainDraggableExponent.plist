@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintInterpreterIndex</key>
+	<string>routeFacadeOffset</string>
+	<key>elasticAccessoryShade</key>
+	<string>hardGridTint</string>
+	<key>intermediateButtonSize</key>
+	<string>specifierThroughVariable</string>
+	<key>offsetSingletonStyle</key>
+	<string>rowIncludeTier</string>
+	<key>previewDespiteComposite</key>
+	<string>serviceIncludeSystem</string>
+	<key>providerAndJob</key>
+	<string>parallelReductionCount</string>
+	<key>serviceByVar</key>
+	<string>sizeInterpreterBrightness</string>
+	<key>transitionInSingleton</key>
+	<string>graphContainParam</string>
+</dict>
+</plist>

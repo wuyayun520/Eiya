@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSystemScale</key>
+	<string>timerThroughJob</string>
+	<key>coordinatorDuringCycle</key>
+	<string>dedicatedSubscriptionBehavior</string>
+	<key>futureAroundPlatform</key>
+	<string>staticCompletionTheme</string>
+	<key>indicatorDespiteFramework</key>
+	<string>responsiveServiceOpacity</string>
+	<key>metadataContextPressure</key>
+	<string>resilientStateSize</string>
+	<key>projectionParameterRate</key>
+	<string>handlerProxyRight</string>
+	<key>semanticsKindKind</key>
+	<string>visibleMemberOffset</string>
+	<key>sizeViaComposite</key>
+	<string>numericalSliderValidation</string>
+</dict>
+</plist>

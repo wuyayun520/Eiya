@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringTask</key>
+	<string>sophisticatedTangentHue</string>
+	<key>iconLikeStage</key>
+	<string>activeFrameOrigin</string>
+	<key>interfaceFrameworkEdge</key>
+	<string>subpixelPhaseCenter</string>
+	<key>operationCycleAlignment</key>
+	<string>curveDuringParam</string>
+	<key>pinchableControllerSkewx</key>
+	<string>gridWorkInset</string>
+	<key>priorityInterpreterDirection</key>
+	<string>resourceMementoLocation</string>
+	<key>reusableCompletionSize</key>
+	<string>entropyInsideAdapter</string>
+	<key>touchContainActivity</key>
+	<string>listenerDespiteEnvironment</string>
+</dict>
+</plist>

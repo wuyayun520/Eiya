@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDuringFramework</key>
+	<string>responseViaValue</string>
+	<key>cacheJobDistance</key>
+	<string>multiResolverAlignment</string>
+	<key>configurationCycleState</key>
+	<string>grainVisitorOffset</string>
+	<key>gramFormScale</key>
+	<string>materialArithmeticRight</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTabviewIndex</key>
+	<string>storageFrameworkDuration</string>
+	<key>customizedSpecifierTheme</key>
+	<string>taskFromCycle</string>
+	<key>desktopSpineDirection</key>
+	<string>allocatorSingletonSkewx</string>
+	<key>gestureLikeInterpreter</key>
+	<string>allocatorAlongProxy</string>
+	<key>instructionLikeProxy</key>
+	<string>groupSinceSystem</string>
+	<key>listviewBeyondProxy</key>
+	<string>pageviewNumberTop</string>
+	<key>pinchableLocalizationLeft</key>
+	<string>queueWithoutActivity</string>
+	<key>playbackVersusFlyweight</key>
+	<string>resourceContainParameter</string>
+	<key>resilientServiceEdge</key>
+	<string>popupActivityOffset</string>
+	<key>stampInsideType</key>
+	<string>cacheSinceComposite</string>
+</dict>
+</plist>

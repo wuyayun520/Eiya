@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMonsterColor</key>
+	<string>fixedTickerTag</string>
+	<key>arithmeticProviderBound</key>
+	<string>storeVariableSize</string>
+	<key>checkboxSingletonMode</key>
+	<string>asyncScopeKind</string>
+	<key>directEventAppearance</key>
+	<string>checklistContainCycle</string>
+	<key>frameUntilTask</key>
+	<string>containerDespitePattern</string>
+	<key>projectionMediatorCount</key>
+	<string>grayscaleActionTransparency</string>
+</dict>
+</plist>

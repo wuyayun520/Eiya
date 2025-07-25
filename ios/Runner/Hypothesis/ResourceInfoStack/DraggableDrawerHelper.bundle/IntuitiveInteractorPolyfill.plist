@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCollectionDensity</key>
+	<string>baseAdapterResponse</string>
+	<key>riverpodExceptMode</key>
+	<string>alertAdapterDensity</string>
+	<key>skinAndDecorator</key>
+	<string>popupMethodTag</string>
+	<key>streamShapeMargin</key>
+	<string>queryValueSkewx</string>
+	<key>taskScopeTension</key>
+	<string>builderScopeDepth</string>
+</dict>
+</plist>

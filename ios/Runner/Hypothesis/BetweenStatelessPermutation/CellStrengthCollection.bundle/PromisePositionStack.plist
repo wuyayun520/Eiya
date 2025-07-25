@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerViaPattern</key>
+	<string>geometricExtensionFrequency</string>
+	<key>geometricObserverStyle</key>
+	<string>tappableDecorationOffset</string>
+	<key>hashShapeBound</key>
+	<string>normalModelBrightness</string>
+	<key>intuitiveCellScale</key>
+	<string>advancedCubeTint</string>
+</dict>
+</plist>

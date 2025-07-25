@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorIncludeAction</key>
+	<string>playbackPerSystem</string>
+	<key>curveVersusTier</key>
+	<string>directFactoryHue</string>
+	<key>delegateUntilObserver</key>
+	<string>labelOfBuffer</string>
+	<key>displayableHashBound</key>
+	<string>channelsLevelLeft</string>
+	<key>ignoredSingletonCenter</key>
+	<string>inactiveAlertRotation</string>
+	<key>scaleActionTheme</key>
+	<string>resourceBufferOpacity</string>
+	<key>signatureMethodDelay</key>
+	<string>ignoredTernaryPadding</string>
+	<key>transitionMediatorOffset</key>
+	<string>richtextDuringFacade</string>
+</dict>
+</plist>

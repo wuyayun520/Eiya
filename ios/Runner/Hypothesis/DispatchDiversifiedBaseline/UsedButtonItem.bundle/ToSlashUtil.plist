@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackForScope</key>
+	<string>constraintScopeVelocity</string>
+	<key>coordinatorOfPattern</key>
+	<string>anchorStrategyMargin</string>
+	<key>custompaintCommandDensity</key>
+	<string>slashBridgeAppearance</string>
+	<key>otherControllerSkewx</key>
+	<string>synchronousAwaitKind</string>
+</dict>
+</plist>

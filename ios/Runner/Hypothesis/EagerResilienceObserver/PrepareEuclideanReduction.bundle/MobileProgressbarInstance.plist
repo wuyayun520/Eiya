@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationParameterVisibility</key>
+	<string>tappableMonsterCount</string>
+	<key>difficultCommandBorder</key>
+	<string>drawerVisitorVisibility</string>
+	<key>frameForProxy</key>
+	<string>explicitSceneTail</string>
+	<key>managerProxyFlags</key>
+	<string>semanticQueueShade</string>
+	<key>sequentialMenuFlags</key>
+	<string>previewIncludeAdapter</string>
+	<key>significantControllerVisibility</key>
+	<string>animatedRowTransparency</string>
+</dict>
+</plist>

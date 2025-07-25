@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLayoutTop</key>
+	<string>spineMediatorHead</string>
+	<key>grainEnvironmentBehavior</key>
+	<string>asyncAwaitEdge</string>
+	<key>groupCommandCount</key>
+	<string>navigatorFlyweightTheme</string>
+	<key>inheritedCompletionType</key>
+	<string>delegateShapeCenter</string>
+	<key>materialCupertinoEdge</key>
+	<string>blocFrameworkName</string>
+	<key>musicWithoutVisitor</key>
+	<string>taskFromTask</string>
+	<key>pinchableFrameSkewy</key>
+	<string>substantialScaleSkewy</string>
+	<key>spriteVarFlags</key>
+	<string>interactiveUsecaseFormat</string>
+</dict>
+</plist>

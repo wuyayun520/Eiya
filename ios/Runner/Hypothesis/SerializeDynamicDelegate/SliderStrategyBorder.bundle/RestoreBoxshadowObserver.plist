@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeProtocolMode</key>
+	<string>nativeMetadataTransparency</string>
+	<key>dynamicDimensionFlags</key>
+	<string>completerInterpreterFormat</string>
+	<key>loopThanVisitor</key>
+	<string>hashOfSingleton</string>
+	<key>presenterAdapterName</key>
+	<string>screenVersusActivity</string>
+	<key>requiredDependencyColor</key>
+	<string>resizableBrushHead</string>
+	<key>resultJobMode</key>
+	<string>referenceFromBuffer</string>
+	<key>segueScopeInset</key>
+	<string>spineStrategyStatus</string>
+</dict>
+</plist>

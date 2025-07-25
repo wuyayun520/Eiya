@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMobxBrightness</key>
+	<string>fusedChannelVisibility</string>
+	<key>groupInsideFacade</key>
+	<string>rectAboutMediator</string>
+	<key>lazyConstraintFormat</key>
+	<string>directCanvasStyle</string>
+	<key>relationalPainterInset</key>
+	<string>transformerAtObserver</string>
+	<key>skirtAtFlyweight</key>
+	<string>deferredCallbackDirection</string>
+	<key>standaloneMenuState</key>
+	<string>scrollableDurationPosition</string>
+	<key>subpixelAsDecorator</key>
+	<string>riverpodAboutMode</string>
+</dict>
+</plist>

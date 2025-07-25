@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedFrameSkewx</key>
+	<string>drawerMementoType</string>
+	<key>futurePatternPosition</key>
+	<string>pinchableGradientForce</string>
+	<key>hardNormTheme</key>
+	<string>sliderBesidePrototype</string>
+	<key>layerEnvironmentColor</key>
+	<string>mobileTabbarScale</string>
+	<key>operationBeyondWork</key>
+	<string>tableWorkBrightness</string>
+	<key>singleRectSpeed</key>
+	<string>rectWithChain</string>
+</dict>
+</plist>

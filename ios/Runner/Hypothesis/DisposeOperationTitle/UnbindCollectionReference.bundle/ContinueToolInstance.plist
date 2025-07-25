@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTimerSkewy</key>
+	<string>menuPerObserver</string>
+	<key>bulletFormTransparency</key>
+	<string>swiftFromInterpreter</string>
+	<key>exceptionJobFormat</key>
+	<string>interactorViaOperation</string>
+	<key>painterVisitorPadding</key>
+	<string>listviewLayerOrientation</string>
+	<key>scaleOrVariable</key>
+	<string>hyperbolicStepOrientation</string>
+	<key>spotAroundPhase</key>
+	<string>asyncTransformerPadding</string>
+</dict>
+</plist>

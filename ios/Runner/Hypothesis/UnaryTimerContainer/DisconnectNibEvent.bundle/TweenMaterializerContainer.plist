@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonVariableDepth</key>
+	<string>ignoredChannelContrast</string>
+	<key>disabledHandlerOrigin</key>
+	<string>resizableSignBound</string>
+	<key>lostOffsetMode</key>
+	<string>newestGraphAppearance</string>
+	<key>methodVarDelay</key>
+	<string>streamModeOffset</string>
+	<key>operationPerParam</key>
+	<string>labelByProcess</string>
+	<key>widgetPerStyle</key>
+	<string>viewDuringFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constObserverInteraction</key>
+	<string>interactiveTabbarResponse</string>
+	<key>crucialGraphInset</key>
+	<string>allocatorLayerTop</string>
+	<key>enabledAnchorPadding</key>
+	<string>mediumIndicatorTransparency</string>
+	<key>geometricRequestBehavior</key>
+	<string>significantTopicDuration</string>
+	<key>mobxPerKind</key>
+	<string>tweenIncludeObserver</string>
+	<key>stampMementoBottom</key>
+	<string>tickerCommandTail</string>
+	<key>unsortedSinkPosition</key>
+	<string>subsequentQueueCoord</string>
+</dict>
+</plist>

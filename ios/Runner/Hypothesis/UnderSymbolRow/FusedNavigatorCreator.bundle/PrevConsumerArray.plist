@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledOptimizerTension</key>
+	<string>blocDuringOperation</string>
+	<key>layerFacadeVisibility</key>
+	<string>activatedSpriteSize</string>
+	<key>liteFactoryOrientation</key>
+	<string>descriptionVersusOperation</string>
+	<key>metadataLikeValue</key>
+	<string>hierarchicalErrorAppearance</string>
+	<key>notificationStageVisible</key>
+	<string>samplePerParameter</string>
+	<key>robustGrayscaleFlags</key>
+	<string>assetProxyBehavior</string>
+	<key>secondResolverForce</key>
+	<string>originalDelegateBehavior</string>
+</dict>
+</plist>

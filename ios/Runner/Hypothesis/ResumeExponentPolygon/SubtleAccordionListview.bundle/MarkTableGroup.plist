@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledServiceFrequency</key>
+	<string>heroTypeAlignment</string>
+	<key>entityThroughPlatform</key>
+	<string>parallelSpecifierOffset</string>
+	<key>interpolationAdapterBound</key>
+	<string>storeStructureAppearance</string>
+	<key>projectionAgainstContext</key>
+	<string>desktopIsolateBehavior</string>
+	<key>radioAroundEnvironment</key>
+	<string>transformerViaVisitor</string>
+	<key>riverpodVersusFacade</key>
+	<string>nodeMementoState</string>
+	<key>robustMultiplicationBehavior</key>
+	<string>loopObserverBehavior</string>
+	<key>usecaseStructureDelay</key>
+	<string>positionedVariableFlags</string>
+</dict>
+</plist>

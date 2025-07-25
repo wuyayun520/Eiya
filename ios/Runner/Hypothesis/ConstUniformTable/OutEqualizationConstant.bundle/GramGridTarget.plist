@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAsJob</key>
+	<string>singletonAndPlatform</string>
+	<key>bufferPhaseOrientation</key>
+	<string>inactiveTickerDistance</string>
+	<key>cosineInStyle</key>
+	<string>transformerLikeBuffer</string>
+	<key>queueUntilEnvironment</key>
+	<string>directlyBufferSaturation</string>
+	<key>threadFrameworkSkewy</key>
+	<string>eagerTextBehavior</string>
+</dict>
+</plist>

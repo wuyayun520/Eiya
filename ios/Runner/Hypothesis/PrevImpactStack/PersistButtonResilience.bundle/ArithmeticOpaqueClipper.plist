@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numericalFutureShade</key>
+	<string>activityActivityPosition</string>
+	<key>popupBufferMode</key>
+	<string>extensionTaskPosition</string>
+	<key>queueFacadeInteraction</key>
+	<string>adaptiveAsyncVelocity</string>
+	<key>semanticAwaitEdge</key>
+	<string>instructionPerKind</string>
+	<key>textAdapterDelay</key>
+	<string>handlerByComposite</string>
+</dict>
+</plist>

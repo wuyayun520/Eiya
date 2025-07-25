@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatorPerVisitor</key>
+	<string>particleLikeStrategy</string>
+	<key>plateDecoratorSkewy</key>
+	<string>symmetricOffsetShade</string>
+	<key>resizableResourceCount</key>
+	<string>pinchableLogarithmDistance</string>
+	<key>sessionInsideCommand</key>
+	<string>numericalNibSkewy</string>
+	<key>streamOrParam</key>
+	<string>mediaViaMemento</string>
+	<key>tableExceptComposite</key>
+	<string>sizeStructureOrigin</string>
+</dict>
+</plist>

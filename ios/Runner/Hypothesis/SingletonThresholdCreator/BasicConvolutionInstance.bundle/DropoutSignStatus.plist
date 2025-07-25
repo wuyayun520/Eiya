@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintScopeBehavior</key>
+	<string>unaryOperationDirection</string>
+	<key>customDrawerResponse</key>
+	<string>radiusPerStyle</string>
+	<key>factoryContextDelay</key>
+	<string>disabledRowTransparency</string>
+	<key>functionalTransitionKind</key>
+	<string>navigatorFromPattern</string>
+	<key>futureDespiteLayer</key>
+	<string>finalDescriptionStatus</string>
+	<key>imperativeRouterDepth</key>
+	<string>widgetLikeState</string>
+	<key>mobileDrawerAppearance</key>
+	<string>optionExceptProcess</string>
+	<key>priorCoordinatorIndex</key>
+	<string>statelessParamValidation</string>
+	<key>textStyleHead</key>
+	<string>dependencyNearTask</string>
+	<key>viewSinceTask</key>
+	<string>symbolValueDensity</string>
+</dict>
+</plist>

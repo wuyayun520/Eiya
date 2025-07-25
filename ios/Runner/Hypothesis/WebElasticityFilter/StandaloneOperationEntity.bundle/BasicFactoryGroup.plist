@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerStructureBehavior</key>
+	<string>granularResourceBehavior</string>
+	<key>borderExceptInterpreter</key>
+	<string>marginViaInterpreter</string>
+	<key>comprehensiveCacheForce</key>
+	<string>modalBeyondFunction</string>
+	<key>graphicActionBound</key>
+	<string>mediumTickerHead</string>
+	<key>gridviewVariableSkewx</key>
+	<string>metadataSystemRight</string>
+	<key>integerKindTail</key>
+	<string>layoutBufferAcceleration</string>
+	<key>synchronousQueueBehavior</key>
+	<string>sustainableChapterShape</string>
+</dict>
+</plist>

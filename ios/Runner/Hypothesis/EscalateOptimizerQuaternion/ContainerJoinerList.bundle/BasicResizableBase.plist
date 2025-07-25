@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialSwiftSize</key>
+	<string>queueActionTheme</string>
+	<key>enabledTransformerOrientation</key>
+	<string>entropyPerFramework</string>
+	<key>interpolationProcessDistance</key>
+	<string>listviewPlatformMargin</string>
+	<key>storageDespiteFunction</key>
+	<string>firstPaddingFeedback</string>
+	<key>transformerViaStructure</key>
+	<string>transformerDuringStyle</string>
+</dict>
+</plist>

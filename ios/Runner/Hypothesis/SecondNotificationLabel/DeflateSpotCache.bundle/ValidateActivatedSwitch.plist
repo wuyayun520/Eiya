@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarContextDelay</key>
+	<string>methodCycleSize</string>
+	<key>asyncTaskBehavior</key>
+	<string>providerCycleValidation</string>
+	<key>getxAwayActivity</key>
+	<string>resourcePlatformDuration</string>
+	<key>giftProxyShape</key>
+	<string>animatedcontainerAboutBuffer</string>
+	<key>graphThroughSingleton</key>
+	<string>resilientShaderDepth</string>
+	<key>interpolationStageTransparency</key>
+	<string>blocThanBuffer</string>
+	<key>movementVisitorStyle</key>
+	<string>euclideanIndicatorInterval</string>
+	<key>substantialDialogsInterval</key>
+	<string>storeWorkOpacity</string>
+	<key>temporaryFeatureInterval</key>
+	<string>chapterValueSkewy</string>
+</dict>
+</plist>

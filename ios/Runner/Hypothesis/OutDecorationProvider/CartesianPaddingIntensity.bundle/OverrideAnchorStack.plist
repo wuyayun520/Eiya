@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartPlatformVelocity</key>
+	<string>fusedContainerRotation</string>
+	<key>controllerBesideComposite</key>
+	<string>richtextSinceFlyweight</string>
+	<key>gramVersusSingleton</key>
+	<string>instructionThanFacade</string>
+	<key>mobxWorkInset</key>
+	<string>autoThemeDistance</string>
+	<key>modalBufferScale</key>
+	<string>constBuilderState</string>
+	<key>prevConvolutionIndex</key>
+	<string>accordionResponseFlags</string>
+	<key>significantScaleBottom</key>
+	<string>resizableCurveMode</string>
+</dict>
+</plist>

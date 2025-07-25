@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventAgainstComposite</key>
+	<string>stepChainAlignment</string>
+	<key>matrixTypeOrientation</key>
+	<string>singleResolverHead</string>
+	<key>nodeProcessScale</key>
+	<string>scrollableTableSize</string>
+	<key>normBridgeType</key>
+	<string>tableTierFrequency</string>
+	<key>operationBesideVariable</key>
+	<string>cubitParameterOffset</string>
+	<key>primaryDecorationDepth</key>
+	<string>secondCardRight</string>
+	<key>reactiveFutureDepth</key>
+	<string>scaffoldCommandSpeed</string>
+	<key>scaleFlyweightForce</key>
+	<string>draggableMasterVelocity</string>
+	<key>serviceWithoutDecorator</key>
+	<string>advancedParticleStyle</string>
+</dict>
+</plist>

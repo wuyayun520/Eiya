@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveExpandedInteraction</key>
+	<string>rowAgainstScope</string>
+	<key>anchorVariableRate</key>
+	<string>chartVersusPhase</string>
+	<key>curveWithPattern</key>
+	<string>storageOrContext</string>
+	<key>granularResponseOrientation</key>
+	<string>widgetInterpreterPressure</string>
+	<key>nodeWithoutChain</key>
+	<string>intuitiveQueryIndex</string>
+	<key>sceneContextDistance</key>
+	<string>diversifiedPlaybackDelay</string>
+	<key>sizeProxyTag</key>
+	<string>usedPlaybackTag</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSystemIndex</key>
+	<string>positionContextStyle</string>
+	<key>contractionDuringJob</key>
+	<string>tabviewSinceLayer</string>
+	<key>densePopupMode</key>
+	<string>skinSingletonSpeed</string>
+	<key>entityContainValue</key>
+	<string>invisibleStoryboardDuration</string>
+	<key>iconInterpreterDepth</key>
+	<string>coordinatorLevelCoord</string>
+	<key>interactiveManagerCoord</key>
+	<string>disabledFragmentMomentum</string>
+</dict>
+</plist>

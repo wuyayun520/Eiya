@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionProxyHead</key>
+	<string>protectedCardFeedback</string>
+	<key>curveKindName</key>
+	<string>logWithoutMediator</string>
+	<key>explicitTabbarOpacity</key>
+	<string>scrollLikeForm</string>
+	<key>finalOperationDensity</key>
+	<string>rectVarOrientation</string>
+	<key>localCharacterOrientation</key>
+	<string>allocatorSystemBorder</string>
+	<key>modelDecoratorPressure</key>
+	<string>listviewPlatformAcceleration</string>
+	<key>tableByShape</key>
+	<string>constraintOrSingleton</string>
+</dict>
+</plist>

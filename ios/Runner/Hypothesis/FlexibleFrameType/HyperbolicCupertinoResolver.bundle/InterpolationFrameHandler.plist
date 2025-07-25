@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleDurationAppearance</key>
+	<string>dependencySingletonForce</string>
+	<key>fusedAsyncCount</key>
+	<string>sizeSystemForce</string>
+	<key>indicatorContextShape</key>
+	<string>easySemanticsTransparency</string>
+	<key>isolateExceptStructure</key>
+	<string>statefulFactoryOrientation</string>
+	<key>relationalLogarithmMomentum</key>
+	<string>profileAroundContext</string>
+	<key>unsortedChecklistShape</key>
+	<string>certificateAroundTask</string>
+</dict>
+</plist>

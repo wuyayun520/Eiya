@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerMementoTransparency</key>
+	<string>sceneInWork</string>
+	<key>asyncCaptionInset</key>
+	<string>progressbarBridgeSpacing</string>
+	<key>cartesianAnimationOrientation</key>
+	<string>prevRouteCoord</string>
+	<key>cubitOutsideLayer</key>
+	<string>bitrateByMethod</string>
+	<key>permissiveRectAcceleration</key>
+	<string>cupertinoOrVariable</string>
+	<key>prevTransformerTransparency</key>
+	<string>transformerDespiteBuffer</string>
+	<key>primaryCaptionSpeed</key>
+	<string>robustProviderValidation</string>
+	<key>progressbarFormTheme</key>
+	<string>normalOverlayPadding</string>
+</dict>
+</plist>

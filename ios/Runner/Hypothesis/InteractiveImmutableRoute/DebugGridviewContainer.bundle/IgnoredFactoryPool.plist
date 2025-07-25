@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryOrStyle</key>
+	<string>actionDuringForm</string>
+	<key>constraintPrototypeOrigin</key>
+	<string>containerAwayAdapter</string>
+	<key>containerCommandFormat</key>
+	<string>checklistBesideProxy</string>
+	<key>fixedInteractorLocation</key>
+	<string>nodeExceptWork</string>
+	<key>normalTickerLeft</key>
+	<string>blocWithType</string>
+	<key>similarPaddingCoord</key>
+	<string>animationThroughValue</string>
+	<key>topicContextSkewy</key>
+	<string>borderAndProcess</string>
+	<key>uniformControllerVisibility</key>
+	<string>cacheFormFrequency</string>
+</dict>
+</plist>

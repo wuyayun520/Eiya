@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteStateRight</key>
+	<string>responsiveStateTension</string>
+	<key>constraintFacadeFlags</key>
+	<string>permissiveNavigatorTransparency</string>
+	<key>effectByCommand</key>
+	<string>commandAroundAdapter</string>
+	<key>effectWithPattern</key>
+	<string>sliderOutsideFramework</string>
+	<key>functionalSubscriptionDepth</key>
+	<string>segmentThroughActivity</string>
+	<key>notificationThroughMediator</key>
+	<string>groupStrategySkewy</string>
+	<key>paddingMementoState</key>
+	<string>directlyRoleFrequency</string>
+	<key>plateSinceMethod</key>
+	<string>assetAmongEnvironment</string>
+	<key>sizePhaseTint</key>
+	<string>responsiveCardCoord</string>
+</dict>
+</plist>

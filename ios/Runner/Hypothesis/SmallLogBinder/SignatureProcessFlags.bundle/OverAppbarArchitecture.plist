@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeReducerKind</key>
+	<string>sinkMethodBound</string>
+	<key>dynamicLabelState</key>
+	<string>protectedInkwellMargin</string>
+	<key>futureOutsideContext</key>
+	<string>delegateOrFacade</string>
+	<key>globalNavigatorOrigin</key>
+	<string>queueContainState</string>
+	<key>lazyMediaShape</key>
+	<string>playbackInDecorator</string>
+	<key>nodeDuringWork</key>
+	<string>storageChainLeft</string>
+	<key>widgetTaskBorder</key>
+	<string>sustainableInterfaceInterval</string>
+</dict>
+</plist>

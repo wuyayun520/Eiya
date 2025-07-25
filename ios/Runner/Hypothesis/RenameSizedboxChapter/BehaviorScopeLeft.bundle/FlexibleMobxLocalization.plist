@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChannelCount</key>
+	<string>builderVisitorEdge</string>
+	<key>animationStateOpacity</key>
+	<string>mobxSingletonOffset</string>
+	<key>dependencyViaContext</key>
+	<string>actionAndOperation</string>
+	<key>queueFormFlags</key>
+	<string>handlerDuringPhase</string>
+	<key>semanticsOutsideType</key>
+	<string>liteAlignmentLocation</string>
+</dict>
+</plist>

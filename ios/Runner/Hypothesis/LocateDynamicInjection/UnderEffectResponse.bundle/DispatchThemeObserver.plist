@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPhaseInterval</key>
+	<string>modalWithLevel</string>
+	<key>appbarBeyondInterpreter</key>
+	<string>clipperValueBrightness</string>
+	<key>consumerLevelPadding</key>
+	<string>globalTransformerBorder</string>
+	<key>durationAwayStyle</key>
+	<string>popupPhaseFrequency</string>
+	<key>hardLocalizationStyle</key>
+	<string>staticPositionHue</string>
+	<key>interfaceActivityTheme</key>
+	<string>mobxOfProcess</string>
+	<key>queueAmongMethod</key>
+	<string>resultAroundTier</string>
+	<key>richtextInActivity</key>
+	<string>titleAwayProcess</string>
+	<key>singletonObserverValidation</key>
+	<string>progressbarSystemShade</string>
+	<key>tappableActionShade</key>
+	<string>textAndCommand</string>
+</dict>
+</plist>

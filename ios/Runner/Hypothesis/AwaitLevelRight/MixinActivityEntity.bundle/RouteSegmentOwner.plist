@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchNearSystem</key>
+	<string>desktopIndicatorHead</string>
+	<key>bitrateActivityPosition</key>
+	<string>futurePrototypeDelay</string>
+	<key>discardedArithmeticOffset</key>
+	<string>optimizerParamScale</string>
+	<key>durationUntilVariable</key>
+	<string>permanentTableTransparency</string>
+	<key>missedTextureDistance</key>
+	<string>mobileArithmeticAcceleration</string>
+	<key>permissiveOperationHead</key>
+	<string>nextFeatureFrequency</string>
+	<key>sortedNormLeft</key>
+	<string>rectValueCoord</string>
+	<key>usedSinkKind</key>
+	<string>concurrentFrameCoord</string>
+</dict>
+</plist>

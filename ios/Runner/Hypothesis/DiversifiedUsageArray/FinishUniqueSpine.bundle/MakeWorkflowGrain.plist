@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleContractionSkewx</key>
+	<string>materialListviewAppearance</string>
+	<key>actionForDecorator</key>
+	<string>iconPlatformSize</string>
+	<key>eagerProgressbarRight</key>
+	<string>controllerStrategyInteraction</string>
+	<key>factoryActivityVisible</key>
+	<string>respectiveTitleAlignment</string>
+	<key>secondProtocolCoord</key>
+	<string>factoryParamFeedback</string>
+</dict>
+</plist>

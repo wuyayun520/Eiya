@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardBufferRate</key>
+	<string>persistentBaseInteraction</string>
+	<key>bitrateAmongStyle</key>
+	<string>delegateOutsideActivity</string>
+	<key>decorationAsComposite</key>
+	<string>hyperbolicButtonTint</string>
+	<key>mobileSceneContrast</key>
+	<string>responsiveDurationHead</string>
+	<key>modulusUntilActivity</key>
+	<string>handlerInVisitor</string>
+	<key>textAlongFunction</key>
+	<string>nibEnvironmentResponse</string>
+	<key>vectorObserverRotation</key>
+	<string>characterWithoutCycle</string>
+</dict>
+</plist>

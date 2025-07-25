@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleAsyncHue</key>
+	<string>groupVersusLevel</string>
+	<key>fusedGridVisibility</key>
+	<string>handlerObserverDistance</string>
+	<key>radiusForFramework</key>
+	<string>equalizationAroundStage</string>
+</dict>
+</plist>

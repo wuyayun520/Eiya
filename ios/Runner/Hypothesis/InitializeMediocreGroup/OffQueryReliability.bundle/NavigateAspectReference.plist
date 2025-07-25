@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesPerState</key>
+	<string>blocLikeMediator</string>
+	<key>customizedInstructionVelocity</key>
+	<string>hashUntilParameter</string>
+	<key>dependencyOperationTransparency</key>
+	<string>futureActivityAlignment</string>
+	<key>musicVersusObserver</key>
+	<string>builderLikeCycle</string>
+	<key>notificationFromMediator</key>
+	<string>actionAlongAction</string>
+	<key>synchronousProjectSkewx</key>
+	<string>synchronousSingletonBound</string>
+	<key>textStyleContrast</key>
+	<string>materialProxyName</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInStage</key>
+	<string>skinStyleTension</string>
+	<key>arithmeticCurveStyle</key>
+	<string>eagerQueueValidation</string>
+	<key>completerSingletonRotation</key>
+	<string>listenerContextBorder</string>
+	<key>cursorStructureEdge</key>
+	<string>skinBridgeSkewx</string>
+	<key>lostPreviewBound</key>
+	<string>configurationTaskEdge</string>
+	<key>radioFunctionVisibility</key>
+	<string>currentWidgetShade</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStatefulVisibility</key>
+	<string>nativeRouteOffset</string>
+	<key>blocShapeFrequency</key>
+	<string>textAndDecorator</string>
+	<key>chartWithStage</key>
+	<string>swiftByActivity</string>
+	<key>dependencyTempleContrast</key>
+	<string>requestContextVisibility</string>
+	<key>scaffoldStateFormat</key>
+	<string>gradientBesideCommand</string>
+</dict>
+</plist>

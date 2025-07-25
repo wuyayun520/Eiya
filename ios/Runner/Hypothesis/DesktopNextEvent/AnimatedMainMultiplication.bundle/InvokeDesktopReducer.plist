@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLayerSpeed</key>
+	<string>inheritedStoreMode</string>
+	<key>constraintSystemDuration</key>
+	<string>otherTabviewCenter</string>
+	<key>heroLikePhase</key>
+	<string>semanticDelegateForce</string>
+	<key>invisibleGraphInteraction</key>
+	<string>chapterActivityBound</string>
+	<key>notificationParamSaturation</key>
+	<string>smartMapAppearance</string>
+	<key>responsiveAppbarBrightness</key>
+	<string>similarDurationShade</string>
+	<key>riverpodShapeSpacing</key>
+	<string>observerAlongMediator</string>
+	<key>viewMementoAlignment</key>
+	<string>frameSingletonPosition</string>
+</dict>
+</plist>

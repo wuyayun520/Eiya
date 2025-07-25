@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderContainCommand</key>
+	<string>accordionAssetOffset</string>
+	<key>decorationShapePosition</key>
+	<string>normalQueryIndex</string>
+	<key>geometricUtilEdge</key>
+	<string>materialRectVisibility</string>
+	<key>subscriptionDespiteStyle</key>
+	<string>listviewBeyondContext</string>
+	<key>temporaryZoneForce</key>
+	<string>responsiveChecklistKind</string>
+</dict>
+</plist>

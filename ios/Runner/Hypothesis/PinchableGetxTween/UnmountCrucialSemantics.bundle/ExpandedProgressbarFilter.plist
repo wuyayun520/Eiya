@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGridviewSpeed</key>
+	<string>widgetInsideAdapter</string>
+	<key>completerIncludeFacade</key>
+	<string>taskOrTier</string>
+	<key>descriptorAmongLevel</key>
+	<string>respectiveCommandPosition</string>
+	<key>integerLikeStructure</key>
+	<string>tensorReductionSize</string>
+	<key>priorMenuFrequency</key>
+	<string>stepOfVisitor</string>
+	<key>repositoryBeyondBridge</key>
+	<string>discardedCurveFlags</string>
+	<key>secondControllerAppearance</key>
+	<string>histogramContextEdge</string>
+	<key>subscriptionFromContext</key>
+	<string>localLocalizationSize</string>
+</dict>
+</plist>

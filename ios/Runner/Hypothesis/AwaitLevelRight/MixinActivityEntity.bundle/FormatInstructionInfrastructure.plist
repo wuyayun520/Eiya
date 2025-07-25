@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationModePadding</key>
+	<string>crucialWorkflowAcceleration</string>
+	<key>elasticMovementInteraction</key>
+	<string>sequentialScreenValidation</string>
+	<key>finalExtensionBehavior</key>
+	<string>typicalWidgetForce</string>
+	<key>granularAwaitShape</key>
+	<string>customCubitCount</string>
+	<key>lostInkwellRotation</key>
+	<string>mobileNavigationDelay</string>
+	<key>resultAlongSingleton</key>
+	<string>radioVariablePadding</string>
+</dict>
+</plist>

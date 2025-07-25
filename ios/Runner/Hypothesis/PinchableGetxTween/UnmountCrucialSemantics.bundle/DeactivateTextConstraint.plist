@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStructureForce</key>
+	<string>precisionFlyweightTransparency</string>
+	<key>iterativeDurationMode</key>
+	<string>visibleGridTransparency</string>
+	<key>mutableStateSkewy</key>
+	<string>allocatorJobSkewx</string>
+	<key>permanentViewCoord</key>
+	<string>priorProjectionDirection</string>
+</dict>
+</plist>

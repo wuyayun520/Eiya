@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheMethodFeedback</key>
+	<string>durationViaActivity</string>
+	<key>draggableDependencyInteraction</key>
+	<string>cellOrDecorator</string>
+	<key>eventAroundMediator</key>
+	<string>typicalIconAcceleration</string>
+	<key>intermediateQueryState</key>
+	<string>iterativeColumnSkewx</string>
+	<key>lostHeapBound</key>
+	<string>durationAboutContext</string>
+	<key>resolverShapeState</key>
+	<string>requestAwayAdapter</string>
+</dict>
+</plist>

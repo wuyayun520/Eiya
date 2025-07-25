@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureExceptPlatform</key>
+	<string>appbarPrototypeSaturation</string>
+	<key>grainStrategyCoord</key>
+	<string>completerWithFacade</string>
+	<key>invisibleNodeMargin</key>
+	<string>singleProjectionStatus</string>
+	<key>largeAssetVelocity</key>
+	<string>secondDropdownbuttonShade</string>
+	<key>layerLikeInterpreter</key>
+	<string>usageFrameworkTint</string>
+	<key>logarithmAgainstPlatform</key>
+	<string>frameLikeBridge</string>
+	<key>lostRouteTint</key>
+	<string>cursorInterpreterInteraction</string>
+	<key>taskOfFunction</key>
+	<string>staticSymbolDuration</string>
+</dict>
+</plist>

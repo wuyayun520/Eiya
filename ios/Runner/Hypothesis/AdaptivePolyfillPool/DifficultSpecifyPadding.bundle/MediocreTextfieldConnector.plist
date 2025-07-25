@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorSinceAction</key>
+	<string>descriptorWithFacade</string>
+	<key>allocatorWithoutMethod</key>
+	<string>persistentCompositionTransparency</string>
+	<key>cubitThroughFacade</key>
+	<string>publicQueueInterval</string>
+	<key>exponentChainShade</key>
+	<string>aspectLevelTint</string>
+	<key>hyperbolicGroupForce</key>
+	<string>opaqueTitleMode</string>
+	<key>methodParamLocation</key>
+	<string>titleInterpreterInset</string>
+	<key>topicSystemBrightness</key>
+	<string>navigationStrategyFlags</string>
+</dict>
+</plist>

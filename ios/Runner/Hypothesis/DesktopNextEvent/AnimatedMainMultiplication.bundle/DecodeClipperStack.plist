@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonWithContext</key>
+	<string>streamAgainstDecorator</string>
+	<key>popupAgainstProxy</key>
+	<string>cubitScopePressure</string>
+	<key>rectAwayObserver</key>
+	<string>singletonPatternStatus</string>
+	<key>spriteFromCommand</key>
+	<string>kernelAlongSystem</string>
+	<key>statefulDependencyShape</key>
+	<string>builderAwaySystem</string>
+</dict>
+</plist>

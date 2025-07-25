@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocLevelAlignment</key>
+	<string>groupPerShape</string>
+	<key>diffableProviderLeft</key>
+	<string>interfaceSingletonScale</string>
+	<key>factoryParamFormat</key>
+	<string>themeObserverTail</string>
+	<key>fusedIndicatorSpeed</key>
+	<string>positionVisitorScale</string>
+	<key>logarithmWorkMomentum</key>
+	<string>interactorOperationTail</string>
+	<key>mobileTouchTint</key>
+	<string>agileVectorMode</string>
+	<key>mutablePresenterVisible</key>
+	<string>iterativeSignName</string>
+</dict>
+</plist>

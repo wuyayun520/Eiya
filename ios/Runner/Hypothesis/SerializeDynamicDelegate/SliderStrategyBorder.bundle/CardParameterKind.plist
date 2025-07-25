@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProxyCoord</key>
+	<string>fixedSessionName</string>
+	<key>baseExceptForm</key>
+	<string>statefulCompositionTail</string>
+	<key>cupertinoWithType</key>
+	<string>stateStyleEdge</string>
+	<key>prevDecorationStyle</key>
+	<string>activePreviewOrientation</string>
+	<key>prismaticEventBorder</key>
+	<string>sampleTierMargin</string>
+	<key>routeBesideAction</key>
+	<string>bitrateVarMargin</string>
+	<key>semanticSceneEdge</key>
+	<string>normalStorageRotation</string>
+	<key>sineContextBound</key>
+	<string>baselineCompositeResponse</string>
+</dict>
+</plist>

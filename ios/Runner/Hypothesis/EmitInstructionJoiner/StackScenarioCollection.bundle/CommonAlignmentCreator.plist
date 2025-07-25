@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterNearStyle</key>
+	<string>stampDuringSingleton</string>
+	<key>deferredTextureShape</key>
+	<string>decorationThanShape</string>
+	<key>isolateAmongStructure</key>
+	<string>semanticsSingletonBrightness</string>
+	<key>materialResponseOrigin</key>
+	<string>materialInSystem</string>
+	<key>multiDecorationTheme</key>
+	<string>appbarScopeFormat</string>
+	<key>signatureStageOrientation</key>
+	<string>chartWorkTheme</string>
+	<key>ternaryFromStrategy</key>
+	<string>interactiveRectType</string>
+	<key>touchLikeStructure</key>
+	<string>customizedPresenterInterval</string>
+</dict>
+</plist>

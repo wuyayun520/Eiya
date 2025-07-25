@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderContextCenter</key>
+	<string>switchVariableDepth</string>
+	<key>mobileInsideFunction</key>
+	<string>webSpriteInteraction</string>
+	<key>projectAlongStyle</key>
+	<string>synchronousCheckboxState</string>
+	<key>stampInsideProcess</key>
+	<string>skirtInsideFramework</string>
+</dict>
+</plist>

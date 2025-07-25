@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonChartShape</key>
+	<string>widgetOrStructure</string>
+	<key>decorationAroundMediator</key>
+	<string>indicatorVarBorder</string>
+	<key>disabledInterfaceMode</key>
+	<string>instructionTierRotation</string>
+	<key>iterativeInterfaceOpacity</key>
+	<string>toolAsNumber</string>
+	<key>navigatorAmongInterpreter</key>
+	<string>opaqueTransformerTail</string>
+	<key>rectModeBorder</key>
+	<string>resolverInterpreterAcceleration</string>
+	<key>routerIncludeStructure</key>
+	<string>crudeGetxDelay</string>
+	<key>storyboardVariableAppearance</key>
+	<string>channelLikeBridge</string>
+	<key>usecaseWorkLeft</key>
+	<string>canvasSinceAdapter</string>
+</dict>
+</plist>

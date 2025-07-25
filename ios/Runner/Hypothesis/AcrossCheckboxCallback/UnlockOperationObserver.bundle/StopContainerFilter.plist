@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMomentumDepth</key>
+	<string>tickerProcessMomentum</string>
+	<key>assetMediatorBorder</key>
+	<string>resizableCharacterTint</string>
+	<key>concurrentCaptionBottom</key>
+	<string>awaitContextMode</string>
+	<key>functionalTaskCount</key>
+	<string>eventUntilValue</string>
+	<key>observerStageSpacing</key>
+	<string>segueAgainstSingleton</string>
+</dict>
+</plist>

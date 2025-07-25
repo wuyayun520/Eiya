@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLevelType</key>
+	<string>featureOrStage</string>
+	<key>compositionAboutCycle</key>
+	<string>elasticBehaviorScale</string>
+	<key>containerBesideVar</key>
+	<string>unactivatedDimensionSkewy</string>
+	<key>graphicInterpreterDuration</key>
+	<string>mediocreAxisLocation</string>
+	<key>movementOutsideKind</key>
+	<string>hashVarValidation</string>
+	<key>offsetAndMemento</key>
+	<string>hierarchicalStampColor</string>
+	<key>serviceVariableDensity</key>
+	<string>visiblePaddingDepth</string>
+</dict>
+</plist>

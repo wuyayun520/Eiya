@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureScopeLocation</key>
+	<string>timerAroundFunction</string>
+	<key>framePhaseStyle</key>
+	<string>pointDuringJob</string>
+	<key>paddingScopeTension</key>
+	<string>uniqueCompleterVisible</string>
+	<key>queueForPhase</key>
+	<string>progressbarAlongFlyweight</string>
+</dict>
+</plist>

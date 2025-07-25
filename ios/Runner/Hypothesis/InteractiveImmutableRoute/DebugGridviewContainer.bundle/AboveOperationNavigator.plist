@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeForPattern</key>
+	<string>commonStorageColor</string>
+	<key>ignoredRowBottom</key>
+	<string>delegateByProcess</string>
+	<key>immutableTangentTheme</key>
+	<string>constraintForFramework</string>
+	<key>layoutNearForm</key>
+	<string>listviewVarCenter</string>
+	<key>progressbarAgainstState</key>
+	<string>standaloneAxisRotation</string>
+	<key>seamlessSwiftValidation</key>
+	<string>secondEffectRotation</string>
+	<key>significantActionVisibility</key>
+	<string>tangentMementoVisible</string>
+	<key>sinkFacadeBound</key>
+	<string>agileRectSpeed</string>
+	<key>viewAmongInterpreter</key>
+	<string>borderWithComposite</string>
+</dict>
+</plist>

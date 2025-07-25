@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityInterpreterFeedback</key>
+	<string>monsterExceptPattern</string>
+	<key>backwardTextfieldInset</key>
+	<string>statefulEnvironmentOffset</string>
+	<key>decorationContextStyle</key>
+	<string>constAllocatorRotation</string>
+	<key>layoutThroughTask</key>
+	<string>kernelVarTransparency</string>
+	<key>pointSingletonName</key>
+	<string>allocatorThroughSystem</string>
+	<key>priorFeaturePosition</key>
+	<string>chapterInsideVisitor</string>
+</dict>
+</plist>

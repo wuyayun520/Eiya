@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonBehaviorPadding</key>
+	<string>beginnerMissionAcceleration</string>
+	<key>controllerActionBound</key>
+	<string>mediaqueryVarContrast</string>
+	<key>intensityPhaseSpacing</key>
+	<string>reactivePlateBound</string>
+	<key>permissiveBuilderOrigin</key>
+	<string>radiusInActivity</string>
+	<key>requiredThreadCoord</key>
+	<string>lossBesideSingleton</string>
+	<key>roleNumberAlignment</key>
+	<string>serviceStyleVisible</string>
+	<key>sessionContainPattern</key>
+	<string>statelessContainerLocation</string>
+	<key>staticCurveFeedback</key>
+	<string>advancedAnimationOrigin</string>
+	<key>temporaryConfigurationTop</key>
+	<string>specifierByEnvironment</string>
+</dict>
+</plist>

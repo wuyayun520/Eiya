@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorMethodOrientation</key>
+	<string>optimizerWorkOffset</string>
+	<key>errorStrategySkewy</key>
+	<string>geometricReducerRate</string>
+	<key>fixedGateRight</key>
+	<string>popupSystemFlags</string>
+	<key>threadProxyRotation</key>
+	<string>topicDespiteLevel</string>
+</dict>
+</plist>

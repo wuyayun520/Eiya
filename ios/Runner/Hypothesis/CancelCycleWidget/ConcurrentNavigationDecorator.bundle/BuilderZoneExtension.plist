@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDelegateResponse</key>
+	<string>sampleScopeDistance</string>
+	<key>futureStyleInteraction</key>
+	<string>variantStateBehavior</string>
+	<key>iconAsNumber</key>
+	<string>positionedStageDistance</string>
+	<key>intermediateMemberSkewx</key>
+	<string>cellVisitorDepth</string>
+	<key>lazyExtensionAppearance</key>
+	<string>labelViaCycle</string>
+	<key>progressbarVarFormat</key>
+	<string>layerAmongBridge</string>
+</dict>
+</plist>

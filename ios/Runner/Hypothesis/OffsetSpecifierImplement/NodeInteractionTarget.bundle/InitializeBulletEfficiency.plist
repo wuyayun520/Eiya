@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVariableSpeed</key>
+	<string>invisibleCommandBrightness</string>
+	<key>associatedRoleFlags</key>
+	<string>cubitFacadeSkewx</string>
+	<key>commandAndComposite</key>
+	<string>actionAmongParameter</string>
+	<key>customizedCharacterName</key>
+	<string>reductionStyleSpacing</string>
+	<key>playbackWithoutType</key>
+	<string>queryByPrototype</string>
+	<key>presenterFacadeTint</key>
+	<string>prevLocalizationFlags</string>
+	<key>reusableParticleBound</key>
+	<string>pointExceptFacade</string>
+	<key>signWorkPressure</key>
+	<string>brushUntilTask</string>
+	<key>touchCommandInset</key>
+	<string>brushByWork</string>
+</dict>
+</plist>

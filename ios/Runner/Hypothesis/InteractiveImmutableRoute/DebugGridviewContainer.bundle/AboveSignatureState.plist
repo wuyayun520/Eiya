@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityWorkRotation</key>
+	<string>synchronousCurveFormat</string>
+	<key>asyncTimerBrightness</key>
+	<string>durationAroundCommand</string>
+	<key>crucialTweenState</key>
+	<string>opaqueBaseLeft</string>
+	<key>gridviewStateAppearance</key>
+	<string>grainBeyondState</string>
+	<key>immutableCoordinatorFeedback</key>
+	<string>popupWorkTint</string>
+	<key>navigatorInFacade</key>
+	<string>listenerActivityMode</string>
+	<key>scaleActionTop</key>
+	<string>batchLevelMargin</string>
+	<key>streamFrameworkHead</key>
+	<string>compositionalTransitionHead</string>
+	<key>uniqueCupertinoStatus</key>
+	<string>requestAtShape</string>
+</dict>
+</plist>

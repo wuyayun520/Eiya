@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPopupDistance</key>
+	<string>reactiveRectOffset</string>
+	<key>checkboxAndMode</key>
+	<string>permanentCompleterStyle</string>
+	<key>errorAgainstMemento</key>
+	<string>cupertinoPreviewInset</string>
+	<key>geometricSkirtVisibility</key>
+	<string>smartAllocatorRight</string>
+	<key>graphOrStyle</key>
+	<string>factoryWithTask</string>
+	<key>reducerContainLevel</key>
+	<string>dropdownbuttonAtMethod</string>
+</dict>
+</plist>

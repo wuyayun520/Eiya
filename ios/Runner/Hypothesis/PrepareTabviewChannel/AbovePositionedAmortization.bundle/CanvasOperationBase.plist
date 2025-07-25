@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeBesideProcess</key>
+	<string>stepTaskMode</string>
+	<key>cubitVarBound</key>
+	<string>radiusAsType</string>
+	<key>denseRectRotation</key>
+	<string>robustOffsetOpacity</string>
+	<key>optimizerInterpreterEdge</key>
+	<string>sortedCubitLeft</string>
+	<key>previewPlatformSaturation</key>
+	<string>awaitAdapterDistance</string>
+	<key>tickerStateAcceleration</key>
+	<string>navigationInChain</string>
+</dict>
+</plist>

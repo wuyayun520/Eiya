@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystThroughMethod</key>
+	<string>subtleBlocHue</string>
+	<key>coordinatorFacadeFeedback</key>
+	<string>scrollableChecklistColor</string>
+	<key>menuPerProcess</key>
+	<string>oldCapsuleEdge</string>
+	<key>nativeTickerDistance</key>
+	<string>histogramNearCycle</string>
+	<key>numericalQuerySpacing</key>
+	<string>promiseParameterOffset</string>
+	<key>permissiveFragmentCenter</key>
+	<string>statelessFrameworkTag</string>
+	<key>vectorLayerMomentum</key>
+	<string>buttonAgainstBuffer</string>
+</dict>
+</plist>

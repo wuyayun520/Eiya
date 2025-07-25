@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modalAndPhase</key>
+	<string>textThroughNumber</string>
+	<key>observerVersusVariable</key>
+	<string>completerIncludeForm</string>
+	<key>viewFacadeDensity</key>
+	<string>loopShapeSkewy</string>
+	<key>viewFromBridge</key>
+	<string>compositionIncludeMemento</string>
+</dict>
+</plist>

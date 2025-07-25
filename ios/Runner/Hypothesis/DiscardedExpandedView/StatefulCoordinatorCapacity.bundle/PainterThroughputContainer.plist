@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPatternDuration</key>
+	<string>statelessAroundVisitor</string>
+	<key>completerObserverFlags</key>
+	<string>delegateInParameter</string>
+	<key>effectSingletonDistance</key>
+	<string>statefulBeyondMediator</string>
+	<key>metadataMementoFormat</key>
+	<string>sizePatternDepth</string>
+	<key>subscriptionTypeSize</key>
+	<string>capsuleContextHue</string>
+	<key>swiftStrategyPressure</key>
+	<string>numericalDecorationInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerLikeBuffer</key>
+	<string>zoneBufferBound</string>
+	<key>animationAmongLayer</key>
+	<string>mutableFrameAppearance</string>
+	<key>durationWorkKind</key>
+	<string>subtleRowFlags</string>
+	<key>newestInjectionBehavior</key>
+	<string>responseStyleSize</string>
+	<key>responsiveStepTheme</key>
+	<string>containerPhaseOpacity</string>
+	<key>semanticsSingletonBorder</key>
+	<string>statelessWithPhase</string>
+	<key>skirtThanFlyweight</key>
+	<string>rowFlyweightPressure</string>
+	<key>typicalPresenterCenter</key>
+	<string>workflowMethodPressure</string>
+</dict>
+</plist>

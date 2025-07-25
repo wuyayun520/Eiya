@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitModeForce</key>
+	<string>transformerTempleTransparency</string>
+	<key>layoutOutsideJob</key>
+	<string>immediateWidgetLocation</string>
+	<key>nodeNearFramework</key>
+	<string>seamlessFlexAcceleration</string>
+	<key>segmentThroughLevel</key>
+	<string>sizedboxAtType</string>
+	<key>smartScaffoldTail</key>
+	<string>nativeAppbarLocation</string>
+	<key>symbolThanType</key>
+	<string>topicShapeTransparency</string>
+</dict>
+</plist>

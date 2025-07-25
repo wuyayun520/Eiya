@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerTaskBehavior</key>
+	<string>queueAgainstPattern</string>
+	<key>deferredErrorBorder</key>
+	<string>requestInterpreterMomentum</string>
+	<key>euclideanQueueDensity</key>
+	<string>sliderBufferSaturation</string>
+	<key>fixedStatelessIndex</key>
+	<string>viewFromScope</string>
+	<key>responsePerCommand</key>
+	<string>asyncReductionInset</string>
+</dict>
+</plist>

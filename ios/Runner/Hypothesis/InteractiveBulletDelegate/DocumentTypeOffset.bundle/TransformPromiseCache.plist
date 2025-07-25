@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsOutsideChain</key>
+	<string>normalTouchIndex</string>
+	<key>handlerDecoratorMomentum</key>
+	<string>lossBeyondFramework</string>
+	<key>immutableGraphSize</key>
+	<string>spriteInsideFlyweight</string>
+	<key>observerVersusStructure</key>
+	<string>convolutionFromTier</string>
+	<key>tabbarTierSpacing</key>
+	<string>behaviorActivityOrientation</string>
+</dict>
+</plist>

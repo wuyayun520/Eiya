@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMenuVisible</key>
+	<string>managerContainWork</string>
+	<key>decorationStateMode</key>
+	<string>oldParticleTheme</string>
+	<key>durationNearPlatform</key>
+	<string>singleSubpixelStyle</string>
+	<key>exponentContextOrigin</key>
+	<string>rowUntilStage</string>
+	<key>handlerByNumber</key>
+	<string>numericalGestureState</string>
+	<key>invisibleServiceStatus</key>
+	<string>presenterAroundVisitor</string>
+	<key>tappableSpotAppearance</key>
+	<string>observerAsJob</string>
+	<key>toolPlatformVelocity</key>
+	<string>equipmentMediatorCenter</string>
+</dict>
+</plist>

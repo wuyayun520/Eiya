@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateDespiteMethod</key>
+	<string>appbarKindDepth</string>
+	<key>permanentPositionResponse</key>
+	<string>flexibleCommandPadding</string>
+	<key>presenterInComposite</key>
+	<string>histogramAsChain</string>
+	<key>responsePatternRotation</key>
+	<string>advancedGradientSize</string>
+	<key>sineStyleInterval</key>
+	<string>resilientStreamInset</string>
+	<key>sliderAlongOperation</key>
+	<string>containerViaBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitLayerCenter</key>
+	<string>appbarAroundType</string>
+	<key>paddingOfProxy</key>
+	<string>groupSingletonLeft</string>
+	<key>retainedDurationHue</key>
+	<string>cupertinoGridSpacing</string>
+	<key>routeDecoratorTransparency</key>
+	<string>entityAlongState</string>
+	<key>usageByAction</key>
+	<string>resourceCommandOrientation</string>
+</dict>
+</plist>

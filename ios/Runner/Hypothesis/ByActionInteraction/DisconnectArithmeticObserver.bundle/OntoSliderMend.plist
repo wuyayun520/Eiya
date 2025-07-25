@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentParamInteraction</key>
+	<string>loopBeyondValue</string>
+	<key>autoPreviewStatus</key>
+	<string>switchAtComposite</string>
+	<key>awaitSinceEnvironment</key>
+	<string>gesturedetectorWithActivity</string>
+	<key>draggableAlignmentSpeed</key>
+	<string>staticMemberResponse</string>
+	<key>mediocreDialogsPadding</key>
+	<string>providerBridgeShape</string>
+	<key>menuOperationOrientation</key>
+	<string>gemAndCommand</string>
+	<key>sortedEqualizationRotation</key>
+	<string>callbackInsideContext</string>
+</dict>
+</plist>

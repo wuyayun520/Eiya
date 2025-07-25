@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTabbarStyle</key>
+	<string>disparateTabviewBorder</string>
+	<key>dynamicIntensityContrast</key>
+	<string>methodByOperation</string>
+	<key>heroBeyondVar</key>
+	<string>imageParameterInteraction</string>
+	<key>interactiveZoneValidation</key>
+	<string>seamlessBoxTop</string>
+	<key>mapValueRotation</key>
+	<string>interactorAdapterTint</string>
+	<key>particleCycleTag</key>
+	<string>builderContainJob</string>
+	<key>spotContextDistance</key>
+	<string>mobileDuringActivity</string>
+	<key>switchDuringVisitor</key>
+	<string>textStrategyInteraction</string>
+</dict>
+</plist>

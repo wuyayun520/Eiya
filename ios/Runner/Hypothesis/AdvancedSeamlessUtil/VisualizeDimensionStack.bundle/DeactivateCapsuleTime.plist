@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphCycleFlags</key>
+	<string>grayscaleLikeMode</string>
+	<key>intensityModeTint</key>
+	<string>decorationAsPlatform</string>
+	<key>optionFormStyle</key>
+	<string>routeModePosition</string>
+	<key>pageviewViaScope</key>
+	<string>frameDespiteActivity</string>
+	<key>relationalAnchorBehavior</key>
+	<string>widgetStructureShape</string>
+</dict>
+</plist>

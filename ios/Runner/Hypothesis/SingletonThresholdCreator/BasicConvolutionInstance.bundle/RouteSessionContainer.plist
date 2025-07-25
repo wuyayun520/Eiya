@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationModeKind</key>
+	<string>previewProcessSpeed</string>
+	<key>durationMethodValidation</key>
+	<string>managerForStage</string>
+	<key>enabledHeapDensity</key>
+	<string>promiseSingletonMargin</string>
+	<key>labelJobFrequency</key>
+	<string>commandActivityDirection</string>
+	<key>marginForTask</key>
+	<string>prismaticOperationOffset</string>
+	<key>optionMementoOrigin</key>
+	<string>sophisticatedReducerPosition</string>
+	<key>popupWorkFlags</key>
+	<string>denseControllerDuration</string>
+	<key>profileStateFlags</key>
+	<string>immutableStateDuration</string>
+	<key>responseAwayBuffer</key>
+	<string>significantBrushInset</string>
+	<key>similarIsolateBound</key>
+	<string>curveCommandAlignment</string>
+</dict>
+</plist>

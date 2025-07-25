@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAlongTier</key>
+	<string>eventOrContext</string>
+	<key>dedicatedTimerShape</key>
+	<string>tangentBufferSpeed</string>
+	<key>missionContainSingleton</key>
+	<string>streamVersusOperation</string>
+	<key>monsterWorkBorder</key>
+	<string>curveProcessAlignment</string>
+	<key>substantialSizeOrientation</key>
+	<string>difficultGesturedetectorSpeed</string>
+	<key>tableCommandFeedback</key>
+	<string>sliderParameterLeft</string>
+	<key>ternaryLevelCenter</key>
+	<string>mobxAmongFunction</string>
+	<key>viewVariableForce</key>
+	<string>immediateCompositionTheme</string>
+</dict>
+</plist>

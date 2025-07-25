@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAsWork</key>
+	<string>sliderWithoutCycle</string>
+	<key>behaviorAgainstLevel</key>
+	<string>materialOperationTransparency</string>
+	<key>contractionKindLocation</key>
+	<string>subpixelVersusObserver</string>
+	<key>durationFlyweightVelocity</key>
+	<string>bulletLikeMemento</string>
+	<key>handlerPrototypeValidation</key>
+	<string>collectionBeyondNumber</string>
+	<key>injectionAlongAdapter</key>
+	<string>allocatorStateTail</string>
+	<key>relationalCaptionAppearance</key>
+	<string>notificationFunctionPadding</string>
+	<key>sceneValueVisible</key>
+	<string>compositionVisitorAlignment</string>
+</dict>
+</plist>

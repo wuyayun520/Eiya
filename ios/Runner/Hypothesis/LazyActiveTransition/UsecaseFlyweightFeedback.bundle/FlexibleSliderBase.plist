@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTechniqueBehavior</key>
+	<string>animatedCoordinatorScale</string>
+	<key>concurrentTweenOrientation</key>
+	<string>logarithmNumberSkewx</string>
+	<key>isolateOfCommand</key>
+	<string>symbolAboutProxy</string>
+	<key>requestForWork</key>
+	<string>titleActionRotation</string>
+	<key>standaloneProfileColor</key>
+	<string>firstScaffoldDuration</string>
+	<key>stateStrategySaturation</key>
+	<string>resizableSingletonScale</string>
+	<key>tickerFormShade</key>
+	<string>frameOrValue</string>
+	<key>visiblePainterVisible</key>
+	<string>buttonCommandFlags</string>
+</dict>
+</plist>

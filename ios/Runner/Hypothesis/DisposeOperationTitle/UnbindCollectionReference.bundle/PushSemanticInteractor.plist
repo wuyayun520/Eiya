@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalSegmentStatus</key>
+	<string>listviewBufferValidation</string>
+	<key>nodeAboutShape</key>
+	<string>catalystAdapterTop</string>
+</dict>
+</plist>

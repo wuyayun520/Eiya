@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSinceVisitor</key>
+	<string>webRequestPosition</string>
+	<key>checkboxDecoratorOffset</key>
+	<string>canvasPlatformDensity</string>
+	<key>nibStyleColor</key>
+	<string>unsortedPageviewSpeed</string>
+	<key>prevFeatureKind</key>
+	<string>accessibleSpecifierValidation</string>
+	<key>radiusBridgeTop</key>
+	<string>listenerWithVariable</string>
+</dict>
+</plist>

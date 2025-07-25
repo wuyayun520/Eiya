@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseOrStyle</key>
+	<string>taskObserverBound</string>
+	<key>buttonMediatorOrigin</key>
+	<string>buttonProcessKind</string>
+	<key>clipperWorkInterval</key>
+	<string>cupertinoAtMethod</string>
+	<key>labelSystemHead</key>
+	<string>notifierStateResponse</string>
+	<key>originalTaskVelocity</key>
+	<string>statefulOperationVelocity</string>
+	<key>pointWithoutLevel</key>
+	<string>heapCommandMomentum</string>
+	<key>progressbarTaskSkewy</key>
+	<string>asynchronousOptionAcceleration</string>
+	<key>reducerFunctionDuration</key>
+	<string>directlyDescriptionSkewy</string>
+	<key>usecaseProxyTheme</key>
+	<string>missionCommandInset</string>
+</dict>
+</plist>

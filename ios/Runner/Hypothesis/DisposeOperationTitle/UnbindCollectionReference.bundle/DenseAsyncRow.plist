@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAtAction</key>
+	<string>localResolverMode</string>
+	<key>coordinatorVariableContrast</key>
+	<string>coordinatorPrototypeInteraction</string>
+	<key>exceptionAgainstNumber</key>
+	<string>widgetNumberScale</string>
+	<key>localizationExceptKind</key>
+	<string>flexNumberDuration</string>
+	<key>mobileTaskContrast</key>
+	<string>frameMethodFlags</string>
+	<key>nodePrototypeDensity</key>
+	<string>ternaryLikeOperation</string>
+	<key>resultVersusPlatform</key>
+	<string>assetWithProcess</string>
+	<key>widgetCommandInset</key>
+	<string>integerActionColor</string>
+</dict>
+</plist>

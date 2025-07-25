@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDelegateType</key>
+	<string>dialogsNearCommand</string>
+	<key>priorOperationColor</key>
+	<string>timerPerVariable</string>
+	<key>repositoryVisitorCoord</key>
+	<string>axisObserverFeedback</string>
+	<key>scrollableQueryVelocity</key>
+	<string>toolStructureMomentum</string>
+</dict>
+</plist>

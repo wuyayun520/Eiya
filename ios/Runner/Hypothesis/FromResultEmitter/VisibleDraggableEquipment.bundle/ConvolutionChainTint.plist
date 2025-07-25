@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisCompositeEdge</key>
+	<string>mobileTypeColor</string>
+	<key>canvasPerContext</key>
+	<string>accessibleChapterBottom</string>
+	<key>crucialServiceSkewx</key>
+	<string>dependencyBufferTop</string>
+	<key>gridOrMode</key>
+	<string>reusableEqualizationDepth</string>
+	<key>shaderSinceComposite</key>
+	<string>projectionContextSpacing</string>
+</dict>
+</plist>

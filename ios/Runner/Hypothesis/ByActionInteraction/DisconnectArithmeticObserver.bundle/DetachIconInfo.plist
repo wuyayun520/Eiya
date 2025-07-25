@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAnimationPadding</key>
+	<string>subtleEffectAcceleration</string>
+	<key>inkwellBesideKind</key>
+	<string>popupForMediator</string>
+	<key>pageviewActivityOrigin</key>
+	<string>radiusPhaseSaturation</string>
+	<key>sliderActivitySkewy</key>
+	<string>referenceFlyweightValidation</string>
+	<key>subtleSemanticsColor</key>
+	<string>controllerParamOffset</string>
+</dict>
+</plist>

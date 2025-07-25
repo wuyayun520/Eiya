@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPrototypeBehavior</key>
+	<string>semanticsChainStyle</string>
+	<key>clipperStateBorder</key>
+	<string>decorationMediatorPosition</string>
+	<key>completerCompositeBottom</key>
+	<string>loopStructureTension</string>
+	<key>completerViaInterpreter</key>
+	<string>contractionByState</string>
+	<key>imperativeObserverDelay</key>
+	<string>scrollBridgeDistance</string>
+	<key>nibMediatorDepth</key>
+	<string>cubitPlatformCenter</string>
+	<key>responsiveCosineVelocity</key>
+	<string>curveAlongCycle</string>
+	<key>widgetOutsideStrategy</key>
+	<string>errorFormSpacing</string>
+</dict>
+</plist>

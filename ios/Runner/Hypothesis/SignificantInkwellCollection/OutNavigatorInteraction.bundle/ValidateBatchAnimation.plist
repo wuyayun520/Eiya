@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBaseFeedback</key>
+	<string>viewStructureVisible</string>
+	<key>aspectratioFrameworkInterval</key>
+	<string>eagerFeatureSaturation</string>
+	<key>priorIndicatorContrast</key>
+	<string>subsequentZoneDuration</string>
+	<key>sizeExceptFlyweight</key>
+	<string>lazyInjectionSpeed</string>
+	<key>statelessBrushForce</key>
+	<string>keyStreamBottom</string>
+	<key>subscriptionInSingleton</key>
+	<string>ephemeralLayerIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBufferMode</key>
+	<string>draggableCachePressure</string>
+	<key>axisWithoutKind</key>
+	<string>lastMarginDistance</string>
+	<key>boxshadowBesideTier</key>
+	<string>providerUntilState</string>
+	<key>consultativeScaffoldVisible</key>
+	<string>localizationTaskPressure</string>
+	<key>progressbarStyleTag</key>
+	<string>tabbarAboutStrategy</string>
+</dict>
+</plist>

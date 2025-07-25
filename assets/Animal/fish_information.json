@@ -1,0 +1,364 @@
+{
+  "fish": [
+    {
+      "id": "fish_1",
+      "name": "Koi Galaxy Betta",
+      "species": "Betta splendens (Siamese Fighting Fish)",
+      "description": "A highly vibrant male Betta fish with a striking 'Koi' or 'Galaxy Koi' pattern. The fish displays a rich tapestry of colors with black and bright yellow body, interspersed with iridescent purple/violet patches and hints of light blue/teal. Large, flowing fins characteristic of a male Betta with spectacular color blending.",
+      "characteristics": {
+        "body_color": "Black and bright yellow with iridescent purple/violet patches",
+        "fin_colors": "Deep purple/violet, bright yellow, vivid teal/green/blue",
+        "fin_type": "Large flowing fins (Halfmoon or Super Delta variety)",
+        "size": "Small (2-3 inches)",
+        "temperament": "Aggressive towards other males, territorial",
+        "distinguishing_features": "Koi/Galaxy pattern, large colorful fins, iridescent scales"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 5 gallons for single Betta",
+          "water_parameters": "Temperature 76-82°F, pH 6.5-7.5, soft to moderately hard water",
+          "filtration": "Gentle filter, avoid strong currents",
+          "heating": "Heater required to maintain stable temperature"
+        },
+        "water_quality": {
+          "water_changes": "25-50% weekly water changes",
+          "water_conditioning": "Use water conditioner to remove chlorine/chloramine",
+          "testing": "Regular testing for ammonia, nitrite, nitrate, pH",
+          "substrate": "Fine gravel or sand, avoid sharp edges"
+        },
+        "feeding": {
+          "diet": "High-quality Betta pellets, frozen/live foods",
+          "feeding_schedule": "2-3 small meals daily",
+          "food_types": "Betta pellets, bloodworms, brine shrimp, daphnia",
+          "special_notes": "Avoid overfeeding, remove uneaten food"
+        },
+        "environment": {
+          "decorations": "Live or silk plants, hiding places, smooth decorations",
+          "lighting": "Moderate lighting, 8-12 hours daily",
+          "tank_mates": "No other male Bettas, peaceful community fish only",
+          "resting_areas": "Floating plants or leaves for resting"
+        },
+        "health": {
+          "disease_prevention": "Quarantine new fish, maintain clean water",
+          "common_issues": "Fin rot, ich, velvet disease",
+          "signs_of_illness": "Clamped fins, loss of color, lethargy, loss of appetite",
+          "medication": "Betta-specific medications available"
+        }
+      },
+      "image_reference": "assets/Animal/fish_1.jpg",
+      "image_description": "Vibrant Koi Galaxy Betta fish with colorful flowing fins in aquarium"
+    },
+    {
+      "id": "fish_2",
+      "name": "Iridescent Cichlids",
+      "species": "Geophagus or similar Cichlid species",
+      "description": "Multiple vibrantly colored, iridescent fish with elongated bodies and striking rainbow-like coloration. Fish display shimmering scales with pink, purple, blue, green, red, and orange colors. Long, flowing pelvic fins and prominent dorsal fins. Reddish-orange iris eyes.",
+      "characteristics": {
+        "body_color": "Iridescent pink, purple, blue, green, red, orange",
+        "fin_colors": "Rainbow spectrum with pink, blue, green, red stripes",
+        "fin_type": "Long flowing pelvic fins, prominent dorsal fins",
+        "size": "Medium (4-6 inches)",
+        "temperament": "Generally peaceful, may be territorial",
+        "distinguishing_features": "Iridescent scales, long flowing fins, reddish-orange eyes"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 30 gallons for group",
+          "water_parameters": "Temperature 75-82°F, pH 6.5-7.5, soft to moderately hard",
+          "filtration": "Good filtration with regular maintenance",
+          "heating": "Heater required for stable temperature"
+        },
+        "water_quality": {
+          "water_changes": "25-30% weekly water changes",
+          "water_conditioning": "Use water conditioner",
+          "testing": "Regular testing for ammonia, nitrite, nitrate, pH",
+          "substrate": "Fine sand or gravel, natural appearance"
+        },
+        "feeding": {
+          "diet": "High-quality cichlid pellets, frozen/live foods",
+          "feeding_schedule": "2-3 times daily",
+          "food_types": "Cichlid pellets, bloodworms, brine shrimp, vegetables",
+          "special_notes": "Varied diet important for health and coloration"
+        },
+        "environment": {
+          "decorations": "Rocks, driftwood, plants, hiding places",
+          "lighting": "Moderate lighting, 8-10 hours daily",
+          "tank_mates": "Peaceful community fish, avoid aggressive species",
+          "territory": "Provide multiple territories and hiding spots"
+        },
+        "health": {
+          "disease_prevention": "Quarantine new fish, clean water",
+          "common_issues": "Ich, fin rot, bacterial infections",
+          "signs_of_illness": "Loss of color, clamped fins, rapid breathing",
+          "medication": "Cichlid-safe medications"
+        }
+      },
+      "image_reference": "assets/Animal/fish_2.jpg",
+      "image_description": "Multiple iridescent cichlids with rainbow colors and long flowing fins"
+    },
+    {
+      "id": "fish_3",
+      "name": "Blue and Red Betta",
+      "species": "Betta splendens (Siamese Fighting Fish)",
+      "description": "A vibrant male Betta fish with deep iridescent blue body transitioning to rich purple towards the tail. Large, flowing fins displaying stunning gradient of deep red, magenta, purple, and blue colors. Halfmoon or Super Delta fin variety with expansive, rounded shape.",
+      "characteristics": {
+        "body_color": "Deep iridescent blue transitioning to rich purple",
+        "fin_colors": "Deep red, magenta, purple, blue gradient",
+        "fin_type": "Large flowing fins (Halfmoon or Super Delta)",
+        "size": "Small (2-3 inches)",
+        "temperament": "Aggressive towards other males, territorial",
+        "distinguishing_features": "Blue-purple body, red-edged fins, large flowing fins"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 5 gallons for single Betta",
+          "water_parameters": "Temperature 76-82°F, pH 6.5-7.5, soft to moderately hard water",
+          "filtration": "Gentle filter, avoid strong currents",
+          "heating": "Heater required to maintain stable temperature"
+        },
+        "water_quality": {
+          "water_changes": "25-50% weekly water changes",
+          "water_conditioning": "Use water conditioner to remove chlorine/chloramine",
+          "testing": "Regular testing for ammonia, nitrite, nitrate, pH",
+          "substrate": "Fine gravel or sand, avoid sharp edges"
+        },
+        "feeding": {
+          "diet": "High-quality Betta pellets, frozen/live foods",
+          "feeding_schedule": "2-3 small meals daily",
+          "food_types": "Betta pellets, bloodworms, brine shrimp, daphnia",
+          "special_notes": "Avoid overfeeding, remove uneaten food"
+        },
+        "environment": {
+          "decorations": "Live or silk plants, hiding places, smooth decorations",
+          "lighting": "Moderate lighting, 8-12 hours daily",
+          "tank_mates": "No other male Bettas, peaceful community fish only",
+          "resting_areas": "Floating plants or leaves for resting"
+        },
+        "health": {
+          "disease_prevention": "Quarantine new fish, maintain clean water",
+          "common_issues": "Fin rot, ich, velvet disease",
+          "signs_of_illness": "Clamped fins, loss of color, lethargy, loss of appetite",
+          "medication": "Betta-specific medications available"
+        }
+      },
+      "image_reference": "assets/Animal/fish_3.jpg",
+      "image_description": "Blue and red Betta fish with large flowing fins in aquarium"
+    },
+    {
+      "id": "fish_4",
+      "name": "Golden Angelfish",
+      "species": "Pterophyllum scalare (Angelfish)",
+      "description": "A striking Angelfish with bright yellow/golden-orange head and upper body, transitioning to silvery-white mid-body. Irregular black markings and spots on body and fins. Tall, elongated dorsal fin and large fan-shaped anal fin with black patterns.",
+      "characteristics": {
+        "body_color": "Bright yellow/golden-orange head, silvery-white body",
+        "fin_colors": "Yellow/orange base, translucent white/light blue tips",
+        "fin_type": "Tall elongated dorsal fin, large fan-shaped anal fin",
+        "size": "Medium to large (6-8 inches)",
+        "temperament": "Generally peaceful, may be territorial during breeding",
+        "distinguishing_features": "Golden head, black markings, tall fins, thread-like pelvic fins"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 30 gallons for single, 55+ for group",
+          "water_parameters": "Temperature 75-82°F, pH 6.5-7.5, soft to moderately hard",
+          "filtration": "Good filtration with gentle flow",
+          "heating": "Heater required for stable temperature"
+        },
+        "water_quality": {
+          "water_changes": "25-30% weekly water changes",
+          "water_conditioning": "Use water conditioner",
+          "testing": "Regular testing for ammonia, nitrite, nitrate, pH",
+          "substrate": "Fine gravel or sand"
+        },
+        "feeding": {
+          "diet": "High-quality flakes, pellets, frozen/live foods",
+          "feeding_schedule": "2-3 times daily",
+          "food_types": "Angelfish flakes, bloodworms, brine shrimp, vegetables",
+          "special_notes": "Varied diet important for health and growth"
+        },
+        "environment": {
+          "decorations": "Tall plants, driftwood, smooth rocks",
+          "lighting": "Moderate lighting, 8-10 hours daily",
+          "tank_mates": "Peaceful community fish, avoid fin-nippers",
+          "swimming_space": "Open swimming areas with plant cover"
+        },
+        "health": {
+          "disease_prevention": "Quarantine new fish, clean water",
+          "common_issues": "Ich, fin rot, hole-in-the-head disease",
+          "signs_of_illness": "Loss of color, clamped fins, rapid breathing",
+          "medication": "Angelfish-safe medications"
+        }
+      },
+      "image_reference": "assets/Animal/fish_4.jpg",
+      "image_description": "Golden Angelfish with black markings and tall fins in aquarium"
+    },
+    {
+      "id": "fish_5",
+      "name": "Peach Cichlid with Red Eye",
+      "species": "Cichlid species (possibly Geophagus or similar)",
+      "description": "A large, light-colored cichlid with soft pale orange/peach body and subtle horizontal banding. Most striking feature is the bright, intense red eye with dark pupil. Translucent fins with hints of blue, purple, and pink. Distinct red ventral fins.",
+      "characteristics": {
+        "body_color": "Soft pale orange/peach with horizontal banding",
+        "fin_colors": "Translucent with blue, purple, pink hints, red ventral fins",
+        "fin_type": "Translucent fins with delicate coloration",
+        "size": "Large (6-8 inches)",
+        "temperament": "Generally peaceful, may be territorial",
+        "distinguishing_features": "Bright red eye, peach body, translucent fins"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 40 gallons for single, 75+ for group",
+          "water_parameters": "Temperature 75-82°F, pH 6.5-7.5, soft to moderately hard",
+          "filtration": "Good filtration with regular maintenance",
+          "heating": "Heater required for stable temperature"
+        },
+        "water_quality": {
+          "water_changes": "25-30% weekly water changes",
+          "water_conditioning": "Use water conditioner",
+          "testing": "Regular testing for ammonia, nitrite, nitrate, pH",
+          "substrate": "Fine sand or gravel, natural appearance"
+        },
+        "feeding": {
+          "diet": "High-quality cichlid pellets, frozen/live foods",
+          "feeding_schedule": "2-3 times daily",
+          "food_types": "Cichlid pellets, bloodworms, brine shrimp, vegetables",
+          "special_notes": "Varied diet important for health and coloration"
+        },
+        "environment": {
+          "decorations": "Rocks, driftwood, plants, hiding places",
+          "lighting": "Moderate lighting, 8-10 hours daily",
+          "tank_mates": "Peaceful community fish, avoid aggressive species",
+          "territory": "Provide multiple territories and hiding spots"
+        },
+        "health": {
+          "disease_prevention": "Quarantine new fish, clean water",
+          "common_issues": "Ich, fin rot, bacterial infections",
+          "signs_of_illness": "Loss of color, clamped fins, rapid breathing",
+          "medication": "Cichlid-safe medications"
+        }
+      },
+      "image_reference": "assets/Animal/fish_5.jpg",
+      "image_description": "Peach-colored cichlid with bright red eye and translucent fins in planted aquarium"
+    },
+    {
+      "id": "fish_6",
+      "name": "Blood Parrot Cichlid",
+      "species": "Blood Parrot Cichlid (Hybrid)",
+      "description": "A plump, rounded fish with distinctive permanently open or downturned mouth giving it a unique 'beak-like' appearance. Soft, uniform light pink/peach body with subtle shading variations. Dark prominent eye with reddish iris. Spiky dorsal fin with iridescent blue/purple tips.",
+      "characteristics": {
+        "body_color": "Soft uniform light pink/peach with subtle shading",
+        "fin_colors": "Translucent with iridescent blue/purple tips, deeper reddish-pink lower fins",
+        "fin_type": "Spiky dorsal fin, fan-shaped pectoral fins",
+        "size": "Medium to large (6-8 inches)",
+        "temperament": "Generally peaceful, may be territorial",
+        "distinguishing_features": "Beak-like mouth, pink body, spiky dorsal fin"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 30 gallons for single, 55+ for group",
+          "water_parameters": "Temperature 75-82°F, pH 6.5-7.5, soft to moderately hard",
+          "filtration": "Good filtration with regular maintenance",
+          "heating": "Heater required for stable temperature"
+        },
+        "water_quality": {
+          "water_changes": "25-30% weekly water changes",
+          "water_conditioning": "Use water conditioner",
+          "testing": "Regular testing for ammonia, nitrite, nitrate, pH",
+          "substrate": "Fine gravel or sand"
+        },
+        "feeding": {
+          "diet": "High-quality cichlid pellets, frozen/live foods",
+          "feeding_schedule": "2-3 times daily",
+          "food_types": "Cichlid pellets, bloodworms, brine shrimp, vegetables",
+          "special_notes": "May have difficulty eating due to mouth shape"
+        },
+        "environment": {
+          "decorations": "Rocks, driftwood, plants, hiding places",
+          "lighting": "Moderate lighting, 8-10 hours daily",
+          "tank_mates": "Peaceful community fish, avoid aggressive species",
+          "territory": "Provide multiple territories and hiding spots"
+        },
+        "health": {
+          "disease_prevention": "Quarantine new fish, clean water",
+          "common_issues": "Ich, fin rot, bacterial infections, mouth deformities",
+          "signs_of_illness": "Loss of color, clamped fins, rapid breathing",
+          "medication": "Cichlid-safe medications"
+        },
+        "special_care": {
+          "feeding_assistance": "May need smaller food particles due to mouth shape",
+          "water_quality": "Excellent water quality essential due to hybrid nature",
+          "breeding": "Hybrid fish, breeding not recommended"
+        }
+      },
+      "image_reference": "assets/Animal/fish_6.jpg",
+      "image_description": "Pink Blood Parrot Cichlid with beak-like mouth in planted aquarium"
+    }
+  ],
+  "general_care_guidelines": {
+    "aquarium_setup": {
+      "tank_cycling": "Cycle tank before adding fish",
+      "water_parameters": "Regular testing for ammonia, nitrite, nitrate, pH",
+      "filtration": "Appropriate filter for tank size and fish load",
+      "heating": "Heater required for tropical fish"
+    },
+    "water_quality": {
+      "water_changes": "25-50% weekly depending on fish load",
+      "water_conditioning": "Always use water conditioner",
+      "testing_frequency": "Weekly testing for established tanks",
+      "substrate_cleaning": "Vacuum substrate during water changes"
+    },
+    "feeding": {
+      "quality_food": "High-quality species-appropriate food",
+      "feeding_schedule": "2-3 times daily for most species",
+      "portion_control": "Only feed what fish can consume in 2-3 minutes",
+      "variety": "Offer varied diet for optimal health"
+    },
+    "environment": {
+      "decorations": "Safe, smooth decorations without sharp edges",
+      "plants": "Live or silk plants for natural environment",
+      "lighting": "8-12 hours daily, avoid excessive light",
+      "hiding_places": "Provide hiding spots for fish security"
+    },
+    "health": {
+      "quarantine": "Quarantine new fish for 2-4 weeks",
+      "disease_prevention": "Maintain excellent water quality",
+      "signs_of_illness": "Monitor for behavioral and physical changes",
+      "medication": "Use species-appropriate medications"
+    }
+  },
+  "emergency_information": {
+    "signs_of_illness": [
+      "Loss of appetite or color",
+      "Clamped fins or rapid breathing",
+      "White spots or fuzzy growths",
+      "Erratic swimming or lethargy",
+      "Visible parasites or wounds",
+      "Cloudy eyes or bloated appearance"
+    ],
+    "emergency_contacts": {
+      "aquarium_store": "Contact local aquarium store for advice",
+      "veterinarian": "Find fish veterinarian if available",
+      "online_resources": "Aquarium forums and fish disease guides"
+    }
+  },
+  "species_specific_considerations": {
+    "bettas": {
+      "tank_mates": "No other male bettas, peaceful community only",
+      "water_flow": "Gentle filtration, avoid strong currents",
+      "resting_areas": "Floating plants or leaves for resting",
+      "feeding": "Small, frequent meals"
+    },
+    "cichlids": {
+      "territory": "Provide multiple territories and hiding spots",
+      "water_quality": "Excellent water quality essential",
+      "feeding": "Varied diet important for health",
+      "breeding": "May become aggressive during breeding"
+    },
+    "angelfish": {
+      "tank_height": "Tall tank preferred for swimming",
+      "tank_mates": "Peaceful community fish, avoid fin-nippers",
+      "water_parameters": "Stable water conditions important",
+      "breeding": "Form pairs, may become territorial"
+    }
+  }
+} 

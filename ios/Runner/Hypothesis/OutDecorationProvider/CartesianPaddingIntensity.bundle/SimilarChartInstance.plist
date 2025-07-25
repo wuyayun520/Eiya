@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaqueryTierHead</key>
+	<string>mediumNavigatorSpeed</string>
+	<key>priorLayerBrightness</key>
+	<string>nodePerFacade</string>
+	<key>resultDuringForm</key>
+	<string>projectContainSystem</string>
+	<key>storageInterpreterBottom</key>
+	<string>stackPatternAppearance</string>
+	<key>tabviewAwayLayer</key>
+	<string>stateValueInset</string>
+</dict>
+</plist>

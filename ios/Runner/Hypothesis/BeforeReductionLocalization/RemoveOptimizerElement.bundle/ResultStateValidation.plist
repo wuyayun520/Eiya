@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPatternDelay</key>
+	<string>routeBeyondMethod</string>
+	<key>curveCommandEdge</key>
+	<string>equalizationThroughLevel</string>
+	<key>interpolationAwayAdapter</key>
+	<string>declarativeListenerInterval</string>
+	<key>matrixOfActivity</key>
+	<string>hashKindTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStrategyFlags</key>
+	<string>cycleAwayTier</string>
+	<key>chartForType</key>
+	<string>priorityKindVisibility</string>
+	<key>dedicatedCacheRotation</key>
+	<string>cacheProcessScale</string>
+	<key>enabledGrainEdge</key>
+	<string>decorationThroughKind</string>
+	<key>layerExceptMemento</key>
+	<string>providerLevelInset</string>
+	<key>materialUntilState</key>
+	<string>scaffoldExceptVisitor</string>
+	<key>mobxContextTheme</key>
+	<string>heroFunctionFeedback</string>
+	<key>pointAroundCommand</key>
+	<string>hierarchicalQueryHue</string>
+	<key>sizeAtVariable</key>
+	<string>groupAboutVar</string>
+	<key>tableValueName</key>
+	<string>drawerPlatformFormat</string>
+</dict>
+</plist>

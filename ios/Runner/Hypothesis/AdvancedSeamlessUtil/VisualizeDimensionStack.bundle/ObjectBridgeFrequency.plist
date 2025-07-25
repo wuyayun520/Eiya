@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDialogsTop</key>
+	<string>intermediateDurationVisible</string>
+	<key>containerChainTransparency</key>
+	<string>expandedForOperation</string>
+	<key>fragmentParameterSkewy</key>
+	<string>sampleExceptStructure</string>
+	<key>functionalRadiusForce</key>
+	<string>previewForEnvironment</string>
+	<key>sinkExceptMethod</key>
+	<string>localPriorityVelocity</string>
+	<key>tabviewVisitorLocation</key>
+	<string>delegateNearFlyweight</string>
+</dict>
+</plist>

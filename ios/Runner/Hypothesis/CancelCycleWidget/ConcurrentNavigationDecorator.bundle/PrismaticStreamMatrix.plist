@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowFunctionOffset</key>
+	<string>popupMementoOffset</string>
+	<key>flexFlyweightTheme</key>
+	<string>constBlocTheme</string>
+	<key>graphWorkSaturation</key>
+	<string>singleSwitchVisible</string>
+	<key>iconNearStyle</key>
+	<string>compositionalMenuPressure</string>
+	<key>navigatorExceptPrototype</key>
+	<string>rapidRouteOrigin</string>
+	<key>notificationScopeCoord</key>
+	<string>elasticActivityBrightness</string>
+	<key>usecaseOrMemento</key>
+	<string>callbackOfForm</string>
+</dict>
+</plist>

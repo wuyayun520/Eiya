@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisViaMethod</key>
+	<string>radiusStrategyLeft</string>
+	<key>channelsPerStrategy</key>
+	<string>concretePositionContrast</string>
+	<key>ignoredCatalystDelay</key>
+	<string>lostBatchBorder</string>
+	<key>multiStatefulColor</key>
+	<string>hierarchicalTextureStatus</string>
+	<key>resolverUntilForm</key>
+	<string>buttonStructureOffset</string>
+	<key>resourceFunctionBound</key>
+	<string>overlayIncludeType</string>
+	<key>statelessAnimationOrigin</key>
+	<string>requiredProgressbarAlignment</string>
+	<key>symmetricCanvasEdge</key>
+	<string>graphIncludeSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBesidePhase</key>
+	<string>tickerCommandVisibility</string>
+	<key>currentSkinInteraction</key>
+	<string>interactorParamDelay</string>
+	<key>declarativeAwaitStyle</key>
+	<string>layerAlongComposite</string>
+	<key>functionalViewSaturation</key>
+	<string>scrollableProviderTransparency</string>
+	<key>gridInStructure</key>
+	<string>textDecoratorBound</string>
+</dict>
+</plist>

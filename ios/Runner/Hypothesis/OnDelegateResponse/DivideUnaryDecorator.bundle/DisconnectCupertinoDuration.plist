@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStoryboardOpacity</key>
+	<string>localizationMethodCoord</string>
+	<key>disabledListenerBehavior</key>
+	<string>gestureWorkVelocity</string>
+	<key>intensityModeFlags</key>
+	<string>textPerParameter</string>
+	<key>navigatorLikeStrategy</key>
+	<string>rapidMenuVisible</string>
+	<key>projectionFormLocation</key>
+	<string>interpolationKindType</string>
+	<key>reducerBridgeFormat</key>
+	<string>titleContainSingleton</string>
+	<key>sceneOrMemento</key>
+	<string>constraintVersusParam</string>
+	<key>vectorBridgeBrightness</key>
+	<string>ephemeralBlocShade</string>
+	<key>widgetMementoHue</key>
+	<string>activatedMaterialBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnFromPhase</key>
+	<string>mediaActivityKind</string>
+	<key>concreteTextureForce</key>
+	<string>requestThroughCommand</string>
+	<key>fixedMapOrigin</key>
+	<string>brushAsContext</string>
+	<key>ignoredCommandTag</key>
+	<string>containerDuringMediator</string>
+	<key>permissiveGridviewHead</key>
+	<string>assetStageAcceleration</string>
+	<key>reductionMediatorContrast</key>
+	<string>groupActionLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredActivityBorder</key>
+	<string>queueSingletonLocation</string>
+	<key>fragmentContextBorder</key>
+	<string>signatureParameterFrequency</string>
+	<key>imperativeBaseValidation</key>
+	<string>nodeActionTint</string>
+	<key>logarithmAboutObserver</key>
+	<string>resourceInChain</string>
+	<key>pinchableLocalizationTint</key>
+	<string>cartesianCharacterFlags</string>
+</dict>
+</plist>

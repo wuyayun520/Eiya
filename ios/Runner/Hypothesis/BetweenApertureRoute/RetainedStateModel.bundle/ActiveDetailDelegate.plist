@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartBesideStructure</key>
+	<string>easyUsecaseFeedback</string>
+	<key>concurrentManagerStyle</key>
+	<string>inactiveCoordinatorBorder</string>
+	<key>exceptionDuringMemento</key>
+	<string>lostSizedboxSkewx</string>
+	<key>oldFeatureCoord</key>
+	<string>cycleJobEdge</string>
+	<key>protocolJobTail</key>
+	<string>nodeAndVar</string>
+	<key>routerNearPhase</key>
+	<string>sequentialConstraintPosition</string>
+	<key>scaleVersusProxy</key>
+	<string>sliderFormVisible</string>
+	<key>viewDuringEnvironment</key>
+	<string>widgetAboutAction</string>
+</dict>
+</plist>

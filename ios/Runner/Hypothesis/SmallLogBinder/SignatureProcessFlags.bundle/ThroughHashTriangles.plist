@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTempleLocation</key>
+	<string>arithmeticGroupContrast</string>
+	<key>animatedMobxDuration</key>
+	<string>accessibleAnimationContrast</string>
+	<key>commandFormBrightness</key>
+	<string>mainTransitionColor</string>
+	<key>frameOperationName</key>
+	<string>queryByFramework</string>
+	<key>gramOutsideBridge</key>
+	<string>globalWidgetDistance</string>
+	<key>interpolationNumberTheme</key>
+	<string>skinStructureOrigin</string>
+	<key>invisibleLogarithmAppearance</key>
+	<string>directlyLoopFormat</string>
+	<key>metadataActionDuration</key>
+	<string>localCubitMode</string>
+	<key>seamlessBlocStatus</key>
+	<string>intermediateMetadataScale</string>
+	<key>touchOfDecorator</key>
+	<string>concurrentSessionDistance</string>
+</dict>
+</plist>

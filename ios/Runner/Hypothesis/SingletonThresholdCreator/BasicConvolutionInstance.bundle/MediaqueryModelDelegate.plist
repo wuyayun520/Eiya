@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constEqualizationPosition</key>
+	<string>basicBlocTail</string>
+	<key>cycleInsideSystem</key>
+	<string>standaloneScaleHead</string>
+	<key>directFragmentDelay</key>
+	<string>profileForFunction</string>
+	<key>exceptionLikeSystem</key>
+	<string>agileStatefulDepth</string>
+	<key>sharedButtonInset</key>
+	<string>pinchableNormRate</string>
+	<key>sophisticatedRadioDelay</key>
+	<string>aspectFunctionRate</string>
+	<key>textfieldPerMethod</key>
+	<string>tensorScrollInset</string>
+	<key>transitionAdapterRate</key>
+	<string>stateFunctionOrientation</string>
+</dict>
+</plist>

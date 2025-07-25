@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalLoopAppearance</key>
+	<string>sharedCompletionVisible</string>
+	<key>resolverExceptType</key>
+	<string>opaqueVectorVisibility</string>
+	<key>toolFromStrategy</key>
+	<string>nativeStoreState</string>
+	<key>vectorIncludeOperation</key>
+	<string>containerBridgeInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCurveInteraction</key>
+	<string>retainedTabbarKind</string>
+	<key>dialogsKindVelocity</key>
+	<string>decorationFrameworkRate</string>
+	<key>featureAndForm</key>
+	<string>textureParameterVelocity</string>
+	<key>grainThanLayer</key>
+	<string>similarCompositionType</string>
+	<key>pinchableMaterialMargin</key>
+	<string>groupFacadeContrast</string>
+	<key>plateModeTint</key>
+	<string>operationNearScope</string>
+	<key>queueAlongShape</key>
+	<string>referenceThanFlyweight</string>
+	<key>specifierJobOpacity</key>
+	<string>providerInterpreterBorder</string>
+	<key>spriteStyleLocation</key>
+	<string>overlayBesideLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitForTier</key>
+	<string>rapidAwaitBottom</string>
+	<key>ignoredBufferFormat</key>
+	<string>standaloneTickerHead</string>
+	<key>mainInstructionOffset</key>
+	<string>blocPrototypeValidation</string>
+	<key>reactiveGrayscaleFormat</key>
+	<string>largeBorderDelay</string>
+	<key>requiredChannelRight</key>
+	<string>gemWithoutPlatform</string>
+	<key>threadExceptSingleton</key>
+	<string>layoutForTask</string>
+	<key>usecaseVariableMargin</key>
+	<string>asynchronousAccessoryTail</string>
+	<key>usedSliderPosition</key>
+	<string>durationStyleTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelStageRight</key>
+	<string>overlayAndPhase</string>
+	<key>descriptionTierValidation</key>
+	<string>coordinatorDecoratorPosition</string>
+	<key>groupWorkStatus</key>
+	<string>cubitIncludeKind</string>
+	<key>mediocreMapForce</key>
+	<string>navigationContainKind</string>
+	<key>subscriptionFacadeType</key>
+	<string>collectionTaskFlags</string>
+</dict>
+</plist>

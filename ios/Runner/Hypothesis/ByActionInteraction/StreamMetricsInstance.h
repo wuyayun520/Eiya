@@ -1,0 +1,18 @@
+#import "NextGranularStorage.h"
+#import "UnactivatedRouterFrame.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface StreamMetricsInstance : NSObject
+
+
+- (void) stringifyDisplayableQueue;
+
+- (void) persistPivotalAsset;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

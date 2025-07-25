@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionContainVariable</key>
+	<string>cardModeHue</string>
+	<key>grainJobValidation</key>
+	<string>menuStylePosition</string>
+	<key>lazyModelVelocity</key>
+	<string>allocatorIncludeProxy</string>
+	<key>navigatorContextSaturation</key>
+	<string>timerOutsidePlatform</string>
+	<key>viewModeDelay</key>
+	<string>concurrentDelegateFrequency</string>
+</dict>
+</plist>

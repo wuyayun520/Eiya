@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAsPattern</key>
+	<string>directlyPreviewMomentum</string>
+	<key>curveFromMethod</key>
+	<string>dependencyFromBridge</string>
+	<key>customAlignmentContrast</key>
+	<string>resolverLevelPadding</string>
+	<key>frameScopeTint</key>
+	<string>adaptiveCollectionSize</string>
+	<key>gridStyleOpacity</key>
+	<string>variantAsWork</string>
+	<key>projectionBufferResponse</key>
+	<string>serviceScopeShape</string>
+	<key>sizeMediatorState</key>
+	<string>difficultChecklistDepth</string>
+</dict>
+</plist>

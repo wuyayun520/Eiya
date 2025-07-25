@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalChannelDirection</key>
+	<string>directlyEffectHead</string>
+	<key>hashMediatorVisibility</key>
+	<string>rapidRadiusSaturation</string>
+	<key>injectionStateAcceleration</key>
+	<string>previewModeVisible</string>
+	<key>observerMediatorSkewy</key>
+	<string>axisCycleContrast</string>
+	<key>priorityFormCoord</key>
+	<string>asynchronousUtilMode</string>
+	<key>segueAwayJob</key>
+	<string>contractionDuringComposite</string>
+	<key>stateExceptCommand</key>
+	<string>zonePhaseDirection</string>
+</dict>
+</plist>

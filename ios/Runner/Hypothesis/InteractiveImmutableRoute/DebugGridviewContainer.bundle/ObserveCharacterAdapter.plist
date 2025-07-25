@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFromTier</key>
+	<string>isolateBeyondPlatform</string>
+	<key>memberExceptActivity</key>
+	<string>layoutNumberRotation</string>
+	<key>pageviewLayerDuration</key>
+	<string>referenceFlyweightForce</string>
+	<key>precisionInObserver</key>
+	<string>observerLevelTag</string>
+	<key>priorityDecoratorColor</key>
+	<string>shaderStageDuration</string>
+	<key>resourceSinceCommand</key>
+	<string>permanentHeapContrast</string>
+	<key>responsiveHashTension</key>
+	<string>tableAmongPattern</string>
+	<key>sortedSceneSpacing</key>
+	<string>promiseFormFrequency</string>
+	<key>usageSinceBuffer</key>
+	<string>sessionAlongWork</string>
+</dict>
+</plist>

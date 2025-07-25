@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupFunctionSaturation</key>
+	<string>agileSampleVisibility</string>
+	<key>inactiveTouchMomentum</key>
+	<string>symmetricPriorityVelocity</string>
+	<key>optimizerStrategyPosition</key>
+	<string>sliderShapeFlags</string>
+	<key>otherInterfaceInteraction</key>
+	<string>animationIncludeNumber</string>
+	<key>prismaticSkirtOffset</key>
+	<string>unactivatedChartShade</string>
+	<key>scrollableButtonBound</key>
+	<string>compositionProcessTint</string>
+</dict>
+</plist>

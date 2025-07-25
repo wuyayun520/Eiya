@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedGemOffset</key>
+	<string>previewPhaseDensity</string>
+	<key>localizationSingletonShape</key>
+	<string>enabledImageBound</string>
+	<key>storeLikeCommand</key>
+	<string>dynamicIconTheme</string>
+	<key>transitionIncludeFacade</key>
+	<string>interpolationAndState</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableGridOrientation</key>
+	<string>sequentialMonsterSize</string>
+	<key>hardSliderDistance</key>
+	<string>typicalOffsetName</string>
+	<key>hyperbolicScrollFormat</key>
+	<string>intuitiveApertureName</string>
+	<key>localizationNumberDistance</key>
+	<string>singletonFromOperation</string>
+	<key>mainMetadataOpacity</key>
+	<string>custompaintLikeVar</string>
+	<key>requestProcessPadding</key>
+	<string>staticPositionedSkewx</string>
+	<key>storeByWork</key>
+	<string>musicPhaseVisibility</string>
+	<key>tensorBatchTheme</key>
+	<string>iterativeControllerOrientation</string>
+	<key>transformerStrategyBrightness</key>
+	<string>hashJobOpacity</string>
+</dict>
+</plist>

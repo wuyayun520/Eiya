@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowModeFrequency</key>
+	<string>localCurvePosition</string>
+	<key>declarativeLocalizationOrientation</key>
+	<string>protectedMasterDirection</string>
+	<key>discardedIndicatorRight</key>
+	<string>streamDespiteVariable</string>
+	<key>lostFrameSkewy</key>
+	<string>smallResolverSpeed</string>
+	<key>persistentManagerMargin</key>
+	<string>futureOutsideSystem</string>
+	<key>sampleEnvironmentName</key>
+	<string>injectionJobBound</string>
+	<key>similarRectScale</key>
+	<string>titleThroughChain</string>
+</dict>
+</plist>

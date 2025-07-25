@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constDescriptionFlags</key>
+	<string>keyLabelName</string>
+	<key>cubitAsParam</key>
+	<string>pinchableApertureBound</string>
+	<key>immutableCurveTransparency</key>
+	<string>tweenDespiteTemple</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCurveOrigin</key>
+	<string>consultativeGesturedetectorDistance</string>
+	<key>alertDecoratorOrigin</key>
+	<string>navigationCompositePadding</string>
+	<key>durationByValue</key>
+	<string>builderActivityCoord</string>
+	<key>matrixFlyweightBound</key>
+	<string>crucialPopupTransparency</string>
+	<key>presenterInsideSystem</key>
+	<string>lastStatelessOpacity</string>
+	<key>reactiveCellForce</key>
+	<string>configurationBesideActivity</string>
+	<key>resizableTableDirection</key>
+	<string>gestureInDecorator</string>
+	<key>stateByTask</key>
+	<string>gridviewForMode</string>
+</dict>
+</plist>

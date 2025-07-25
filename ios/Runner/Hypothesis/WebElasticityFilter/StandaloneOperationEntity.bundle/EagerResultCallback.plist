@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMatrixType</key>
+	<string>tangentNumberForce</string>
+	<key>customizedDelegateFeedback</key>
+	<string>hardSinkTransparency</string>
+	<key>futureFacadeFeedback</key>
+	<string>diffableMomentumVelocity</string>
+	<key>modelAmongChain</key>
+	<string>swiftAsNumber</string>
+	<key>nodeAtLevel</key>
+	<string>greatLocalizationIndex</string>
+	<key>responseLayerType</key>
+	<string>cubitAtPhase</string>
+	<key>unaryLayerOrientation</key>
+	<string>keyControllerScale</string>
+</dict>
+</plist>

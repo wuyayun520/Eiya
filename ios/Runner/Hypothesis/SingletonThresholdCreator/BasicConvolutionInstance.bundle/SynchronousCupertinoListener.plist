@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentContainerShape</key>
+	<string>gramAtContext</string>
+	<key>mutableShaderVisible</key>
+	<string>advancedStoreBottom</string>
+	<key>rectNumberValidation</key>
+	<string>lazyNotifierCoord</string>
+	<key>spotEnvironmentStatus</key>
+	<string>firstServiceOpacity</string>
+	<key>subscriptionAsJob</key>
+	<string>serviceSystemMargin</string>
+	<key>synchronousRouteSize</key>
+	<string>missedGrainOrigin</string>
+</dict>
+</plist>

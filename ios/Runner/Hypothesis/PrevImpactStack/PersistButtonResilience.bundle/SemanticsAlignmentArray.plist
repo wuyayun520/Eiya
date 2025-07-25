@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTickerMode</key>
+	<string>pageviewVersusFunction</string>
+	<key>delegateContextTail</key>
+	<string>lastActivityTail</string>
+	<key>labelMediatorSpeed</key>
+	<string>matrixFromFlyweight</string>
+	<key>oldCaptionSaturation</key>
+	<string>widgetAndLevel</string>
+	<key>signatureForJob</key>
+	<string>loopExceptFacade</string>
+	<key>textPerTier</key>
+	<string>commandBeyondProcess</string>
+</dict>
+</plist>

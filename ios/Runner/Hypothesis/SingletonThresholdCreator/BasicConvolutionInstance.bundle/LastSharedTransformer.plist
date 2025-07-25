@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRowInteraction</key>
+	<string>marginAsScope</string>
+	<key>channelForActivity</key>
+	<string>positionTaskShade</string>
+	<key>enabledCaptionTag</key>
+	<string>smartSceneValidation</string>
+	<key>handlerScopeShade</key>
+	<string>typicalRectHue</string>
+	<key>missionStyleAcceleration</key>
+	<string>particleOrScope</string>
+	<key>routeExceptFunction</key>
+	<string>uniqueInteractorOpacity</string>
+	<key>sceneAroundBridge</key>
+	<string>skirtInsideChain</string>
+	<key>streamCommandMode</key>
+	<string>concurrentClipperBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphSingletonSpeed</key>
+	<string>reducerCycleCoord</string>
+	<key>mobileMediatorAlignment</key>
+	<string>cacheAgainstState</string>
+	<key>nextClipperFlags</key>
+	<string>cupertinoAgainstMode</string>
+	<key>unactivatedSinkAlignment</key>
+	<string>retainedContainerSaturation</string>
+</dict>
+</plist>

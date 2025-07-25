@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPreviewEdge</key>
+	<string>requiredNibIndex</string>
+	<key>globalRiverpodSkewy</key>
+	<string>movementCommandSpacing</string>
+	<key>greatActionDuration</key>
+	<string>containerMediatorAcceleration</string>
+	<key>interfaceOutsideStage</key>
+	<string>concurrentManagerMode</string>
+	<key>mediaWithPhase</key>
+	<string>accessoryPerMediator</string>
+	<key>menuPrototypeCoord</key>
+	<string>viewAdapterOrigin</string>
+	<key>sharedSpriteRotation</key>
+	<string>routerLikeMethod</string>
+	<key>transformerAlongFunction</key>
+	<string>webAlertAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorKindAppearance</key>
+	<string>mobileSinceMediator</string>
+	<key>directBuilderLeft</key>
+	<string>appbarPerContext</string>
+	<key>missionForDecorator</key>
+	<string>serviceSinceTemple</string>
+	<key>sizedboxAndProcess</key>
+	<string>listviewLevelSize</string>
+	<key>skinProcessEdge</key>
+	<string>progressbarInsideValue</string>
+	<key>temporaryContainerTheme</key>
+	<string>mediumStatelessInterval</string>
+	<key>titleFlyweightName</key>
+	<string>pivotalTopicFormat</string>
+</dict>
+</plist>

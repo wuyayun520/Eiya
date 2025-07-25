@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInterpolationBorder</key>
+	<string>decorationFromLevel</string>
+	<key>controllerWithoutPattern</key>
+	<string>widgetCommandContrast</string>
+	<key>cubeTaskInteraction</key>
+	<string>nibProcessFeedback</string>
+	<key>cupertinoDecorationCenter</key>
+	<string>extensionPrototypeEdge</string>
+	<key>disparateOptimizerBrightness</key>
+	<string>statefulMetadataHue</string>
+	<key>nodeAboutCommand</key>
+	<string>interpolationVarBottom</string>
+	<key>semanticLayoutRate</key>
+	<string>easyUtilFlags</string>
+	<key>textIncludeTask</key>
+	<string>cupertinoGrainDuration</string>
+	<key>transitionPlatformTension</key>
+	<string>coordinatorSingletonValidation</string>
+</dict>
+</plist>

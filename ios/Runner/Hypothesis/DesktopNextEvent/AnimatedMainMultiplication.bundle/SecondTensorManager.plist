@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryExceptStrategy</key>
+	<string>eventOutsidePrototype</string>
+	<key>functionalDecorationFrequency</key>
+	<string>decorationThroughFramework</string>
+	<key>imageAroundFlyweight</key>
+	<string>flexibleOptionStatus</string>
+	<key>lazyManagerSpacing</key>
+	<string>actionAgainstPattern</string>
+	<key>litePointDelay</key>
+	<string>layoutSingletonHue</string>
+	<key>prevMenuBorder</key>
+	<string>composableCapacitiesBorder</string>
+	<key>titleViaLevel</key>
+	<string>multiPresenterVelocity</string>
+</dict>
+</plist>

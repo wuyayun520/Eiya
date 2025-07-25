@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAroundChain</key>
+	<string>retainedViewBrightness</string>
+	<key>compositionalIntensitySaturation</key>
+	<string>ternaryViaComposite</string>
+	<key>dedicatedGateIndex</key>
+	<string>adaptiveNodeShape</string>
+	<key>mediaInsideComposite</key>
+	<string>cycleFlyweightName</string>
+	<key>previewSingletonAlignment</key>
+	<string>modelMethodLeft</string>
+	<key>retainedGrainState</key>
+	<string>agileRadiusState</string>
+	<key>sinkSingletonBottom</key>
+	<string>euclideanResolverVisible</string>
+	<key>transformerContextBound</key>
+	<string>coordinatorTierAcceleration</string>
+</dict>
+</plist>

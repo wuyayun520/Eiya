@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitIntensityFeedback</key>
+	<string>cellByLevel</string>
+	<key>graphicEnvironmentContrast</key>
+	<string>localBaseRight</string>
+	<key>greatCursorTheme</key>
+	<string>customizedCoordinatorRotation</string>
+	<key>serviceAlongWork</key>
+	<string>mediaInterpreterState</string>
+</dict>
+</plist>

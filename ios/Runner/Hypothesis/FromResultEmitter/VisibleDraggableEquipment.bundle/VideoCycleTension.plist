@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStyleBehavior</key>
+	<string>displayableStateInset</string>
+	<key>intuitiveChannelsTint</key>
+	<string>flexibleStoreOrigin</string>
+	<key>keySliderCoord</key>
+	<string>timerWithKind</string>
+	<key>modelWithType</key>
+	<string>buttonFromBridge</string>
+	<key>nibViaContext</key>
+	<string>gradientVarSpeed</string>
+	<key>permissiveMultiplicationPadding</key>
+	<string>otherSubpixelSpeed</string>
+</dict>
+</plist>

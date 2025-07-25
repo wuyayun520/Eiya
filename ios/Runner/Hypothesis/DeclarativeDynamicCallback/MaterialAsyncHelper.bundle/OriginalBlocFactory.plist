@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterActivityAlignment</key>
+	<string>reductionFromPlatform</string>
+	<key>decorationWithChain</key>
+	<string>stampCompositeKind</string>
+	<key>ignoredBuilderFlags</key>
+	<string>playbackContextPosition</string>
+	<key>navigatorContainType</key>
+	<string>overlayLikeAdapter</string>
+	<key>semanticPopupStyle</key>
+	<string>labelThroughMode</string>
+	<key>synchronousGramAppearance</key>
+	<string>progressbarActivityMode</string>
+	<key>synchronousResultColor</key>
+	<string>mobileUntilKind</string>
+</dict>
+</plist>

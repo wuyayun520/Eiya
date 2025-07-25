@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInteractorFlags</key>
+	<string>memberOfKind</string>
+	<key>aspectIncludeContext</key>
+	<string>deferredActionRate</string>
+	<key>easyProtocolColor</key>
+	<string>pinchableNodeValidation</string>
+	<key>grainJobStatus</key>
+	<string>managerThroughLayer</string>
+	<key>integerAroundParam</key>
+	<string>iconParameterPosition</string>
+	<key>segmentAboutAdapter</key>
+	<string>specifierFacadeFeedback</string>
+	<key>segmentLevelDistance</key>
+	<string>layoutKindSize</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitTopicCount</key>
+	<string>mutableUnaryTransparency</string>
+	<key>roleMethodBound</key>
+	<string>paddingStageFeedback</string>
+	<key>usecasePlatformSpacing</key>
+	<string>themeMediatorAlignment</string>
+</dict>
+</plist>

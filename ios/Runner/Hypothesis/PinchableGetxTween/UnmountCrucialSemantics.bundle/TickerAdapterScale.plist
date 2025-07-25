@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateContainEnvironment</key>
+	<string>topicExceptCycle</string>
+	<key>composableConstraintOrientation</key>
+	<string>layoutOperationName</string>
+	<key>inkwellDuringForm</key>
+	<string>reductionEnvironmentMode</string>
+	<key>materialLogLeft</key>
+	<string>completerViaWork</string>
+	<key>oldSizeRotation</key>
+	<string>criticalSubpixelBrightness</string>
+	<key>rowBeyondPhase</key>
+	<string>seamlessLayoutBehavior</string>
+	<key>textContainLevel</key>
+	<string>resilientCollectionMode</string>
+	<key>texturePatternCoord</key>
+	<string>densePositionType</string>
+	<key>zonePlatformDirection</key>
+	<string>fixedAspectVelocity</string>
+</dict>
+</plist>

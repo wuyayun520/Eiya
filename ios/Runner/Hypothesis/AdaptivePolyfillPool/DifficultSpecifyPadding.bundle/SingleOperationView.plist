@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleSingletonLocation</key>
+	<string>descriptionNearTemple</string>
+	<key>resolverLayerBehavior</key>
+	<string>constraintWorkLeft</string>
+	<key>secondShaderValidation</key>
+	<string>pageviewStyleOrientation</string>
+	<key>stateOutsideMode</key>
+	<string>visibleContainerDelay</string>
+	<key>storeOutsideStructure</key>
+	<string>frameBesideFlyweight</string>
+	<key>storyboardFormName</key>
+	<string>easyMaterialLocation</string>
+</dict>
+</plist>

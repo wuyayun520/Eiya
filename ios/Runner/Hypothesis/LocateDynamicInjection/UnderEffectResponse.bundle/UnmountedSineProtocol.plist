@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerStrategySpacing</key>
+	<string>pinchableHistogramFrequency</string>
+	<key>pinchableConvolutionSize</key>
+	<string>animatedCanvasInterval</string>
+	<key>presenterPerObserver</key>
+	<string>metadataPerEnvironment</string>
+	<key>stateContainCommand</key>
+	<string>builderFromTask</string>
+	<key>tabbarInsideTier</key>
+	<string>methodBeyondParameter</string>
+</dict>
+</plist>

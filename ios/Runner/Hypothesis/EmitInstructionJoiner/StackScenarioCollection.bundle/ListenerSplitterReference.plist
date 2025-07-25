@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateFormStyle</key>
+	<string>eagerSignRotation</string>
+	<key>explicitQueryVelocity</key>
+	<string>captionAgainstMediator</string>
+	<key>hierarchicalSymbolSpacing</key>
+	<string>protectedSizeSpeed</string>
+	<key>rowParamLeft</key>
+	<string>resizableDelegateDistance</string>
+</dict>
+</plist>

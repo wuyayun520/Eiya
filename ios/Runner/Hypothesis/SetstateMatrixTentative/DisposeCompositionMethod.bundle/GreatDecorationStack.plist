@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateScopeOpacity</key>
+	<string>challengeInsideObserver</string>
+	<key>dependencyLevelSpeed</key>
+	<string>tweenAndOperation</string>
+	<key>eagerAssetSpeed</key>
+	<string>displayableLocalizationShade</string>
+	<key>materialRectInset</key>
+	<string>movementFrameworkValidation</string>
+	<key>oldConvolutionLocation</key>
+	<string>granularGridviewPressure</string>
+	<key>repositoryBufferMargin</key>
+	<string>largeSubscriptionDuration</string>
+	<key>resilientReducerStatus</key>
+	<string>decorationAndFlyweight</string>
+	<key>sceneParameterEdge</key>
+	<string>nativeBuilderFormat</string>
+	<key>sophisticatedOptimizerType</key>
+	<string>callbackBesideDecorator</string>
+</dict>
+</plist>

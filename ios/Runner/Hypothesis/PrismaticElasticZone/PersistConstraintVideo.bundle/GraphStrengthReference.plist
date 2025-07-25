@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAwayFunction</key>
+	<string>commonResponseSaturation</string>
+	<key>alignmentLayerDensity</key>
+	<string>resolverCompositeCount</string>
+	<key>baseDuringMode</key>
+	<string>webPageviewSpeed</string>
+	<key>blocScopeLocation</key>
+	<string>asyncProcessMargin</string>
+	<key>deferredPointOrientation</key>
+	<string>composablePrecisionVisible</string>
+	<key>intermediateQueueStatus</key>
+	<string>unaryVariableTop</string>
+	<key>mediaqueryForPlatform</key>
+	<string>canvasFromMode</string>
+	<key>statelessExceptMediator</key>
+	<string>alphaNearPhase</string>
+	<key>uniformScaleInterval</key>
+	<string>standaloneScaffoldKind</string>
+	<key>uniquePlaybackPadding</key>
+	<string>heroCommandOffset</string>
+</dict>
+</plist>

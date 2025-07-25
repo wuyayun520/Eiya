@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorLikeType</key>
+	<string>playbackCycleDirection</string>
+	<key>axisVisitorSkewy</key>
+	<string>autoQueueShape</string>
+	<key>compositionalGraphDistance</key>
+	<string>cursorOfMemento</string>
+	<key>directlyMobilePadding</key>
+	<string>transitionFlyweightFormat</string>
+	<key>flexibleOffsetScale</key>
+	<string>ignoredObserverRotation</string>
+	<key>gradientLikeState</key>
+	<string>draggableInstructionInterval</string>
+	<key>groupAmongStage</key>
+	<string>relationalPriorityDelay</string>
+	<key>menuNumberBorder</key>
+	<string>pointVersusDecorator</string>
+</dict>
+</plist>

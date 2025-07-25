@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellOutsideTask</key>
+	<string>nativeToolCenter</string>
+	<key>controllerOrBuffer</key>
+	<string>resolverIncludeVisitor</string>
+	<key>layerCompositeOrientation</key>
+	<string>decorationAboutFlyweight</string>
+	<key>reductionParameterSkewy</key>
+	<string>sinkVarCoord</string>
+	<key>sceneContainParameter</key>
+	<string>boxshadowActionBound</string>
+</dict>
+</plist>

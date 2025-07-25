@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellChainRotation</key>
+	<string>opaqueCosineBottom</string>
+	<key>dedicatedCanvasOpacity</key>
+	<string>masterParamTail</string>
+	<key>getxProxyRotation</key>
+	<string>chartAdapterBrightness</string>
+	<key>layerDuringChain</key>
+	<string>offsetExceptPattern</string>
+	<key>singletonPrototypeBottom</key>
+	<string>alertCompositeDepth</string>
+</dict>
+</plist>

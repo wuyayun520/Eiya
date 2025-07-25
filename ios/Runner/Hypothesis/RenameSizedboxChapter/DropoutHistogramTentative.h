@@ -1,0 +1,18 @@
+#import "FlexProcessLocation.h"
+#import "KeySemanticPlayback.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface DropoutHistogramTentative : NSObject
+
+
+- (void) respondRequiredProvider;
+
+- (void) differentiatePrimaryState;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

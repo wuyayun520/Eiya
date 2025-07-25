@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableListenerVelocity</key>
+	<string>widgetPlatformOrientation</string>
+	<key>entityDuringChain</key>
+	<string>symmetricChallengeDelay</string>
+	<key>frameOutsideTask</key>
+	<string>tabbarExceptOperation</string>
+	<key>ignoredTweenMode</key>
+	<string>greatAlphaRotation</string>
+	<key>inkwellBeyondActivity</key>
+	<string>gradientProcessInset</string>
+	<key>labelFromObserver</key>
+	<string>multiplicationCycleSpeed</string>
+	<key>missionContainOperation</key>
+	<string>buttonProxyTail</string>
+	<key>routeValueShade</key>
+	<string>graphicAmongProxy</string>
+	<key>textPhaseVelocity</key>
+	<string>newestResourcePadding</string>
+	<key>usecaseLevelHue</key>
+	<string>rectInterpreterTail</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerOutsideScope</key>
+	<string>featureTierForce</string>
+	<key>customCubeFormat</key>
+	<string>directlyResponseShape</string>
+	<key>euclideanPaddingPosition</key>
+	<string>sortedInteractorVisible</string>
+	<key>featureJobPadding</key>
+	<string>diversifiedErrorPosition</string>
+	<key>nibVariableSpeed</key>
+	<string>numericalEventVisible</string>
+	<key>persistentBulletSpacing</key>
+	<string>awaitProxyValidation</string>
+	<key>resizableHistogramRight</key>
+	<string>composableTableSaturation</string>
+	<key>scaffoldAmongComposite</key>
+	<string>callbackModeLeft</string>
+	<key>textAlongAction</key>
+	<string>autoCommandAppearance</string>
+</dict>
+</plist>

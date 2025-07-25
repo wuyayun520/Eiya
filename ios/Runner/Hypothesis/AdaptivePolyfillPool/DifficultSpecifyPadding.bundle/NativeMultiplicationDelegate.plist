@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAgainstComposite</key>
+	<string>collectionVarTag</string>
+	<key>futureAsStrategy</key>
+	<string>buttonFrameworkScale</string>
+	<key>gateFacadeSize</key>
+	<string>independentManagerInset</string>
+	<key>layoutKindFrequency</key>
+	<string>ephemeralLabelFlags</string>
+	<key>providerExceptForm</key>
+	<string>presenterTypeResponse</string>
+	<key>reducerIncludeStrategy</key>
+	<string>providerFlyweightResponse</string>
+	<key>textPlatformVisibility</key>
+	<string>previewCompositeBrightness</string>
+	<key>workflowAndType</key>
+	<string>awaitDecoratorSpeed</string>
+</dict>
+</plist>

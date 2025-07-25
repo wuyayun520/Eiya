@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAwayStyle</key>
+	<string>fusedIntensityStatus</string>
+	<key>euclideanEqualizationDuration</key>
+	<string>cubitAwayProxy</string>
+	<key>localBlocScale</key>
+	<string>menuCommandFrequency</string>
+	<key>priorStreamOrigin</key>
+	<string>gemAdapterLocation</string>
+	<key>scrollAsPattern</key>
+	<string>independentTitleAlignment</string>
+	<key>statefulScopeAcceleration</key>
+	<string>mutablePopupScale</string>
+</dict>
+</plist>

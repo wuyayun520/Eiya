@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureForFlyweight</key>
+	<string>listviewAndType</string>
+	<key>currentDescriptionStyle</key>
+	<string>missionOutsideBridge</string>
+	<key>delegateThroughContext</key>
+	<string>layoutStrategyPadding</string>
+	<key>integerOfStyle</key>
+	<string>constraintFromFacade</string>
+	<key>layoutActionDirection</key>
+	<string>cartesianServiceOpacity</string>
+	<key>modelCompositeStyle</key>
+	<string>animationInterpreterBound</string>
+	<key>shaderAboutStrategy</key>
+	<string>streamAlongContext</string>
+</dict>
+</plist>

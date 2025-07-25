@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitModeBorder</key>
+	<string>grayscalePerNumber</string>
+	<key>disparatePainterKind</key>
+	<string>pointVisitorOrigin</string>
+	<key>hashAtFramework</key>
+	<string>overlayPerEnvironment</string>
+	<key>listviewOrVar</key>
+	<string>resourceEnvironmentFeedback</string>
+	<key>mediocrePlateTag</key>
+	<string>movementActionSpeed</string>
+	<key>responseStrategyTop</key>
+	<string>temporaryViewOrigin</string>
+</dict>
+</plist>

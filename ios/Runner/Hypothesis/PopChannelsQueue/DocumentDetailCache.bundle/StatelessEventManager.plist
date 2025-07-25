@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySingletonIndex</key>
+	<string>enabledOverlayFeedback</string>
+	<key>crudeDrawerSpeed</key>
+	<string>allocatorObserverAppearance</string>
+	<key>dedicatedSensorFlags</key>
+	<string>zoneStrategyContrast</string>
+	<key>petAndPhase</key>
+	<string>notifierPhaseOrigin</string>
+	<key>segueActionSkewx</key>
+	<string>subscriptionLikeSingleton</string>
+	<key>storeAndPhase</key>
+	<string>instructionAsBridge</string>
+	<key>temporaryMonsterVisible</key>
+	<string>standaloneCubitAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRowSpeed</key>
+	<string>channelPlatformIndex</string>
+	<key>boxshadowAboutPrototype</key>
+	<string>lastProjectDelay</string>
+	<key>gradientShapeTransparency</key>
+	<string>densePainterContrast</string>
+	<key>persistentCycleName</key>
+	<string>asynchronousNotifierVisible</string>
+	<key>presenterOperationState</key>
+	<string>awaitVersusProcess</string>
+	<key>prevLabelAppearance</key>
+	<string>ephemeralTaskMode</string>
+	<key>resourcePhaseStatus</key>
+	<string>subscriptionUntilBuffer</string>
+	<key>responseDuringFunction</key>
+	<string>batchAwayStyle</string>
+	<key>secondRouteFeedback</key>
+	<string>missionUntilPattern</string>
+</dict>
+</plist>

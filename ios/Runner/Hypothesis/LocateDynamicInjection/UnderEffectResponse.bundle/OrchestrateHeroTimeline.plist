@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionObserverShade</key>
+	<string>usecaseFrameworkPadding</string>
+	<key>baselineDecoratorFrequency</key>
+	<string>taskWithoutAction</string>
+	<key>dependencyAroundScope</key>
+	<string>loopVariableSize</string>
+	<key>flexibleEqualizationLocation</key>
+	<string>channelParamAlignment</string>
+	<key>functionalFramePadding</key>
+	<string>standaloneMenuValidation</string>
+	<key>independentViewDepth</key>
+	<string>labelAroundShape</string>
+	<key>mobileMethodSpacing</key>
+	<string>viewNumberName</string>
+	<key>sharedGraphResponse</key>
+	<string>previewThanOperation</string>
+	<key>smallNormDensity</key>
+	<string>resolverProxyTransparency</string>
+	<key>switchLikeOperation</key>
+	<string>titleParamCount</string>
+</dict>
+</plist>

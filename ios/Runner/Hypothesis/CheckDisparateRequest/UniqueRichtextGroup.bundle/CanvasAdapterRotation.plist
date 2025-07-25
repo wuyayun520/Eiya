@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPrototypeRight</key>
+	<string>groupBridgeInteraction</string>
+	<key>histogramStateFlags</key>
+	<string>concurrentUnaryBrightness</string>
+	<key>mediaJobSkewx</key>
+	<string>declarativeDrawerStatus</string>
+	<key>monsterLevelTheme</key>
+	<string>streamThanState</string>
+	<key>requestMethodAcceleration</key>
+	<string>cupertinoPreviewOffset</string>
+	<key>tensorMissionIndex</key>
+	<string>characterParameterShape</string>
+</dict>
+</plist>

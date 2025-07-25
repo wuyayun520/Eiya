@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisEnvironmentHue</key>
+	<string>dropdownbuttonOrLayer</string>
+	<key>constraintStyleCenter</key>
+	<string>flexibleDurationInteraction</string>
+	<key>groupBesideParameter</key>
+	<string>cubitContainParameter</string>
+	<key>interactorByLayer</key>
+	<string>nextSizeLeft</string>
+	<key>projectBeyondStyle</key>
+	<string>denseNodeInset</string>
+</dict>
+</plist>

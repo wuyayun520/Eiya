@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGridTop</key>
+	<string>instructionMediatorStatus</string>
+	<key>configurationPerFlyweight</key>
+	<string>constraintObserverOffset</string>
+	<key>cosineOutsideChain</key>
+	<string>zoneScopeSpacing</string>
+	<key>enabledAssetFeedback</key>
+	<string>loopDespiteStructure</string>
+	<key>mapThroughFunction</key>
+	<string>animatedSliderMode</string>
+	<key>permanentSizeBehavior</key>
+	<string>immutableOptionFrequency</string>
+	<key>seamlessCoordinatorTint</key>
+	<string>decorationSingletonCenter</string>
+	<key>textStrategyInteraction</key>
+	<string>menuThroughComposite</string>
+</dict>
+</plist>

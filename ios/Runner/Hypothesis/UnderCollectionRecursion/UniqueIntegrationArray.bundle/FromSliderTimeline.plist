@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorKindOrientation</key>
+	<string>arithmeticAtProcess</string>
+	<key>effectAroundMediator</key>
+	<string>denseLayoutOpacity</string>
+	<key>frameMediatorSkewx</key>
+	<string>resourcePerScope</string>
+	<key>layerSingletonOffset</key>
+	<string>routeKindBrightness</string>
+	<key>metadataOrMediator</key>
+	<string>builderMementoShade</string>
+	<key>previewOutsideFacade</key>
+	<string>channelIncludeParam</string>
+	<key>similarSignatureSize</key>
+	<string>grainScopePressure</string>
+	<key>storeViaDecorator</key>
+	<string>unaryContainMediator</string>
+	<key>switchBeyondMemento</key>
+	<string>awaitTypeIndex</string>
+</dict>
+</plist>

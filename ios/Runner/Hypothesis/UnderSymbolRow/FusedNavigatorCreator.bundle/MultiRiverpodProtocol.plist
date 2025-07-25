@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionByPhase</key>
+	<string>groupAmongSystem</string>
+	<key>cellSingletonBorder</key>
+	<string>responseCycleSpacing</string>
+	<key>commandScopeSpeed</key>
+	<string>platePerContext</string>
+	<key>constCupertinoKind</key>
+	<string>ephemeralMediaqueryShade</string>
+	<key>flexibleSemanticsBound</key>
+	<string>modalAboutFunction</string>
+	<key>mainContractionFeedback</key>
+	<string>giftLayerFormat</string>
+	<key>streamOperationStatus</key>
+	<string>transitionOutsideProxy</string>
+</dict>
+</plist>

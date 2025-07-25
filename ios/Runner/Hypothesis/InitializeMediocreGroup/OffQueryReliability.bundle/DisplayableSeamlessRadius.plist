@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationLikeMethod</key>
+	<string>fixedCompletionDelay</string>
+	<key>firstNotifierLeft</key>
+	<string>awaitFormInteraction</string>
+	<key>graphFromCycle</key>
+	<string>completerProcessColor</string>
+	<key>particleMediatorSkewx</key>
+	<string>pageviewAndValue</string>
+	<key>queryStrategyIndex</key>
+	<string>serviceAtInterpreter</string>
+	<key>sinkThroughPhase</key>
+	<string>reactiveAnimationTheme</string>
+	<key>specifierActivityDepth</key>
+	<string>interactorBesideMediator</string>
+	<key>uniqueMultiplicationSpacing</key>
+	<string>slashUntilFunction</string>
+</dict>
+</plist>

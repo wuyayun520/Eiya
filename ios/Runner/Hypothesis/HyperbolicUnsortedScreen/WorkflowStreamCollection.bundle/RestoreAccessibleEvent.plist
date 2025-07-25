@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncGrainRate</key>
+	<string>methodStageStyle</string>
+	<key>behaviorThroughFramework</key>
+	<string>statelessExceptValue</string>
+	<key>coordinatorActivityFormat</key>
+	<string>convolutionObserverStyle</string>
+	<key>observerLikeEnvironment</key>
+	<string>sequentialActivityVelocity</string>
+	<key>previewAdapterSize</key>
+	<string>decorationInterpreterResponse</string>
+	<key>requiredEntityCoord</key>
+	<string>metadataCommandIndex</string>
+	<key>responseModeLocation</key>
+	<string>giftAboutLevel</string>
+	<key>routeProxyHue</key>
+	<string>contractionAgainstShape</string>
+	<key>webCardSize</key>
+	<string>storeWorkAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletFacadeTransparency</key>
+	<string>dynamicProfileDistance</string>
+	<key>contractionAndValue</key>
+	<string>hyperbolicTransformerOffset</string>
+	<key>currentRectSaturation</key>
+	<string>resolverBesideContext</string>
+	<key>equalizationStyleVisibility</key>
+	<string>batchCycleMomentum</string>
+	<key>interactorNearType</key>
+	<string>mobileContainerBorder</string>
+	<key>keyCurveBound</key>
+	<string>pointFunctionDensity</string>
+	<key>localizationInPrototype</key>
+	<string>switchThroughState</string>
+	<key>progressbarJobTheme</key>
+	<string>beginnerMediaOpacity</string>
+	<key>responsiveLabelTransparency</key>
+	<string>accordionCurveAcceleration</string>
+	<key>sizeVariableSpacing</key>
+	<string>cubitFrameworkOrigin</string>
+</dict>
+</plist>

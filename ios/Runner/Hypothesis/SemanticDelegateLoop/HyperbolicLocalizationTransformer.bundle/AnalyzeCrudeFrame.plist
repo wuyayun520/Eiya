@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandObserverDuration</key>
+	<string>plateAtProxy</string>
+	<key>dedicatedWidgetValidation</key>
+	<string>textureFlyweightDelay</string>
+	<key>gridviewFormAlignment</key>
+	<string>firstTickerPressure</string>
+	<key>layoutMediatorBottom</key>
+	<string>activeGraphInset</string>
+	<key>multiplicationOutsideNumber</key>
+	<string>cubitStrategyVisible</string>
+	<key>operationSinceStyle</key>
+	<string>associatedProviderTail</string>
+	<key>secondGrainVisible</key>
+	<string>dimensionInsideMemento</string>
+	<key>singleMusicPressure</key>
+	<string>standaloneResultDirection</string>
+	<key>streamChainBehavior</key>
+	<string>tabbarTempleScale</string>
+</dict>
+</plist>

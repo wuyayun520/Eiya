@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPerEnvironment</key>
+	<string>gesturedetectorAndShape</string>
+	<key>cursorMethodEdge</key>
+	<string>grayscaleContainProxy</string>
+	<key>eventWithoutParam</key>
+	<string>heapStyleSize</string>
+	<key>layoutVersusVariable</key>
+	<string>activatedTaskOffset</string>
+	<key>queueTaskFlags</key>
+	<string>completerInStructure</string>
+	<key>tangentTempleDensity</key>
+	<string>operationVariableSpeed</string>
+	<key>timerBridgeDirection</key>
+	<string>tensorNotificationRate</string>
+</dict>
+</plist>

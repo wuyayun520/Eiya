@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPerMethod</key>
+	<string>toolOrInterpreter</string>
+	<key>mapBesideForm</key>
+	<string>cupertinoPatternVisible</string>
+	<key>observerLevelMode</key>
+	<string>liteAnchorSpeed</string>
+	<key>rowForVisitor</key>
+	<string>localizationLikeFacade</string>
+	<key>tweenInStrategy</key>
+	<string>originalBinaryPosition</string>
+</dict>
+</plist>

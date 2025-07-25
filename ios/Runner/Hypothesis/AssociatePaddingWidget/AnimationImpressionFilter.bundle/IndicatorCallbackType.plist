@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureActionStyle</key>
+	<string>offsetBeyondMemento</string>
+	<key>declarativeCharacterDistance</key>
+	<string>gridSystemSpeed</string>
+	<key>logarithmStateVisibility</key>
+	<string>respectiveInteractorOrientation</string>
+	<key>loopLevelDepth</key>
+	<string>buttonFunctionLeft</string>
+	<key>metadataOutsideMode</key>
+	<string>sizedboxSinceVisitor</string>
+	<key>riverpodProxyCount</key>
+	<string>unactivatedPreviewDepth</string>
+	<key>robustCompleterTension</key>
+	<string>tabbarAsMediator</string>
+	<key>textNumberMargin</key>
+	<string>listenerCommandDirection</string>
+</dict>
+</plist>

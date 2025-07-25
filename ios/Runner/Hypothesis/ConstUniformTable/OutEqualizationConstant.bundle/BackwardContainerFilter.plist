@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerIncludeMemento</key>
+	<string>bufferPerMemento</string>
+	<key>parallelSlashVisibility</key>
+	<string>certificateWithoutVisitor</string>
+	<key>sortedSpriteBehavior</key>
+	<string>coordinatorDecoratorAlignment</string>
+	<key>spineOfEnvironment</key>
+	<string>progressbarFlyweightDistance</string>
+</dict>
+</plist>

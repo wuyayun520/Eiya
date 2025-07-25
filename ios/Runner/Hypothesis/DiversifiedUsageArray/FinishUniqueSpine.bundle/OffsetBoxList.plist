@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionForBridge</key>
+	<string>topicValueRight</string>
+	<key>cupertinoPatternScale</key>
+	<string>invisibleVectorRight</string>
+	<key>difficultRichtextLeft</key>
+	<string>lazyPrioritySkewy</string>
+	<key>intensityCommandShape</key>
+	<string>priorityAdapterContrast</string>
+	<key>labelLayerLocation</key>
+	<string>mobileWorkflowOrientation</string>
+	<key>tensorLoopDensity</key>
+	<string>intensityViaPlatform</string>
+	<key>toolSystemDensity</key>
+	<string>statelessSystemTint</string>
+</dict>
+</plist>

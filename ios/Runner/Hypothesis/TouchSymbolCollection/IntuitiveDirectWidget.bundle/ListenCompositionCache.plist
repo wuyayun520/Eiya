@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constSinkRotation</key>
+	<string>streamViaTier</string>
+	<key>constraintAlongValue</key>
+	<string>methodInAction</string>
+	<key>cubitVariableIndex</key>
+	<string>resultLevelScale</string>
+	<key>flexibleColumnScale</key>
+	<string>getxValueName</string>
+	<key>kernelTypeIndex</key>
+	<string>marginAmongFunction</string>
+	<key>liteGrainSize</key>
+	<string>heapIncludeVisitor</string>
+	<key>newestManagerFrequency</key>
+	<string>hierarchicalPresenterAlignment</string>
+	<key>permanentIndicatorCenter</key>
+	<string>sceneTempleTag</string>
+	<key>secondTabviewDepth</key>
+	<string>previewValueName</string>
+</dict>
+</plist>

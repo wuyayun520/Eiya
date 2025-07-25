@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFacadeVisibility</key>
+	<string>diffableGridHead</string>
+	<key>discardedCallbackBehavior</key>
+	<string>cubitWithoutState</string>
+	<key>exceptionWithoutFramework</key>
+	<string>resolverBeyondAction</string>
+	<key>fixedArithmeticColor</key>
+	<string>desktopCurveTag</string>
+	<key>sequentialBaselineRotation</key>
+	<string>directCardFeedback</string>
+	<key>sliderWithoutMethod</key>
+	<string>tappableImageIndex</string>
+</dict>
+</plist>

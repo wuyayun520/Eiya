@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncResultValidation</key>
+	<string>relationalConstraintValidation</string>
+	<key>asynchronousGestureCount</key>
+	<string>statelessStackVisibility</string>
+	<key>effectModeIndex</key>
+	<string>featureParameterSaturation</string>
+	<key>movementCompositeStyle</key>
+	<string>mobileOperationStatus</string>
+	<key>normPlatformVelocity</key>
+	<string>paddingBufferEdge</string>
+	<key>protectedControllerIndex</key>
+	<string>routerAlongTask</string>
+	<key>switchPatternLeft</key>
+	<string>visibleWidgetColor</string>
+	<key>toolUntilPattern</key>
+	<string>autoSceneState</string>
+	<key>zoneAboutBuffer</key>
+	<string>musicObserverType</string>
+</dict>
+</plist>

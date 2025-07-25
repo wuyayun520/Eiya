@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAgainstFunction</key>
+	<string>cosineMementoDistance</string>
+	<key>basicRadiusCount</key>
+	<string>unactivatedSineBehavior</string>
+	<key>dependencyByPrototype</key>
+	<string>serviceActivityValidation</string>
+	<key>dynamicEqualizationVisible</key>
+	<string>projectionViaStrategy</string>
+	<key>navigationVariableState</key>
+	<string>interactiveActionResponse</string>
+	<key>resilientLossCoord</key>
+	<string>loopVariableRate</string>
+	<key>resourceVarSpacing</key>
+	<string>apertureProcessFlags</string>
+</dict>
+</plist>

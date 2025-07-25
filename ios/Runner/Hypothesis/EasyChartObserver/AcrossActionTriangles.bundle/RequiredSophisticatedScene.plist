@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardObserverColor</key>
+	<string>popupAndCycle</string>
+	<key>cupertinoProjectionInterval</key>
+	<string>currentTitlePressure</string>
+	<key>dropdownbuttonStructureType</key>
+	<string>accordionAsyncPressure</string>
+	<key>euclideanResponseState</key>
+	<string>stepAtSingleton</string>
+	<key>graphStyleDistance</key>
+	<string>stampContextDistance</string>
+	<key>reusableMomentumInteraction</key>
+	<string>memberKindStyle</string>
+	<key>sinkAdapterHue</key>
+	<string>observerStrategyBound</string>
+	<key>specifyAlignmentPosition</key>
+	<string>cupertinoServiceAcceleration</string>
+</dict>
+</plist>

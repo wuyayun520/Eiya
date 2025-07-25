@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVisitorStatus</key>
+	<string>optionExceptWork</string>
+	<key>cubitParameterIndex</key>
+	<string>serviceWithLevel</string>
+	<key>dependencyByDecorator</key>
+	<string>titleFrameworkDistance</string>
+	<key>robustConstraintOpacity</key>
+	<string>boxWithoutPlatform</string>
+	<key>topicCompositeLeft</key>
+	<string>granularAlignmentDensity</string>
+</dict>
+</plist>

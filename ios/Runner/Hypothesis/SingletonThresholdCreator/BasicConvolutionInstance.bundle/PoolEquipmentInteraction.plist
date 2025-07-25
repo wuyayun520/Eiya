@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPerAdapter</key>
+	<string>histogramLikeMethod</string>
+	<key>crudeMobxDirection</key>
+	<string>eagerCubitCount</string>
+	<key>dynamicContainerIndex</key>
+	<string>grainParamRotation</string>
+	<key>iterativeUsageFormat</key>
+	<string>interfaceStyleOrientation</string>
+	<key>listenerMementoLeft</key>
+	<string>responseDecoratorVelocity</string>
+	<key>mobileCacheKind</key>
+	<string>callbackDecoratorAppearance</string>
+	<key>offsetVarHead</key>
+	<string>sinkOrComposite</string>
+</dict>
+</plist>

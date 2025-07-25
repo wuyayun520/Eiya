@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSineDepth</key>
+	<string>resolverVariableAcceleration</string>
+	<key>disabledInterfaceShade</key>
+	<string>tabbarStageStatus</string>
+	<key>enabledModalInteraction</key>
+	<string>materialScalePressure</string>
+	<key>heapUntilActivity</key>
+	<string>effectSystemPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBufferShape</key>
+	<string>storeNearTier</string>
+	<key>asyncThroughAction</key>
+	<string>resultActivityTail</string>
+	<key>checkboxSystemOpacity</key>
+	<string>semanticsCommandInterval</string>
+	<key>columnLayerDistance</key>
+	<string>unactivatedOptimizerCoord</string>
+	<key>curveValueValidation</key>
+	<string>cursorBesideActivity</string>
+	<key>gesturedetectorNumberFrequency</key>
+	<string>priorFactoryName</string>
+	<key>layoutFunctionTransparency</key>
+	<string>hashAgainstActivity</string>
+</dict>
+</plist>

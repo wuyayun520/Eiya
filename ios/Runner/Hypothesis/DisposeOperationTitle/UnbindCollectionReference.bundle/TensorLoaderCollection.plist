@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFunctionShape</key>
+	<string>zonePlatformBorder</string>
+	<key>constraintSingletonBehavior</key>
+	<string>crudeResolverInterval</string>
+	<key>mainDocumentEdge</key>
+	<string>mediocreObserverShape</string>
+	<key>materialActivityIndex</key>
+	<string>tangentFlyweightLocation</string>
+	<key>normalObserverTag</key>
+	<string>temporaryMobileKind</string>
+	<key>offsetAndAction</key>
+	<string>operationWithEnvironment</string>
+	<key>previewStructureVisibility</key>
+	<string>statelessVariableOffset</string>
+	<key>segueForBuffer</key>
+	<string>singletonDuringSingleton</string>
+	<key>utilStateFrequency</key>
+	<string>durationAtPlatform</string>
+</dict>
+</plist>

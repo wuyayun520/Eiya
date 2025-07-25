@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaThanStyle</key>
+	<string>effectParameterVelocity</string>
+	<key>blocOutsidePrototype</key>
+	<string>standaloneResultContrast</string>
+	<key>boxThanChain</key>
+	<string>tabbarPatternBrightness</string>
+	<key>criticalTransitionFlags</key>
+	<string>disparateGramOrigin</string>
+	<key>delegateFunctionContrast</key>
+	<string>directlyBorderInset</string>
+	<key>loopDuringState</key>
+	<string>effectContainBuffer</string>
+	<key>methodExceptSingleton</key>
+	<string>commandDuringProcess</string>
+	<key>movementDuringState</key>
+	<string>primaryContainerHue</string>
+	<key>sceneJobAppearance</key>
+	<string>signatureOrDecorator</string>
+</dict>
+</plist>

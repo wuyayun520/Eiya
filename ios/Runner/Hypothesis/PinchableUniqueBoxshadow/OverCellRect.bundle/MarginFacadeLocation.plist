@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationByContext</key>
+	<string>errorBeyondInterpreter</string>
+	<key>composableAnimationSize</key>
+	<string>reactivePetOrientation</string>
+	<key>dropdownbuttonKindIndex</key>
+	<string>inkwellWithBuffer</string>
+	<key>eagerExpandedFeedback</key>
+	<string>significantEntropyFeedback</string>
+	<key>greatButtonMode</key>
+	<string>granularHeroForce</string>
+	<key>interactiveObserverFlags</key>
+	<string>chapterBufferOrientation</string>
+	<key>persistentPresenterStyle</key>
+	<string>materialSemanticsBound</string>
+	<key>queryInsideMemento</key>
+	<string>convolutionNearStyle</string>
+	<key>sampleForTask</key>
+	<string>decorationExceptDecorator</string>
+</dict>
+</plist>

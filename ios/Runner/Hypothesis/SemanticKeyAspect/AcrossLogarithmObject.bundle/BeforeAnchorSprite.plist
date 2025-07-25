@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSampleBound</key>
+	<string>alignmentUntilPrototype</string>
+	<key>descriptionTaskTheme</key>
+	<string>mainDecorationDelay</string>
+	<key>marginMethodTransparency</key>
+	<string>switchValueTop</string>
+	<key>offsetVarBorder</key>
+	<string>firstNavigationSkewx</string>
+	<key>requiredCubitState</key>
+	<string>primarySwitchPadding</string>
+	<key>symmetricRouterRotation</key>
+	<string>actionInsideSingleton</string>
+	<key>vectorDespiteMethod</key>
+	<string>cupertinoEnvironmentRight</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPlateContrast</key>
+	<string>adaptiveProviderVisibility</string>
+	<key>dependencyVisitorOrientation</key>
+	<string>resizableErrorBrightness</string>
+	<key>draggableSingletonLocation</key>
+	<string>hardWidgetBehavior</string>
+	<key>permissiveRowHead</key>
+	<string>disparateLabelCoord</string>
+	<key>taskCommandBound</key>
+	<string>utilStrategyCoord</string>
+</dict>
+</plist>

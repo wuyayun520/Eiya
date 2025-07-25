@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentProcessDensity</key>
+	<string>textShapePressure</string>
+	<key>labelValueBrightness</key>
+	<string>containerModeDelay</string>
+	<key>rowModeTheme</key>
+	<string>workflowVariableAppearance</string>
+	<key>transitionAtDecorator</key>
+	<string>usageActionState</string>
+	<key>usageAmongFunction</key>
+	<string>smallModelPosition</string>
+</dict>
+</plist>

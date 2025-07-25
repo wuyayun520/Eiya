@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardControllerAcceleration</key>
+	<string>normalStackForce</string>
+	<key>errorFunctionVelocity</key>
+	<string>sensorCommandPressure</string>
+	<key>gesturedetectorByChain</key>
+	<string>apertureIncludeStage</string>
+	<key>imageLayerCenter</key>
+	<string>usedUsecaseBrightness</string>
+	<key>lostSubpixelSpacing</key>
+	<string>workflowWithoutAdapter</string>
+	<key>modelInterpreterRotation</key>
+	<string>immediateResolverHue</string>
+	<key>queueDecoratorDuration</key>
+	<string>streamActivityTint</string>
+	<key>storageWorkSaturation</key>
+	<string>clipperProxyOpacity</string>
+	<key>switchBufferBorder</key>
+	<string>transitionFormTail</string>
+</dict>
+</plist>

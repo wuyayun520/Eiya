@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAgainstMethod</key>
+	<string>displayableCanvasForce</string>
+	<key>assetEnvironmentVelocity</key>
+	<string>commonIntensityFeedback</string>
+	<key>asyncSkinLeft</key>
+	<string>heroThroughOperation</string>
+	<key>imperativeFeatureFeedback</key>
+	<string>equipmentBeyondOperation</string>
+	<key>notifierDecoratorScale</key>
+	<string>lastGradientSaturation</string>
+	<key>spriteForFramework</key>
+	<string>autoParticleCount</string>
+	<key>timerAlongWork</key>
+	<string>customizedDimensionBrightness</string>
+</dict>
+</plist>

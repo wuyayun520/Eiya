@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionPhaseStyle</key>
+	<string>rowOfShape</string>
+	<key>customizedDescriptionDensity</key>
+	<string>animationMementoTransparency</string>
+	<key>futureViaMemento</key>
+	<string>singletonActivityBorder</string>
+	<key>gestureLevelPressure</key>
+	<string>respectiveSignatureBottom</string>
+	<key>mediaAsValue</key>
+	<string>navigatorSinceEnvironment</string>
+	<key>providerVariablePressure</key>
+	<string>topicInsideVar</string>
+	<key>sequentialTextAppearance</key>
+	<string>scaffoldVersusScope</string>
+	<key>sessionAndStrategy</key>
+	<string>prevGridSize</string>
+	<key>statefulAmongCommand</key>
+	<string>resolverExceptComposite</string>
+	<key>utilObserverSkewx</key>
+	<string>navigationLayerSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredConvolutionDistance</key>
+	<string>scaffoldStateShade</string>
+	<key>isolateFromActivity</key>
+	<string>sampleAndSystem</string>
+	<key>layoutStructureBrightness</key>
+	<string>displayableEventMode</string>
+	<key>statelessCustompaintRight</key>
+	<string>alphaOfState</string>
+	<key>storeVersusWork</key>
+	<string>drawerStageKind</string>
+	<key>symmetricSizedboxBorder</key>
+	<string>actionActionSpeed</string>
+	<key>ternaryOrActivity</key>
+	<string>reactiveBoxSaturation</string>
+	<key>unsortedBinaryTop</key>
+	<string>oldVectorResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseExceptSystem</key>
+	<string>nodeStateSkewx</string>
+	<key>channelPlatformBorder</key>
+	<string>semanticSlashMode</string>
+	<key>dependencySingletonAcceleration</key>
+	<string>unsortedOffsetOrigin</string>
+	<key>exceptionSystemPadding</key>
+	<string>injectionProcessShape</string>
+	<key>globalParticleBorder</key>
+	<string>staticParticleBrightness</string>
+	<key>iterativeInkwellFormat</key>
+	<string>decorationSystemFormat</string>
+	<key>referenceUntilLevel</key>
+	<string>criticalRowInset</string>
+	<key>standaloneRepositoryFeedback</key>
+	<string>borderStyleForce</string>
+</dict>
+</plist>

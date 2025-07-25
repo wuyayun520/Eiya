@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorJobContrast</key>
+	<string>subscriptionNumberSkewx</string>
+	<key>assetParamInteraction</key>
+	<string>effectAsWork</string>
+	<key>collectionStrategyKind</key>
+	<string>resilientStackBrightness</string>
+	<key>commonEquipmentStyle</key>
+	<string>containerAtEnvironment</string>
+	<key>drawerSinceActivity</key>
+	<string>mediumSingletonAlignment</string>
+	<key>graphicStageCount</key>
+	<string>mutableTickerCount</string>
+	<key>listenerBeyondBridge</key>
+	<string>routeTypeVisible</string>
+	<key>navigationViaStrategy</key>
+	<string>navigatorFunctionBottom</string>
+	<key>serviceShapeLeft</key>
+	<string>presenterSingletonForce</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRequestMode</key>
+	<string>baselineDuringMethod</string>
+	<key>customizedDropdownbuttonOffset</key>
+	<string>displayableStoreHue</string>
+	<key>cycleUntilAction</key>
+	<string>streamOrChain</string>
+	<key>decorationDespiteLevel</key>
+	<string>controllerMethodSaturation</string>
+	<key>displayableModulusRotation</key>
+	<string>borderAdapterVelocity</string>
+	<key>layoutAlongJob</key>
+	<string>gateFacadeMode</string>
+	<key>semanticExceptionMode</key>
+	<string>criticalRemainderFormat</string>
+</dict>
+</plist>

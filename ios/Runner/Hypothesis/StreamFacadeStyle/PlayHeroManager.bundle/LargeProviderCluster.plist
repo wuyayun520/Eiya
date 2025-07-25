@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSinceMode</key>
+	<string>widgetFunctionDistance</string>
+	<key>movementPrototypeFrequency</key>
+	<string>queryAsPattern</string>
+	<key>pinchableUsecaseIndex</key>
+	<string>kernelContextStatus</string>
+	<key>semanticsWorkBottom</key>
+	<string>controllerLayerStatus</string>
+	<key>signatureTempleInteraction</key>
+	<string>allocatorSingletonOrigin</string>
+	<key>spriteUntilPlatform</key>
+	<string>bufferFunctionShape</string>
+	<key>statefulStatelessStyle</key>
+	<string>graphEnvironmentDirection</string>
+	<key>touchStrategyForce</key>
+	<string>loopPrototypeShape</string>
+</dict>
+</plist>

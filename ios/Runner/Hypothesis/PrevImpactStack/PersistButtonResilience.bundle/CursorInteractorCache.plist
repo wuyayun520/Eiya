@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectPrototypeStyle</key>
+	<string>dynamicNavigatorPosition</string>
+	<key>giftWithoutFacade</key>
+	<string>controllerOutsideBuffer</string>
+	<key>largeQueryTop</key>
+	<string>staticNotificationDuration</string>
+	<key>numericalSpotCenter</key>
+	<string>reactiveWidgetCoord</string>
+	<key>textfieldSinceMode</key>
+	<string>logarithmVisitorColor</string>
+	<key>uniformCurveFormat</key>
+	<string>customizedControllerRate</string>
+</dict>
+</plist>

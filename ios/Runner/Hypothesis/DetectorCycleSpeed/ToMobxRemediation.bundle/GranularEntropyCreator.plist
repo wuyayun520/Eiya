@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarWithPhase</key>
+	<string>topicOfObserver</string>
+	<key>behaviorBeyondFacade</key>
+	<string>prevBorderColor</string>
+	<key>configurationForParameter</key>
+	<string>cartesianAppbarPosition</string>
+	<key>largeListviewMargin</key>
+	<string>lossForStrategy</string>
+	<key>oldSceneIndex</key>
+	<string>checklistValueVelocity</string>
+	<key>progressbarAboutActivity</key>
+	<string>criticalPrecisionName</string>
+	<key>taskStructureType</key>
+	<string>bulletOfActivity</string>
+	<key>transitionThroughPlatform</key>
+	<string>geometricSceneVisible</string>
+</dict>
+</plist>

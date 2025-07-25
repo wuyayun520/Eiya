@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableBoxColor</key>
+	<string>interactorByFlyweight</string>
+	<key>elasticAnimatedcontainerDirection</key>
+	<string>playbackInScope</string>
+	<key>graphicContextCoord</key>
+	<string>titleForEnvironment</string>
+	<key>histogramScopeContrast</key>
+	<string>gramAndInterpreter</string>
+	<key>inheritedObserverStyle</key>
+	<string>pageviewThroughParam</string>
+	<key>resourceAsParameter</key>
+	<string>retainedTickerFlags</string>
+</dict>
+</plist>

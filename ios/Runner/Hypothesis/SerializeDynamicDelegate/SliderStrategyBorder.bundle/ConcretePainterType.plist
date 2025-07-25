@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableOffsetType</key>
+	<string>pageviewPrototypeOrigin</string>
+	<key>discardedAwaitMargin</key>
+	<string>asynchronousExponentCount</string>
+	<key>iconFormCount</key>
+	<string>positionAsType</string>
+	<key>interfaceAwayParameter</key>
+	<string>requestStageMode</string>
+	<key>operationBesideStyle</key>
+	<string>accordionLayoutSize</string>
+	<key>permissiveIconCount</key>
+	<string>hyperbolicConvolutionHue</string>
+	<key>storeAndState</key>
+	<string>semanticsOrPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineModeDistance</key>
+	<string>sensorOfTier</string>
+	<key>discardedLossBottom</key>
+	<string>immediateGestureDistance</string>
+	<key>graphicAsCycle</key>
+	<string>hyperbolicCubitTail</string>
+	<key>inheritedReducerSkewy</key>
+	<string>usecaseTaskBehavior</string>
+	<key>permanentSpotPressure</key>
+	<string>normalBoxshadowValidation</string>
+	<key>projectionThanScope</key>
+	<string>deferredGraphRate</string>
+	<key>resourceActionBrightness</key>
+	<string>consultativePriorityVisible</string>
+	<key>sessionSinceTask</key>
+	<string>radiusObserverTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorVisitorHead</key>
+	<string>layoutDuringComposite</string>
+	<key>beginnerSpotBorder</key>
+	<string>oldResourceBound</string>
+	<key>behaviorAmongInterpreter</key>
+	<string>widgetContainVar</string>
+	<key>invisibleAsyncRight</key>
+	<string>nativeRectFeedback</string>
+	<key>masterWithoutWork</key>
+	<string>desktopBorderOrigin</string>
+	<key>providerAgainstFlyweight</key>
+	<string>permanentHistogramRate</string>
+</dict>
+</plist>

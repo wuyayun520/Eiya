@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentThroughPlatform</key>
+	<string>petAmongPattern</string>
+	<key>asyncShapeFlags</key>
+	<string>segmentWithContext</string>
+	<key>explicitDelegateShape</key>
+	<string>collectionAdapterRight</string>
+	<key>keyFeatureAlignment</key>
+	<string>responseParameterCenter</string>
+	<key>skirtModeVisibility</key>
+	<string>navigationAboutCycle</string>
+	<key>storageParamRight</key>
+	<string>bufferByWork</string>
+	<key>visibleRequestDuration</key>
+	<string>logAtOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesMethodValidation</key>
+	<string>spriteDespiteState</string>
+	<key>compositionalCharacterAlignment</key>
+	<string>usedMobileOffset</string>
+	<key>cubitDuringBridge</key>
+	<string>loopStyleName</string>
+	<key>descriptionDuringStrategy</key>
+	<string>observerExceptActivity</string>
+	<key>groupViaAdapter</key>
+	<string>captionWithoutStructure</string>
+	<key>marginTaskTransparency</key>
+	<string>semanticDecorationName</string>
+	<key>navigatorWithPattern</key>
+	<string>positionedPerStyle</string>
+	<key>opaqueSineTint</key>
+	<string>slashPhaseDistance</string>
+	<key>originalRiverpodTail</key>
+	<string>concurrentColumnTheme</string>
+	<key>widgetContextTop</key>
+	<string>metadataActivityRotation</string>
+</dict>
+</plist>

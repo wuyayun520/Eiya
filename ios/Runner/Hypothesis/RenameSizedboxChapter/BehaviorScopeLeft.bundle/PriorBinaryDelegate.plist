@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMarginSpeed</key>
+	<string>typicalResponseOrigin</string>
+	<key>grainBeyondAction</key>
+	<string>lazyRouteForce</string>
+	<key>oldBulletSize</key>
+	<string>decorationStyleTail</string>
+	<key>persistentAsyncVisibility</key>
+	<string>normOutsideFramework</string>
+</dict>
+</plist>

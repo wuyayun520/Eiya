@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateOrBridge</key>
+	<string>disabledTableIndex</string>
+	<key>intuitiveListenerDensity</key>
+	<string>cursorLevelResponse</string>
+	<key>lossProxyAppearance</key>
+	<string>configurationScopeAppearance</string>
+	<key>particleSingletonHead</key>
+	<string>decorationAboutNumber</string>
+	<key>rectNearNumber</key>
+	<string>handlerPerPrototype</string>
+	<key>spritePrototypeBound</key>
+	<string>layoutStyleColor</string>
+	<key>transformerAmongMethod</key>
+	<string>statefulFunctionIndex</string>
+</dict>
+</plist>

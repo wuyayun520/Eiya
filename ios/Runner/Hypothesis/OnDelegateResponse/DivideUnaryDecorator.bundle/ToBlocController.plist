@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicSwitchFrequency</key>
+	<string>switchPerChain</string>
+	<key>elasticContainerAlignment</key>
+	<string>responsiveDocumentLeft</string>
+	<key>gridActivityBehavior</key>
+	<string>subtleTernaryFrequency</string>
+	<key>observerOfPhase</key>
+	<string>logStructureFormat</string>
+</dict>
+</plist>

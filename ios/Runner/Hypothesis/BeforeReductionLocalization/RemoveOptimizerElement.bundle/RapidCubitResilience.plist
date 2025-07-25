@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameObserverCenter</key>
+	<string>declarativePresenterVisibility</string>
+	<key>optimizerActivityType</key>
+	<string>declarativeParticleDelay</string>
+	<key>paddingSingletonBehavior</key>
+	<string>gestureTierIndex</string>
+	<key>requiredDocumentOrientation</key>
+	<string>cupertinoDescriptionSpacing</string>
+	<key>subscriptionAboutOperation</key>
+	<string>asyncBeyondStrategy</string>
+</dict>
+</plist>

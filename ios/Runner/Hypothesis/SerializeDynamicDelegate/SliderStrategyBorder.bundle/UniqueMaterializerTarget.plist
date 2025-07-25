@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatePerSingleton</key>
+	<string>callbackActionInteraction</string>
+	<key>difficultBaselineRate</key>
+	<string>granularInjectionInterval</string>
+	<key>errorShapeDensity</key>
+	<string>sceneLevelDuration</string>
+	<key>functionalSliderType</key>
+	<string>listenerForMode</string>
+	<key>notifierFacadeInterval</key>
+	<string>flexInsideCommand</string>
+	<key>observerNearProxy</key>
+	<string>unaryVisitorAcceleration</string>
+	<key>statefulTaskMargin</key>
+	<string>uniqueVectorAlignment</string>
+	<key>texturePlatformEdge</key>
+	<string>modalAndAdapter</string>
+</dict>
+</plist>

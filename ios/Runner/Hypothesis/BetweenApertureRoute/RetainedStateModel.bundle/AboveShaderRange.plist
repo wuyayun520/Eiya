@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerFacadeDuration</key>
+	<string>viewLikeFacade</string>
+	<key>dependencyAlongShape</key>
+	<string>webCoordinatorMode</string>
+	<key>overlayMethodVelocity</key>
+	<string>prevPositionedAppearance</string>
+	<key>staticCapsuleVisible</key>
+	<string>associatedExtensionScale</string>
+	<key>usecaseVarDensity</key>
+	<string>oldListenerSpeed</string>
+</dict>
+</plist>

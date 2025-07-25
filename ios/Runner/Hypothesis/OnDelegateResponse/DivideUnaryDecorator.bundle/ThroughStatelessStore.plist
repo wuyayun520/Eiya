@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePopupEdge</key>
+	<string>sampleStageHead</string>
+	<key>asyncControllerTail</key>
+	<string>frameActionDepth</string>
+	<key>iconFacadeShade</key>
+	<string>heroLevelStyle</string>
+	<key>lastPriorityEdge</key>
+	<string>delegateDespiteComposite</string>
+	<key>materialGrainForce</key>
+	<string>themeContextScale</string>
+	<key>scrollableViewKind</key>
+	<string>requestWithKind</string>
+</dict>
+</plist>

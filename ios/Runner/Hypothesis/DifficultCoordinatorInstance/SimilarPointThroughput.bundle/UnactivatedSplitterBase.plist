@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>singleRoleScale</key>
+	<string>nodeDespiteChain</string>
+	<key>spriteValueTheme</key>
+	<string>eventChainKind</string>
+	<key>stepChainEdge</key>
+	<string>lossAmongEnvironment</string>
+	<key>textureAsScope</key>
+	<string>paddingWorkVisibility</string>
+</dict>
+</plist>

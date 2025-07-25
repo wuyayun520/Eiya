@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeOfInterpreter</key>
+	<string>futureBeyondTask</string>
+	<key>enabledLabelBehavior</key>
+	<string>specifyFactoryInterval</string>
+	<key>entityOutsideShape</key>
+	<string>declarativeRequestSkewy</string>
+	<key>metadataPerMode</key>
+	<string>reducerAboutBridge</string>
+	<key>monsterPhaseLeft</key>
+	<string>queueVarDuration</string>
+</dict>
+</plist>

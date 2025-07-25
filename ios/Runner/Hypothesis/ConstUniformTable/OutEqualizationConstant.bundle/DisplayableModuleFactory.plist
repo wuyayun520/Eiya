@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorActivitySpeed</key>
+	<string>advancedMediaCount</string>
+	<key>associatedGesturedetectorValidation</key>
+	<string>decorationAndObserver</string>
+	<key>cycleKindTint</key>
+	<string>hierarchicalSkirtBehavior</string>
+	<key>navigatorFlyweightRotation</key>
+	<string>textureAroundLayer</string>
+	<key>observerIncludeCommand</key>
+	<string>comprehensiveSlashScale</string>
+	<key>queryFlyweightSkewy</key>
+	<string>cubitAwayPlatform</string>
+	<key>sharedViewSaturation</key>
+	<string>decorationAdapterScale</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionEnvironmentAppearance</key>
+	<string>arithmeticOrStyle</string>
+	<key>criticalTabviewDistance</key>
+	<string>lastSubpixelOrigin</string>
+	<key>fragmentOrForm</key>
+	<string>tableFromSingleton</string>
+	<key>marginContextValidation</key>
+	<string>navigationPhaseResponse</string>
+	<key>prevCupertinoFlags</key>
+	<string>positionedThroughStage</string>
+	<key>scaleBesideMemento</key>
+	<string>agileSliderRate</string>
+</dict>
+</plist>

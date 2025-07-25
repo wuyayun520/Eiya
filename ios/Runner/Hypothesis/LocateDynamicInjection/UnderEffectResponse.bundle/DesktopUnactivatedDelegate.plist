@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionAsProxy</key>
+	<string>alignmentFromShape</string>
+	<key>intuitiveCompleterPressure</key>
+	<string>globalCharacterDelay</string>
+	<key>layoutAdapterVelocity</key>
+	<string>spriteDuringBuffer</string>
+	<key>sliderNearMethod</key>
+	<string>drawerAboutContext</string>
+	<key>timerDuringFlyweight</key>
+	<string>taskEnvironmentOrientation</string>
+	<key>titleAgainstFramework</key>
+	<string>serviceUntilTemple</string>
+</dict>
+</plist>

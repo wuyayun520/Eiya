@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPlatePadding</key>
+	<string>decorationDespiteChain</string>
+	<key>matrixByMemento</key>
+	<string>buttonInsideFlyweight</string>
+	<key>positionedValueAlignment</key>
+	<string>commandSingletonScale</string>
+	<key>sceneFacadeBehavior</key>
+	<string>streamAtValue</string>
+</dict>
+</plist>

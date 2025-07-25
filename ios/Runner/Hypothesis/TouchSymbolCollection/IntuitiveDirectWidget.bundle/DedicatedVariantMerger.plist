@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintNearCommand</key>
+	<string>symmetricEventSaturation</string>
+	<key>interfaceForProxy</key>
+	<string>widgetTempleSkewy</string>
+	<key>listenerParameterPressure</key>
+	<string>custompaintTypeIndex</string>
+	<key>optimizerAndPhase</key>
+	<string>elasticOperationAcceleration</string>
+	<key>viewVariableSkewy</key>
+	<string>iterativeLogDepth</string>
+</dict>
+</plist>

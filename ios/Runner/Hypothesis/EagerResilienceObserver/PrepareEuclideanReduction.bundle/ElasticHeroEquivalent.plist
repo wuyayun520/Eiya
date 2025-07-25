@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeMethodDelay</key>
+	<string>cardCycleSpeed</string>
+	<key>concreteEventLeft</key>
+	<string>cubeNearVisitor</string>
+	<key>coordinatorCycleBehavior</key>
+	<string>permissiveSlashSpacing</string>
+	<key>descriptionOutsideChain</key>
+	<string>statefulCompleterScale</string>
+	<key>navigatorThroughProxy</key>
+	<string>pageviewStructureKind</string>
+	<key>prevPlaybackPosition</key>
+	<string>asyncSessionOrigin</string>
+	<key>publicLogarithmIndex</key>
+	<string>reusableCertificateTint</string>
+</dict>
+</plist>

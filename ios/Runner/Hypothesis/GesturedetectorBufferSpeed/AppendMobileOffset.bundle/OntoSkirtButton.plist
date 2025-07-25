@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGridMode</key>
+	<string>positionByTier</string>
+	<key>activityWithActivity</key>
+	<string>streamCycleEdge</string>
+	<key>commandOutsideFunction</key>
+	<string>cursorProcessAppearance</string>
+	<key>criticalResourceCoord</key>
+	<string>chapterJobSpacing</string>
+	<key>layoutAtFunction</key>
+	<string>eventStyleTheme</string>
+	<key>mobxFunctionFlags</key>
+	<string>borderDecoratorAlignment</string>
+	<key>reducerStyleOffset</key>
+	<string>delegateTaskRight</string>
+	<key>spriteAroundTemple</key>
+	<string>techniqueObserverTransparency</string>
+	<key>textBeyondInterpreter</key>
+	<string>drawerThroughFramework</string>
+	<key>transitionAdapterInteraction</key>
+	<string>optimizerOrVariable</string>
+</dict>
+</plist>

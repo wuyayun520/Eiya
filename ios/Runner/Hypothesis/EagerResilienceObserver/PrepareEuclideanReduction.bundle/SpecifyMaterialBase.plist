@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationIncludeCycle</key>
+	<string>cellCompositeInteraction</string>
+	<key>cupertinoScopeRotation</key>
+	<string>sineOrOperation</string>
+	<key>equalizationTierCoord</key>
+	<string>menuCompositeLocation</string>
+	<key>missedScaffoldValidation</key>
+	<string>usedSizeShade</string>
+	<key>originalParticleTop</key>
+	<string>standaloneScaleCenter</string>
+	<key>originalSkinCount</key>
+	<string>workflowTypeSpacing</string>
+	<key>petParamInterval</key>
+	<string>cycleFromFacade</string>
+	<key>tabbarProxyResponse</key>
+	<string>customApertureBorder</string>
+	<key>textBesideEnvironment</key>
+	<string>independentInjectionRight</string>
+	<key>threadForSingleton</key>
+	<string>resourceAtJob</string>
+</dict>
+</plist>

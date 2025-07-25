@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoConstraintDepth</key>
+	<string>listviewPhaseDistance</string>
+	<key>draggableStoryboardInset</key>
+	<string>menuInsideStage</string>
+	<key>dynamicIntensityTag</key>
+	<string>layerForEnvironment</string>
+	<key>getxWithSingleton</key>
+	<string>playbackParameterAcceleration</string>
+	<key>graphPerShape</key>
+	<string>awaitStageHue</string>
+	<key>menuAsAction</key>
+	<string>keyViewColor</string>
+	<key>profileKindState</key>
+	<string>cupertinoDependencyOrientation</string>
+	<key>rowLevelSkewx</key>
+	<string>referenceBesideOperation</string>
+	<key>significantChartSpeed</key>
+	<string>menuFacadeForce</string>
+	<key>textJobPadding</key>
+	<string>declarativeEventStyle</string>
+</dict>
+</plist>

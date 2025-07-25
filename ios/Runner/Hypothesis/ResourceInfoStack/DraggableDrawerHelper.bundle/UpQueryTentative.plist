@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonGemType</key>
+	<string>hashDespiteEnvironment</string>
+	<key>composableCubitName</key>
+	<string>spriteAndTier</string>
+	<key>nativeMarginPadding</key>
+	<string>allocatorEnvironmentPadding</string>
+	<key>newestAnimationBehavior</key>
+	<string>controllerLayerStatus</string>
+</dict>
+</plist>

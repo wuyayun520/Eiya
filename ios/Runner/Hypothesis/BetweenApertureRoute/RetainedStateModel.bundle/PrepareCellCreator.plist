@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFromInterpreter</key>
+	<string>mediumGroupScale</string>
+	<key>asyncOrInterpreter</key>
+	<string>custompaintSingletonSaturation</string>
+	<key>fusedStepState</key>
+	<string>diffableCycleResponse</string>
+	<key>integerContextSaturation</key>
+	<string>entropyScopeOrientation</string>
+	<key>loopFrameworkDepth</key>
+	<string>layoutBeyondPhase</string>
+	<key>mediumSpriteSpacing</key>
+	<string>swiftFromVisitor</string>
+	<key>playbackInProxy</key>
+	<string>getxTemplePadding</string>
+</dict>
+</plist>

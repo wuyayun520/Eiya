@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWithoutVar</key>
+	<string>cartesianNormContrast</string>
+	<key>modelWithValue</key>
+	<string>accordionFragmentOrientation</string>
+	<key>seamlessLocalizationMargin</key>
+	<string>autoAwaitEdge</string>
+	<key>sinkAlongEnvironment</key>
+	<string>timerAgainstShape</string>
+	<key>uniqueTaskBrightness</key>
+	<string>criticalVariantMargin</string>
+</dict>
+</plist>

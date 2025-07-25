@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitChainKind</key>
+	<string>titleTempleSaturation</string>
+	<key>difficultAssetState</key>
+	<string>futureLayerPressure</string>
+	<key>disabledProviderTop</key>
+	<string>robustCapsuleSpeed</string>
+	<key>labelNearActivity</key>
+	<string>activatedListenerInterval</string>
+	<key>materialBesideAdapter</key>
+	<string>streamModeState</string>
+	<key>overlaySingletonName</key>
+	<string>matrixParameterScale</string>
+	<key>positionChainResponse</key>
+	<string>timerIncludeScope</string>
+</dict>
+</plist>

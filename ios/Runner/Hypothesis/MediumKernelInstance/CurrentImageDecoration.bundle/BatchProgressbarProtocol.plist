@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionFormType</key>
+	<string>gradientOutsideChain</string>
+	<key>permissiveSubpixelResponse</key>
+	<string>newestZoneLocation</string>
+	<key>requestAsMethod</key>
+	<string>containerStyleStyle</string>
+	<key>streamStructureInset</key>
+	<string>textureStyleEdge</string>
+	<key>textOutsideTier</key>
+	<string>anchorStateBound</string>
+</dict>
+</plist>

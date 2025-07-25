@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCatalystInteraction</key>
+	<string>callbackEnvironmentSkewy</string>
+	<key>animatedCustompaintFormat</key>
+	<string>desktopParticleDistance</string>
+	<key>baseVisitorBrightness</key>
+	<string>gesturedetectorLayerShape</string>
+	<key>desktopCoordinatorPosition</key>
+	<string>draggableNotifierIndex</string>
+	<key>directSinkDensity</key>
+	<string>activatedCellOpacity</string>
+	<key>discardedStoreMomentum</key>
+	<string>isolateStructureBound</string>
+	<key>mobileTweenTag</key>
+	<string>nextNavigatorDepth</string>
+	<key>subtleConfigurationSpacing</key>
+	<string>immutableSizeRight</string>
+</dict>
+</plist>

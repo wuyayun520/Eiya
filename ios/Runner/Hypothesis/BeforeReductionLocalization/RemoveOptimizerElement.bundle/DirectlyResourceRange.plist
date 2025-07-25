@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaLikeScope</key>
+	<string>consumerOrDecorator</string>
+	<key>ignoredSubscriptionOrigin</key>
+	<string>movementOrStrategy</string>
+	<key>largeQueueBrightness</key>
+	<string>oldPlaybackForce</string>
+	<key>mediumColumnShape</key>
+	<string>interfacePlatformCount</string>
+	<key>otherCallbackOffset</key>
+	<string>touchMementoBrightness</string>
+	<key>prismaticTweenBehavior</key>
+	<string>protectedTangentEdge</string>
+	<key>sharedCustompaintForce</key>
+	<string>sustainableOperationAcceleration</string>
+	<key>streamCommandAppearance</key>
+	<string>disabledHandlerDirection</string>
+</dict>
+</plist>

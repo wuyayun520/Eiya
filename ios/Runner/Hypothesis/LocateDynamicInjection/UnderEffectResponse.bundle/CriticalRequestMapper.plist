@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanUtilPressure</key>
+	<string>matrixEnvironmentOpacity</string>
+	<key>loopFromInterpreter</key>
+	<string>controllerBySingleton</string>
+	<key>mainWidgetValidation</key>
+	<string>bufferOutsideAction</string>
+	<key>notificationAtSingleton</key>
+	<string>segueInterpreterContrast</string>
+	<key>popupNearFramework</key>
+	<string>otherMetadataOpacity</string>
+	<key>promiseAsFunction</key>
+	<string>actionProxyPosition</string>
+	<key>reducerObserverAppearance</key>
+	<string>navigationScopeForce</string>
+	<key>scrollableCharacterInteraction</key>
+	<string>semanticCurveDepth</string>
+	<key>vectorNumberStatus</key>
+	<string>streamActivityAlignment</string>
+</dict>
+</plist>

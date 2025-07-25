@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstSessionPadding</key>
+	<string>accessoryIncludeLevel</string>
+	<key>notifierAtProxy</key>
+	<string>providerAsParam</string>
+	<key>topicFormSize</key>
+	<string>otherPlaybackHead</string>
+</dict>
+</plist>

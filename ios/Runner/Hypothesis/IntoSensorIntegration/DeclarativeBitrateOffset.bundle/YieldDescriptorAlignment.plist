@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAmongScope</key>
+	<string>largeSliderVisibility</string>
+	<key>numericalSubscriptionState</key>
+	<string>precisionCycleSpeed</string>
+	<key>respectiveManagerContrast</key>
+	<string>subpixelScopeDelay</string>
+	<key>serviceAmongAction</key>
+	<string>unactivatedSliderLeft</string>
+	<key>threadActionInset</key>
+	<string>accessoryFlyweightCount</string>
+</dict>
+</plist>

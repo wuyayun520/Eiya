@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGrainType</key>
+	<string>sliderInsideVar</string>
+	<key>curveForStructure</key>
+	<string>allocatorModeShape</string>
+	<key>draggableContainerDelay</key>
+	<string>enabledParticleAppearance</string>
+	<key>responsiveTitleBehavior</key>
+	<string>loopLayerLocation</string>
+	<key>widgetKindPressure</key>
+	<string>intensityPhaseOrigin</string>
+</dict>
+</plist>

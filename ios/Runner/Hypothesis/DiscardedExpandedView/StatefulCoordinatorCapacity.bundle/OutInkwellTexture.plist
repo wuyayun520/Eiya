@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncForPhase</key>
+	<string>controllerShapeBrightness</string>
+	<key>buttonInterpreterLeft</key>
+	<string>sizedboxAgainstProxy</string>
+	<key>independentBuilderTheme</key>
+	<string>alphaViaCommand</string>
+	<key>intermediateSemanticsAlignment</key>
+	<string>interactorOutsidePhase</string>
+	<key>oldScrollName</key>
+	<string>integerCommandMomentum</string>
+	<key>plateSingletonSize</key>
+	<string>containerAroundPhase</string>
+	<key>timerExceptTier</key>
+	<string>granularMenuAlignment</string>
+</dict>
+</plist>

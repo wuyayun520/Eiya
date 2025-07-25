@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationWithoutPhase</key>
+	<string>customResultVisibility</string>
+	<key>exceptionOutsideCommand</key>
+	<string>fixedNavigationName</string>
+	<key>inkwellThroughComposite</key>
+	<string>coordinatorProcessTint</string>
+	<key>offsetAndPattern</key>
+	<string>widgetFormValidation</string>
+	<key>priorKernelName</key>
+	<string>spineAlongVariable</string>
+	<key>promiseModeTop</key>
+	<string>navigatorJobFrequency</string>
+	<key>singletonSingletonCount</key>
+	<string>parallelOptimizerFrequency</string>
+	<key>sortedContainerRight</key>
+	<string>lostClipperTag</string>
+</dict>
+</plist>

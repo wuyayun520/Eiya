@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChapterAcceleration</key>
+	<string>sensorLikeMethod</string>
+	<key>durationActivityKind</key>
+	<string>storageBufferBehavior</string>
+	<key>interpolationBeyondAdapter</key>
+	<string>gradientOrBuffer</string>
+	<key>vectorInBridge</key>
+	<string>transitionSinceBridge</string>
+</dict>
+</plist>

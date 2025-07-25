@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAlongInterpreter</key>
+	<string>painterAgainstPlatform</string>
+	<key>decorationAtActivity</key>
+	<string>sampleInsideMode</string>
+	<key>dialogsWithoutShape</key>
+	<string>localizationContextVelocity</string>
+	<key>disparatePageviewCenter</key>
+	<string>delegateJobBottom</string>
+	<key>largeAssetRight</key>
+	<string>customizedStatefulSaturation</string>
+	<key>modulusStyleState</key>
+	<string>buttonUntilSingleton</string>
+	<key>nextResolverOpacity</key>
+	<string>repositoryViaDecorator</string>
+	<key>overlayAroundComposite</key>
+	<string>managerAsFunction</string>
+	<key>tweenUntilInterpreter</key>
+	<string>monsterCompositeVelocity</string>
+</dict>
+</plist>

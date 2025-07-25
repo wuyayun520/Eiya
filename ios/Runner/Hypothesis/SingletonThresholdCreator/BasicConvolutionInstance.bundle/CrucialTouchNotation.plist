@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStructureSpacing</key>
+	<string>scrollFromPattern</string>
+	<key>cartesianObserverTheme</key>
+	<string>extensionWorkShape</string>
+	<key>completerLayerAcceleration</key>
+	<string>tabviewBridgeTheme</string>
+	<key>cubitBesideMethod</key>
+	<string>cupertinoShapeOpacity</string>
+	<key>menuValueSkewx</key>
+	<string>materialHeapContrast</string>
+	<key>navigatorModeTransparency</key>
+	<string>stateAroundVar</string>
+	<key>statelessTaskOpacity</key>
+	<string>respectiveIntensityStatus</string>
+	<key>workflowIncludeState</key>
+	<string>presenterValueDepth</string>
+</dict>
+</plist>

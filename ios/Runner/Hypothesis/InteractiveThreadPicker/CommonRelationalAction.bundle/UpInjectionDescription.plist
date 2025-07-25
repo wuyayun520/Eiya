@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCompositionColor</key>
+	<string>resourcePerFacade</string>
+	<key>controllerOfFlyweight</key>
+	<string>protectedScaleDistance</string>
+	<key>switchByMemento</key>
+	<string>effectWithPlatform</string>
+	<key>uniqueRowKind</key>
+	<string>viewOrFramework</string>
+	<key>unsortedBoxOpacity</key>
+	<string>skinOfValue</string>
+</dict>
+</plist>

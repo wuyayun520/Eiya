@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferTaskTransparency</key>
+	<string>cosineTierBorder</string>
+	<key>checkboxAdapterShape</key>
+	<string>utilAwayOperation</string>
+	<key>configurationBufferBound</key>
+	<string>callbackDuringBuffer</string>
+	<key>directNavigationScale</key>
+	<string>iterativeRectRotation</string>
+	<key>grayscaleFromLayer</key>
+	<string>grayscalePerForm</string>
+	<key>optionContainState</key>
+	<string>cellStateDirection</string>
+	<key>priorManagerLeft</key>
+	<string>listviewWithLayer</string>
+</dict>
+</plist>

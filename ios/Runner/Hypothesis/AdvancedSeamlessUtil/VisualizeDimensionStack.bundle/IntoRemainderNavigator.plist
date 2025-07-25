@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderObserverSpacing</key>
+	<string>effectTierMargin</string>
+	<key>concurrentManagerShade</key>
+	<string>cycleContainBuffer</string>
+	<key>deferredRepositoryState</key>
+	<string>cubitLikeAdapter</string>
+	<key>intuitiveErrorShape</key>
+	<string>easyMobxDirection</string>
+</dict>
+</plist>

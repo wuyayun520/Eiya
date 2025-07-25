@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseViaActivity</key>
+	<string>gesturedetectorStateShade</string>
+	<key>coordinatorThroughCycle</key>
+	<string>aspectratioStageContrast</string>
+	<key>delicateSineOpacity</key>
+	<string>geometricAllocatorBound</string>
+	<key>pivotalCompositionVisible</key>
+	<string>navigatorWithoutBridge</string>
+	<key>repositoryPerObserver</key>
+	<string>statelessVersusVar</string>
+	<key>scaffoldPlatformDensity</key>
+	<string>smallAnimationForce</string>
+	<key>subtleCurveShape</key>
+	<string>parallelContainerPadding</string>
+	<key>workflowThroughEnvironment</key>
+	<string>menuFromActivity</string>
+</dict>
+</plist>

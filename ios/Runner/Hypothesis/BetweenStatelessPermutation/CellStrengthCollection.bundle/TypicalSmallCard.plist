@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPatternOpacity</key>
+	<string>arithmeticGateCenter</string>
+	<key>cardStateHue</key>
+	<string>containerForSingleton</string>
+	<key>exceptionAroundDecorator</key>
+	<string>normalSingletonPressure</string>
+	<key>futureLikeInterpreter</key>
+	<string>priorInterfaceOrigin</string>
+	<key>listviewAmongBuffer</key>
+	<string>groupForVar</string>
+	<key>normalContainerTransparency</key>
+	<string>popupOrMemento</string>
+	<key>textFacadeInteraction</key>
+	<string>requestDecoratorPressure</string>
+</dict>
+</plist>

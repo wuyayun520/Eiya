@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarScopeOrientation</key>
+	<string>numericalTextFormat</string>
+	<key>asynchronousScaffoldTail</key>
+	<string>checklistForLevel</string>
+	<key>baseFacadeHue</key>
+	<string>playbackTierSkewx</string>
+	<key>decorationCompositeSpeed</key>
+	<string>serviceStrategySize</string>
+	<key>specifierJobTail</key>
+	<string>fragmentFromActivity</string>
+	<key>tickerContainMediator</key>
+	<string>secondSkirtScale</string>
+</dict>
+</plist>

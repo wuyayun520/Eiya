@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGramTransparency</key>
+	<string>buttonJobStatus</string>
+	<key>brushCycleFrequency</key>
+	<string>spotForContext</string>
+	<key>bufferNumberFrequency</key>
+	<string>sizeAgainstPlatform</string>
+	<key>futureStructureMode</key>
+	<string>widgetBeyondMode</string>
+	<key>hyperbolicGrainBottom</key>
+	<string>listenerAwayCommand</string>
+	<key>loopBufferVelocity</key>
+	<string>viewStructureVisibility</string>
+</dict>
+</plist>

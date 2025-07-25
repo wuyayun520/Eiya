@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedHashDirection</key>
+	<string>diffableResourceOpacity</string>
+	<key>basicSignPressure</key>
+	<string>interactorLikeState</string>
+	<key>constraintFacadeInset</key>
+	<string>subpixelAgainstStyle</string>
+	<key>constraintFromMediator</key>
+	<string>resultValueTop</string>
+	<key>grainMediatorName</key>
+	<string>localEffectMargin</string>
+	<key>logarithmFrameworkAppearance</key>
+	<string>coordinatorPhaseStyle</string>
+	<key>mainPlateTail</key>
+	<string>staticMenuCount</string>
+	<key>reducerChainVisible</key>
+	<string>pinchableUtilLocation</string>
+	<key>semanticRowName</key>
+	<string>multiInkwellDelay</string>
+</dict>
+</plist>

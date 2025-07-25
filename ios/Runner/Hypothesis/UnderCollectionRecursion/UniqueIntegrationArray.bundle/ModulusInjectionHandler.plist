@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleFrameworkAppearance</key>
+	<string>alignmentLayerShape</string>
+	<key>configurationParameterColor</key>
+	<string>specifyBuilderCoord</string>
+	<key>constraintFacadeDistance</key>
+	<string>widgetOfComposite</string>
+	<key>finalInteractorShape</key>
+	<string>blocAlongMode</string>
+	<key>gradientThanKind</key>
+	<string>gradientPhaseAlignment</string>
+	<key>interpolationWithForm</key>
+	<string>batchInterpreterTheme</string>
+	<key>singleChartSpacing</key>
+	<string>webMarginDuration</string>
+	<key>tappableCaptionAcceleration</key>
+	<string>gestureCompositeBrightness</string>
+</dict>
+</plist>

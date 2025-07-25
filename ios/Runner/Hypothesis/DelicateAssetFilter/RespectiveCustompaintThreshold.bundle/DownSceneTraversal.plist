@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstListviewEdge</key>
+	<string>matrixBridgeTail</string>
+	<key>presenterProxyVelocity</key>
+	<string>similarNormInteraction</string>
+	<key>protectedSpriteSpacing</key>
+	<string>smallResultDensity</string>
+	<key>sessionAsPattern</key>
+	<string>accordionBaselineFlags</string>
+	<key>standaloneTaskBorder</key>
+	<string>sensorExceptFacade</string>
+</dict>
+</plist>

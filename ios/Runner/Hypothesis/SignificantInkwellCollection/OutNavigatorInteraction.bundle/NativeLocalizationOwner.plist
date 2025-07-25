@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryBeyondCommand</key>
+	<string>priorityTempleInset</string>
+	<key>sensorPerLevel</key>
+	<string>tabbarStateInteraction</string>
+	<key>subpixelVersusMediator</key>
+	<string>modalStageInteraction</string>
+	<key>textureLikeEnvironment</key>
+	<string>geometricReducerRight</string>
+	<key>webResultRotation</key>
+	<string>futureValueHue</string>
+	<key>zoneVariableValidation</key>
+	<string>alertFunctionInset</string>
+</dict>
+</plist>

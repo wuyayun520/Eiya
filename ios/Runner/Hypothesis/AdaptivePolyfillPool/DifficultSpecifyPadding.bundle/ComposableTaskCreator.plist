@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferExceptTask</key>
+	<string>convolutionBufferRate</string>
+	<key>coordinatorStrategyMargin</key>
+	<string>segueFromMode</string>
+	<key>localizationOrStrategy</key>
+	<string>scrollChainStatus</string>
+	<key>mainRepositoryInteraction</key>
+	<string>loopKindSaturation</string>
+	<key>matrixCommandFlags</key>
+	<string>mainIconBorder</string>
+</dict>
+</plist>

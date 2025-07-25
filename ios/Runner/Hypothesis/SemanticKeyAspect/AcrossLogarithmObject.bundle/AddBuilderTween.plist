@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAgainstFunction</key>
+	<string>factoryStyleSkewy</string>
+	<key>commandViaFacade</key>
+	<string>modelMediatorTint</string>
+	<key>coordinatorAlongProxy</key>
+	<string>dedicatedBaseCoord</string>
+	<key>injectionAtValue</key>
+	<string>cartesianResourceOrientation</string>
+	<key>otherConstraintPressure</key>
+	<string>arithmeticConstraintOrigin</string>
+	<key>segmentPhaseSkewx</key>
+	<string>integerStyleShade</string>
+	<key>sessionThroughMemento</key>
+	<string>significantRouteSkewx</string>
+	<key>statefulGridviewOpacity</key>
+	<string>frameStructureLocation</string>
+</dict>
+</plist>

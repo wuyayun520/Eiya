@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncProcessBorder</key>
+	<string>cursorStageFeedback</string>
+	<key>channelShapeLocation</key>
+	<string>oldConstraintFormat</string>
+	<key>firstDurationMargin</key>
+	<string>curveStrategyFeedback</string>
+	<key>fragmentViaComposite</key>
+	<string>semanticSliderBorder</string>
+	<key>layoutObserverVisibility</key>
+	<string>elasticSignScale</string>
+	<key>providerBufferValidation</key>
+	<string>associatedEventBorder</string>
+	<key>serviceLikeKind</key>
+	<string>mobileViewDensity</string>
+	<key>significantCompositionDensity</key>
+	<string>smallRouterAppearance</string>
+	<key>symbolStrategyKind</key>
+	<string>buttonAboutStructure</string>
+	<key>tabviewAboutProcess</key>
+	<string>progressbarDuringTask</string>
+</dict>
+</plist>

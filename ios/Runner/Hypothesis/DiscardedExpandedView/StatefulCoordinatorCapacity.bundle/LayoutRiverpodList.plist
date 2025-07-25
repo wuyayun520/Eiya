@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOfComposite</key>
+	<string>graphProxySpeed</string>
+	<key>dedicatedCardBorder</key>
+	<string>customReferenceFrequency</string>
+	<key>ephemeralDelegateType</key>
+	<string>instructionForVar</string>
+	<key>factorySinceVar</key>
+	<string>controllerProxyMargin</string>
+	<key>loopParameterInset</key>
+	<string>decorationAsStage</string>
+	<key>queryPhaseSkewx</key>
+	<string>hardRouteHue</string>
+	<key>routeShapeShade</key>
+	<string>blocActivityMargin</string>
+	<key>stateVisitorMargin</key>
+	<string>sinkMementoBrightness</string>
+</dict>
+</plist>

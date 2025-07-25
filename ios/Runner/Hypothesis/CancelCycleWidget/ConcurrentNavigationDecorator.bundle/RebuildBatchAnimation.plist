@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentObserverMargin</key>
+	<string>primaryGroupHue</string>
+	<key>delicateNavigatorBrightness</key>
+	<string>resultSystemBorder</string>
+	<key>easyTabbarBrightness</key>
+	<string>activatedSemanticsRotation</string>
+	<key>groupOfDecorator</key>
+	<string>mobileCubitTag</string>
+	<key>isolateNumberRight</key>
+	<string>localFutureDelay</string>
+</dict>
+</plist>

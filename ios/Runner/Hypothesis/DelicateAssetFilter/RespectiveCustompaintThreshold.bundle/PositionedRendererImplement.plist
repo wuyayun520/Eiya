@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesThroughProxy</key>
+	<string>firstCursorColor</string>
+	<key>directRadiusShape</key>
+	<string>channelVersusPhase</string>
+	<key>particleOutsideMethod</key>
+	<string>gridProcessTransparency</string>
+	<key>pinchableFragmentStyle</key>
+	<string>matrixEnvironmentValidation</string>
+	<key>primaryAllocatorSaturation</key>
+	<string>resizableAnimatedcontainerRight</string>
+	<key>projectProcessDepth</key>
+	<string>optimizerSingletonLeft</string>
+	<key>sessionScopeEdge</key>
+	<string>cacheThroughMediator</string>
+	<key>subsequentResultMargin</key>
+	<string>retainedResourceTransparency</string>
+</dict>
+</plist>

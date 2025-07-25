@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCallbackFrequency</key>
+	<string>draggableContractionSkewx</string>
+	<key>callbackByObserver</key>
+	<string>viewAsActivity</string>
+	<key>customizedSensorColor</key>
+	<string>masterContainTemple</string>
+	<key>durationFunctionInset</key>
+	<string>layoutDespiteTemple</string>
+	<key>elasticCompositionScale</key>
+	<string>hashValueInset</string>
+	<key>ignoredQueueAcceleration</key>
+	<string>concurrentEntityForce</string>
+	<key>interpolationAtActivity</key>
+	<string>sinkMediatorPressure</string>
+	<key>normalLoopPadding</key>
+	<string>aspectratioInsideValue</string>
+	<key>providerDuringTier</key>
+	<string>accordionErrorOrigin</string>
+</dict>
+</plist>

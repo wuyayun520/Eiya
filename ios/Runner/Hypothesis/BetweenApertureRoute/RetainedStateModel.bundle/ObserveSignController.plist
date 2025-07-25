@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFutureDensity</key>
+	<string>frameAroundNumber</string>
+	<key>decorationWorkFlags</key>
+	<string>cacheFunctionShape</string>
+	<key>featureProxyFormat</key>
+	<string>textFacadeFeedback</string>
+	<key>getxEnvironmentTop</key>
+	<string>actionNearFlyweight</string>
+	<key>grainInterpreterMomentum</key>
+	<string>listenerTierCount</string>
+	<key>referenceVarShape</key>
+	<string>allocatorAroundVar</string>
+</dict>
+</plist>

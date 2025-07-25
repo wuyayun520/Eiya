@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateStageSpeed</key>
+	<string>flexibleStoryboardSize</string>
+	<key>concreteSizeAppearance</key>
+	<string>previewNearState</string>
+	<key>drawerKindLocation</key>
+	<string>repositoryOutsideScope</string>
+	<key>dropdownbuttonKindLocation</key>
+	<string>accordionSwitchFeedback</string>
+	<key>progressbarForBridge</key>
+	<string>directMobxInteraction</string>
+	<key>significantFutureKind</key>
+	<string>dialogsParamMode</string>
+</dict>
+</plist>

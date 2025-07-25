@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPlatformVisible</key>
+	<string>permanentBuilderCount</string>
+	<key>concreteMapValidation</key>
+	<string>constScreenFrequency</string>
+	<key>directlyGrainInterval</key>
+	<string>layoutShapeOffset</string>
+	<key>switchPerChain</key>
+	<string>diffableStreamVelocity</string>
+</dict>
+</plist>

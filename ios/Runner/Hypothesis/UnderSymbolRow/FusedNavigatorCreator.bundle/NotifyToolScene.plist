@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeGridviewSpacing</key>
+	<string>customUsecaseForce</string>
+	<key>eventFrameworkBehavior</key>
+	<string>mobxPerDecorator</string>
+	<key>interactorBridgeHue</key>
+	<string>factorySinceAdapter</string>
+	<key>layoutOfForm</key>
+	<string>brushFlyweightScale</string>
+	<key>masterProcessCount</key>
+	<string>decorationContextShade</string>
+	<key>mutableIntensityBrightness</key>
+	<string>persistentGrainBound</string>
+	<key>sineInContext</key>
+	<string>activeIntensityState</string>
+</dict>
+</plist>

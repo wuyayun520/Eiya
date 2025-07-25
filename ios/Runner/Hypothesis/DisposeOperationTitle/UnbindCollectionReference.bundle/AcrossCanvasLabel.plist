@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCheckboxSpeed</key>
+	<string>resilientSwitchState</string>
+	<key>callbackTaskEdge</key>
+	<string>webEqualizationName</string>
+	<key>equalizationPlatformBrightness</key>
+	<string>movementByProcess</string>
+	<key>finalAnimationPressure</key>
+	<string>semanticMusicBehavior</string>
+	<key>menuScopeOpacity</key>
+	<string>inactiveCommandFeedback</string>
+	<key>multiVariantCount</key>
+	<string>checkboxByTemple</string>
+	<key>playbackBufferDelay</key>
+	<string>reactiveTabviewSaturation</string>
+	<key>signParameterColor</key>
+	<string>accessibleStepSkewy</string>
+	<key>stepParameterCenter</key>
+	<string>composableColumnStatus</string>
+	<key>themeAroundParameter</key>
+	<string>injectionSingletonIndex</string>
+</dict>
+</plist>

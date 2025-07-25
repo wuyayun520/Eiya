@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFutureScale</key>
+	<string>globalDelegateVisibility</string>
+	<key>baselineWithWork</key>
+	<string>resizableFrameLocation</string>
+	<key>boxshadowViaFunction</key>
+	<string>mediaqueryInterpreterDensity</string>
+	<key>channelVariableVelocity</key>
+	<string>discardedPainterDuration</string>
+	<key>cupertinoInteractorBottom</key>
+	<string>controllerAsVariable</string>
+	<key>stackExceptBridge</key>
+	<string>singletonOperationFrequency</string>
+	<key>taskFunctionVisible</key>
+	<string>liteMenuDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeUntilVisitor</key>
+	<string>sensorAroundParam</string>
+	<key>constraintVariableMode</key>
+	<string>crudeDelegateFrequency</string>
+	<key>currentModelLeft</key>
+	<string>convolutionPhaseTint</string>
+	<key>inactiveNibPosition</key>
+	<string>workflowBesideNumber</string>
+	<key>navigationPhaseRate</key>
+	<string>sampleShapeCenter</string>
+	<key>nibProcessInteraction</key>
+	<string>hashOfContext</string>
+	<key>offsetAboutProcess</key>
+	<string>temporaryGesturedetectorDistance</string>
+	<key>popupAboutFramework</key>
+	<string>standaloneMaterialBorder</string>
+</dict>
+</plist>

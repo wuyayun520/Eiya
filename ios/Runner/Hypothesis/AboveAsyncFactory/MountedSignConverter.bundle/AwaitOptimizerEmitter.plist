@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedEntityOrientation</key>
+	<string>composableStoreFlags</string>
+	<key>activatedNavigatorScale</key>
+	<string>temporaryCertificateOpacity</string>
+	<key>animatedcontainerPrototypeAppearance</key>
+	<string>matrixFormTint</string>
+	<key>animationStageSize</key>
+	<string>accessoryTierTop</string>
+	<key>behaviorInsideBuffer</key>
+	<string>serviceAsCommand</string>
+	<key>blocStructureStyle</key>
+	<string>protocolValueDirection</string>
+	<key>nextBlocLeft</key>
+	<string>immediateSceneEdge</string>
+	<key>touchChainAlignment</key>
+	<string>stackChainContrast</string>
+</dict>
+</plist>

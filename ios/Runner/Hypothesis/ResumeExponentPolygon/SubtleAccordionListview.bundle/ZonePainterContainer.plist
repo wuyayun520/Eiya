@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncContextAlignment</key>
+	<string>isolateFrameworkShade</string>
+	<key>draggableMomentumKind</key>
+	<string>apertureMementoSkewx</string>
+	<key>eagerConfigurationScale</key>
+	<string>pointSinceCycle</string>
+	<key>immutableStepMargin</key>
+	<string>layoutFlyweightStatus</string>
+	<key>sustainableBaselineSpeed</key>
+	<string>overlayLevelLocation</string>
+</dict>
+</plist>

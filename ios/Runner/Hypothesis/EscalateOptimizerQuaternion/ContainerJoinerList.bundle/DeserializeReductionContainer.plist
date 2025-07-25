@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledPositionFormat</key>
+	<string>positionedKindShape</string>
+	<key>extensionCompositeBound</key>
+	<string>segueTierOffset</string>
+	<key>offsetOrContext</key>
+	<string>assetKindOffset</string>
+	<key>popupJobRight</key>
+	<string>statelessInteractorMode</string>
+	<key>sampleCommandSpacing</key>
+	<string>projectLikeAction</string>
+	<key>sceneByActivity</key>
+	<string>multiEntityVisibility</string>
+	<key>stateInObserver</key>
+	<string>relationalEntityCenter</string>
+	<key>tweenInterpreterColor</key>
+	<string>compositionalPresenterRight</string>
+	<key>utilUntilCommand</key>
+	<string>futureVersusType</string>
+</dict>
+</plist>

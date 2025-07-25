@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveServiceSkewx</key>
+	<string>groupDespiteContext</string>
+	<key>immutableNavigatorInterval</key>
+	<string>mediaChainSkewx</string>
+	<key>promiseActionRotation</key>
+	<string>viewViaTask</string>
+	<key>storageInMemento</key>
+	<string>secondButtonOffset</string>
+</dict>
+</plist>

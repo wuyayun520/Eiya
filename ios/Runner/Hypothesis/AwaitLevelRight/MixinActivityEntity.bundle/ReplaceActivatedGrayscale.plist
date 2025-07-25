@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCycleDistance</key>
+	<string>loopInsideDecorator</string>
+	<key>chartBeyondMode</key>
+	<string>spritePhaseVisible</string>
+	<key>cupertinoBridgeOrientation</key>
+	<string>parallelInterpolationFrequency</string>
+	<key>displayableProfileBrightness</key>
+	<string>blocMediatorStatus</string>
+	<key>eventNearFramework</key>
+	<string>opaqueStatefulDepth</string>
+	<key>radiusWithJob</key>
+	<string>specifierDuringForm</string>
+	<key>rectThanForm</key>
+	<string>segueExceptObserver</string>
+	<key>reusableConstraintVisibility</key>
+	<string>pinchableSignInset</string>
+	<key>singletonPerBridge</key>
+	<string>symbolStructureInterval</string>
+</dict>
+</plist>

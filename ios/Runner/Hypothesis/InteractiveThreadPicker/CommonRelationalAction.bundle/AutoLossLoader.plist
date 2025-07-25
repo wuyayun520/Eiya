@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveLevelMode</key>
+	<string>injectionLikeVariable</string>
+	<key>getxWithoutMemento</key>
+	<string>interactiveTextAppearance</string>
+	<key>graphContextCoord</key>
+	<string>localizationVariableCenter</string>
+	<key>lossNearCommand</key>
+	<string>stepJobCount</string>
+	<key>navigatorNumberMargin</key>
+	<string>mediumSkinAlignment</string>
+	<key>providerAgainstPattern</key>
+	<string>singletonWithoutActivity</string>
+	<key>reactiveGramSaturation</key>
+	<string>uniqueGradientMode</string>
+	<key>routeSingletonDistance</key>
+	<string>stateAwayVar</string>
+</dict>
+</plist>

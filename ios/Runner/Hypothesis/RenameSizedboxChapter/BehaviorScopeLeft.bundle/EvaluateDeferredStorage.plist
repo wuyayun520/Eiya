@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAroundContext</key>
+	<string>greatGridType</string>
+	<key>containerDespiteNumber</key>
+	<string>activityCompositeSpeed</string>
+	<key>deferredDurationOrientation</key>
+	<string>kernelParameterCount</string>
+	<key>flexibleLabelOrientation</key>
+	<string>localPaddingCenter</string>
+	<key>queueVersusContext</key>
+	<string>taskTypeDuration</string>
+	<key>rowBeyondBuffer</key>
+	<string>heapCycleKind</string>
+</dict>
+</plist>

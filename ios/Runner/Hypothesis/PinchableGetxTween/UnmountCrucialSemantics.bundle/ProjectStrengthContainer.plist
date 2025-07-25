@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAspectratioTheme</key>
+	<string>lostDecorationDuration</string>
+	<key>gradientPrototypeTail</key>
+	<string>navigationThroughBridge</string>
+	<key>usageIncludeEnvironment</key>
+	<string>appbarAgainstDecorator</string>
+	<key>usageOrValue</key>
+	<string>beginnerRadiusPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardNotificationInterval</key>
+	<string>mediaBridgeOrigin</string>
+	<key>customizedActivityBound</key>
+	<string>injectionActivityVelocity</string>
+	<key>discardedTernaryTint</key>
+	<string>subpixelPlatformCount</string>
+	<key>diversifiedRouteFlags</key>
+	<string>subsequentPresenterInteraction</string>
+</dict>
+</plist>

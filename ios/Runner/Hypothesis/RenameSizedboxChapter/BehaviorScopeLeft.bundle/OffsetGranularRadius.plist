@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedSliderTheme</key>
+	<string>asynchronousNavigatorHue</string>
+	<key>interactiveGridviewType</key>
+	<string>animationThroughLevel</string>
+	<key>intuitiveZoneSpeed</key>
+	<string>inkwellAndValue</string>
+	<key>managerInterpreterAlignment</key>
+	<string>pointThroughVariable</string>
+	<key>nextInstructionFormat</key>
+	<string>activeGroupDelay</string>
+	<key>previewVersusTier</key>
+	<string>durationWithType</string>
+	<key>spriteWithBridge</key>
+	<string>autoNodeBottom</string>
+	<key>swiftInDecorator</key>
+	<string>basicSwitchDistance</string>
+	<key>textDuringEnvironment</key>
+	<string>textCompositeBottom</string>
+</dict>
+</plist>

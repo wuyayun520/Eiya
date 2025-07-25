@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterStrategySaturation</key>
+	<string>offsetVarInterval</string>
+	<key>consultativeCaptionAlignment</key>
+	<string>masterBeyondCommand</string>
+	<key>cubitIncludeVar</key>
+	<string>animatedSkirtAcceleration</string>
+	<key>exceptionScopePadding</key>
+	<string>completerCommandDensity</string>
+	<key>materialWidgetSpeed</key>
+	<string>presenterCommandTint</string>
+	<key>mutableGridviewType</key>
+	<string>smartButtonAppearance</string>
+	<key>offsetSingletonFormat</key>
+	<string>futureParamBorder</string>
+	<key>sophisticatedBaseShape</key>
+	<string>activityByContext</string>
+</dict>
+</plist>

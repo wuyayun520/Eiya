@@ -1,0 +1,410 @@
+{
+  "turtles": [
+    {
+      "id": "turtle_1",
+      "name": "Red-eared Slider with Bunny Hat",
+      "species": "Trachemys scripta elegans (Red-eared Slider)",
+      "description": "A medium-sized Red-eared Slider turtle wearing a charming white knitted hat with bunny ears. The turtle has a dark, patterned shell with visible scutes and subtle yellow/light green markings. Dark green/olive skin with prominent yellow stripes on head, neck, and legs. Characteristic red patch behind eyes.",
+      "characteristics": {
+        "shell_color": "Dark patterned shell with yellow/light green markings",
+        "skin_color": "Dark green/olive with prominent yellow stripes",
+        "size": "Medium",
+        "temperament": "Calm and well-socialized",
+        "distinguishing_features": "Red patch behind eyes, bunny hat accessory, yellow stripes"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 40 gallons for single turtle",
+          "water_depth": "Water depth 2-3 times shell length",
+          "basking_area": "Large basking platform with UVB lighting",
+          "water_quality": "Good filtration, regular water changes"
+        },
+        "water_parameters": {
+          "temperature": "Water 75-80°F, basking area 85-95°F",
+          "ph_level": "6.5-8.0",
+          "filtration": "Canister filter recommended",
+          "water_changes": "25-50% weekly water changes"
+        },
+        "feeding": {
+          "diet": "Commercial turtle pellets, vegetables, occasional protein",
+          "feeding_schedule": "Daily feeding for juveniles, every other day for adults",
+          "food_types": "Turtle pellets, leafy greens, aquatic plants, insects",
+          "special_notes": "Remove uneaten food to maintain water quality"
+        },
+        "environment": {
+          "uvb_lighting": "10-12 hours daily UVB lighting",
+          "basking_spot": "Warm basking area with proper temperature gradient",
+          "substrate": "Large river rocks or bare bottom",
+          "decorations": "Driftwood, rocks, aquatic plants"
+        },
+        "health": {
+          "disease_prevention": "Clean water, proper diet, UVB lighting",
+          "common_issues": "Shell rot, respiratory infections, vitamin deficiencies",
+          "signs_of_illness": "Lethargy, loss of appetite, shell abnormalities",
+          "veterinary_care": "Annual check-ups with reptile veterinarian"
+        }
+      },
+      "image_reference": "assets/Animal/turtle_1.jpg",
+      "image_description": "Red-eared Slider turtle wearing white bunny hat on tatami mat"
+    },
+    {
+      "id": "turtle_2",
+      "name": "Turtle with Pink Hat",
+      "species": "Freshwater Turtle (species unclear)",
+      "description": "A small turtle wearing a soft, pastel pink knitted hat with ties under the chin. Dark, possibly black or very dark brown shell with distinct scutes and growth rings. Mottled greenish-brown skin with texture and wrinkles around the neck. Small, dark eyes with gentle expression.",
+      "characteristics": {
+        "shell_color": "Dark brown/black shell with distinct scutes",
+        "skin_color": "Mottled greenish-brown with texture",
+        "size": "Small",
+        "temperament": "Gentle and calm",
+        "distinguishing_features": "Pink knitted hat, dark shell, textured skin"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 20 gallons for small turtle",
+          "water_depth": "Water depth 2-3 times shell length",
+          "basking_area": "Basking platform with UVB lighting",
+          "water_quality": "Good filtration, regular water changes"
+        },
+        "water_parameters": {
+          "temperature": "Water 75-80°F, basking area 85-95°F",
+          "ph_level": "6.5-8.0",
+          "filtration": "Adequate filtration for tank size",
+          "water_changes": "25-50% weekly water changes"
+        },
+        "feeding": {
+          "diet": "Commercial turtle pellets, vegetables",
+          "feeding_schedule": "Daily feeding for juveniles, every other day for adults",
+          "food_types": "Turtle pellets, leafy greens, aquatic plants",
+          "special_notes": "Remove uneaten food to maintain water quality"
+        },
+        "environment": {
+          "uvb_lighting": "10-12 hours daily UVB lighting",
+          "basking_spot": "Warm basking area with proper temperature gradient",
+          "substrate": "Large river rocks or bare bottom",
+          "decorations": "Driftwood, rocks, aquatic plants"
+        },
+        "health": {
+          "disease_prevention": "Clean water, proper diet, UVB lighting",
+          "common_issues": "Shell rot, respiratory infections, vitamin deficiencies",
+          "signs_of_illness": "Lethargy, loss of appetite, shell abnormalities",
+          "veterinary_care": "Annual check-ups with reptile veterinarian"
+        }
+      },
+      "image_reference": "assets/Animal/turtle_2.jpg",
+      "image_description": "Small turtle wearing pink knitted hat on woven fabric"
+    },
+    {
+      "id": "turtle_3",
+      "name": "Red-eared Slider with Eye Issues",
+      "species": "Trachemys scripta elegans (Red-eared Slider)",
+      "description": "A Red-eared Slider turtle with characteristic yellow and black shell patterns and red patches behind eyes. However, both eyes appear swollen, cloudy, and possibly closed with a milky film, suggesting potential health issues such as infection or Vitamin A deficiency.",
+      "characteristics": {
+        "shell_color": "Dark green/brown with yellow and black patterns",
+        "skin_color": "Greenish-grey with yellow stripes",
+        "size": "Medium",
+        "temperament": "Alert despite eye condition",
+        "distinguishing_features": "Red patches behind eyes, yellow shell patterns, eye health issues"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 40 gallons for single turtle",
+          "water_depth": "Water depth 2-3 times shell length",
+          "basking_area": "Large basking platform with UVB lighting",
+          "water_quality": "Excellent water quality essential"
+        },
+        "water_parameters": {
+          "temperature": "Water 75-80°F, basking area 85-95°F",
+          "ph_level": "6.5-8.0",
+          "filtration": "Canister filter recommended",
+          "water_changes": "25-50% weekly water changes"
+        },
+        "feeding": {
+          "diet": "Commercial turtle pellets, vegetables, vitamin supplements",
+          "feeding_schedule": "Daily feeding with vitamin A supplementation",
+          "food_types": "Turtle pellets, leafy greens, aquatic plants, vitamin supplements",
+          "special_notes": "May need vitamin A supplementation for eye health"
+        },
+        "environment": {
+          "uvb_lighting": "10-12 hours daily UVB lighting",
+          "basking_spot": "Warm basking area with proper temperature gradient",
+          "substrate": "Large river rocks or bare bottom",
+          "decorations": "Driftwood, rocks, aquatic plants"
+        },
+        "health": {
+          "disease_prevention": "Clean water, proper diet, UVB lighting",
+          "common_issues": "Eye infections, vitamin A deficiency, shell rot",
+          "signs_of_illness": "Cloudy eyes, lethargy, loss of appetite",
+          "veterinary_care": "Immediate veterinary care for eye issues"
+        },
+        "special_care": {
+          "eye_treatment": "Veterinary treatment for eye infection",
+          "vitamin_supplementation": "Vitamin A supplementation may be needed",
+          "water_quality": "Excellent water quality essential for recovery"
+        }
+      },
+      "image_reference": "assets/Animal/turtle_3.jpg",
+      "image_description": "Red-eared Slider turtle with eye health issues on wooden floor"
+    },
+    {
+      "id": "turtle_4",
+      "name": "Turtle in Hand",
+      "species": "Freshwater Turtle (species unclear)",
+      "description": "A medium-sized turtle being held securely in a person's hand. Dark green/olive skin with distinctive bright yellow stripes on face and neck. Mottled shell with greens, browns, and grays with clearly defined scutes and growth rings. Small red object visible near chin.",
+      "characteristics": {
+        "shell_color": "Mottled greens, browns, and grays with defined scutes",
+        "skin_color": "Dark green/olive with bright yellow stripes",
+        "size": "Medium",
+        "temperament": "Calm when handled",
+        "distinguishing_features": "Bright yellow stripes on face and neck, mottled shell"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 30 gallons for medium turtle",
+          "water_depth": "Water depth 2-3 times shell length",
+          "basking_area": "Basking platform with UVB lighting",
+          "water_quality": "Good filtration, regular water changes"
+        },
+        "water_parameters": {
+          "temperature": "Water 75-80°F, basking area 85-95°F",
+          "ph_level": "6.5-8.0",
+          "filtration": "Adequate filtration for tank size",
+          "water_changes": "25-50% weekly water changes"
+        },
+        "feeding": {
+          "diet": "Commercial turtle pellets, vegetables",
+          "feeding_schedule": "Daily feeding for juveniles, every other day for adults",
+          "food_types": "Turtle pellets, leafy greens, aquatic plants",
+          "special_notes": "Remove uneaten food to maintain water quality"
+        },
+        "environment": {
+          "uvb_lighting": "10-12 hours daily UVB lighting",
+          "basking_spot": "Warm basking area with proper temperature gradient",
+          "substrate": "Large river rocks or bare bottom",
+          "decorations": "Driftwood, rocks, aquatic plants"
+        },
+        "health": {
+          "disease_prevention": "Clean water, proper diet, UVB lighting",
+          "common_issues": "Shell rot, respiratory infections, vitamin deficiencies",
+          "signs_of_illness": "Lethargy, loss of appetite, shell abnormalities",
+          "veterinary_care": "Annual check-ups with reptile veterinarian"
+        }
+      },
+      "image_reference": "assets/Animal/turtle_4.jpg",
+      "image_description": "Medium turtle being held in person's hand on striped fabric"
+    },
+    {
+      "id": "turtle_5",
+      "name": "Red-eared Slider on Basking Platform",
+      "species": "Trachemys scripta elegans (Red-eared Slider)",
+      "description": "A Red-eared Slider turtle positioned on a dark rectangular basking platform in an aquarium. Rich, glossy dark brown/black shell with striking orange, red, and yellow patterns. Characteristic bright red patch behind eye. Head and neck extended, alert expression.",
+      "characteristics": {
+        "shell_color": "Rich dark brown/black with orange, red, and yellow patterns",
+        "skin_color": "Dark with yellow/orange stripes",
+        "size": "Medium",
+        "temperament": "Alert and active",
+        "distinguishing_features": "Bright red patch behind eye, colorful shell patterns"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 40 gallons for single turtle",
+          "water_depth": "Water depth 2-3 times shell length",
+          "basking_area": "Large basking platform with UVB lighting",
+          "water_quality": "Good filtration, regular water changes"
+        },
+        "water_parameters": {
+          "temperature": "Water 75-80°F, basking area 85-95°F",
+          "ph_level": "6.5-8.0",
+          "filtration": "Canister filter recommended",
+          "water_changes": "25-50% weekly water changes"
+        },
+        "feeding": {
+          "diet": "Commercial turtle pellets, vegetables, occasional protein",
+          "feeding_schedule": "Daily feeding for juveniles, every other day for adults",
+          "food_types": "Turtle pellets, leafy greens, aquatic plants, insects",
+          "special_notes": "Remove uneaten food to maintain water quality"
+        },
+        "environment": {
+          "uvb_lighting": "10-12 hours daily UVB lighting",
+          "basking_spot": "Warm basking area with proper temperature gradient",
+          "substrate": "Large river rocks or bare bottom",
+          "decorations": "Driftwood, rocks, aquatic plants"
+        },
+        "health": {
+          "disease_prevention": "Clean water, proper diet, UVB lighting",
+          "common_issues": "Shell rot, respiratory infections, vitamin deficiencies",
+          "signs_of_illness": "Lethargy, loss of appetite, shell abnormalities",
+          "veterinary_care": "Annual check-ups with reptile veterinarian"
+        }
+      },
+      "image_reference": "assets/Animal/turtle_5.jpg",
+      "image_description": "Red-eared Slider turtle on basking platform in aquarium"
+    },
+    {
+      "id": "turtle_6",
+      "name": "Leopard Pattern Turtle",
+      "species": "Freshwater Turtle (possibly juvenile)",
+      "description": "A small, light-colored juvenile turtle with highly patterned carapace resembling leopard or giraffe pattern. Bright yellow/light cream base with irregular dark brown/black markings forming geometric shapes. Pale yellow/cream head and limbs with dark eyes.",
+      "characteristics": {
+        "shell_color": "Bright yellow/light cream with dark brown/black leopard pattern",
+        "skin_color": "Pale yellow/cream",
+        "size": "Small (juvenile)",
+        "temperament": "Alert and active",
+        "distinguishing_features": "Leopard/giraffe shell pattern, juvenile size, light coloring"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 20 gallons for juvenile turtle",
+          "water_depth": "Water depth 2-3 times shell length",
+          "basking_area": "Basking platform with UVB lighting",
+          "water_quality": "Good filtration, regular water changes"
+        },
+        "water_parameters": {
+          "temperature": "Water 75-80°F, basking area 85-95°F",
+          "ph_level": "6.5-8.0",
+          "filtration": "Adequate filtration for tank size",
+          "water_changes": "25-50% weekly water changes"
+        },
+        "feeding": {
+          "diet": "Commercial turtle pellets, vegetables",
+          "feeding_schedule": "Daily feeding for juveniles",
+          "food_types": "Turtle pellets, leafy greens, aquatic plants",
+          "special_notes": "Juveniles need more frequent feeding"
+        },
+        "environment": {
+          "uvb_lighting": "10-12 hours daily UVB lighting",
+          "basking_spot": "Warm basking area with proper temperature gradient",
+          "substrate": "Large river rocks or bare bottom",
+          "decorations": "Driftwood, rocks, aquatic plants"
+        },
+        "health": {
+          "disease_prevention": "Clean water, proper diet, UVB lighting",
+          "common_issues": "Shell rot, respiratory infections, vitamin deficiencies",
+          "signs_of_illness": "Lethargy, loss of appetite, shell abnormalities",
+          "veterinary_care": "Annual check-ups with reptile veterinarian"
+        },
+        "special_care": {
+          "juvenile_care": "More frequent feeding and monitoring",
+          "growth_monitoring": "Monitor shell growth and development",
+          "diet_adjustment": "May need different diet as it grows"
+        }
+      },
+      "image_reference": "assets/Animal/turtle_6.jpg",
+      "image_description": "Juvenile turtle with leopard pattern shell in clear enclosure"
+    },
+    {
+      "id": "turtle_7",
+      "name": "Turtle on Animal Mat",
+      "species": "Freshwater Turtle (species unclear)",
+      "description": "A turtle with dark, mottled carapace in shades of brown, olive green, and yellowish areas. Light brown/olive skin with distinctive yellow/cream stripes running from behind eyes. Pointed snout, dark alert eyes. Positioned on white mat with animal patterns.",
+      "characteristics": {
+        "shell_color": "Dark mottled brown, olive green, and yellowish areas",
+        "skin_color": "Light brown/olive with yellow/cream stripes",
+        "size": "Medium",
+        "temperament": "Alert and observant",
+        "distinguishing_features": "Yellow stripes behind eyes, pointed snout, mottled shell"
+      },
+      "care_instructions": {
+        "aquarium_setup": {
+          "tank_size": "Minimum 30 gallons for medium turtle",
+          "water_depth": "Water depth 2-3 times shell length",
+          "basking_area": "Basking platform with UVB lighting",
+          "water_quality": "Good filtration, regular water changes"
+        },
+        "water_parameters": {
+          "temperature": "Water 75-80°F, basking area 85-95°F",
+          "ph_level": "6.5-8.0",
+          "filtration": "Adequate filtration for tank size",
+          "water_changes": "25-50% weekly water changes"
+        },
+        "feeding": {
+          "diet": "Commercial turtle pellets, vegetables",
+          "feeding_schedule": "Daily feeding for juveniles, every other day for adults",
+          "food_types": "Turtle pellets, leafy greens, aquatic plants",
+          "special_notes": "Remove uneaten food to maintain water quality"
+        },
+        "environment": {
+          "uvb_lighting": "10-12 hours daily UVB lighting",
+          "basking_spot": "Warm basking area with proper temperature gradient",
+          "substrate": "Large river rocks or bare bottom",
+          "decorations": "Driftwood, rocks, aquatic plants"
+        },
+        "health": {
+          "disease_prevention": "Clean water, proper diet, UVB lighting",
+          "common_issues": "Shell rot, respiratory infections, vitamin deficiencies",
+          "signs_of_illness": "Lethargy, loss of appetite, shell abnormalities",
+          "veterinary_care": "Annual check-ups with reptile veterinarian"
+        }
+      },
+      "image_reference": "assets/Animal/turtle_7.jpg",
+      "image_description": "Turtle with yellow stripes on white animal-patterned mat"
+    }
+  ],
+  "general_care_guidelines": {
+    "aquarium_setup": {
+      "tank_cycling": "Cycle tank before adding turtle",
+      "water_parameters": "Regular testing for ammonia, nitrite, nitrate, pH",
+      "filtration": "Appropriate filter for tank size and turtle load",
+      "heating": "Heater and basking light required"
+    },
+    "water_quality": {
+      "water_changes": "25-50% weekly depending on turtle load",
+      "water_conditioning": "Use water conditioner",
+      "testing_frequency": "Weekly testing for established tanks",
+      "substrate_cleaning": "Vacuum substrate during water changes"
+    },
+    "feeding": {
+      "quality_food": "High-quality turtle pellets and vegetables",
+      "feeding_schedule": "Daily for juveniles, every other day for adults",
+      "portion_control": "Only feed what turtle can consume in 15-20 minutes",
+      "variety": "Offer varied diet for optimal health"
+    },
+    "environment": {
+      "uvb_lighting": "10-12 hours daily UVB lighting essential",
+      "basking_area": "Warm basking spot with proper temperature gradient",
+      "water_depth": "2-3 times shell length minimum",
+      "hiding_places": "Provide hiding spots for turtle security"
+    },
+    "health": {
+      "quarantine": "Quarantine new turtles for 2-4 weeks",
+      "disease_prevention": "Maintain excellent water quality",
+      "signs_of_illness": "Monitor for behavioral and physical changes",
+      "medication": "Use turtle-specific medications"
+    }
+  },
+  "emergency_information": {
+    "signs_of_illness": [
+      "Loss of appetite or lethargy",
+      "Cloudy or swollen eyes",
+      "Shell abnormalities or soft spots",
+      "Respiratory issues or mouth breathing",
+      "Visible parasites or wounds",
+      "Abnormal swimming or floating"
+    ],
+    "emergency_contacts": {
+      "veterinarian": "Contact reptile veterinarian",
+      "emergency_clinic": "24-hour emergency animal hospital",
+      "online_resources": "Turtle forums and reptile care guides"
+    }
+  },
+  "species_specific_considerations": {
+    "red_eared_sliders": {
+      "size_requirements": "Large tank needed as they grow",
+      "basking_needs": "Essential basking area with UVB",
+      "diet": "Omnivorous diet with protein and vegetables",
+      "lifespan": "Can live 20+ years with proper care"
+    },
+    "juvenile_turtles": {
+      "feeding": "More frequent feeding required",
+      "growth_monitoring": "Monitor shell growth and development",
+      "diet_adjustment": "Diet may change as turtle grows",
+      "space_planning": "Plan for larger tank as turtle grows"
+    },
+    "aquatic_turtles": {
+      "water_quality": "Excellent water quality essential",
+      "filtration": "Strong filtration required",
+      "basking": "Essential basking area with proper lighting",
+      "temperature": "Proper temperature gradient important"
+    }
+  }
+} 

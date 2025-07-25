@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncIncludeAction</key>
+	<string>cubeFrameworkPadding</string>
+	<key>entropyAgainstComposite</key>
+	<string>ignoredCallbackFrequency</string>
+	<key>imperativeManagerSkewy</key>
+	<string>activatedServiceOrientation</string>
+	<key>observerViaForm</key>
+	<string>requestIncludeVisitor</string>
+	<key>standaloneExponentAlignment</key>
+	<string>storeThanMemento</string>
+	<key>tickerJobCount</key>
+	<string>serviceMediatorVisible</string>
+</dict>
+</plist>

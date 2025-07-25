@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGridInterval</key>
+	<string>exceptionCompositeColor</string>
+	<key>checklistAboutParameter</key>
+	<string>mediumResponseMode</string>
+	<key>dynamicThreadBorder</key>
+	<string>flexiblePaddingAppearance</string>
+	<key>sceneEnvironmentCoord</key>
+	<string>serviceModeBound</string>
+</dict>
+</plist>

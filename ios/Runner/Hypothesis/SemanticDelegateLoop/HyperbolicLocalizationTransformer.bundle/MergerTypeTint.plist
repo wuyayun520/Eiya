@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferPlatformBehavior</key>
+	<string>draggableCapacitiesScale</string>
+	<key>eagerEventBehavior</key>
+	<string>tableScopeShape</string>
+	<key>newestGraphCount</key>
+	<string>custompaintTaskTransparency</string>
+	<key>singleRepositoryLocation</key>
+	<string>intuitiveStatefulInteraction</string>
+</dict>
+</plist>

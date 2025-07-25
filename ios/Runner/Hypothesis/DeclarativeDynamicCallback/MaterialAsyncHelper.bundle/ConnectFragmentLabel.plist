@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorVersusBuffer</key>
+	<string>permissiveAllocatorColor</string>
+	<key>curveVersusDecorator</key>
+	<string>resolverNearCycle</string>
+	<key>ignoredArithmeticRotation</key>
+	<string>flexibleBehaviorDuration</string>
+	<key>immutableControllerAppearance</key>
+	<string>transitionOutsideWork</string>
+	<key>rowActionSpeed</key>
+	<string>coordinatorProxyKind</string>
+	<key>sustainableScreenState</key>
+	<string>unaryActivitySpeed</string>
+</dict>
+</plist>

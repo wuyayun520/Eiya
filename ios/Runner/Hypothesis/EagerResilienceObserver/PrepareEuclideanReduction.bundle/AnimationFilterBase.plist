@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonByInterpreter</key>
+	<string>metadataByFramework</string>
+	<key>coordinatorStageCenter</key>
+	<string>masterAgainstInterpreter</string>
+	<key>finalChannelBehavior</key>
+	<string>intermediateSkirtPosition</string>
+	<key>flexiblePreviewPressure</key>
+	<string>multiplicationVisitorName</string>
+	<key>hierarchicalAllocatorTail</key>
+	<string>interfaceVisitorLocation</string>
+	<key>immutableToolOffset</key>
+	<string>mediumConstraintLeft</string>
+	<key>sliderContextTop</key>
+	<string>difficultColumnOpacity</string>
+	<key>smartPainterMomentum</key>
+	<string>statefulCanvasScale</string>
+</dict>
+</plist>

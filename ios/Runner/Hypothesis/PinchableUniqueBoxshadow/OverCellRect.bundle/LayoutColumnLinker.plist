@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constControllerTail</key>
+	<string>commandBridgeSpacing</string>
+	<key>imperativeCardValidation</key>
+	<string>layoutForType</string>
+	<key>radiusAtVar</key>
+	<string>constSemanticsDepth</string>
+	<key>skinLikeComposite</key>
+	<string>symbolWithoutChain</string>
+	<key>tappableAnchorDistance</key>
+	<string>semanticsThanPlatform</string>
+	<key>utilMediatorDuration</key>
+	<string>routerParameterTail</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>projectionThroughType</key>
+	<string>equipmentNearTemple</string>
+	<key>radioLikeProxy</key>
+	<string>channelsOperationOffset</string>
+	<key>reactiveSinkVisible</key>
+	<string>borderPatternVisibility</string>
+	<key>routeInsideComposite</key>
+	<string>eagerCubitRotation</string>
+</dict>
+</plist>

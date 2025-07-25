@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAroundVariable</key>
+	<string>desktopExpandedEdge</string>
+	<key>materialInterpreterBrightness</key>
+	<string>responsiveRowTheme</string>
+	<key>navigationContainPhase</key>
+	<string>playbackAsNumber</string>
+	<key>observerFacadeFrequency</key>
+	<string>displayableDescriptionInset</string>
+	<key>promiseAboutContext</key>
+	<string>resourceBufferTint</string>
+	<key>semanticTextRotation</key>
+	<string>iconThroughFlyweight</string>
+	<key>sizedboxLikePattern</key>
+	<string>asynchronousSizedboxContrast</string>
+</dict>
+</plist>

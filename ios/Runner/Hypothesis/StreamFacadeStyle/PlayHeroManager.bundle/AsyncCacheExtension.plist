@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAnimationFeedback</key>
+	<string>retainedRequestValidation</string>
+	<key>callbackNearParameter</key>
+	<string>navigatorIncludeInterpreter</string>
+	<key>immediateFeatureForce</key>
+	<string>skinPhaseBound</string>
+	<key>lostQueueDepth</key>
+	<string>priorControllerDelay</string>
+	<key>matrixFrameworkPosition</key>
+	<string>captionSinceVisitor</string>
+	<key>skinAndActivity</key>
+	<string>cosineStateSpacing</string>
+	<key>utilProxyCoord</key>
+	<string>modelUntilForm</string>
+</dict>
+</plist>

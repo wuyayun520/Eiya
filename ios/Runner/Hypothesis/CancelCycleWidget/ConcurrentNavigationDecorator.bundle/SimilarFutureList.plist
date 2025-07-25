@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderOutsideBuffer</key>
+	<string>ephemeralCubitPressure</string>
+	<key>containerCommandBorder</key>
+	<string>primaryBorderEdge</string>
+	<key>customizedGrainType</key>
+	<string>concreteParticleInset</string>
+	<key>draggableZoneDensity</key>
+	<string>positionedActionBound</string>
+	<key>effectTypeSkewx</key>
+	<string>methodScopeTop</string>
+	<key>labelWorkName</key>
+	<string>semanticIconTheme</string>
+	<key>logarithmTierVisibility</key>
+	<string>intensityNearComposite</string>
+	<key>priorMovementInset</key>
+	<string>smartModalBound</string>
+	<key>providerInsideOperation</key>
+	<string>transitionDuringForm</string>
+</dict>
+</plist>

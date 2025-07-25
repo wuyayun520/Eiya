@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableProtocolCount</key>
+	<string>tableOutsideParameter</string>
+	<key>durationActivityDelay</key>
+	<string>previewAmongCycle</string>
+	<key>effectActionPadding</key>
+	<string>directlyChapterBrightness</string>
+	<key>effectJobStatus</key>
+	<string>geometricServiceMode</string>
+	<key>mobileScrollRate</key>
+	<string>layoutWorkVelocity</string>
+	<key>sophisticatedIntensityShade</key>
+	<string>asyncInActivity</string>
+	<key>visiblePlaybackOffset</key>
+	<string>flexibleModelDirection</string>
+</dict>
+</plist>

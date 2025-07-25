@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureStrategyBound</key>
+	<string>permissiveMobxBound</string>
+	<key>groupAgainstMediator</key>
+	<string>factoryViaSingleton</string>
+	<key>layoutFormFeedback</key>
+	<string>delegateInsideProcess</string>
+	<key>mediaqueryStageDistance</key>
+	<string>inheritedManagerSkewy</string>
+	<key>mutableRemainderVisible</key>
+	<string>baselineTempleVelocity</string>
+	<key>offsetAmongLevel</key>
+	<string>blocUntilStyle</string>
+	<key>symmetricDurationSkewy</key>
+	<string>sophisticatedCoordinatorHead</string>
+</dict>
+</plist>

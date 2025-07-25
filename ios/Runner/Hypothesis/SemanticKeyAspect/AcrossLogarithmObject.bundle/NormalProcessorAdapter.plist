@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromPrototype</key>
+	<string>fragmentMediatorTail</string>
+	<key>gesturedetectorNearChain</key>
+	<string>constProjectCoord</string>
+	<key>labelPlatformSpeed</key>
+	<string>movementAwayParam</string>
+	<key>nativeExceptionColor</key>
+	<string>accordionResourceSize</string>
+	<key>offsetOfPhase</key>
+	<string>effectVarAcceleration</string>
+	<key>oldButtonDepth</key>
+	<string>storageStrategyTension</string>
+	<key>presenterCompositeBehavior</key>
+	<string>semanticBorderOrientation</string>
+	<key>uniformIntensityFeedback</key>
+	<string>standaloneMenuCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextCurveBehavior</key>
+	<string>touchThanEnvironment</string>
+	<key>otherButtonOrientation</key>
+	<string>methodChainDelay</string>
+	<key>widgetInsideVar</key>
+	<string>crudeSkirtVisible</string>
+</dict>
+</plist>

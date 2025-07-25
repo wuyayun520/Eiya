@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeAwayStrategy</key>
+	<string>requestScopeShape</string>
+	<key>denseReducerValidation</key>
+	<string>interfaceForObserver</string>
+	<key>providerBeyondLevel</key>
+	<string>buttonCommandInterval</string>
+	<key>shaderParameterSize</key>
+	<string>loopVersusParam</string>
+	<key>stampMethodDensity</key>
+	<string>cubitVersusFacade</string>
+</dict>
+</plist>

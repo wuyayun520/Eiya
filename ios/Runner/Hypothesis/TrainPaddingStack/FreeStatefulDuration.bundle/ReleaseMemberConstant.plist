@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationJobDistance</key>
+	<string>presenterSystemTension</string>
+	<key>completerPatternTint</key>
+	<string>robustActionTransparency</string>
+	<key>desktopSegmentRotation</key>
+	<string>blocActivityColor</string>
+	<key>diffableHashIndex</key>
+	<string>pageviewForBuffer</string>
+	<key>explicitCapacitiesContrast</key>
+	<string>desktopAllocatorHead</string>
+	<key>hyperbolicErrorTint</key>
+	<string>actionAsJob</string>
+	<key>routeAlongFacade</key>
+	<string>elasticStoreAppearance</string>
+	<key>similarTextDuration</key>
+	<string>cubitInsideInterpreter</string>
+	<key>stepTierOffset</key>
+	<string>basicSliderDuration</string>
+</dict>
+</plist>

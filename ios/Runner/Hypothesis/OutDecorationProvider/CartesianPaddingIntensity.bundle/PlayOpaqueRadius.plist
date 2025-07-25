@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAspectratioShade</key>
+	<string>originalTransitionTransparency</string>
+	<key>inactiveGridviewSkewx</key>
+	<string>actionPlatformDelay</string>
+	<key>navigatorMediatorVisibility</key>
+	<string>sceneScopeState</string>
+	<key>storageBesideVar</key>
+	<string>errorAndMethod</string>
+	<key>titleNumberInterval</key>
+	<string>liteCanvasTop</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleActivityVisibility</key>
+	<string>pinchableProviderInteraction</string>
+	<key>allocatorTypeVisibility</key>
+	<string>specifyIntegerKind</string>
+	<key>errorStyleOrigin</key>
+	<string>cubeTypeRate</string>
+	<key>exceptionAwayBridge</key>
+	<string>scrollInType</string>
+	<key>isolateDespiteStyle</key>
+	<string>eventOutsidePlatform</string>
+	<key>nibAtOperation</key>
+	<string>independentRiverpodTint</string>
+	<key>observerShapeDuration</key>
+	<string>compositionalProviderPosition</string>
+	<key>requestScopeStatus</key>
+	<string>concurrentParticlePosition</string>
+	<key>segueObserverPadding</key>
+	<string>flexBeyondContext</string>
+	<key>tensorLogTint</key>
+	<string>configurationStrategyValidation</string>
+</dict>
+</plist>

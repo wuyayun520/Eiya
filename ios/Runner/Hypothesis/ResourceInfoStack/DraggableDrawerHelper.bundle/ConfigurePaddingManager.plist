@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxDuringParam</key>
+	<string>numericalRectKind</string>
+	<key>completerAgainstProxy</key>
+	<string>apertureOutsideJob</string>
+	<key>containerCycleVisible</key>
+	<string>advancedFlexVisible</string>
+	<key>interactiveCheckboxSpeed</key>
+	<string>uniqueBaselineDuration</string>
+	<key>queueCompositeOrientation</key>
+	<string>integerPatternPressure</string>
+	<key>unactivatedHeroBehavior</key>
+	<string>directVectorSkewy</string>
+</dict>
+</plist>

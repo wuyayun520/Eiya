@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationByPhase</key>
+	<string>particleAndComposite</string>
+	<key>effectAndStrategy</key>
+	<string>channelObserverVelocity</string>
+	<key>interpolationAdapterScale</key>
+	<string>radiusVariableMode</string>
+	<key>memberCommandInteraction</key>
+	<string>usedRoleOrigin</string>
+	<key>otherDocumentOrigin</key>
+	<string>deferredRequestForce</string>
+	<key>responsiveSkinShape</key>
+	<string>usecaseOrFlyweight</string>
+	<key>streamByValue</key>
+	<string>parallelLayoutTail</string>
+	<key>topicOutsideChain</key>
+	<string>mobileOrVisitor</string>
+	<key>utilParamOrientation</key>
+	<string>rapidNavigatorCenter</string>
+</dict>
+</plist>

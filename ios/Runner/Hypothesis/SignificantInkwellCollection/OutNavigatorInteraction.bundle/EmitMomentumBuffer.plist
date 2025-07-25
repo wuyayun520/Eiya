@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPerValue</key>
+	<string>webCertificateTop</string>
+	<key>checkboxAroundNumber</key>
+	<string>textureLikePrototype</string>
+	<key>constraintWithoutMethod</key>
+	<string>fixedSliderType</string>
+	<key>equalizationViaProcess</key>
+	<string>mutableTweenFrequency</string>
+	<key>multiResponseValidation</key>
+	<string>capsuleWithChain</string>
+	<key>previewActionSpeed</key>
+	<string>appbarBufferVelocity</string>
+	<key>queueIncludeWork</key>
+	<string>navigatorContextInset</string>
+	<key>requestStageInteraction</key>
+	<string>clipperUntilLevel</string>
+	<key>tensorLabelRate</key>
+	<string>largeResultFlags</string>
+	<key>textVariableEdge</key>
+	<string>resultOrParameter</string>
+</dict>
+</plist>

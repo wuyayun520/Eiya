@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVarDelay</key>
+	<string>sineFromParameter</string>
+	<key>canvasAlongStyle</key>
+	<string>durationParameterMomentum</string>
+	<key>completerPerContext</key>
+	<string>layoutPerVar</string>
+	<key>directHeroSkewy</key>
+	<string>radioCycleVisibility</string>
+	<key>factoryDuringStrategy</key>
+	<string>diversifiedActionInteraction</string>
+	<key>fusedErrorOrigin</key>
+	<string>delegateDespiteKind</string>
+	<key>futureDespiteActivity</key>
+	<string>buttonOutsideObserver</string>
+	<key>grainFlyweightMode</key>
+	<string>containerLevelTag</string>
+	<key>significantHeroDelay</key>
+	<string>pivotalFramePosition</string>
+	<key>transitionAwayParam</key>
+	<string>columnWorkBehavior</string>
+</dict>
+</plist>

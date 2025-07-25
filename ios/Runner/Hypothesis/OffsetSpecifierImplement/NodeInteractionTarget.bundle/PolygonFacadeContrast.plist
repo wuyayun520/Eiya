@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAsyncSpeed</key>
+	<string>profileAmongInterpreter</string>
+	<key>desktopResourceTop</key>
+	<string>prismaticProviderOffset</string>
+	<key>graphNearComposite</key>
+	<string>firstAnimatedcontainerScale</string>
+	<key>imperativeStateTop</key>
+	<string>functionalTouchVelocity</string>
+	<key>resizableContainerBehavior</key>
+	<string>eagerGroupMargin</string>
+</dict>
+</plist>

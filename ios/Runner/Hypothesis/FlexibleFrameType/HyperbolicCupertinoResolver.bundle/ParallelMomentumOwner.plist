@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentExpandedStyle</key>
+	<string>viewDuringSingleton</string>
+	<key>fusedCallbackTop</key>
+	<string>localizationViaVariable</string>
+	<key>mediaThroughDecorator</key>
+	<string>radiusFacadeForce</string>
+	<key>numericalSliderHue</key>
+	<string>richtextCommandMomentum</string>
+	<key>responseInStrategy</key>
+	<string>exceptionLevelTheme</string>
+	<key>usagePlatformColor</key>
+	<string>subscriptionEnvironmentRight</string>
+	<key>widgetPrototypeTop</key>
+	<string>usageOutsideAdapter</string>
+</dict>
+</plist>

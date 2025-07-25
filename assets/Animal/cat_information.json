@@ -1,0 +1,306 @@
+{
+  "cats": [
+    {
+      "id": "cat_1",
+      "name": "Orange Tabby with Grass",
+      "breed": "Domestic Shorthair - Orange Tabby",
+      "description": "A fluffy orange tabby cat with distinctive white paws and a grumpy expression. Notable for having small pieces of green grass stuck to its face, suggesting recent outdoor activity.",
+      "characteristics": {
+        "coat": "Short-haired orange tabby with white paws",
+        "eye_color": "Not clearly visible in image",
+        "size": "Medium",
+        "temperament": "Appears slightly grumpy but comfortable being held",
+        "distinguishing_features": "White paws (socks), light green collar, grass on face"
+      },
+      "care_instructions": {
+        "grooming": {
+          "frequency": "Weekly brushing",
+          "tools": "Soft bristle brush, grooming mitt",
+          "special_notes": "Check for debris after outdoor activities, clean face gently if needed"
+        },
+        "nutrition": {
+          "diet": "High-quality cat food appropriate for age and activity level",
+          "feeding_schedule": "2-3 times daily",
+          "water": "Fresh water available at all times"
+        },
+        "health": {
+          "vaccinations": "Core vaccines (FVRCP, rabies)",
+          "parasite_prevention": "Monthly flea and tick prevention",
+          "dental_care": "Regular dental check-ups, dental treats",
+          "exercise": "Daily play sessions, access to safe outdoor areas"
+        },
+        "environment": {
+          "indoor_outdoor": "Can be indoor/outdoor with supervision",
+          "litter_box": "Clean daily, scoop twice daily",
+          "scratching_posts": "Multiple scratching surfaces",
+          "resting_areas": "Comfortable beds in quiet areas"
+        }
+      },
+      "image_reference": "assets/Animal/cat_1.jpg",
+      "image_description": "Orange tabby cat held by person on balcony with grass on face"
+    },
+    {
+      "id": "cat_2",
+      "name": "Orange Tabby with Blep",
+      "breed": "Domestic Shorthair - Orange Tabby",
+      "description": "A cute orange tabby cat with a classic 'blep' expression - tongue slightly sticking out. Has soft, dense orange fur with subtle tabby stripes and large, round dark eyes.",
+      "characteristics": {
+        "coat": "Soft, dense orange fur with subtle tabby stripes",
+        "eye_color": "Dark with prominent black pupils",
+        "size": "Medium",
+        "temperament": "Curious and expressive",
+        "distinguishing_features": "Blep expression, large round eyes, prominent whiskers"
+      },
+      "care_instructions": {
+        "grooming": { 
+          "frequency": "Weekly brushing",
+          "tools": "Soft brush, grooming glove",
+          "special_notes": "Gentle face cleaning, check for dental issues"
+        },
+        "nutrition": {
+          "diet": "Balanced cat food with proper protein content",
+          "feeding_schedule": "2-3 times daily",
+          "water": "Fresh water, consider water fountain"
+        },
+        "health": {
+          "vaccinations": "Core vaccines required",
+          "parasite_prevention": "Regular flea and tick treatment",
+          "dental_care": "Important due to blep behavior, regular check-ups",
+          "exercise": "Interactive play with toys, climbing opportunities"
+        },
+        "environment": {
+          "indoor_outdoor": "Indoor recommended for safety",
+          "litter_box": "Clean, accessible location",
+          "scratching_posts": "Vertical and horizontal options",
+          "resting_areas": "Warm, comfortable spots"
+        }
+      },
+      "image_reference": "assets/Animal/cat_2.jpg",
+      "image_description": "Orange tabby cat with blep expression and large round eyes"
+    },
+    {
+      "id": "cat_3",
+      "name": "Tabby in Blue Dress",
+      "breed": "Domestic Shorthair - Brown Tabby",
+      "description": "A tabby cat wearing a blue, light blue, and yellow plaid dress or harness with ruffled details. Has a mix of brown, grey, and tan fur with a focused, slightly amused expression.",
+      "characteristics": {
+        "coat": "Brown, grey, and tan tabby pattern",
+        "eye_color": "Not clearly visible (squinted)",
+        "size": "Medium",
+        "temperament": "Tolerant of clothing, focused",
+        "distinguishing_features": "Wearing dress/harness, light chin and chest fur"
+      },
+      "care_instructions": {
+        "grooming": {
+          "frequency": "Weekly brushing",
+          "tools": "Soft brush, detangling comb",
+          "special_notes": "Check clothing for comfort, remove if causing stress"
+        },
+        "nutrition": {
+          "diet": "High-quality cat food",
+          "feeding_schedule": "Regular feeding times",
+          "water": "Always available fresh water"
+        },
+        "health": {
+          "vaccinations": "Core vaccines",
+          "parasite_prevention": "Monthly treatments",
+          "dental_care": "Regular dental care",
+          "exercise": "Play sessions, climbing opportunities"
+        },
+        "environment": {
+          "indoor_outdoor": "Indoor recommended",
+          "litter_box": "Clean and accessible",
+          "scratching_posts": "Multiple options",
+          "resting_areas": "Comfortable beds, quiet spaces"
+        },
+        "clothing_care": {
+          "monitoring": "Watch for signs of discomfort",
+          "removal": "Remove if cat shows stress",
+          "cleaning": "Wash clothing regularly",
+          "safety": "Ensure no loose threads or hazards"
+        }
+      },
+      "image_reference": "assets/Animal/cat_3.jpg",
+      "image_description": "Brown tabby cat wearing blue plaid dress in kitchen setting"
+    },
+    {
+      "id": "cat_4",
+      "name": "Fluffy Persian in Pan",
+      "breed": "Persian or Long-haired Domestic",
+      "description": "A very fluffy, long-haired cat sitting inside a black frying pan on a stove. Has predominantly white fur with patches of light brown, ginger, and cream. Large, striking green eyes.",
+      "characteristics": {
+        "coat": "Very fluffy, long-haired, white with brown/ginger patches",
+        "eye_color": "Striking green",
+        "size": "Medium to large",
+        "temperament": "Calm, comfortable in unusual places",
+        "distinguishing_features": "Extremely fluffy coat, green eyes, white whiskers"
+      },
+      "care_instructions": {
+        "grooming": {
+          "frequency": "Daily brushing required",
+          "tools": "Wide-toothed comb, slicker brush, detangling spray",
+          "special_notes": "Prevent matting, regular professional grooming recommended"
+        },
+        "nutrition": {
+          "diet": "High-quality food, consider hairball control",
+          "feeding_schedule": "2-3 times daily",
+          "water": "Fresh water, consider hairball prevention"
+        },
+        "health": {
+          "vaccinations": "Core vaccines",
+          "parasite_prevention": "Regular treatments",
+          "dental_care": "Regular dental care",
+          "exercise": "Gentle play, avoid overheating"
+        },
+        "environment": {
+          "indoor_outdoor": "Indoor only recommended",
+          "litter_box": "Clean daily, low-dust litter",
+          "scratching_posts": "Multiple options",
+          "resting_areas": "Cool, comfortable spots"
+        },
+        "special_care": {
+          "hairball_prevention": "Regular grooming, hairball control food",
+          "eye_care": "Daily face cleaning due to flat face",
+          "temperature": "Avoid hot environments, provide cool areas"
+        }
+      },
+      "image_reference": "assets/Animal/cat_4.jpg",
+      "image_description": "Fluffy long-haired cat sitting in black frying pan on stove"
+    },
+    {
+      "id": "cat_5",
+      "name": "Calico Floor Cat",
+      "breed": "Domestic Longhair - Calico/Tortoiseshell",
+      "description": "A fluffy, long-haired calico cat with white, black, and orange/brown patches. Sitting on a wooden floor with a stern expression. Has a round, voluminous body due to thick fur.",
+      "characteristics": {
+        "coat": "Long-haired calico/tortoiseshell pattern",
+        "eye_color": "Bright green or yellowish-green",
+        "size": "Large (appears round due to thick fur)",
+        "temperament": "Appears stern or grumpy",
+        "distinguishing_features": "Very fluffy coat, round body, white whiskers"
+      },
+      "care_instructions": {
+        "grooming": {
+          "frequency": "Daily brushing essential",
+          "tools": "Wide-toothed comb, slicker brush, detangling spray",
+          "special_notes": "Prevent matting, regular professional grooming"
+        },
+        "nutrition": {
+          "diet": "High-quality food with hairball control",
+          "feeding_schedule": "2-3 times daily",
+          "water": "Fresh water, multiple locations"
+        },
+        "health": {
+          "vaccinations": "Core vaccines",
+          "parasite_prevention": "Regular treatments",
+          "dental_care": "Regular dental care",
+          "exercise": "Gentle play, climbing opportunities"
+        },
+        "environment": {
+          "indoor_outdoor": "Indoor recommended",
+          "litter_box": "Large, clean box",
+          "scratching_posts": "Multiple sturdy options",
+          "resting_areas": "Comfortable, cool spots"
+        },
+        "special_care": {
+          "weight_management": "Monitor weight due to thick coat",
+          "grooming_assistance": "Professional grooming every 6-8 weeks",
+          "comfort": "Provide cool areas, avoid overheating"
+        }
+      },
+      "image_reference": "assets/Animal/cat_5.jpg",
+      "image_description": "Fluffy calico cat sitting on wooden floor with water bowl nearby"
+    },
+    {
+      "id": "cat_6",
+      "name": "Expressive Tabby",
+      "breed": "Domestic Shorthair - Tabby",
+      "description": "A highly expressive tabby cat with cream/tan and grey/brown markings. Captured with mouth wide open, showing pink tongue and teeth. Has large, round eyes with golden-yellow iris.",
+      "characteristics": {
+        "coat": "Short to medium-length tabby with cream/tan and grey/brown",
+        "eye_color": "Golden-yellow or amber with black pupils",
+        "size": "Medium",
+        "temperament": "Highly expressive and vocal",
+        "distinguishing_features": "Very expressive face, prominent whiskers, vocal"
+      },
+      "care_instructions": {
+        "grooming": {
+          "frequency": "Weekly brushing",
+          "tools": "Soft brush, grooming mitt",
+          "special_notes": "Gentle handling due to expressive nature"
+        },
+        "nutrition": {
+          "diet": "High-quality cat food",
+          "feeding_schedule": "Regular feeding times",
+          "water": "Fresh water always available"
+        },
+        "health": {
+          "vaccinations": "Core vaccines",
+          "parasite_prevention": "Regular treatments",
+          "dental_care": "Regular dental care",
+          "exercise": "Interactive play, mental stimulation"
+        },
+        "environment": {
+          "indoor_outdoor": "Indoor recommended",
+          "litter_box": "Clean and accessible",
+          "scratching_posts": "Multiple options",
+          "resting_areas": "Comfortable spots, quiet areas"
+        },
+        "behavioral_care": {
+          "mental_stimulation": "Interactive toys, puzzle feeders",
+          "social_interaction": "Regular play sessions",
+          "stress_management": "Provide hiding spots, routine"
+        }
+      },
+      "image_reference": "assets/Animal/cat_6.jpg",
+      "image_description": "Expressive tabby cat with mouth open, showing tongue and teeth"
+    }
+  ],
+  "general_care_guidelines": {
+    "veterinary_care": {
+      "annual_checkups": "Required for all cats",
+      "vaccinations": "Core vaccines: FVRCP, rabies",
+      "parasite_prevention": "Monthly flea and tick prevention",
+      "dental_care": "Regular dental check-ups and cleanings"
+    },
+    "nutrition": {
+      "quality_food": "High-quality, age-appropriate cat food",
+      "feeding_schedule": "2-3 times daily for adults",
+      "water": "Fresh water available 24/7",
+      "treats": "Limited treats, avoid human food"
+    },
+    "environment": {
+      "indoor_safety": "Remove toxic plants, secure cords",
+      "litter_box": "One per cat plus one extra",
+      "enrichment": "Toys, scratching posts, climbing areas",
+      "resting_areas": "Multiple comfortable spots"
+    },
+    "grooming": {
+      "short_hair": "Weekly brushing",
+      "long_hair": "Daily brushing required",
+      "nail_trimming": "Every 2-3 weeks",
+      "bathing": "Only when necessary"
+    },
+    "behavior": {
+      "socialization": "Gentle handling from young age",
+      "play_time": "Daily interactive play sessions",
+      "mental_stimulation": "Puzzle toys, window perches",
+      "stress_management": "Routine, quiet spaces"
+    }
+  },
+  "emergency_information": {
+    "signs_of_illness": [
+      "Changes in appetite or water consumption",
+      "Lethargy or unusual behavior",
+      "Vomiting or diarrhea",
+      "Changes in litter box habits",
+      "Coughing or sneezing",
+      "Limping or difficulty moving"
+    ],
+    "emergency_contacts": {
+      "veterinarian": "Contact your local vet",
+      "emergency_clinic": "24-hour emergency animal hospital",
+      "poison_control": "ASPCA Animal Poison Control"
+    }
+  }
+} 

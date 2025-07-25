@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelActionResponse</key>
+	<string>indicatorLikeLayer</string>
+	<key>groupAsInterpreter</key>
+	<string>completerDecoratorSize</string>
+	<key>temporaryBulletBottom</key>
+	<string>textureTypeFormat</string>
+</dict>
+</plist>

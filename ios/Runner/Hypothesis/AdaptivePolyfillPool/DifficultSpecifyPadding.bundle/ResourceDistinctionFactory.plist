@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeChartType</key>
+	<string>standaloneTransformerRotation</string>
+	<key>effectWithSingleton</key>
+	<string>fixedKernelPosition</string>
+	<key>injectionPatternFormat</key>
+	<string>asyncVariableSkewx</string>
+	<key>mutableFutureShade</key>
+	<string>channelsBeyondFunction</string>
+	<key>popupContainPattern</key>
+	<string>routerVisitorSize</string>
+	<key>sinkAmongPlatform</key>
+	<string>plateVariableRight</string>
+	<key>skinLikeInterpreter</key>
+	<string>brushOperationResponse</string>
+	<key>sliderWithPrototype</key>
+	<string>descriptionDecoratorRate</string>
+	<key>techniqueCycleAcceleration</key>
+	<string>viewPerSingleton</string>
+</dict>
+</plist>

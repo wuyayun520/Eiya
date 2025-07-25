@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMementoTop</key>
+	<string>listenerFormInteraction</string>
+	<key>constraintForAdapter</key>
+	<string>intermediateDelegateInterval</string>
+	<key>customTabviewSpeed</key>
+	<string>deferredTangentInterval</string>
+	<key>dependencyFromMediator</key>
+	<string>exceptionPrototypeOpacity</string>
+	<key>discardedEffectForce</key>
+	<string>semanticConvolutionAppearance</string>
+	<key>gesturedetectorEnvironmentType</key>
+	<string>similarCompletionMargin</string>
+	<key>retainedOptionOffset</key>
+	<string>listenerAwayPlatform</string>
+	<key>streamWithOperation</key>
+	<string>brushAndMediator</string>
+	<key>tweenThroughMode</key>
+	<string>characterTierStyle</string>
+</dict>
+</plist>

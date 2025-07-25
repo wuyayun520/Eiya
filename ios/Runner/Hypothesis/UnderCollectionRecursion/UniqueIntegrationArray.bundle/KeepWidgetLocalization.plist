@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivePopupShade</key>
+	<string>layerNearObserver</string>
+	<key>decorationVisitorValidation</key>
+	<string>listenerVisitorValidation</string>
+	<key>displayableGraphFeedback</key>
+	<string>statefulDespitePattern</string>
+	<key>mediaqueryOutsideWork</key>
+	<string>masterPatternPadding</string>
+	<key>metadataModeForce</key>
+	<string>constraintTaskCount</string>
+	<key>pinchableBrushTint</key>
+	<string>utilOutsideEnvironment</string>
+	<key>scaffoldFormDepth</key>
+	<string>presenterAgainstType</string>
+	<key>signNearKind</key>
+	<string>storageStyleIndex</string>
+	<key>sinkBufferSpeed</key>
+	<string>uniqueFutureOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionThroughPattern</key>
+	<string>chartContainAdapter</string>
+	<key>capsuleForTier</key>
+	<string>cubitWorkTension</string>
+	<key>imperativeInstructionFeedback</key>
+	<string>declarativeCellFormat</string>
+	<key>petAsStrategy</key>
+	<string>localizationWithoutMethod</string>
+	<key>scaffoldMediatorVisibility</key>
+	<string>resultTierVisible</string>
+	<key>threadVariableVisibility</key>
+	<string>grayscaleVarSkewx</string>
+</dict>
+</plist>

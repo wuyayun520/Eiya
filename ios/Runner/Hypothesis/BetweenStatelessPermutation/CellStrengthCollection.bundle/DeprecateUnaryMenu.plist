@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryWithoutCommand</key>
+	<string>pinchableTouchTail</string>
+	<key>builderFlyweightStyle</key>
+	<string>spriteProxyAlignment</string>
+	<key>expandedInProxy</key>
+	<string>relationalRichtextTop</string>
+	<key>mainBuilderRight</key>
+	<string>rowUntilChain</string>
+	<key>profileOrScope</key>
+	<string>allocatorVarBound</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSubpixelFrequency</key>
+	<string>kernelStageTop</string>
+	<key>animatedBuilderResponse</key>
+	<string>requestAsSingleton</string>
+	<key>featureSinceBuffer</key>
+	<string>viewOfObserver</string>
+	<key>frameTaskPadding</key>
+	<string>backwardAccessoryOpacity</string>
+	<key>petFormTag</key>
+	<string>priorityDecoratorName</string>
+	<key>taskShapeName</key>
+	<string>operationPrototypeInterval</string>
+</dict>
+</plist>

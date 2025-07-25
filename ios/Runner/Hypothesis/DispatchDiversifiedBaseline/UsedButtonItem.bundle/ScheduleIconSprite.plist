@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEffectBehavior</key>
+	<string>sessionPrototypeAppearance</string>
+	<key>configurationThanState</key>
+	<string>textCycleSaturation</string>
+	<key>drawerSystemEdge</key>
+	<string>draggableHistogramStyle</string>
+	<key>dynamicDrawerForce</key>
+	<string>observerThroughShape</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionBridgeSaturation</key>
+	<string>accessiblePlateShade</string>
+	<key>effectOutsideAdapter</key>
+	<string>rapidSkinBottom</string>
+	<key>gemByProcess</key>
+	<string>composableConfigurationFeedback</string>
+	<key>geometricSceneScale</key>
+	<string>sizedboxPhaseFrequency</string>
+	<key>gramFlyweightInset</key>
+	<string>permissiveShaderDuration</string>
+	<key>interfaceAndComposite</key>
+	<string>tappableDecorationDuration</string>
+	<key>interpolationContextName</key>
+	<string>discardedCubitValidation</string>
+	<key>sliderAtObserver</key>
+	<string>builderCycleDuration</string>
+	<key>sliderWithChain</key>
+	<string>directlyPresenterName</string>
+</dict>
+</plist>

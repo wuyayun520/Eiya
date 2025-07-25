@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferViaAction</key>
+	<string>subtleStoryboardPadding</string>
+	<key>buttonDuringState</key>
+	<string>rowWithStage</string>
+	<key>graphInFunction</key>
+	<string>getxVariableTag</string>
+	<key>inactiveThreadHead</key>
+	<string>asyncParameterPadding</string>
+	<key>interactiveSingletonBottom</key>
+	<string>mutableSliderVisible</string>
+	<key>transformerKindName</key>
+	<string>primaryOperationCount</string>
+	<key>transitionThroughActivity</key>
+	<string>staticWidgetSkewx</string>
+</dict>
+</plist>

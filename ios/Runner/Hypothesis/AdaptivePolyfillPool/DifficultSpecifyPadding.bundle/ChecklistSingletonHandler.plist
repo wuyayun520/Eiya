@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVariableRotation</key>
+	<string>sinkLikeCommand</string>
+	<key>asyncInkwellState</key>
+	<string>mobileCompositeTransparency</string>
+	<key>descriptionThroughPrototype</key>
+	<string>interfaceAtBridge</string>
+	<key>featureAdapterFrequency</key>
+	<string>containerInsideFunction</string>
+	<key>sceneTypeFeedback</key>
+	<string>behaviorAndInterpreter</string>
+	<key>statefulControllerFormat</key>
+	<string>sliderOutsideVariable</string>
+</dict>
+</plist>

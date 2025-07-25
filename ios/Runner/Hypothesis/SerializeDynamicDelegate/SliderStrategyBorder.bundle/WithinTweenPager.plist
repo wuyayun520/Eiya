@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAndComposite</key>
+	<string>presenterAlongProcess</string>
+	<key>boxshadowPatternValidation</key>
+	<string>columnTaskPadding</string>
+	<key>groupNearProxy</key>
+	<string>sizeBesideContext</string>
+	<key>imperativeCatalystStyle</key>
+	<string>mediaqueryFromMediator</string>
+	<key>positionAboutBridge</key>
+	<string>keyGesturedetectorTheme</string>
+</dict>
+</plist>

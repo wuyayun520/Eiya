@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticStatePressure</key>
+	<string>cellActivitySkewy</string>
+	<key>entityStageRate</key>
+	<string>fusedBatchSpacing</string>
+	<key>grainFromScope</key>
+	<string>interpolationLikePlatform</string>
+	<key>navigatorWithoutVariable</key>
+	<string>explicitCanvasSaturation</string>
+	<key>observerMediatorStatus</key>
+	<string>interfaceVersusAdapter</string>
+	<key>reducerInterpreterVisible</key>
+	<string>customLayerSkewx</string>
+	<key>storeAwayEnvironment</key>
+	<string>remainderSingletonFeedback</string>
+	<key>topicProcessFeedback</key>
+	<string>similarScaleOrientation</string>
+</dict>
+</plist>

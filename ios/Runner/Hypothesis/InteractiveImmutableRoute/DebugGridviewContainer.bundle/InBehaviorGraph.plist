@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVariableStyle</key>
+	<string>retainedErrorOrigin</string>
+	<key>animatedLabelLocation</key>
+	<string>newestGraphCoord</string>
+	<key>firstBuilderStyle</key>
+	<string>stampAtKind</string>
+	<key>futureOfForm</key>
+	<string>lazyGramPadding</string>
+	<key>graphTierTheme</key>
+	<string>hashThanLevel</string>
+	<key>layoutCompositePressure</key>
+	<string>radioExceptLevel</string>
+	<key>popupAboutBuffer</key>
+	<string>capsuleActivityAlignment</string>
+	<key>uniqueGraphTransparency</key>
+	<string>cupertinoParamCoord</string>
+	<key>unsortedSliderStyle</key>
+	<string>cubitWithoutBridge</string>
+</dict>
+</plist>

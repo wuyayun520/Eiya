@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCoordinatorBehavior</key>
+	<string>slashWithoutPrototype</string>
+	<key>animatedCompletionCoord</key>
+	<string>inheritedNavigatorTransparency</string>
+	<key>aspectInsideChain</key>
+	<string>reducerContainMediator</string>
+	<key>canvasAwayContext</key>
+	<string>getxAtOperation</string>
+	<key>errorAwayMemento</key>
+	<string>observerUntilTask</string>
+	<key>explicitMemberTransparency</key>
+	<string>channelOfEnvironment</string>
+	<key>interactorAtObserver</key>
+	<string>mobileUntilBuffer</string>
+	<key>intuitiveOptionState</key>
+	<string>asyncForMode</string>
+</dict>
+</plist>

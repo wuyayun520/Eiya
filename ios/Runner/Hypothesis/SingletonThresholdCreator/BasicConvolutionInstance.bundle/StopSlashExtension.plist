@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringLevel</key>
+	<string>chapterVersusPhase</string>
+	<key>awaitParameterSaturation</key>
+	<string>utilContainMode</string>
+	<key>effectActivityMargin</key>
+	<string>viewBufferContrast</string>
+	<key>resourceThanDecorator</key>
+	<string>dynamicCharacterSpacing</string>
+	<key>semanticsVariableHue</key>
+	<string>presenterThanVar</string>
+	<key>streamExceptParameter</key>
+	<string>resolverPerCommand</string>
+	<key>tangentContextDuration</key>
+	<string>agileInterfaceInterval</string>
+</dict>
+</plist>

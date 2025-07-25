@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorWorkOpacity</key>
+	<string>multiProviderAcceleration</string>
+	<key>assetStyleSaturation</key>
+	<string>synchronousMenuInteraction</string>
+	<key>marginAgainstStage</key>
+	<string>accordionSingletonTension</string>
+	<key>vectorCommandDirection</key>
+	<string>providerForOperation</string>
+</dict>
+</plist>

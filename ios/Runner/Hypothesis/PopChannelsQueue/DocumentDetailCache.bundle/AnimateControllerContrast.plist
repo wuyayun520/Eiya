@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGroupSpacing</key>
+	<string>menuAsVariable</string>
+	<key>configurationInsideAction</key>
+	<string>optimizerInsideCycle</string>
+	<key>criticalTweenEdge</key>
+	<string>assetExceptLevel</string>
+	<key>frameOfShape</key>
+	<string>skinExceptScope</string>
+	<key>multiplicationContainType</key>
+	<string>checkboxCommandDirection</string>
+	<key>nodeAmongInterpreter</key>
+	<string>staticStepSpacing</string>
+</dict>
+</plist>

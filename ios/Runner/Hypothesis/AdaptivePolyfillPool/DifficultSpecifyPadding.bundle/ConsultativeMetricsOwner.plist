@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalDescriptionShade</key>
+	<string>navigatorFromForm</string>
+	<key>effectMethodKind</key>
+	<string>transformerForMethod</string>
+	<key>nextResolverStyle</key>
+	<string>radioSingletonSpacing</string>
+	<key>pointAlongKind</key>
+	<string>movementVarName</string>
+	<key>resizableGroupVisibility</key>
+	<string>directlyTouchPressure</string>
+	<key>stampSingletonMomentum</key>
+	<string>declarativeEntityBound</string>
+</dict>
+</plist>

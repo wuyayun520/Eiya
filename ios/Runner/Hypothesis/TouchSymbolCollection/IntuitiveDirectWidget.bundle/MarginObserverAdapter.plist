@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoInjectionTransparency</key>
+	<string>alignmentModeSpacing</string>
+	<key>checkboxLayerCoord</key>
+	<string>inkwellWorkSpeed</string>
+	<key>popupVisitorContrast</key>
+	<string>compositionalCurveDuration</string>
+	<key>spotThroughStyle</key>
+	<string>notificationPhasePosition</string>
+	<key>symmetricUsecaseTransparency</key>
+	<string>buttonOfTier</string>
+	<key>textfieldWithoutTask</key>
+	<string>flexTypeAppearance</string>
+</dict>
+</plist>

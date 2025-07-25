@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectStructureTransparency</key>
+	<string>usedAspectTail</string>
+	<key>explicitBrushSkewx</key>
+	<string>boxshadowAmongStage</string>
+	<key>gridNearMethod</key>
+	<string>taskAtPhase</string>
+	<key>materialRowPressure</key>
+	<string>semanticTitleInset</string>
+	<key>memberAdapterInteraction</key>
+	<string>displayableDecorationMargin</string>
+	<key>observerContainVisitor</key>
+	<string>anchorLikeCycle</string>
+	<key>priorHeroInteraction</key>
+	<string>imageInsideProxy</string>
+	<key>reactiveGatePosition</key>
+	<string>factoryTierAppearance</string>
+	<key>singleProgressbarOrigin</key>
+	<string>subsequentTernaryResponse</string>
+</dict>
+</plist>

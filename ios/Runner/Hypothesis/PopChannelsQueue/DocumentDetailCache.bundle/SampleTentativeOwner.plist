@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStreamAlignment</key>
+	<string>pinchableCurveMode</string>
+	<key>coordinatorWithInterpreter</key>
+	<string>integerLevelOrigin</string>
+	<key>missedAxisDirection</key>
+	<string>significantBatchOrientation</string>
+	<key>scaleBeyondNumber</key>
+	<string>entitySystemTag</string>
+</dict>
+</plist>

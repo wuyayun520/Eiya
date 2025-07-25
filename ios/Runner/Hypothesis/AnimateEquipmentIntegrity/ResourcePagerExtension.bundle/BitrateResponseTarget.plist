@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionContextRight</key>
+	<string>autoLogarithmStyle</string>
+	<key>mutableProgressbarSpeed</key>
+	<string>singleBehaviorCount</string>
+	<key>positionAroundStage</key>
+	<string>webGestureTint</string>
+	<key>threadAndStyle</key>
+	<string>cubeDespiteActivity</string>
+</dict>
+</plist>

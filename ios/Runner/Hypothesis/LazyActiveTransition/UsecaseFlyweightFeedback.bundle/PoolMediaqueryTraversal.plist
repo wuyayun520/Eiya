@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBridgeMode</key>
+	<string>accessibleIndicatorColor</string>
+	<key>descriptionMediatorTag</key>
+	<string>symbolInterpreterContrast</string>
+	<key>durationVersusType</key>
+	<string>zoneAndOperation</string>
+	<key>frameBeyondBuffer</key>
+	<string>listenerExceptBuffer</string>
+	<key>globalAwaitVelocity</key>
+	<string>pointOfFramework</string>
+	<key>serviceOfPhase</key>
+	<string>liteServiceDistance</string>
+	<key>similarSpotEdge</key>
+	<string>diffableChannelsSkewy</string>
+</dict>
+</plist>

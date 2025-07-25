@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratePerState</key>
+	<string>controllerOutsidePlatform</string>
+	<key>iconVersusStrategy</key>
+	<string>queueCycleKind</string>
+	<key>materialStateFrequency</key>
+	<string>symbolJobTension</string>
+	<key>observerTaskLeft</key>
+	<string>declarativeSizeLeft</string>
+	<key>permanentDecorationTint</key>
+	<string>capacitiesDespiteTier</string>
+	<key>positionWithoutTier</key>
+	<string>samplePhaseHue</string>
+	<key>riverpodMethodTransparency</key>
+	<string>particleStrategyColor</string>
+	<key>semanticOffsetCoord</key>
+	<string>completerContextBehavior</string>
+	<key>streamOrComposite</key>
+	<string>monsterProcessVelocity</string>
+</dict>
+</plist>

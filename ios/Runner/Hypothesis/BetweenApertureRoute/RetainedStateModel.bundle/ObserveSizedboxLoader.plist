@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMenuPadding</key>
+	<string>textfieldByAction</string>
+	<key>cellContextDelay</key>
+	<string>progressbarFromStrategy</string>
+	<key>containerWithoutAdapter</key>
+	<string>activeModelBorder</string>
+	<key>routerVariableFrequency</key>
+	<string>projectionWorkDepth</string>
+	<key>techniqueAtFacade</key>
+	<string>cubitActivityBound</string>
+	<key>unaryAsObserver</key>
+	<string>mediocreResolverIndex</string>
+</dict>
+</plist>

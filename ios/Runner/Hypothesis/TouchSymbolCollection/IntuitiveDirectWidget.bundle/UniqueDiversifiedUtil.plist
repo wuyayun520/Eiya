@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryIncludeFacade</key>
+	<string>themeExceptDecorator</string>
+	<key>canvasUntilScope</key>
+	<string>resourceDecoratorPosition</string>
+	<key>checkboxInPlatform</key>
+	<string>asynchronousLayerFlags</string>
+	<key>cubitShapeMomentum</key>
+	<string>memberAroundVar</string>
+	<key>cycleShapeScale</key>
+	<string>cupertinoScopeMode</string>
+	<key>euclideanCoordinatorShade</key>
+	<string>geometricTransitionContrast</string>
+	<key>menuAroundProxy</key>
+	<string>intensityChainPosition</string>
+	<key>priorViewCount</key>
+	<string>prismaticAlertSpacing</string>
+</dict>
+</plist>

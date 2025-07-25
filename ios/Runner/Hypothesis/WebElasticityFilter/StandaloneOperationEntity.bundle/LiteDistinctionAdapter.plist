@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEqualizationOffset</key>
+	<string>textIncludeNumber</string>
+	<key>certificateCompositeDuration</key>
+	<string>durationTemplePadding</string>
+	<key>concurrentChannelsRate</key>
+	<string>animationAdapterInset</string>
+	<key>factoryTaskDuration</key>
+	<string>tickerTaskAcceleration</string>
+	<key>numericalOptimizerSaturation</key>
+	<string>queueScopeTop</string>
+	<key>popupLayerIndex</key>
+	<string>consumerAboutActivity</string>
+	<key>primaryCertificateAppearance</key>
+	<string>diffableSliderBottom</string>
+	<key>robustHandlerSpeed</key>
+	<string>viewMethodContrast</string>
+	<key>serviceOutsideEnvironment</key>
+	<string>invisibleCosineDensity</string>
+	<key>viewStateBound</key>
+	<string>providerAndParam</string>
+</dict>
+</plist>

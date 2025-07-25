@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintModeHead</key>
+	<string>gridAgainstDecorator</string>
+	<key>logAlongTask</key>
+	<string>frameBeyondMediator</string>
+	<key>momentumContainCommand</key>
+	<string>positionProxySpeed</string>
+	<key>nibOfVariable</key>
+	<string>sampleModeTransparency</string>
+	<key>presenterForStructure</key>
+	<string>commandOutsideShape</string>
+</dict>
+</plist>

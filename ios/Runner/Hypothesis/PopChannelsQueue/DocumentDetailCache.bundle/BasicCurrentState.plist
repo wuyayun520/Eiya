@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>requestDespitePhase</key>
+	<string>numericalCustompaintSaturation</string>
+	<key>serviceStyleBrightness</key>
+	<string>statefulMobxScale</string>
+	<key>timerBesideSystem</key>
+	<string>hierarchicalOverlayStatus</string>
+</dict>
+</plist>

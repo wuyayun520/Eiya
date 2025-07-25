@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAdapterScale</key>
+	<string>coordinatorNumberAppearance</string>
+	<key>canvasLikeScope</key>
+	<string>graphObserverOrientation</string>
+	<key>eventOperationVisibility</key>
+	<string>rapidUsageDirection</string>
+	<key>metadataObserverRate</key>
+	<string>streamSingletonState</string>
+	<key>singletonTypeDirection</key>
+	<string>transformerOfActivity</string>
+</dict>
+</plist>

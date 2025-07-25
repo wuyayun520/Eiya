@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalRouteMode</key>
+	<string>methodShapeScale</string>
+	<key>decorationAlongJob</key>
+	<string>singleConstraintOffset</string>
+	<key>immutableNodeInteraction</key>
+	<string>desktopGroupRate</string>
+	<key>interfaceLayerBottom</key>
+	<string>graphicVariableSkewx</string>
+	<key>labelExceptDecorator</key>
+	<string>providerFormBrightness</string>
+	<key>lostStatefulState</key>
+	<string>scaffoldStageCenter</string>
+	<key>parallelNotifierOrientation</key>
+	<string>eagerBufferPadding</string>
+	<key>usecaseFunctionDirection</key>
+	<string>allocatorDuringLayer</string>
+	<key>zoneStyleTint</key>
+	<string>specifyChapterTension</string>
+</dict>
+</plist>

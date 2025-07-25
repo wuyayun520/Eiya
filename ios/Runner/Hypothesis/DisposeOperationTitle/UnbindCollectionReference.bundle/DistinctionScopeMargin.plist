@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalTimerValidation</key>
+	<string>offsetBeyondContext</string>
+	<key>lazySwiftOrientation</key>
+	<string>uniqueInteractorDirection</string>
+	<key>positionAndLayer</key>
+	<string>channelsContextShade</string>
+	<key>richtextVariableTransparency</key>
+	<string>actionParamShape</string>
+	<key>smallManagerBound</key>
+	<string>localizationFacadeColor</string>
+	<key>spriteActionKind</key>
+	<string>durationOperationRight</string>
+</dict>
+</plist>

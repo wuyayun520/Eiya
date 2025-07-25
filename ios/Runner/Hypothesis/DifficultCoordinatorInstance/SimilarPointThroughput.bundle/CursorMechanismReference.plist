@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheVersusEnvironment</key>
+	<string>concreteConfigurationLeft</string>
+	<key>ignoredBuilderFrequency</key>
+	<string>topicExceptSystem</string>
+	<key>layoutAroundProcess</key>
+	<string>responsiveAssetShade</string>
+	<key>significantLossCoord</key>
+	<string>mediaqueryInterpreterHue</string>
+	<key>symmetricTickerAppearance</key>
+	<string>pinchableTextureEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTransitionRate</key>
+	<string>cosineDespitePrototype</string>
+	<key>interfacePhaseFlags</key>
+	<string>entityAndProxy</string>
+	<key>operationStyleBorder</key>
+	<string>resizableInstructionOrientation</string>
+</dict>
+</plist>

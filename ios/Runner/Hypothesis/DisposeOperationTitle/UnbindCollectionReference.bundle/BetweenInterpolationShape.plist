@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocObserverType</key>
+	<string>resultStageInset</string>
+	<key>granularExponentFrequency</key>
+	<string>builderLikeMode</string>
+	<key>modalPatternRotation</key>
+	<string>storyboardStageTail</string>
+	<key>mutableTaskAcceleration</key>
+	<string>scaffoldFromState</string>
+	<key>optionFunctionShape</key>
+	<string>keyDurationForce</string>
+	<key>remainderStyleFrequency</key>
+	<string>samplePerFacade</string>
+	<key>sliderValueIndex</key>
+	<string>symbolNumberDistance</string>
+	<key>tappablePromiseDirection</key>
+	<string>contractionWithoutAdapter</string>
+</dict>
+</plist>

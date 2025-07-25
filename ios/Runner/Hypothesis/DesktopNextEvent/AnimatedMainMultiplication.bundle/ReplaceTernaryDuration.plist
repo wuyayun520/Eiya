@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionJobAcceleration</key>
+	<string>zoneUntilPlatform</string>
+	<key>aspectPhaseShade</key>
+	<string>controllerEnvironmentValidation</string>
+	<key>curveTaskPosition</key>
+	<string>backwardQueryTransparency</string>
+	<key>fusedDurationOffset</key>
+	<string>sharedFactoryTail</string>
+	<key>fusedSizeBound</key>
+	<string>usedFrameDuration</string>
+	<key>independentTextPosition</key>
+	<string>associatedQueueDelay</string>
+	<key>metadataAdapterMode</key>
+	<string>cacheAgainstJob</string>
+	<key>prismaticPlaybackTension</key>
+	<string>topicVersusMemento</string>
+	<key>sensorLayerShape</key>
+	<string>indicatorMethodCoord</string>
+	<key>storageStateBorder</key>
+	<string>methodDuringFacade</string>
+</dict>
+</plist>

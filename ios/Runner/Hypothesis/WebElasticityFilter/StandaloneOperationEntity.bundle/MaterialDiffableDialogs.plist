@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorBeyondPlatform</key>
+	<string>animatedCoordinatorRotation</string>
+	<key>builderUntilTask</key>
+	<string>completerAgainstPrototype</string>
+	<key>fixedAnimationDelay</key>
+	<string>rowDespiteValue</string>
+	<key>promiseTaskContrast</key>
+	<string>visibleExceptionFormat</string>
+	<key>respectiveStampOrientation</key>
+	<string>actionActivityOrientation</string>
+	<key>significantGrainOpacity</key>
+	<string>pinchableLabelScale</string>
+	<key>sliderProcessSaturation</key>
+	<string>resolverDespiteBridge</string>
+	<key>temporaryStatefulVisible</key>
+	<string>disparateLayoutKind</string>
+</dict>
+</plist>

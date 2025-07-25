@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodDuringTier</key>
+	<string>localizationProxyBound</string>
+	<key>robustCupertinoHue</key>
+	<string>precisionMementoSkewy</string>
+	<key>sinkAsFramework</key>
+	<string>statelessNavigatorRotation</string>
+	<key>textAwayStrategy</key>
+	<string>dependencyProcessMode</string>
+	<key>tickerDespiteJob</key>
+	<string>concreteUsecasePosition</string>
+</dict>
+</plist>

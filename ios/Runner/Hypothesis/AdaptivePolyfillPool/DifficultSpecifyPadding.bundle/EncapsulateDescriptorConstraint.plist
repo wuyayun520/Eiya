@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeViewType</key>
+	<string>resultAtDecorator</string>
+	<key>decorationCycleRight</key>
+	<string>respectiveRowShape</string>
+	<key>expandedPerPattern</key>
+	<string>queryFromMethod</string>
+	<key>resourceOperationInset</key>
+	<string>workflowOperationStyle</string>
+	<key>temporaryControllerForce</key>
+	<string>asyncDurationSkewx</string>
+</dict>
+</plist>

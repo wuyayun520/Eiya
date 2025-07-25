@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationActionMargin</key>
+	<string>segmentOfCommand</string>
+	<key>durationOutsideStrategy</key>
+	<string>tabviewAtVariable</string>
+	<key>gesturedetectorAgainstMemento</key>
+	<string>clipperVersusTier</string>
+	<key>immutableProgressbarDepth</key>
+	<string>intermediateCallbackFlags</string>
+	<key>semanticPlaybackShade</key>
+	<string>signLikeType</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitAspectRight</key>
+	<string>greatCubitTransparency</string>
+	<key>instructionDespiteContext</key>
+	<string>captionOutsideComposite</string>
+	<key>managerNearActivity</key>
+	<string>logarithmVarOrientation</string>
+	<key>tabbarTaskFeedback</key>
+	<string>decorationVisitorHead</string>
+	<key>usedUsecaseAlignment</key>
+	<string>plateStructureShape</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPerVisitor</key>
+	<string>rowWithTemple</string>
+	<key>controllerFunctionRotation</key>
+	<string>reusableResourceMargin</string>
+	<key>cupertinoReductionDensity</key>
+	<string>requestPerLayer</string>
+	<key>delegateStateSpeed</key>
+	<string>observerStyleStyle</string>
+	<key>mediaqueryAboutShape</key>
+	<string>requiredPrecisionTag</string>
+	<key>referenceParamFeedback</key>
+	<string>textureFrameworkOrigin</string>
+	<key>timerWithTier</key>
+	<string>denseTaskTheme</string>
+</dict>
+</plist>

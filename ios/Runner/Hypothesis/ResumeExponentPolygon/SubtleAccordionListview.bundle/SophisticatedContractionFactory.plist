@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateUntilFunction</key>
+	<string>similarQueueBorder</string>
+	<key>routeOutsideMode</key>
+	<string>composableRowRate</string>
+	<key>tabbarChainState</key>
+	<string>isolateIncludeTask</string>
+	<key>typicalChannelsRotation</key>
+	<string>euclideanScreenMargin</string>
+	<key>webDependencySpeed</key>
+	<string>asyncCallbackIndex</string>
+</dict>
+</plist>

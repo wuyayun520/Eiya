@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableFlexStatus</key>
+	<string>textfieldIncludeOperation</string>
+	<key>iterativePreviewFlags</key>
+	<string>cupertinoThroughContext</string>
+	<key>logarithmDuringWork</key>
+	<string>resourceActionDuration</string>
+	<key>mediaqueryLikeSingleton</key>
+	<string>inheritedWorkflowType</string>
+	<key>progressbarModeSpacing</key>
+	<string>nativeAlignmentTop</string>
+	<key>scrollableDescriptorSkewy</key>
+	<string>referenceContextVisibility</string>
+	<key>stateInVar</key>
+	<string>mutableStateType</string>
+	<key>tabviewAtLevel</key>
+	<string>heroAndParameter</string>
+	<key>tweenFunctionOffset</key>
+	<string>alignmentAdapterDirection</string>
+</dict>
+</plist>

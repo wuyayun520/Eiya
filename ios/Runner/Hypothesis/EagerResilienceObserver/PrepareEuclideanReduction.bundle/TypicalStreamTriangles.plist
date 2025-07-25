@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetActionAppearance</key>
+	<string>independentRadioAppearance</string>
+	<key>repositoryFromObserver</key>
+	<string>factoryAboutObserver</string>
+	<key>signatureCycleDistance</key>
+	<string>baselineViaVisitor</string>
+	<key>usedFactoryType</key>
+	<string>reductionTaskVelocity</string>
+</dict>
+</plist>

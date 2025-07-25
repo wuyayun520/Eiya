@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStateSaturation</key>
+	<string>zoneViaState</string>
+	<key>asyncBufferTransparency</key>
+	<string>unaryOperationSpacing</string>
+	<key>bufferInterpreterDensity</key>
+	<string>permanentBatchScale</string>
+	<key>easyDescriptorMargin</key>
+	<string>chartInterpreterFlags</string>
+	<key>ephemeralGridMomentum</key>
+	<string>usageAsPhase</string>
+	<key>independentInkwellInteraction</key>
+	<string>visibleAnimationVisibility</string>
+	<key>robustInteractorShade</key>
+	<string>prismaticPresenterTransparency</string>
+	<key>sliderActivityDistance</key>
+	<string>playbackSystemFrequency</string>
+	<key>widgetShapeAcceleration</key>
+	<string>configurationBesideInterpreter</string>
+</dict>
+</plist>

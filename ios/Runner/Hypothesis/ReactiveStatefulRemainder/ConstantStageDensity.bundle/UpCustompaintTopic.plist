@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturePhaseAlignment</key>
+	<string>animatedSubscriptionAlignment</string>
+	<key>binarySincePhase</key>
+	<string>lostMasterCoord</string>
+	<key>constraintIncludeVar</key>
+	<string>skirtAlongParam</string>
+	<key>containerCommandShade</key>
+	<string>movementWithoutDecorator</string>
+	<key>ignoredNotificationMode</key>
+	<string>permanentUsecaseCoord</string>
+	<key>modulusChainDensity</key>
+	<string>reusableScreenValidation</string>
+	<key>musicThroughProxy</key>
+	<string>resultAndMode</string>
+	<key>playbackOfFacade</key>
+	<string>segueSystemRate</string>
+	<key>requestTypeBehavior</key>
+	<string>gramAsMediator</string>
+	<key>specifyTextureAppearance</key>
+	<string>assetFromActivity</string>
+</dict>
+</plist>

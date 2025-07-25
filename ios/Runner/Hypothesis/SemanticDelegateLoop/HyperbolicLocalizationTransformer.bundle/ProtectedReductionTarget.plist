@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringVar</key>
+	<string>dependencyAwayDecorator</string>
+	<key>directlyTransformerDelay</key>
+	<string>pageviewVariableMomentum</string>
+	<key>discardedCurveVelocity</key>
+	<string>statelessPointVelocity</string>
+	<key>gemObserverInterval</key>
+	<string>priorOptionVisibility</string>
+	<key>graphicDecoratorBorder</key>
+	<string>convolutionAboutStage</string>
+	<key>opaqueTextBorder</key>
+	<string>multiUsageDelay</string>
+	<key>queueAgainstState</key>
+	<string>controllerViaVisitor</string>
+	<key>tangentProcessShape</key>
+	<string>tappableZoneEdge</string>
+</dict>
+</plist>

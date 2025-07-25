@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAdapterFlags</key>
+	<string>equipmentIncludeStyle</string>
+	<key>builderProcessMode</key>
+	<string>containerAboutPlatform</string>
+	<key>containerOfMode</key>
+	<string>pinchableInterpolationTail</string>
+	<key>decorationActionCoord</key>
+	<string>catalystFunctionTransparency</string>
+	<key>nextControllerVisible</key>
+	<string>futurePlatformFlags</string>
+	<key>segmentWithoutPattern</key>
+	<string>cubitSinceMode</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureBesideSingleton</key>
+	<string>immediateResolverSkewy</string>
+	<key>equalizationVersusCommand</key>
+	<string>beginnerSkirtDensity</string>
+	<key>missedExceptionColor</key>
+	<string>flexPatternColor</string>
+	<key>viewBesideFunction</key>
+	<string>themeJobDelay</string>
+</dict>
+</plist>

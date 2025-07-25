@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledInjectionRate</key>
+	<string>curveUntilScope</string>
+	<key>gramVisitorSkewx</key>
+	<string>gridviewThroughCommand</string>
+	<key>gridActivityAlignment</key>
+	<string>statefulThroughState</string>
+	<key>groupVariableVelocity</key>
+	<string>sensorTaskBound</string>
+	<key>reducerForObserver</key>
+	<string>particleLevelOrientation</string>
+	<key>resizableSegueVelocity</key>
+	<string>tickerAroundPrototype</string>
+	<key>smartNavigationVisible</key>
+	<string>viewCompositeFrequency</string>
+	<key>tangentPlatformDensity</key>
+	<string>rowScopeOffset</string>
+	<key>tangentVisitorPosition</key>
+	<string>sampleAroundProxy</string>
+</dict>
+</plist>

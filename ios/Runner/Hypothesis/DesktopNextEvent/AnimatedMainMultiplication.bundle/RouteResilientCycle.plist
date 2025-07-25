@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBeyondVariable</key>
+	<string>usecaseExceptParam</string>
+	<key>cubitInPhase</key>
+	<string>staticCubitSpacing</string>
+	<key>logScopeMode</key>
+	<string>futureSingletonLeft</string>
+	<key>textfieldValueValidation</key>
+	<string>tickerSinceState</string>
+</dict>
+</plist>

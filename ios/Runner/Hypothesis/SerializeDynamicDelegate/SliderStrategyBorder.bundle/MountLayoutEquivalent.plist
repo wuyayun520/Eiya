@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorDuringVariable</key>
+	<string>popupAdapterMode</string>
+	<key>interfacePhaseOrigin</key>
+	<string>protectedButtonIndex</string>
+	<key>positionExceptAction</key>
+	<string>rectFormSkewx</string>
+	<key>primaryConsumerType</key>
+	<string>reducerTypeKind</string>
+	<key>prismaticCommandRotation</key>
+	<string>techniqueTaskOpacity</string>
+	<key>touchCycleFlags</key>
+	<string>singleMenuBehavior</string>
+	<key>viewOperationHead</key>
+	<string>otherGrayscaleTag</string>
+</dict>
+</plist>

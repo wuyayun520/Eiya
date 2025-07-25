@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAwayStrategy</key>
+	<string>agileMapShade</string>
+	<key>injectionPrototypeStyle</key>
+	<string>hierarchicalAlignmentDistance</string>
+	<key>instructionMethodStyle</key>
+	<string>animatedControllerSpacing</string>
+	<key>methodExceptVar</key>
+	<string>composableModulusAlignment</string>
+	<key>respectiveStateLocation</key>
+	<string>seamlessMetadataSpacing</string>
+	<key>scaleBufferMomentum</key>
+	<string>decorationFunctionFlags</string>
+	<key>significantInteractorMargin</key>
+	<string>usageMediatorMargin</string>
+	<key>similarMultiplicationRate</key>
+	<string>associatedApertureDelay</string>
+	<key>tabviewFrameworkTension</key>
+	<string>responseExceptParam</string>
+	<key>unsortedControllerRight</key>
+	<string>asyncQueueRight</string>
+</dict>
+</plist>

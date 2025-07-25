@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopCubitFormat</key>
+	<string>integerActionInteraction</string>
+	<key>disabledResultLocation</key>
+	<string>immutableNodeShade</string>
+	<key>eventFacadeAppearance</key>
+	<string>requestAsPrototype</string>
+	<key>granularDrawerPadding</key>
+	<string>requestStructureSkewy</string>
+	<key>handlerAsMediator</key>
+	<string>cubitShapeHue</string>
+	<key>isolateOfInterpreter</key>
+	<string>loopUntilProxy</string>
+	<key>priorityInMethod</key>
+	<string>chartFrameworkSpacing</string>
+	<key>projectionBeyondWork</key>
+	<string>lossStateFeedback</string>
+	<key>reductionAsLayer</key>
+	<string>clipperVarBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarNearFramework</key>
+	<string>managerFrameworkColor</string>
+	<key>gesturedetectorChainHead</key>
+	<string>stampSingletonPressure</string>
+	<key>reactiveSizeAlignment</key>
+	<string>assetModeSize</string>
+	<key>robustChannelOpacity</key>
+	<string>tappableExpandedFrequency</string>
+	<key>semanticLossLocation</key>
+	<string>protectedTangentSpeed</string>
+	<key>stateByPhase</key>
+	<string>assetActivitySize</string>
+</dict>
+</plist>

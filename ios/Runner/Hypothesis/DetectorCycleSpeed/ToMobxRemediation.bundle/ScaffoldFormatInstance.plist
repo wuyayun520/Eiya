@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardFormBorder</key>
+	<string>interactiveAlertKind</string>
+	<key>cupertinoProgressbarVelocity</key>
+	<string>behaviorPlatformAcceleration</string>
+	<key>geometricFrameAcceleration</key>
+	<string>awaitAdapterShape</string>
+	<key>typicalLabelSkewy</key>
+	<string>callbackUntilChain</string>
+	<key>uniqueStreamType</key>
+	<string>largeViewVisibility</string>
+	<key>usedSubpixelBehavior</key>
+	<string>utilScopeType</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetBeyondActivity</key>
+	<string>spineVersusFramework</string>
+	<key>callbackWithSystem</key>
+	<string>hardSwitchInteraction</string>
+	<key>chartAsFacade</key>
+	<string>baselineLayerTail</string>
+	<key>configurationJobVisible</key>
+	<string>explicitTableMargin</string>
+	<key>durationForPrototype</key>
+	<string>momentumProxyOrientation</string>
+	<key>navigatorAboutPlatform</key>
+	<string>cubitByStructure</string>
+	<key>plateOfParam</key>
+	<string>ignoredRowTransparency</string>
+	<key>respectiveWidgetFrequency</key>
+	<string>completionStructureAppearance</string>
+	<key>roleTypeVisible</key>
+	<string>channelBesideSingleton</string>
+</dict>
+</plist>

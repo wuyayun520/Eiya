@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAlongState</key>
+	<string>resultInStyle</string>
+	<key>decorationOutsideBridge</key>
+	<string>lazyRowIndex</string>
+	<key>fixedTernaryInteraction</key>
+	<string>cycleMementoBound</string>
+	<key>memberContextResponse</key>
+	<string>requestScopeOrientation</string>
+	<key>routeWithFramework</key>
+	<string>stateIncludeActivity</string>
+	<key>sceneStageSkewx</key>
+	<string>nextModelBound</string>
+	<key>specifyTaskFormat</key>
+	<string>requestVisitorDirection</string>
+	<key>subscriptionFromObserver</key>
+	<string>interactiveTabviewInterval</string>
+	<key>transformerByMethod</key>
+	<string>presenterInterpreterOrigin</string>
+</dict>
+</plist>

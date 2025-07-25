@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultConfigurationStyle</key>
+	<string>inactiveTransitionTag</string>
+	<key>entityPlatformInset</key>
+	<string>grainMementoSpacing</string>
+	<key>histogramProxyInteraction</key>
+	<string>topicViaMemento</string>
+	<key>menuDespiteStrategy</key>
+	<string>draggableDelegateTail</string>
+	<key>momentumPrototypeShade</key>
+	<string>fusedCustompaintFeedback</string>
+	<key>nodeStyleTheme</key>
+	<string>granularDocumentTop</string>
+	<key>positionSinceKind</key>
+	<string>groupNumberInset</string>
+	<key>roleNumberVisible</key>
+	<string>subtleGrainValidation</string>
+	<key>stepJobColor</key>
+	<string>transitionStrategyVelocity</string>
+</dict>
+</plist>

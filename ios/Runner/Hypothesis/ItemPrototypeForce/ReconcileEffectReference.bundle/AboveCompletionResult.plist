@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCollectionSpacing</key>
+	<string>rectAsContext</string>
+	<key>beginnerEffectRight</key>
+	<string>topicAmongFacade</string>
+	<key>blocWithParameter</key>
+	<string>progressbarAboutCommand</string>
+	<key>dependencyAmongBuffer</key>
+	<string>oldBulletDirection</string>
+	<key>methodOrObserver</key>
+	<string>effectTempleTheme</string>
+	<key>projectPlatformName</key>
+	<string>gridVersusType</string>
+	<key>queryNumberShape</key>
+	<string>opaqueQueueValidation</string>
+	<key>rapidChecklistPressure</key>
+	<string>rowProxySpeed</string>
+	<key>semanticMetadataBound</key>
+	<string>dependencyProcessDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRequestStyle</key>
+	<string>explicitDrawerDelay</string>
+	<key>managerFromEnvironment</key>
+	<string>animatedGesturedetectorMomentum</string>
+	<key>reducerSingletonShade</key>
+	<string>eventExceptTask</string>
+	<key>reusableStreamCount</key>
+	<string>decorationCommandStyle</string>
+	<key>statefulStateStyle</key>
+	<string>interactorAboutNumber</string>
+</dict>
+</plist>

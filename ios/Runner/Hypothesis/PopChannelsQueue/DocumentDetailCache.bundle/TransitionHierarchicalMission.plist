@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTransformerBorder</key>
+	<string>painterByType</string>
+	<key>brushPerSingleton</key>
+	<string>semanticsAtPrototype</string>
+	<key>gesturedetectorBeyondStrategy</key>
+	<string>pageviewStyleMode</string>
+	<key>rapidScrollDensity</key>
+	<string>uniqueChartTint</string>
+	<key>sizeLayerTail</key>
+	<string>dependencyDecoratorSpeed</string>
+	<key>textVisitorForce</key>
+	<string>secondBatchColor</string>
+	<key>viewObserverTension</key>
+	<string>curveDuringSystem</string>
+</dict>
+</plist>

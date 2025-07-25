@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoWidgetDepth</key>
+	<string>uniformTopicRate</string>
+	<key>captionValueBehavior</key>
+	<string>effectLevelPressure</string>
+	<key>desktopStoryboardBehavior</key>
+	<string>sinkViaCommand</string>
+	<key>isolateFlyweightDelay</key>
+	<string>stackEnvironmentState</string>
+	<key>positionOrBridge</key>
+	<string>priorityAndMediator</string>
+	<key>riverpodAwayChain</key>
+	<string>capacitiesFromMediator</string>
+	<key>sustainableOptionScale</key>
+	<string>scrollableClipperName</string>
+	<key>titlePlatformSize</key>
+	<string>sharedButtonCount</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOutsideMediator</key>
+	<string>sophisticatedFactoryDistance</string>
+	<key>cubeContainStrategy</key>
+	<string>compositionalTimerTint</string>
+	<key>cursorAmongVisitor</key>
+	<string>dependencyCommandIndex</string>
+	<key>geometricCursorFlags</key>
+	<string>histogramWithoutFunction</string>
+	<key>grainValueTension</key>
+	<string>errorShapeVisibility</string>
+	<key>injectionIncludePrototype</key>
+	<string>statefulToolCount</string>
+	<key>materialTierState</key>
+	<string>optionAdapterState</string>
+	<key>profileCommandCenter</key>
+	<string>boxshadowSystemOpacity</string>
+	<key>queryInMemento</key>
+	<string>exponentModeOpacity</string>
+</dict>
+</plist>

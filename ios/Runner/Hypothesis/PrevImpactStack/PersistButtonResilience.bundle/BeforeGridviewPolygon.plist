@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionAgainstPrototype</key>
+	<string>semanticsCompositePosition</string>
+	<key>sliderAboutValue</key>
+	<string>durationLevelFormat</string>
+	<key>statelessCacheVisibility</key>
+	<string>asynchronousSwiftFormat</string>
+	<key>statelessGraphicContrast</key>
+	<string>hierarchicalMapHue</string>
+	<key>topicFormAlignment</key>
+	<string>nodeCycleMode</string>
+</dict>
+</plist>

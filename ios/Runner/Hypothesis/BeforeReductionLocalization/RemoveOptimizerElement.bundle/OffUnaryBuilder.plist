@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarWithoutBuffer</key>
+	<string>buttonOrPhase</string>
+	<key>materialParamFlags</key>
+	<string>intensityPhaseAppearance</string>
+	<key>originalAwaitOffset</key>
+	<string>crucialTweenSpacing</string>
+	<key>sceneWithoutState</key>
+	<string>scaleTaskDepth</string>
+	<key>typicalHeroOrigin</key>
+	<string>unactivatedHashTheme</string>
+	<key>uniqueResponseColor</key>
+	<string>multiPopupOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDespiteNumber</key>
+	<string>toolStageIndex</string>
+	<key>callbackAsState</key>
+	<string>skirtDecoratorStyle</string>
+	<key>cellDuringObserver</key>
+	<string>iconModeKind</string>
+	<key>custompaintTierMargin</key>
+	<string>interactivePointKind</string>
+	<key>ignoredCacheContrast</key>
+	<string>presenterFromFacade</string>
+	<key>rectStageBehavior</key>
+	<string>resizableRequestHead</string>
+	<key>similarBlocDepth</key>
+	<string>lazyTickerPadding</string>
+	<key>singleDependencyBrightness</key>
+	<string>tangentLikeFlyweight</string>
+	<key>singletonExceptCommand</key>
+	<string>taskFacadeDelay</string>
+	<key>vectorVersusCommand</key>
+	<string>grainOrStyle</string>
+</dict>
+</plist>

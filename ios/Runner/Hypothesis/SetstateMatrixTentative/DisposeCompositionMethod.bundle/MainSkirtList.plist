@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProviderDistance</key>
+	<string>skinFacadeStatus</string>
+	<key>callbackLevelState</key>
+	<string>sineWithoutCommand</string>
+	<key>composableGrainBehavior</key>
+	<string>independentDelegateSkewx</string>
+	<key>missedResultType</key>
+	<string>accessoryIncludeKind</string>
+	<key>offsetProxyBound</key>
+	<string>fusedRepositoryVisible</string>
+	<key>priorInjectionCoord</key>
+	<string>completionFlyweightIndex</string>
+	<key>profileDuringForm</key>
+	<string>mobxOperationAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCupertinoScale</key>
+	<string>cartesianNavigatorInteraction</string>
+	<key>bulletIncludePlatform</key>
+	<string>visibleAxisHead</string>
+	<key>cubeInsidePrototype</key>
+	<string>asynchronousProgressbarBound</string>
+	<key>dependencyVersusParameter</key>
+	<string>hardCurveSpacing</string>
+	<key>managerIncludeKind</key>
+	<string>heapStructureTransparency</string>
+	<key>prevCompleterTag</key>
+	<string>channelModePadding</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyMemberInteraction</key>
+	<string>descriptionAwayKind</string>
+	<key>interactiveCurveTheme</key>
+	<string>largeStampFeedback</string>
+	<key>localizationAboutMethod</key>
+	<string>usecaseIncludeValue</string>
+	<key>opaqueAlertValidation</key>
+	<string>scenePhaseInteraction</string>
+	<key>spineTypeDuration</key>
+	<string>respectiveHandlerShape</string>
+	<key>usecaseViaState</key>
+	<string>apertureWorkState</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheTierAppearance</key>
+	<string>tappableDelegateOffset</string>
+	<key>customizedSymbolPosition</key>
+	<string>mainCompositionSize</string>
+	<key>dialogsDuringEnvironment</key>
+	<string>blocFacadeEdge</string>
+	<key>disabledZonePadding</key>
+	<string>pinchableRequestState</string>
+	<key>overlayParamDensity</key>
+	<string>graphAgainstPrototype</string>
+	<key>plateAgainstForm</key>
+	<string>sliderByAction</string>
+	<key>semanticStoryboardDuration</key>
+	<string>methodPhaseForce</string>
+	<key>ternaryOfTier</key>
+	<string>compositionalConfigurationFormat</string>
+</dict>
+</plist>

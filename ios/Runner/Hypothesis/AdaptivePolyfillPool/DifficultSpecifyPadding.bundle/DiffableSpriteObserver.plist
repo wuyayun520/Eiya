@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorPerScope</key>
+	<string>transformerBufferRotation</string>
+	<key>associatedErrorSpacing</key>
+	<string>disabledZoneDistance</string>
+	<key>chartVarOpacity</key>
+	<string>ternaryUntilChain</string>
+	<key>labelScopeVisibility</key>
+	<string>asyncAndMethod</string>
+	<key>matrixContextEdge</key>
+	<string>profileCompositeStatus</string>
+	<key>touchCommandSpacing</key>
+	<string>mobileAsCommand</string>
+	<key>usecaseForPlatform</key>
+	<string>signatureTierBottom</string>
+	<key>webLabelTop</key>
+	<string>delegateAboutObserver</string>
+	<key>workflowScopeValidation</key>
+	<string>specifierWithoutShape</string>
+</dict>
+</plist>

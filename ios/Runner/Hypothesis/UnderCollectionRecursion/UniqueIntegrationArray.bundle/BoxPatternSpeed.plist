@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioScopeBrightness</key>
+	<string>unactivatedMasterCoord</string>
+	<key>behaviorBridgeOpacity</key>
+	<string>requestAmongBuffer</string>
+	<key>independentButtonTension</key>
+	<string>sortedTransitionBrightness</string>
+	<key>resourceAwayParam</key>
+	<string>memberFacadeSpacing</string>
+	<key>smallScreenValidation</key>
+	<string>isolateViaStrategy</string>
+</dict>
+</plist>

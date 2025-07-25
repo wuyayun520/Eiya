@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTextTransparency</key>
+	<string>ignoredResourceTail</string>
+	<key>customizedMovementDepth</key>
+	<string>cosineOutsideInterpreter</string>
+	<key>exceptionPlatformKind</key>
+	<string>richtextLikeStyle</string>
+	<key>fragmentChainOffset</key>
+	<string>navigatorMediatorDistance</string>
+	<key>spineStateDirection</key>
+	<string>appbarStructureCenter</string>
+	<key>tweenChainCount</key>
+	<string>apertureOutsideLevel</string>
+	<key>unsortedBorderResponse</key>
+	<string>diffableRequestFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFunctionBehavior</key>
+	<string>disabledDocumentStyle</string>
+	<key>apertureByVisitor</key>
+	<string>featureVariableVisibility</string>
+	<key>permissiveCurveFlags</key>
+	<string>themeAdapterBound</string>
+	<key>relationalMarginDirection</key>
+	<string>baselineOutsideShape</string>
+	<key>resourceAsBuffer</key>
+	<string>cosineAroundParameter</string>
+</dict>
+</plist>

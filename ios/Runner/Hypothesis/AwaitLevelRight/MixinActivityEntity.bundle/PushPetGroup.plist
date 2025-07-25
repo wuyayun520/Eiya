@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorInState</key>
+	<string>grainObserverTag</string>
+	<key>operationContainState</key>
+	<string>desktopSubpixelFormat</string>
+	<key>signatureActivitySpeed</key>
+	<string>heapFromVisitor</string>
+	<key>subpixelTaskKind</key>
+	<string>granularNotifierDirection</string>
+</dict>
+</plist>

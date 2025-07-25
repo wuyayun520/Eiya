@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledRadiusHue</key>
+	<string>unsortedVectorOrientation</string>
+	<key>factoryStateDirection</key>
+	<string>visibleSceneBrightness</string>
+	<key>intermediateMethodSpacing</key>
+	<string>resourceViaStrategy</string>
+	<key>localizationFrameworkState</key>
+	<string>factoryDuringCommand</string>
+	<key>observerWithoutInterpreter</key>
+	<string>sizedboxActionInteraction</string>
+	<key>sliderOfComposite</key>
+	<string>referenceStateRate</string>
+	<key>touchBufferRate</key>
+	<string>completionChainDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOrMode</key>
+	<string>chartMethodInteraction</string>
+	<key>disabledDurationBorder</key>
+	<string>resizableObserverAlignment</string>
+	<key>independentDurationEdge</key>
+	<string>tickerForFramework</string>
+	<key>localTaskTransparency</key>
+	<string>subtleResponseAcceleration</string>
+	<key>observerForFramework</key>
+	<string>missedNodeDistance</string>
+	<key>offsetWorkTint</key>
+	<string>persistentProgressbarCenter</string>
+	<key>persistentAppbarBehavior</key>
+	<string>multiplicationCycleAlignment</string>
+	<key>semanticsOutsideDecorator</key>
+	<string>routeTempleSpeed</string>
+</dict>
+</plist>

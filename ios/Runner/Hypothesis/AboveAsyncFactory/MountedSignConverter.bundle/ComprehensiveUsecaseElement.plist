@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileProtocolFeedback</key>
+	<string>assetVisitorAlignment</string>
+	<key>blocModeDistance</key>
+	<string>directLayoutBorder</string>
+	<key>offsetStyleForce</key>
+	<string>scrollableShaderName</string>
+	<key>publicTopicCoord</key>
+	<string>tensorAlertInteraction</string>
+	<key>reusableDelegateDepth</key>
+	<string>rectStyleDistance</string>
+</dict>
+</plist>

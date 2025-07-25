@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProgressbarRight</key>
+	<string>sliderNumberAppearance</string>
+	<key>asyncAwaitEdge</key>
+	<string>missedNibTop</string>
+	<key>catalystChainStyle</key>
+	<string>sortedSpritePosition</string>
+	<key>cupertinoEnvironmentCount</key>
+	<string>storageWorkAlignment</string>
+	<key>effectCompositeShape</key>
+	<string>lostFeatureValidation</string>
+	<key>gramAndPhase</key>
+	<string>injectionViaKind</string>
+	<key>methodThroughVisitor</key>
+	<string>textStrategyLeft</string>
+	<key>statefulStorageFrequency</key>
+	<string>asyncPromiseFrequency</string>
+	<key>textViaLevel</key>
+	<string>cycleCompositeColor</string>
+</dict>
+</plist>

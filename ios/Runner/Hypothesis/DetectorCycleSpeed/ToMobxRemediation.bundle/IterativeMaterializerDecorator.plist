@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleInStage</key>
+	<string>routerOutsideMode</string>
+	<key>deferredChapterRate</key>
+	<string>priorityActionOffset</string>
+	<key>elasticTabviewOrientation</key>
+	<string>delegateKindTransparency</string>
+	<key>nodeBeyondOperation</key>
+	<string>tickerLayerKind</string>
+	<key>respectiveTweenOpacity</key>
+	<string>tabviewThanScope</string>
+	<key>semanticFrameMargin</key>
+	<string>effectDespiteShape</string>
+	<key>singlePlaybackRate</key>
+	<string>alphaUntilOperation</string>
+	<key>timerPrototypeBorder</key>
+	<string>pointAmongObserver</string>
+</dict>
+</plist>

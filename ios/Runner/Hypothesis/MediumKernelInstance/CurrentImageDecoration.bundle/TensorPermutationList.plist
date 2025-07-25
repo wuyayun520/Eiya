@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushFacadeIndex</key>
+	<string>dependencyFromNumber</string>
+	<key>constInteractorLocation</key>
+	<string>independentLabelEdge</string>
+	<key>curveDuringProxy</key>
+	<string>painterMementoPosition</string>
+	<key>permissiveModalTail</key>
+	<string>crucialInkwellVisible</string>
+	<key>smallBoxOrigin</key>
+	<string>builderAboutCycle</string>
+	<key>staticReducerTop</key>
+	<string>smallPopupCount</string>
+</dict>
+</plist>

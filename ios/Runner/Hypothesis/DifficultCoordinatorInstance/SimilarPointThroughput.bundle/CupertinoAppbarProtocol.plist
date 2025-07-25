@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedHandlerBottom</key>
+	<string>radioSystemOrientation</string>
+	<key>behaviorIncludeLayer</key>
+	<string>smartResolverRate</string>
+	<key>bitrateActivityPressure</key>
+	<string>checkboxProxySpeed</string>
+	<key>channelsParameterTop</key>
+	<string>cupertinoLikeCommand</string>
+	<key>newestPaddingTop</key>
+	<string>rapidOptimizerOrigin</string>
+	<key>semanticLabelDirection</key>
+	<string>apertureOperationLeft</string>
+</dict>
+</plist>

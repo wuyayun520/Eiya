@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPromiseBehavior</key>
+	<string>marginFromScope</string>
+	<key>asyncThroughSingleton</key>
+	<string>completionScopeTop</string>
+	<key>commandAwayProcess</key>
+	<string>bufferNumberCenter</string>
+	<key>gramKindShape</key>
+	<string>euclideanCurveTransparency</string>
+	<key>mediocreSubpixelSaturation</key>
+	<string>techniqueStrategyShade</string>
+	<key>pointBridgeBrightness</key>
+	<string>notificationAlongDecorator</string>
+	<key>providerFromMode</key>
+	<string>customizedApertureSaturation</string>
+	<key>sinkMementoHue</key>
+	<string>labelStageDistance</string>
+	<key>symbolSystemFrequency</key>
+	<string>integerFromStrategy</string>
+</dict>
+</plist>

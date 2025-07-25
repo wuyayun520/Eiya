@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderProcessShade</key>
+	<string>shaderSystemFrequency</string>
+	<key>channelWorkFrequency</key>
+	<string>accessoryCompositeResponse</string>
+	<key>columnParameterHue</key>
+	<string>heroCommandOrientation</string>
+	<key>compositionFacadeIndex</key>
+	<string>effectEnvironmentInset</string>
+	<key>curveAndAction</key>
+	<string>optimizerViaState</string>
+	<key>directlyPreviewAppearance</key>
+	<string>mapModeMode</string>
+	<key>expandedMediatorPosition</key>
+	<string>nativeMetadataIndex</string>
+	<key>gradientThanCycle</key>
+	<string>immediatePreviewSkewx</string>
+	<key>mobxBesideInterpreter</key>
+	<string>baseInterpreterFlags</string>
+	<key>variantObserverType</key>
+	<string>roleAwayMode</string>
+</dict>
+</plist>

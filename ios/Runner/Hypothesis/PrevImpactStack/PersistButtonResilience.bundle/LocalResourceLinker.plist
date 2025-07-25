@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numericalTableFormat</key>
+	<string>uniformDimensionSpeed</string>
+	<key>precisionOutsideChain</key>
+	<string>getxOutsideStage</string>
+	<key>previewOperationInteraction</key>
+	<string>cubitStructureTint</string>
+	<key>sophisticatedChapterPosition</key>
+	<string>interpolationStageDepth</string>
+	<key>stepScopeFrequency</key>
+	<string>keyMarginDistance</string>
+	<key>subscriptionVisitorLocation</key>
+	<string>mainProgressbarResponse</string>
+</dict>
+</plist>

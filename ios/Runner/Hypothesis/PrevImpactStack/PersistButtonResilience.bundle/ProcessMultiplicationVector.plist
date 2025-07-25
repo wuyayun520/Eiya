@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAspectratioPadding</key>
+	<string>ephemeralTabbarMode</string>
+	<key>callbackStageDepth</key>
+	<string>widgetBridgeTransparency</string>
+	<key>chapterVisitorMargin</key>
+	<string>descriptionAtForm</string>
+	<key>discardedZonePressure</key>
+	<string>routerWithCycle</string>
+	<key>prevInstructionSaturation</key>
+	<string>repositoryExceptState</string>
+	<key>retainedHashMargin</key>
+	<string>deferredRectVisible</string>
+	<key>scaleIncludeObserver</key>
+	<string>mediaqueryDespiteBridge</string>
+	<key>sequentialSemanticsStyle</key>
+	<string>routeSystemVelocity</string>
+	<key>statelessWidgetFrequency</key>
+	<string>constLayerRight</string>
+</dict>
+</plist>

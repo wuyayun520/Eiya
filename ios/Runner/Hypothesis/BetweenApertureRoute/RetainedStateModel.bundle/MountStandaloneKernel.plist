@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentNearInterpreter</key>
+	<string>promiseInterpreterDelay</string>
+	<key>inactiveGemVisibility</key>
+	<string>factorySystemVisible</string>
+	<key>lastRadioDuration</key>
+	<string>dialogsSinceObserver</string>
+	<key>loopSystemCoord</key>
+	<string>instructionContainType</string>
+	<key>mobxByAction</key>
+	<string>stateFrameworkHue</string>
+	<key>nativeGridviewBorder</key>
+	<string>touchCycleInset</string>
+	<key>priorSkirtDirection</key>
+	<string>accessoryWithoutBridge</string>
+	<key>tweenTierAcceleration</key>
+	<string>asynchronousAllocatorTag</string>
+</dict>
+</plist>

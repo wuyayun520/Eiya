@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletChainBehavior</key>
+	<string>asyncFrameworkName</string>
+	<key>clipperOrAction</key>
+	<string>operationObserverStyle</string>
+	<key>difficultBrushFeedback</key>
+	<string>imageBeyondCommand</string>
+	<key>firstZoneCoord</key>
+	<string>specifyFragmentTheme</string>
+	<key>gridPrototypeTail</key>
+	<string>responseContextTop</string>
+	<key>isolateOrSingleton</key>
+	<string>isolateForFacade</string>
+	<key>tensorAsyncRight</key>
+	<string>layoutAndState</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInterpreterMode</key>
+	<string>normWithoutTask</string>
+	<key>gridviewForShape</key>
+	<string>fixedProviderPosition</string>
+	<key>labelVisitorForce</key>
+	<string>associatedLayoutStatus</string>
+	<key>optionFunctionDelay</key>
+	<string>frameValueOffset</string>
+	<key>respectiveStreamSpacing</key>
+	<string>controllerScopeBottom</string>
+</dict>
+</plist>

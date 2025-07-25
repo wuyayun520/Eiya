@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertVersusFramework</key>
+	<string>toolProxyVisibility</string>
+	<key>immediateReducerContrast</key>
+	<string>symmetricGrayscaleTag</string>
+	<key>metadataBesideState</key>
+	<string>inheritedSegueOpacity</string>
+	<key>musicScopeName</key>
+	<string>usageActionOpacity</string>
+	<key>priorityWithProcess</key>
+	<string>sharedScreenKind</string>
+	<key>secondBuilderState</key>
+	<string>queryAgainstEnvironment</string>
+	<key>singleAnimationTail</key>
+	<string>handlerSinceBuffer</string>
+	<key>usecaseAboutShape</key>
+	<string>utilScopeInset</string>
+</dict>
+</plist>

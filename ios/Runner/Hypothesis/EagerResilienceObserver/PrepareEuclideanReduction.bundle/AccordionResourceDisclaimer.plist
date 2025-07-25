@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConsumerTransparency</key>
+	<string>completionExceptLayer</string>
+	<key>granularMediaRate</key>
+	<string>durationLikePattern</string>
+	<key>labelMediatorSize</key>
+	<string>equalizationShapeRate</string>
+	<key>layoutLevelBrightness</key>
+	<string>completionParamName</string>
+	<key>methodBesideAdapter</key>
+	<string>resolverSinceChain</string>
+	<key>oldIsolateFlags</key>
+	<string>alphaLikeFacade</string>
+	<key>protectedTaskVelocity</key>
+	<string>keyTabbarRate</string>
+</dict>
+</plist>

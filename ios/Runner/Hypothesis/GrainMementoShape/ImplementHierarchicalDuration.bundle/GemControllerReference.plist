@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocKindTransparency</key>
+	<string>largeModelBehavior</string>
+	<key>completerActionSkewx</key>
+	<string>animationFromPlatform</string>
+	<key>customIsolateMode</key>
+	<string>mobileBaseBound</string>
+	<key>screenAtFlyweight</key>
+	<string>intuitiveConfigurationAppearance</string>
+	<key>spriteFromFlyweight</key>
+	<string>usedZoneDuration</string>
+	<key>tickerBridgeHead</key>
+	<string>durationLayerFormat</string>
+	<key>typicalDocumentRotation</key>
+	<string>primaryEventOrigin</string>
+</dict>
+</plist>

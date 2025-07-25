@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEffectDensity</key>
+	<string>eventTypeTension</string>
+	<key>bufferModeDirection</key>
+	<string>baseAgainstBuffer</string>
+	<key>cartesianRadioMode</key>
+	<string>pointStyleDistance</string>
+	<key>characterCompositePosition</key>
+	<string>animationLevelSpeed</string>
+	<key>compositionAmongOperation</key>
+	<string>methodTypeContrast</string>
+	<key>currentAssetSpeed</key>
+	<string>sensorPatternSpeed</string>
+	<key>getxContainJob</key>
+	<string>labelDespiteStyle</string>
+	<key>popupOfObserver</key>
+	<string>completionTempleBound</string>
+	<key>spotCycleSize</key>
+	<string>bufferInStrategy</string>
+</dict>
+</plist>

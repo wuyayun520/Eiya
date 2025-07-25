@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVectorVisible</key>
+	<string>positionJobInteraction</string>
+	<key>composableNavigatorFrequency</key>
+	<string>stackOutsideSingleton</string>
+	<key>diffableCanvasSpeed</key>
+	<string>awaitFromStage</string>
+	<key>elasticRouteHead</key>
+	<string>priorLayoutRight</string>
+	<key>numericalFutureAlignment</key>
+	<string>themeChainContrast</string>
+	<key>petVisitorBehavior</key>
+	<string>requiredTouchState</string>
+	<key>popupBufferAlignment</key>
+	<string>opaqueNavigatorShape</string>
+	<key>techniqueLevelStatus</key>
+	<string>textUntilMediator</string>
+</dict>
+</plist>

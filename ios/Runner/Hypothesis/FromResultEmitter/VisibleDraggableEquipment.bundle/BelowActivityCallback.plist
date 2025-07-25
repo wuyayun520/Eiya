@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncExceptBridge</key>
+	<string>constCursorSaturation</string>
+	<key>durationPatternFormat</key>
+	<string>deferredChannelOffset</string>
+	<key>effectContainFunction</key>
+	<string>draggableChallengeVisible</string>
+	<key>explicitCellFrequency</key>
+	<string>serviceOutsideVar</string>
+	<key>mapStrategyDirection</key>
+	<string>isolateStyleCount</string>
+	<key>reducerBesideStrategy</key>
+	<string>touchExceptOperation</string>
+	<key>resultInsideSystem</key>
+	<string>sampleStyleMargin</string>
+	<key>scaffoldBridgeFlags</key>
+	<string>nativeAppbarOrigin</string>
+	<key>sizedboxAroundActivity</key>
+	<string>awaitCompositeFrequency</string>
+</dict>
+</plist>

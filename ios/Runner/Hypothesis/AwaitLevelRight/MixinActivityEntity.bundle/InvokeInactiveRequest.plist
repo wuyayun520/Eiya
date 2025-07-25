@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStageOrigin</key>
+	<string>cellSinceDecorator</string>
+	<key>cacheStyleTail</key>
+	<string>resizableTweenBottom</string>
+	<key>remainderBufferResponse</key>
+	<string>dedicatedProviderStatus</string>
+	<key>storageFacadeFrequency</key>
+	<string>viewExceptParam</string>
+	<key>tabbarBeyondEnvironment</key>
+	<string>kernelViaState</string>
+</dict>
+</plist>

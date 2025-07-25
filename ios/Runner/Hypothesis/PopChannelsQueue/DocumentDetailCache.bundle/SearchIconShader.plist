@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAgainstStyle</key>
+	<string>spotTaskInteraction</string>
+	<key>characterThroughPhase</key>
+	<string>builderLayerHue</string>
+	<key>elasticPlaybackSaturation</key>
+	<string>curvePatternOffset</string>
+	<key>futureTypeInterval</key>
+	<string>paddingContextRate</string>
+	<key>routeProcessKind</key>
+	<string>skinScopeState</string>
+	<key>slashAgainstEnvironment</key>
+	<string>directCaptionMomentum</string>
+	<key>storyboardStrategyInteraction</key>
+	<string>directlyBoxDirection</string>
+	<key>topicDecoratorOffset</key>
+	<string>stepVersusVar</string>
+	<key>touchActionName</key>
+	<string>sustainableFutureStyle</string>
+</dict>
+</plist>

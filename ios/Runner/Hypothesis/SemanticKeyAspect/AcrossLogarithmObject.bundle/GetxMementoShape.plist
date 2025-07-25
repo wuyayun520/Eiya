@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFrameType</key>
+	<string>equipmentPhaseFlags</string>
+	<key>gridAwayValue</key>
+	<string>hardDelegateIndex</string>
+	<key>rectExceptPhase</key>
+	<string>transitionVarInterval</string>
+	<key>resourceScopeMargin</key>
+	<string>tabviewDecoratorCenter</string>
+	<key>stepLayerSkewx</key>
+	<string>uniqueStateInset</string>
+</dict>
+</plist>

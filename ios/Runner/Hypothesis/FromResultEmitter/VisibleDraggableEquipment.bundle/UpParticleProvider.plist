@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFromFacade</key>
+	<string>frameLevelRotation</string>
+	<key>layoutStructureBrightness</key>
+	<string>activeThemeFrequency</string>
+	<key>mobileTransitionForce</key>
+	<string>exponentActionAppearance</string>
+	<key>observerLevelFlags</key>
+	<string>assetOfWork</string>
+	<key>oldDelegateTail</key>
+	<string>methodVarIndex</string>
+</dict>
+</plist>

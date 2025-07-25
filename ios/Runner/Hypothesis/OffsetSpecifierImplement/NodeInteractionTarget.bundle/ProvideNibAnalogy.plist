@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushContextDensity</key>
+	<string>consumerLikeSingleton</string>
+	<key>cupertinoPrototypeOpacity</key>
+	<string>touchStructureTheme</string>
+	<key>mobxCompositeEdge</key>
+	<string>dedicatedTransformerSkewx</string>
+	<key>monsterBufferShape</key>
+	<string>vectorOutsideChain</string>
+	<key>nibViaStyle</key>
+	<string>activityOrFunction</string>
+	<key>specifyTitleSpeed</key>
+	<string>layoutOutsideAdapter</string>
+	<key>usecaseOutsideComposite</key>
+	<string>stateObserverSkewx</string>
+</dict>
+</plist>

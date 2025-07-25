@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFunctionSaturation</key>
+	<string>interactorStateTail</string>
+	<key>allocatorForParam</key>
+	<string>metadataDuringMemento</string>
+	<key>behaviorProxyVisible</key>
+	<string>previewStructureBrightness</string>
+	<key>comprehensiveControllerShape</key>
+	<string>chartCompositeDistance</string>
+	<key>cycleEnvironmentSkewx</key>
+	<string>symbolAtForm</string>
+	<key>materialStyleTransparency</key>
+	<string>resourceWithoutMode</string>
+	<key>overlaySingletonShape</key>
+	<string>asynchronousStateRotation</string>
+	<key>webAwaitMode</key>
+	<string>callbackFacadeDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableEventShade</key>
+	<string>singletonStructureState</string>
+	<key>inactiveActionName</key>
+	<string>ignoredMultiplicationState</string>
+	<key>loopDespiteProxy</key>
+	<string>scrollableTitleOrientation</string>
+	<key>positionedInsideTier</key>
+	<string>widgetOutsideState</string>
+	<key>tableEnvironmentInterval</key>
+	<string>hierarchicalListenerInteraction</string>
+</dict>
+</plist>

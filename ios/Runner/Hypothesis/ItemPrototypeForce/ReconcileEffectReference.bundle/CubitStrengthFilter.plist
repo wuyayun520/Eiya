@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constSegmentBottom</key>
+	<string>cursorTempleCoord</string>
+	<key>inkwellFrameworkForce</key>
+	<string>scenePatternTint</string>
+	<key>listviewStageFeedback</key>
+	<string>prevKernelSkewx</string>
+	<key>musicWithoutVariable</key>
+	<string>serviceChainSpacing</string>
+	<key>normalDelegateBorder</key>
+	<string>accessoryFlyweightStyle</string>
+	<key>repositoryMementoOrigin</key>
+	<string>tangentWorkFlags</string>
+	<key>resolverViaEnvironment</key>
+	<string>gesturedetectorFacadeTheme</string>
+	<key>storageDecoratorOrientation</key>
+	<string>scaffoldAgainstMethod</string>
+	<key>uniformCurveDensity</key>
+	<string>standaloneTabviewDelay</string>
+</dict>
+</plist>

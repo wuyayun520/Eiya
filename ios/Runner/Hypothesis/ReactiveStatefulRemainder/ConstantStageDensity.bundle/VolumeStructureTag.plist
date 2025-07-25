@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityWithContext</key>
+	<string>commandTierTransparency</string>
+	<key>backwardPrecisionDuration</key>
+	<string>opaqueTaskTint</string>
+	<key>callbackBeyondOperation</key>
+	<string>commonPlaybackName</string>
+	<key>intermediateUsecaseOffset</key>
+	<string>callbackPerTask</string>
+	<key>sampleJobOrigin</key>
+	<string>alignmentSinceFramework</string>
+	<key>tappableCompleterSpeed</key>
+	<string>usageFunctionBrightness</string>
+	<key>webReferenceEdge</key>
+	<string>baseSinceStructure</string>
+</dict>
+</plist>

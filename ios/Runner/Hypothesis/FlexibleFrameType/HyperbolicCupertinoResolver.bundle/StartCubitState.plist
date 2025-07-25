@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupStateBrightness</key>
+	<string>skirtOperationPressure</string>
+	<key>intuitiveMobilePosition</key>
+	<string>displayableAwaitEdge</string>
+	<key>nativeIsolateMargin</key>
+	<string>displayableRowSpacing</string>
+	<key>notifierPlatformCoord</key>
+	<string>robustSingletonBorder</string>
+	<key>statefulResultPressure</key>
+	<string>crucialChannelHead</string>
+</dict>
+</plist>

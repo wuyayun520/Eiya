@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferOperationTransparency</key>
+	<string>eventOrMediator</string>
+	<key>firstTouchRight</key>
+	<string>pivotalExceptionDistance</string>
+	<key>ignoredSkirtContrast</key>
+	<string>touchVariableTop</string>
+	<key>integerCompositeCount</key>
+	<string>giftObserverCoord</string>
+	<key>statelessWithoutScope</key>
+	<string>bitrateScopeHead</string>
+</dict>
+</plist>

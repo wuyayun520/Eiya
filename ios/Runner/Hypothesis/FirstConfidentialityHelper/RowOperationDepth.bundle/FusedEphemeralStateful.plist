@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveTableStyle</key>
+	<string>sliderCompositeBottom</string>
+	<key>handlerAtVar</key>
+	<string>cartesianRiverpodOrigin</string>
+	<key>missedCupertinoFlags</key>
+	<string>parallelIndicatorVisibility</string>
+	<key>multiChartStatus</key>
+	<string>blocUntilStyle</string>
+	<key>reducerAsPattern</key>
+	<string>metadataViaShape</string>
+	<key>titleContainTier</key>
+	<string>certificateLikeTier</string>
+</dict>
+</plist>

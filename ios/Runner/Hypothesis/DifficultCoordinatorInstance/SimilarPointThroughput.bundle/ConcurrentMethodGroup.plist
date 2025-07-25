@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetMediatorInterval</key>
+	<string>delegateAsContext</string>
+	<key>firstEventInterval</key>
+	<string>tabbarKindContrast</string>
+	<key>intensityDuringType</key>
+	<string>movementWithVariable</string>
+	<key>precisionAgainstNumber</key>
+	<string>associatedIntensityVisibility</string>
+	<key>previewWithNumber</key>
+	<string>progressbarAmongSystem</string>
+	<key>resizableThreadSpeed</key>
+	<string>consultativeActivityBound</string>
+	<key>sliderAndCycle</key>
+	<string>reductionIncludeVar</string>
+</dict>
+</plist>

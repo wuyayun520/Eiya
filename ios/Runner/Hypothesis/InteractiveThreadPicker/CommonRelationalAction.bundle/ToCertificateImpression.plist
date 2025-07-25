@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCompositionAlignment</key>
+	<string>threadAsProxy</string>
+	<key>composableGridviewSkewx</key>
+	<string>currentBatchPressure</string>
+	<key>ephemeralEntitySpacing</key>
+	<string>eagerContainerDepth</string>
+	<key>mediumBaselineDensity</key>
+	<string>spriteStageHue</string>
+	<key>promiseSinceActivity</key>
+	<string>sizeFacadeShade</string>
+	<key>protectedCompositionShape</key>
+	<string>baseIncludeBuffer</string>
+	<key>responsiveBoxRate</key>
+	<string>interactorSingletonPadding</string>
+	<key>timerCycleShade</key>
+	<string>binaryStyleSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonStorageCoord</key>
+	<string>associatedVectorCoord</string>
+	<key>constTouchDelay</key>
+	<string>agileViewStatus</string>
+	<key>delegateViaAdapter</key>
+	<string>tabbarParamShade</string>
+	<key>errorVarDepth</key>
+	<string>checkboxKindInteraction</string>
+	<key>exceptionParamDensity</key>
+	<string>behaviorPerCycle</string>
+	<key>invisibleGraphicFrequency</key>
+	<string>baseActionAcceleration</string>
+	<key>lostAnimationCount</key>
+	<string>explicitGridInset</string>
+	<key>temporaryResultFrequency</key>
+	<string>plateThroughBuffer</string>
+	<key>typicalConstraintResponse</key>
+	<string>transitionTemplePadding</string>
+</dict>
+</plist>

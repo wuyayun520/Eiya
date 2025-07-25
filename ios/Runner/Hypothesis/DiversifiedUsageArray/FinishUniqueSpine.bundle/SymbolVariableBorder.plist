@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOperationTheme</key>
+	<string>asyncNavigationMomentum</string>
+	<key>easySineTop</key>
+	<string>stampByContext</string>
+	<key>reducerAboutMediator</key>
+	<string>transformerContainAdapter</string>
+</dict>
+</plist>

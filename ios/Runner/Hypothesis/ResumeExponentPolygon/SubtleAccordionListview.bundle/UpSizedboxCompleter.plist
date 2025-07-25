@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAdapterKind</key>
+	<string>frameStagePosition</string>
+	<key>immediateLabelInterval</key>
+	<string>appbarLikeTask</string>
+	<key>signBeyondMode</key>
+	<string>difficultObserverType</string>
+	<key>tappableChannelMomentum</key>
+	<string>immutableBoxBound</string>
+</dict>
+</plist>

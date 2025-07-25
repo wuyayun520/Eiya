@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitParameterType</key>
+	<string>capsuleForPlatform</string>
+	<key>draggableCursorMargin</key>
+	<string>commonAccessoryBehavior</string>
+	<key>groupStageSkewx</key>
+	<string>modelAsShape</string>
+	<key>nibLevelSpeed</key>
+	<string>inheritedBuilderOpacity</string>
+	<key>progressbarLayerOpacity</key>
+	<string>vectorScopeContrast</string>
+	<key>streamObserverTint</key>
+	<string>persistentRouteFeedback</string>
+	<key>tappableObserverCoord</key>
+	<string>mutableModalTint</string>
+	<key>textSinceParam</key>
+	<string>independentCurveCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInjectionSaturation</key>
+	<string>cellNearShape</string>
+	<key>curveObserverOrientation</key>
+	<string>movementBufferBorder</string>
+	<key>protocolAgainstCycle</key>
+	<string>segueAndParameter</string>
+	<key>skirtAsVisitor</key>
+	<string>draggableResultDirection</string>
+	<key>smallSliderStyle</key>
+	<string>labelInterpreterBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBeyondOperation</key>
+	<string>boxshadowProxyForce</string>
+	<key>giftProcessSpeed</key>
+	<string>usageBufferOpacity</string>
+	<key>grayscaleOperationFormat</key>
+	<string>screenOutsideAction</string>
+	<key>layoutPerWork</key>
+	<string>asyncTaskSpacing</string>
+	<key>listviewFunctionAlignment</key>
+	<string>controllerModeMomentum</string>
+	<key>requiredAwaitScale</key>
+	<string>pointAlongContext</string>
+	<key>smallRouteState</key>
+	<string>canvasEnvironmentCount</string>
+	<key>webParticleDirection</key>
+	<string>futureJobTint</string>
+</dict>
+</plist>

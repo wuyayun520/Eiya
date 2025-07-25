@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeFacadeFeedback</key>
+	<string>axisAtAdapter</string>
+	<key>deferredHandlerOffset</key>
+	<string>delegateScopeOffset</string>
+	<key>descriptionSinceAdapter</key>
+	<string>pageviewObserverTheme</string>
+	<key>optimizerContainActivity</key>
+	<string>finalDescriptionInteraction</string>
+	<key>tweenVarCenter</key>
+	<string>interactorSinceFlyweight</string>
+</dict>
+</plist>

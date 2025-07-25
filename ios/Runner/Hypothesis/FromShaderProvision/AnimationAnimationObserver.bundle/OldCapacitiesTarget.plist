@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAndForm</key>
+	<string>futureShapeBrightness</string>
+	<key>keySpotFeedback</key>
+	<string>retainedIconOrigin</string>
+	<key>movementNearForm</key>
+	<string>effectForState</string>
+	<key>parallelNormAlignment</key>
+	<string>dynamicMediaquerySpeed</string>
+</dict>
+</plist>

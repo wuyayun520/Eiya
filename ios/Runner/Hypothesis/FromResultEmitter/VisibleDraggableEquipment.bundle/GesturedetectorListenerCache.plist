@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerBeyondStructure</key>
+	<string>getxTierMargin</string>
+	<key>logBeyondFlyweight</key>
+	<string>layoutInJob</string>
+	<key>queryCompositeEdge</key>
+	<string>fusedHashState</string>
+	<key>staticPreviewAcceleration</key>
+	<string>resizableBufferBorder</string>
+</dict>
+</plist>

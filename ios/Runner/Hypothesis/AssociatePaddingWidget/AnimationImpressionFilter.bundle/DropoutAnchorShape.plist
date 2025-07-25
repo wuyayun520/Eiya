@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAdapterSaturation</key>
+	<string>localAlignmentRate</string>
+	<key>coordinatorDespiteFramework</key>
+	<string>localizationOutsideFunction</string>
+	<key>eventOfActivity</key>
+	<string>routeActivityEdge</string>
+	<key>instructionMethodSkewy</key>
+	<string>curveAboutProcess</string>
+	<key>permanentChannelsLocation</key>
+	<string>nodeInStage</string>
+</dict>
+</plist>

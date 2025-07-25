@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationMethodCount</key>
+	<string>draggableExtensionAppearance</string>
+	<key>inkwellOutsideProcess</key>
+	<string>beginnerTouchShade</string>
+	<key>interactorOfOperation</key>
+	<string>completerOrShape</string>
+	<key>pivotalMomentumHead</key>
+	<string>queryEnvironmentAlignment</string>
+	<key>queryOrFlyweight</key>
+	<string>loopObserverPosition</string>
+	<key>richtextParamHue</key>
+	<string>originalRepositoryInteraction</string>
+	<key>storageAdapterVelocity</key>
+	<string>reusableLogarithmResponse</string>
+</dict>
+</plist>

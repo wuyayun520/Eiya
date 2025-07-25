@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNavigationCenter</key>
+	<string>buttonIncludeComposite</string>
+	<key>channelsThanSingleton</key>
+	<string>interactorParamSkewy</string>
+	<key>curveTempleBehavior</key>
+	<string>statelessFrameworkRate</string>
+	<key>immutableExtensionOrigin</key>
+	<string>managerActivityKind</string>
+	<key>loopThanVisitor</key>
+	<string>serviceAdapterBorder</string>
+	<key>normalScreenPosition</key>
+	<string>flexibleGridAcceleration</string>
+	<key>semanticMediaSaturation</key>
+	<string>dedicatedCursorStatus</string>
+</dict>
+</plist>

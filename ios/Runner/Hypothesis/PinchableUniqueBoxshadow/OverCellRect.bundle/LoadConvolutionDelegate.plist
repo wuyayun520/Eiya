@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResultAlignment</key>
+	<string>switchFromState</string>
+	<key>borderFromShape</key>
+	<string>titleInBuffer</string>
+	<key>graphVersusShape</key>
+	<string>threadForMode</string>
+	<key>localBlocShape</key>
+	<string>heapPerLevel</string>
+	<key>observerViaFlyweight</key>
+	<string>tangentBesideTemple</string>
+	<key>sineInsideActivity</key>
+	<string>integerByContext</string>
+	<key>standaloneContainerTail</key>
+	<string>singletonCommandInteraction</string>
+	<key>textureStructureMargin</key>
+	<string>framePatternName</string>
+	<key>tweenByStructure</key>
+	<string>accessoryChainFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBesideParameter</key>
+	<string>activatedOffsetType</string>
+	<key>blocProcessDepth</key>
+	<string>offsetAndComposite</string>
+	<key>logUntilContext</key>
+	<string>modalStyleTint</string>
+	<key>queryFunctionBrightness</key>
+	<string>completerFormIndex</string>
+	<key>sharedFutureDepth</key>
+	<string>configurationSinceBuffer</string>
+	<key>smallGrainForce</key>
+	<string>functionalSlashFlags</string>
+	<key>tweenAroundScope</key>
+	<string>storeNearProcess</string>
+	<key>viewLayerHead</key>
+	<string>immediateMaterialScale</string>
+</dict>
+</plist>

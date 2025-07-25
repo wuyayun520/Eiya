@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorActivityVisible</key>
+	<string>axisSingletonTail</string>
+	<key>inheritedPositionedFlags</key>
+	<string>materialAroundType</string>
+	<key>layoutForParameter</key>
+	<string>fusedQueueMode</string>
+	<key>layoutFromContext</key>
+	<string>iterativeHashOffset</string>
+	<key>toolStructureDensity</key>
+	<string>apertureOutsideContext</string>
+	<key>utilBufferRotation</key>
+	<string>mobileSingletonLeft</string>
+</dict>
+</plist>

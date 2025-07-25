@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsValuePadding</key>
+	<string>containerCycleBrightness</string>
+	<key>dropdownbuttonOperationShade</key>
+	<string>secondCubitName</string>
+	<key>logTypeDelay</key>
+	<string>localizationProxyShape</string>
+	<key>persistentMenuValidation</key>
+	<string>tabbarOrTemple</string>
+	<key>promiseStyleTheme</key>
+	<string>ignoredCharacterHue</string>
+</dict>
+</plist>

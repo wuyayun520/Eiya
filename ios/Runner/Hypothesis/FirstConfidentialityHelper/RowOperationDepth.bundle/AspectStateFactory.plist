@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetCycleCoord</key>
+	<string>enabledChapterMomentum</string>
+	<key>autoSeguePosition</key>
+	<string>tickerAndBuffer</string>
+	<key>completerTempleDelay</key>
+	<string>slashOrLevel</string>
+	<key>featureVarScale</key>
+	<string>numericalSizeMargin</string>
+	<key>handlerAsDecorator</key>
+	<string>bitrateActivityDirection</string>
+	<key>mainCaptionFlags</key>
+	<string>ignoredEventVelocity</string>
+	<key>newestResultMargin</key>
+	<string>offsetCycleCenter</string>
+	<key>plateInOperation</key>
+	<string>responseNearParameter</string>
+	<key>uniqueRouterBound</key>
+	<string>canvasBeyondNumber</string>
+</dict>
+</plist>

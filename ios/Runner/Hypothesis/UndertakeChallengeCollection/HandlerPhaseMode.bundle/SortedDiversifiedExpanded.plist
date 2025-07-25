@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFlyweightFeedback</key>
+	<string>streamDuringMode</string>
+	<key>dependencyKindContrast</key>
+	<string>fusedDelegateStyle</string>
+	<key>eagerTransitionBorder</key>
+	<string>dynamicQueueRight</string>
+	<key>protocolNearStructure</key>
+	<string>opaqueTickerLeft</string>
+	<key>statefulRectAcceleration</key>
+	<string>appbarStyleTransparency</string>
+</dict>
+</plist>

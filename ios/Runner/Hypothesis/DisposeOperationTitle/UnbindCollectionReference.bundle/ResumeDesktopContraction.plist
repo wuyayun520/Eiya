@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTypeTop</key>
+	<string>reducerPatternShape</string>
+	<key>animationLikeStage</key>
+	<string>liteAnimationDistance</string>
+	<key>curveOutsideStyle</key>
+	<string>usecaseAgainstPattern</string>
+	<key>delegateVersusState</key>
+	<string>unaryByKind</string>
+	<key>largeLabelMargin</key>
+	<string>lostUtilVelocity</string>
+	<key>otherIconTail</key>
+	<string>symbolFromKind</string>
+	<key>pageviewSystemPadding</key>
+	<string>memberFromJob</string>
+	<key>reactivePopupForce</key>
+	<string>curveObserverRate</string>
+	<key>zoneObserverState</key>
+	<string>sliderCommandColor</string>
+</dict>
+</plist>

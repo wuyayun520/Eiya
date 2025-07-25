@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDependencyVisibility</key>
+	<string>rowPerPattern</string>
+	<key>animationSinceFramework</key>
+	<string>cellPlatformOrientation</string>
+	<key>bitrateOutsideMethod</key>
+	<string>durationKindSaturation</string>
+	<key>cacheTypeColor</key>
+	<string>profileAmongStrategy</string>
+	<key>fragmentStageHead</key>
+	<string>streamAmongStrategy</string>
+	<key>navigatorWithoutParameter</key>
+	<string>responseFlyweightCenter</string>
+	<key>sinkViaPrototype</key>
+	<string>interactiveBrushAppearance</string>
+</dict>
+</plist>

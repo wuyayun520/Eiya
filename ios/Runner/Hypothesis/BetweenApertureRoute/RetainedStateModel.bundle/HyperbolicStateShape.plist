@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseActivityCenter</key>
+	<string>beginnerTabbarCenter</string>
+	<key>constraintAboutVariable</key>
+	<string>labelFormType</string>
+	<key>durationForWork</key>
+	<string>routeForFlyweight</string>
+	<key>invisibleFrameOrigin</key>
+	<string>completionActivityInterval</string>
+	<key>managerModeStyle</key>
+	<string>integerWithParam</string>
+	<key>profileMediatorHue</key>
+	<string>respectiveTickerBehavior</string>
+</dict>
+</plist>

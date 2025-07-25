@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleParameterDuration</key>
+	<string>factoryMediatorDelay</string>
+	<key>layoutProxyKind</key>
+	<string>declarativePromiseTheme</string>
+	<key>persistentDialogsEdge</key>
+	<string>timerFromFacade</string>
+	<key>reducerPhaseHead</key>
+	<string>tabviewFacadeVisibility</string>
+</dict>
+</plist>

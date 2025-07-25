@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerStateSaturation</key>
+	<string>accordionWidgetRotation</string>
+	<key>bufferFormTail</key>
+	<string>immutableMobxDepth</string>
+	<key>cursorStageOpacity</key>
+	<string>backwardTickerInterval</string>
+	<key>marginScopeShape</key>
+	<string>listenerOfCommand</string>
+	<key>requiredOffsetState</key>
+	<string>unactivatedSizeStatus</string>
+	<key>stepObserverBottom</key>
+	<string>comprehensiveTextSpacing</string>
+</dict>
+</plist>

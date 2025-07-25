@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellOfStage</key>
+	<string>inactiveGridCoord</string>
+	<key>certificateActivityValidation</key>
+	<string>functionalManagerSpacing</string>
+	<key>desktopTweenTheme</key>
+	<string>curveShapeDuration</string>
+	<key>permanentVariantLocation</key>
+	<string>granularFactoryCoord</string>
+	<key>positionedFrameworkFormat</key>
+	<string>desktopDocumentDensity</string>
+	<key>radioChainAcceleration</key>
+	<string>optionPhaseRotation</string>
+	<key>responsiveCoordinatorBottom</key>
+	<string>nextFlexPosition</string>
+</dict>
+</plist>

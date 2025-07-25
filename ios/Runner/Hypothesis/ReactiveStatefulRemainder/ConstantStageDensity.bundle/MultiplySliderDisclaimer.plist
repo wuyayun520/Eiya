@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxUntilSystem</key>
+	<string>precisionStructureFeedback</string>
+	<key>cursorOutsideStructure</key>
+	<string>animatedcontainerProcessMargin</string>
+	<key>diffableNodeTransparency</key>
+	<string>capacitiesFrameworkStyle</string>
+	<key>gateInsideLevel</key>
+	<string>sizeMethodOrientation</string>
+	<key>graphicTaskLeft</key>
+	<string>sortedRequestForce</string>
+	<key>navigatorNearCycle</key>
+	<string>robustMenuDuration</string>
+	<key>queryStructureTail</key>
+	<string>containerSingletonSaturation</string>
+	<key>swiftMediatorSaturation</key>
+	<string>fixedLocalizationRate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperJobBehavior</key>
+	<string>radiusObserverTail</string>
+	<key>concurrentTextAppearance</key>
+	<string>sizedboxCycleMode</string>
+	<key>dialogsInterpreterDuration</key>
+	<string>taskContextVelocity</string>
+	<key>disparateAnimationVelocity</key>
+	<string>intermediateInterpolationIndex</string>
+	<key>durationVersusTask</key>
+	<string>lastGroupHue</string>
+	<key>ephemeralEffectAcceleration</key>
+	<string>routeInsideProxy</string>
+	<key>explicitSinkDuration</key>
+	<string>sortedGraphResponse</string>
+	<key>iconThanValue</key>
+	<string>curveAboutSystem</string>
+	<key>layoutNumberAppearance</key>
+	<string>histogramLayerSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxFromStyle</key>
+	<string>pinchableCubitStyle</string>
+	<key>customizedTopicRight</key>
+	<string>materialWorkDuration</string>
+	<key>labelCycleVisible</key>
+	<string>spriteAroundCommand</string>
+	<key>prismaticDurationSkewy</key>
+	<string>sliderVarShade</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionObserverBound</key>
+	<string>subsequentViewRotation</string>
+	<key>disabledSwitchPadding</key>
+	<string>parallelServiceDistance</string>
+	<key>drawerOutsideDecorator</key>
+	<string>widgetActivityAlignment</string>
+	<key>gateNumberType</key>
+	<string>queueFromSystem</string>
+	<key>parallelNormMargin</key>
+	<string>storeOperationColor</string>
+	<key>particleInPhase</key>
+	<string>scrollableIconResponse</string>
+	<key>tweenByCommand</key>
+	<string>consumerValueCoord</string>
+</dict>
+</plist>

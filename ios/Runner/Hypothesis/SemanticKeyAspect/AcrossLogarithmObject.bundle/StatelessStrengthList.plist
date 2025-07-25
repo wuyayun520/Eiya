@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGemValidation</key>
+	<string>independentDurationDensity</string>
+	<key>blocVersusActivity</key>
+	<string>firstCubitSkewy</string>
+	<key>constLocalizationLeft</key>
+	<string>completionStageBorder</string>
+	<key>containerIncludeObserver</key>
+	<string>normDecoratorTension</string>
+	<key>currentLayoutTheme</key>
+	<string>reactiveConstraintLeft</string>
+	<key>interactiveSampleDelay</key>
+	<string>observerDecoratorAlignment</string>
+	<key>interpolationWithChain</key>
+	<string>curveContainType</string>
+	<key>mediaAndBuffer</key>
+	<string>materialLikeStrategy</string>
+	<key>protectedInteractorSize</key>
+	<string>positionedProxyStyle</string>
+	<key>providerVersusValue</key>
+	<string>listenerLikeMemento</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDuringTemple</key>
+	<string>gridPlatformIndex</string>
+	<key>anchorAlongComposite</key>
+	<string>rectBeyondAdapter</string>
+	<key>commonPainterInteraction</key>
+	<string>signatureContainState</string>
+	<key>dialogsAgainstObserver</key>
+	<string>frameActionBound</string>
+	<key>methodOutsideObserver</key>
+	<string>extensionShapeState</string>
+	<key>notifierBeyondNumber</key>
+	<string>nibIncludeLevel</string>
+	<key>resilientInterfaceDensity</key>
+	<string>textStageShape</string>
+	<key>subscriptionFrameworkStyle</key>
+	<string>cupertinoAwaitShade</string>
+	<key>utilExceptStyle</key>
+	<string>musicBridgeEdge</string>
+	<key>viewFromValue</key>
+	<string>seamlessHistogramVisible</string>
+</dict>
+</plist>

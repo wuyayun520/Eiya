@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleBeyondAction</key>
+	<string>completionWithoutMediator</string>
+	<key>customPreviewBehavior</key>
+	<string>enabledOffsetSpeed</string>
+	<key>diffableRichtextVelocity</key>
+	<string>groupAboutMode</string>
+	<key>flexibleConvolutionMomentum</key>
+	<string>lastAlertVisible</string>
+	<key>mainLocalizationTension</key>
+	<string>requiredBorderForce</string>
+	<key>metadataParameterBehavior</key>
+	<string>adaptiveBasePressure</string>
+	<key>streamInsideInterpreter</key>
+	<string>sineParameterDistance</string>
+</dict>
+</plist>

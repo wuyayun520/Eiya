@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSpriteHue</key>
+	<string>parallelBitrateName</string>
+	<key>animationPhaseFeedback</key>
+	<string>customSinkTail</string>
+	<key>containerVersusEnvironment</key>
+	<string>sizedboxAroundFramework</string>
+	<key>dropdownbuttonStateSaturation</key>
+	<string>pointOrPhase</string>
+	<key>explicitProviderShade</key>
+	<string>effectSystemFlags</string>
+</dict>
+</plist>

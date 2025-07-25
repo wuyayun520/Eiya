@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDecoratorLocation</key>
+	<string>buttonAgainstComposite</string>
+	<key>cupertinoObserverScale</key>
+	<string>factoryAndShape</string>
+	<key>diversifiedContainerRotation</key>
+	<string>synchronousMediaInterval</string>
+	<key>kernelNearNumber</key>
+	<string>disabledControllerDuration</string>
+	<key>referencePerMethod</key>
+	<string>listenerExceptStrategy</string>
+	<key>transitionProcessDuration</key>
+	<string>signChainRate</string>
+	<key>tweenPlatformTint</key>
+	<string>offsetParameterTop</string>
+</dict>
+</plist>

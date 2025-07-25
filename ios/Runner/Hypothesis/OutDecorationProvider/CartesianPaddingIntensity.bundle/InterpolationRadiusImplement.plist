@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTickerContrast</key>
+	<string>specifyMomentumPosition</string>
+	<key>imperativeBlocValidation</key>
+	<string>errorParamOffset</string>
+	<key>previewPerEnvironment</key>
+	<string>cubitPerLevel</string>
+	<key>specifyPopupBorder</key>
+	<string>buttonDuringPrototype</string>
+	<key>storageDespiteLevel</key>
+	<string>completerAroundActivity</string>
+	<key>typicalResultSize</key>
+	<string>enabledImageSkewy</string>
+</dict>
+</plist>

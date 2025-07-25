@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetOfComposite</key>
+	<string>unsortedCustompaintMode</string>
+	<key>deferredSubpixelShade</key>
+	<string>commonResolverInteraction</string>
+	<key>equalizationInsideComposite</key>
+	<string>crudeScrollDistance</string>
+	<key>injectionScopeLocation</key>
+	<string>topicMementoSize</string>
+	<key>sessionBeyondFlyweight</key>
+	<string>lostAnimationMode</string>
+	<key>storyboardPhaseInteraction</key>
+	<string>spriteAsCommand</string>
+</dict>
+</plist>

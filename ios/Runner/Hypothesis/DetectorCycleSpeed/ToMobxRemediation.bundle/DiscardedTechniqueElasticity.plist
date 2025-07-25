@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorViaValue</key>
+	<string>custompaintWorkCount</string>
+	<key>blocStrategyTag</key>
+	<string>tickerThroughLevel</string>
+	<key>crucialStateOrientation</key>
+	<string>retainedScreenVisible</string>
+	<key>durationProxyOffset</key>
+	<string>layoutSystemName</string>
+	<key>labelBeyondObserver</key>
+	<string>layoutPatternType</string>
+	<key>previewBeyondKind</key>
+	<string>hierarchicalResourceShade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintPlatformShade</key>
+	<string>fixedPaddingTint</string>
+	<key>particleStrategyContrast</key>
+	<string>notifierBesideLevel</string>
+	<key>progressbarAndJob</key>
+	<string>completerPrototypeStyle</string>
+	<key>respectiveWidgetDepth</key>
+	<string>sortedObserverTransparency</string>
+	<key>symmetricInjectionScale</key>
+	<string>completerFromJob</string>
+	<key>vectorVisitorBorder</key>
+	<string>sliderThroughValue</string>
+</dict>
+</plist>

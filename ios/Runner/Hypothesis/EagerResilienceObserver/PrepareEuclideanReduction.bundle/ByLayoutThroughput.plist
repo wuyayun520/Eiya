@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerFacadeVelocity</key>
+	<string>factoryParameterSpeed</string>
+	<key>commonAssetValidation</key>
+	<string>queryWorkMode</string>
+	<key>descriptionContainShape</key>
+	<string>descriptionFlyweightState</string>
+	<key>factoryTempleAcceleration</key>
+	<string>decorationViaMediator</string>
+	<key>queueActivityDelay</key>
+	<string>signKindMode</string>
+	<key>sortedCurveSpeed</key>
+	<string>offsetBesideMethod</string>
+	<key>symbolByAdapter</key>
+	<string>providerPerValue</string>
+</dict>
+</plist>

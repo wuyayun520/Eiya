@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderStateFeedback</key>
+	<string>subsequentAnimationValidation</string>
+	<key>effectIncludeTask</key>
+	<string>metadataOrMediator</string>
+	<key>mainIconPressure</key>
+	<string>dynamicLayerCount</string>
+	<key>monsterVisitorVisible</key>
+	<string>layerIncludeInterpreter</string>
+	<key>responseInFramework</key>
+	<string>viewActionAcceleration</string>
+</dict>
+</plist>

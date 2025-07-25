@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonWithoutVisitor</key>
+	<string>notificationAgainstAdapter</string>
+	<key>checklistWithJob</key>
+	<string>notificationPrototypeVisible</string>
+	<key>interactorPlatformDensity</key>
+	<string>popupByProxy</string>
+	<key>parallelAwaitRotation</key>
+	<string>interactiveStreamHue</string>
+	<key>radiusAgainstChain</key>
+	<string>stackCompositeStatus</string>
+	<key>routePhaseShape</key>
+	<string>backwardSwiftDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultSampleShape</key>
+	<string>resizableAppbarSkewy</string>
+	<key>eagerSignatureBehavior</key>
+	<string>heapOfContext</string>
+	<key>progressbarParamTag</key>
+	<string>containerStateTint</string>
+	<key>signStrategyName</key>
+	<string>statelessEqualizationAlignment</string>
+	<key>significantControllerFrequency</key>
+	<string>navigationLayerFrequency</string>
+</dict>
+</plist>

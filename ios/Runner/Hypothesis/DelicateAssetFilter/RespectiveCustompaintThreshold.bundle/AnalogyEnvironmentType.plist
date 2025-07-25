@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleExceptionFrequency</key>
+	<string>labelAmongProcess</string>
+	<key>grainAtStage</key>
+	<string>requiredButtonInterval</string>
+	<key>largeOffsetRight</key>
+	<string>modelForPhase</string>
+	<key>pivotalAssetName</key>
+	<string>instructionTypeBehavior</string>
+	<key>rectJobInset</key>
+	<string>unaryFromChain</string>
+	<key>temporaryMatrixIndex</key>
+	<string>promiseFromFlyweight</string>
+	<key>textInCommand</key>
+	<string>descriptionTypeTop</string>
+	<key>widgetInAction</key>
+	<string>agileCallbackFeedback</string>
+</dict>
+</plist>

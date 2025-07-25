@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStrategyBehavior</key>
+	<string>protectedTickerVisible</string>
+	<key>multiplicationExceptStructure</key>
+	<string>coordinatorWithoutWork</string>
+	<key>nativeListenerKind</key>
+	<string>textureJobShade</string>
+	<key>nativeRectFrequency</key>
+	<string>featureObserverResponse</string>
+	<key>positionParamValidation</key>
+	<string>originalIntensityAlignment</string>
+	<key>scaleObserverOrientation</key>
+	<string>logParamBehavior</string>
+</dict>
+</plist>

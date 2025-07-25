@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxScopeCount</key>
+	<string>threadTierRotation</string>
+	<key>declarativeMovementSpacing</key>
+	<string>adaptiveLoopLeft</string>
+	<key>largeTouchSaturation</key>
+	<string>matrixActivityResponse</string>
+	<key>managerBufferCount</key>
+	<string>providerAwayType</string>
+	<key>normalProviderDensity</key>
+	<string>streamMementoBehavior</string>
+	<key>sampleViaInterpreter</key>
+	<string>graphViaPattern</string>
+	<key>stateLevelCenter</key>
+	<string>observerStructureType</string>
+	<key>tickerWorkDistance</key>
+	<string>cubitJobMomentum</string>
+</dict>
+</plist>

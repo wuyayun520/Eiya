@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorContainDecorator</key>
+	<string>commandValueScale</string>
+	<key>dimensionContextRate</key>
+	<string>typicalCheckboxSpeed</string>
+	<key>handlerByJob</key>
+	<string>signThroughParam</string>
+	<key>materialProxyRate</key>
+	<string>screenStructureFormat</string>
+	<key>singletonCommandDuration</key>
+	<string>baselineOperationName</string>
+	<key>symmetricCellPosition</key>
+	<string>threadContainObserver</string>
+	<key>touchDespiteParameter</key>
+	<string>segueFrameworkLocation</string>
+</dict>
+</plist>

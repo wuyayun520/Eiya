@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionFlyweightMode</key>
+	<string>cosineUntilComposite</string>
+	<key>deferredTextResponse</key>
+	<string>ephemeralConstraintOffset</string>
+	<key>gradientAroundValue</key>
+	<string>grainOfFacade</string>
+	<key>gridviewViaFacade</key>
+	<string>usecaseNumberOpacity</string>
+	<key>localLossTransparency</key>
+	<string>reducerCompositeSize</string>
+	<key>loopTierCount</key>
+	<string>expandedOutsideProcess</string>
+	<key>memberContextSize</key>
+	<string>responsivePainterSpeed</string>
+	<key>requiredNodeInteraction</key>
+	<string>eagerArithmeticStatus</string>
+	<key>semanticLayoutDensity</key>
+	<string>tabbarAlongStyle</string>
+</dict>
+</plist>

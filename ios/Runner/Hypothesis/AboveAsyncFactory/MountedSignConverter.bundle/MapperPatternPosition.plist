@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFacadeCoord</key>
+	<string>navigationMediatorSaturation</string>
+	<key>dependencyScopePadding</key>
+	<string>remainderBufferOffset</string>
+	<key>hashAndKind</key>
+	<string>dynamicDelegateDuration</string>
+	<key>nibAtBuffer</key>
+	<string>signatureObserverMode</string>
+	<key>overlayContextBound</key>
+	<string>robustPreviewRotation</string>
+	<key>rowInAdapter</key>
+	<string>priorityTierState</string>
+	<key>statelessObserverDensity</key>
+	<string>capacitiesModeScale</string>
+	<key>uniformBlocRate</key>
+	<string>builderActivityCoord</string>
+</dict>
+</plist>

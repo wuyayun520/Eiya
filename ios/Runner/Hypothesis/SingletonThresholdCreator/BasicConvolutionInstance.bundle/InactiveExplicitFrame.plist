@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticWorkDelay</key>
+	<string>entityLevelDistance</string>
+	<key>beginnerDimensionShade</key>
+	<string>singletonOutsidePattern</string>
+	<key>globalSizeTag</key>
+	<string>localChannelHue</string>
+	<key>grainContainPlatform</key>
+	<string>subpixelChainInset</string>
+	<key>mediaqueryVersusMethod</key>
+	<string>techniquePhaseSpacing</string>
+	<key>originalFeatureInset</key>
+	<string>contractionOrChain</string>
+	<key>primaryInstructionPressure</key>
+	<string>semanticNodeVisible</string>
+	<key>promiseOperationScale</key>
+	<string>cardOperationMomentum</string>
+	<key>viewTierOrientation</key>
+	<string>capacitiesBeyondAdapter</string>
+</dict>
+</plist>

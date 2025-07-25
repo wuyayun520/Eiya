@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarIncludeBridge</key>
+	<string>accessibleRadiusCount</string>
+	<key>autoExponentAlignment</key>
+	<string>criticalSizeTop</string>
+	<key>blocFromSingleton</key>
+	<string>singletonStyleVisibility</string>
+	<key>custompaintPhaseResponse</key>
+	<string>serviceAroundBuffer</string>
+	<key>euclideanCommandSpeed</key>
+	<string>nodeAmongStage</string>
+	<key>modalFlyweightCoord</key>
+	<string>histogramParameterDensity</string>
+	<key>requiredSpecifierOffset</key>
+	<string>awaitStructureResponse</string>
+	<key>respectivePresenterFormat</key>
+	<string>builderSingletonDensity</string>
+	<key>swiftThroughProxy</key>
+	<string>permissiveGiftBorder</string>
+</dict>
+</plist>

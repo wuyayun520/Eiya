@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterDuringFunction</key>
+	<string>chapterFromDecorator</string>
+	<key>deferredEffectPosition</key>
+	<string>rowPerFlyweight</string>
+	<key>desktopMediaBrightness</key>
+	<string>presenterFromVariable</string>
+	<key>signPlatformOrientation</key>
+	<string>mobileStepTheme</string>
+	<key>significantAlignmentCenter</key>
+	<string>pivotalIntensityOrigin</string>
+	<key>widgetThroughProcess</key>
+	<string>diffableObserverMode</string>
+</dict>
+</plist>

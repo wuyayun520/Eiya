@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentJobInterval</key>
+	<string>secondUsecaseLeft</string>
+	<key>constAsyncDensity</key>
+	<string>primaryCosineSpeed</string>
+	<key>descriptionPhaseName</key>
+	<string>routeBridgeTop</string>
+	<key>drawerInsideStage</key>
+	<string>cellBufferRotation</string>
+	<key>heapAroundBridge</key>
+	<string>equipmentInsideParameter</string>
+	<key>inactiveStoreBound</key>
+	<string>kernelOrVar</string>
+	<key>intermediateBufferMomentum</key>
+	<string>reactiveSceneInteraction</string>
+	<key>layerAboutFlyweight</key>
+	<string>easyAllocatorHead</string>
+	<key>paddingBufferAlignment</key>
+	<string>menuTaskSkewy</string>
+</dict>
+</plist>

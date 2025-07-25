@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerContainLayer</key>
+	<string>inactiveCacheTheme</string>
+	<key>hardBorderDistance</key>
+	<string>resourceChainEdge</string>
+	<key>heroPlatformShape</key>
+	<string>reducerOutsideState</string>
+	<key>semanticsAlongBuffer</key>
+	<string>sortedResolverVelocity</string>
+</dict>
+</plist>

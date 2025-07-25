@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanMarginStatus</key>
+	<string>dependencyValueForce</string>
+	<key>logarithmOutsideKind</key>
+	<string>errorAboutMemento</string>
+	<key>positionedIncludeStrategy</key>
+	<string>asynchronousSizeScale</string>
+	<key>repositoryPrototypeOpacity</key>
+	<string>subpixelPhaseShape</string>
+	<key>stepThanLevel</key>
+	<string>interpolationTierTop</string>
+	<key>vectorIncludeComposite</key>
+	<string>allocatorFlyweightTop</string>
+</dict>
+</plist>

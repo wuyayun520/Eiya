@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSpotFlags</key>
+	<string>lazyAspectratioSpacing</string>
+	<key>discardedGraphicMargin</key>
+	<string>positionMethodAcceleration</string>
+	<key>gradientAtCycle</key>
+	<string>uniqueCharacterCenter</string>
+	<key>layoutValueDensity</key>
+	<string>scrollableGateState</string>
+	<key>nativeSpriteEdge</key>
+	<string>threadFromInterpreter</string>
+	<key>notifierFromPhase</key>
+	<string>asyncSystemDepth</string>
+	<key>protectedModulusAcceleration</key>
+	<string>baselineVarInset</string>
+	<key>stepByFunction</key>
+	<string>reusableBuilderHead</string>
+	<key>tabbarUntilBridge</key>
+	<string>columnCommandSize</string>
+</dict>
+</plist>

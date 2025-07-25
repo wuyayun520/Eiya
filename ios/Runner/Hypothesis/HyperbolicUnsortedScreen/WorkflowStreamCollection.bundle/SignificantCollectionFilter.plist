@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncRolePosition</key>
+	<string>captionAtCycle</string>
+	<key>cursorBeyondBuffer</key>
+	<string>protocolUntilFunction</string>
+	<key>denseSegueSkewy</key>
+	<string>uniformEntityDirection</string>
+	<key>layoutOperationStyle</key>
+	<string>dedicatedSpineKind</string>
+	<key>providerFromWork</key>
+	<string>functionalGraphCount</string>
+	<key>reusableGestureSkewy</key>
+	<string>normalMatrixTint</string>
+	<key>usageAtPhase</key>
+	<string>autoControllerOrigin</string>
+</dict>
+</plist>

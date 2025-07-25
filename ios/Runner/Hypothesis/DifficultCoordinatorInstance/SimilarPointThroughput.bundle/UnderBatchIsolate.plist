@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedContractionMomentum</key>
+	<string>prevApertureOrientation</string>
+	<key>directRowDelay</key>
+	<string>hashDuringOperation</string>
+	<key>gridIncludeOperation</key>
+	<string>delegateSingletonStatus</string>
+	<key>liteTextAcceleration</key>
+	<string>awaitJobFeedback</string>
+	<key>navigationFromInterpreter</key>
+	<string>queueWithProxy</string>
+	<key>optimizerUntilStructure</key>
+	<string>routeAgainstStructure</string>
+	<key>requestInsideSystem</key>
+	<string>asynchronousFrameOrigin</string>
+	<key>streamCommandColor</key>
+	<string>boxshadowLevelTint</string>
+	<key>tabviewTierMomentum</key>
+	<string>spriteByState</string>
+</dict>
+</plist>

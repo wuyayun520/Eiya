@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCurveValidation</key>
+	<string>semanticParticleVisibility</string>
+	<key>baselineOutsideWork</key>
+	<string>completerMementoState</string>
+	<key>cardOutsideInterpreter</key>
+	<string>sceneVersusActivity</string>
+	<key>difficultNodeDensity</key>
+	<string>accessibleCoordinatorLocation</string>
+	<key>directAnimationOffset</key>
+	<string>shaderNumberFeedback</string>
+	<key>liteBaselineBorder</key>
+	<string>elasticLoopEdge</string>
+	<key>resultViaSingleton</key>
+	<string>containerViaOperation</string>
+	<key>specifierViaOperation</key>
+	<string>pointScopePosition</string>
+	<key>stepPerMediator</key>
+	<string>tweenDuringSingleton</string>
+</dict>
+</plist>

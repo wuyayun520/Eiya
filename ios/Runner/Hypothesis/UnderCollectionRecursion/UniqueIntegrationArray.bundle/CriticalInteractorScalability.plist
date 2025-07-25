@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTitleVisibility</key>
+	<string>denseProjectDelay</string>
+	<key>dialogsStructureFormat</key>
+	<string>axisPatternHue</string>
+	<key>disabledInterfaceContrast</key>
+	<string>requestDespiteShape</string>
+	<key>eventAboutCycle</key>
+	<string>viewVariableFeedback</string>
+	<key>flexibleBuilderTheme</key>
+	<string>mediumEntityPadding</string>
+	<key>resourceBesideForm</key>
+	<string>observerBufferDistance</string>
+	<key>storyboardAtMediator</key>
+	<string>workflowOfPrototype</string>
+	<key>streamChainMode</key>
+	<string>accessibleEntityShape</string>
+	<key>tabbarFrameworkTransparency</key>
+	<string>granularResponseOffset</string>
+</dict>
+</plist>

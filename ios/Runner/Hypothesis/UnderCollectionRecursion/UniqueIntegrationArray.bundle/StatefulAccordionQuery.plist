@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellCompositeCoord</key>
+	<string>managerCycleTint</string>
+	<key>checkboxFrameworkKind</key>
+	<string>singletonDuringParam</string>
+	<key>compositionValueLocation</key>
+	<string>mediaInsidePattern</string>
+	<key>dynamicListviewSpeed</key>
+	<string>localSessionAcceleration</string>
+	<key>localizationDuringStructure</key>
+	<string>handlerFacadeOrientation</string>
+	<key>resizableMasterStatus</key>
+	<string>elasticAwaitTail</string>
+	<key>routeVarPressure</key>
+	<string>symmetricPaddingInteraction</string>
+	<key>standaloneCursorHead</key>
+	<string>pinchableBaseSkewy</string>
+	<key>standaloneFlexShade</key>
+	<string>uniqueRiverpodMargin</string>
+</dict>
+</plist>

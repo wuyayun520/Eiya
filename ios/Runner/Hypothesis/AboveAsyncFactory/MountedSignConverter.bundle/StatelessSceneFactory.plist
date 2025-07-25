@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterVarBottom</key>
+	<string>builderSystemTransparency</string>
+	<key>effectLayerDensity</key>
+	<string>layoutAmongBuffer</string>
+	<key>largeSingletonBrightness</key>
+	<string>boxLevelVisibility</string>
+	<key>managerByCommand</key>
+	<string>cardOrVar</string>
+	<key>screenTaskSpacing</key>
+	<string>otherCubitFormat</string>
+	<key>standaloneConfigurationTheme</key>
+	<string>euclideanRiverpodContrast</string>
+	<key>stateForVisitor</key>
+	<string>autoManagerAlignment</string>
+</dict>
+</plist>

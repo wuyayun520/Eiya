@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoQueueScale</key>
+	<string>blocOfAdapter</string>
+	<key>buttonAsProxy</key>
+	<string>asyncActionFrequency</string>
+	<key>scrollableChecklistDepth</key>
+	<string>tappableMissionOffset</string>
+	<key>serviceThanProxy</key>
+	<string>nibCompositeLeft</string>
+	<key>slashObserverTail</key>
+	<string>lossAndActivity</string>
+	<key>streamDuringFramework</key>
+	<string>primaryRowBrightness</string>
+	<key>synchronousAlignmentBorder</key>
+	<string>coordinatorOrTask</string>
+</dict>
+</plist>

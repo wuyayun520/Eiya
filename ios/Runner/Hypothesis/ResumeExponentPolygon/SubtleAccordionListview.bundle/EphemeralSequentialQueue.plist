@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertForKind</key>
+	<string>segueCommandBehavior</string>
+	<key>otherTitleShape</key>
+	<string>constraintBridgeOrigin</string>
+	<key>queueActivityAlignment</key>
+	<string>geometricCoordinatorSize</string>
+	<key>storageExceptAction</key>
+	<string>reusableDurationIndex</string>
+	<key>subtleCubitBrightness</key>
+	<string>swiftAdapterDelay</string>
+</dict>
+</plist>

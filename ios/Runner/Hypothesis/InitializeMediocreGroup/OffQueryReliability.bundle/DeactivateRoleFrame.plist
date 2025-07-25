@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocForState</key>
+	<string>gesturedetectorBesideInterpreter</string>
+	<key>builderLikeParam</key>
+	<string>intensityOutsideParam</string>
+	<key>controllerBufferMode</key>
+	<string>asyncAndKind</string>
+	<key>frameAwayPhase</key>
+	<string>reusableQueryOffset</string>
+	<key>graphicMementoInteraction</key>
+	<string>buttonActivityVisibility</string>
+	<key>imageMementoCoord</key>
+	<string>exceptionScopeBound</string>
+	<key>imperativeManagerOpacity</key>
+	<string>discardedMultiplicationTransparency</string>
+	<key>normInsideDecorator</key>
+	<string>widgetDuringLevel</string>
+	<key>storeAlongStyle</key>
+	<string>elasticAlignmentBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationAsValue</key>
+	<string>sizedboxThroughStage</string>
+	<key>gateActionBound</key>
+	<string>gateVisitorEdge</string>
+	<key>listenerViaSingleton</key>
+	<string>rapidOverlayBound</string>
+	<key>sequentialVectorBehavior</key>
+	<string>ternaryForDecorator</string>
+	<key>subtleTitleDistance</key>
+	<string>graphMediatorSpacing</string>
+	<key>ternaryCompositeTheme</key>
+	<string>descriptorContainJob</string>
+</dict>
+</plist>

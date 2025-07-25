@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFrameworkVelocity</key>
+	<string>resourceOperationInterval</string>
+	<key>containerViaMediator</key>
+	<string>apertureSinceFramework</string>
+	<key>cubitNearFacade</key>
+	<string>draggableInjectionVisibility</string>
+	<key>cupertinoAdapterPressure</key>
+	<string>injectionTemplePadding</string>
+	<key>mediumIconOrigin</key>
+	<string>reductionObserverEdge</string>
+	<key>relationalGrainSkewy</key>
+	<string>localGrainPosition</string>
+</dict>
+</plist>

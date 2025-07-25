@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFacadeScale</key>
+	<string>interactorWithoutProxy</string>
+	<key>containerAtPlatform</key>
+	<string>statefulVersusActivity</string>
+	<key>ephemeralServiceRate</key>
+	<string>originalGramShade</string>
+	<key>geometricServiceShape</key>
+	<string>parallelBoxState</string>
+	<key>mediaAmongCycle</key>
+	<string>pointOperationDelay</string>
+	<key>particleDecoratorBound</key>
+	<string>sharedTickerRotation</string>
+	<key>synchronousApertureDuration</key>
+	<string>declarativeButtonAppearance</string>
+	<key>unaryDuringPlatform</key>
+	<string>transformerBeyondKind</string>
+</dict>
+</plist>

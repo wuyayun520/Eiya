@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAgainstFunction</key>
+	<string>playbackDuringState</string>
+	<key>binaryAlongPlatform</key>
+	<string>switchStateIndex</string>
+	<key>customStoryboardCoord</key>
+	<string>missionStrategyEdge</string>
+	<key>mobxAboutFacade</key>
+	<string>imageActivityKind</string>
+	<key>sceneContainTemple</key>
+	<string>delicateResourceVelocity</string>
+	<key>symbolAndShape</key>
+	<string>aspectratioInterpreterTag</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowProxyTop</key>
+	<string>entityPerKind</string>
+	<key>localizationFormSpeed</key>
+	<string>intermediateCanvasVelocity</string>
+	<key>mediaObserverDepth</key>
+	<string>inheritedPaddingRate</string>
+	<key>monsterVersusBridge</key>
+	<string>transitionShapeState</string>
+	<key>persistentWidgetValidation</key>
+	<string>gemInBuffer</string>
+	<key>signatureChainContrast</key>
+	<string>timerOutsideScope</string>
+</dict>
+</plist>

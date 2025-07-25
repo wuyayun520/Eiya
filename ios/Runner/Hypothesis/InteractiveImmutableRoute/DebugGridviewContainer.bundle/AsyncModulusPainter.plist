@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisNearFlyweight</key>
+	<string>routerPhaseCoord</string>
+	<key>bitrateTaskVisibility</key>
+	<string>activatedBulletSkewx</string>
+	<key>ephemeralResultLocation</key>
+	<string>commonToolFrequency</string>
+	<key>interfaceKindPadding</key>
+	<string>resultAsFacade</string>
+	<key>modalMediatorName</key>
+	<string>singletonInPrototype</string>
+	<key>momentumCompositePressure</key>
+	<string>lazyBuilderCenter</string>
+</dict>
+</plist>

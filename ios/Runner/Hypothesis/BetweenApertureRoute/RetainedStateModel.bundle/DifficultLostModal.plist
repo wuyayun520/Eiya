@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperDespiteShape</key>
+	<string>toolAdapterPressure</string>
+	<key>customPreviewTop</key>
+	<string>swiftJobSkewx</string>
+	<key>handlerWorkDuration</key>
+	<string>desktopPageviewSkewx</string>
+	<key>independentAlignmentRotation</key>
+	<string>anchorMethodOpacity</string>
+	<key>mediumStateName</key>
+	<string>subsequentRectTag</string>
+	<key>requiredSessionLocation</key>
+	<string>transitionPatternFormat</string>
+	<key>routeStyleStatus</key>
+	<string>usecaseLikeContext</string>
+	<key>textureAroundFramework</key>
+	<string>allocatorScopeDirection</string>
+</dict>
+</plist>

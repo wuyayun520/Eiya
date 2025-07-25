@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAlphaVisibility</key>
+	<string>rapidResultOrigin</string>
+	<key>capsuleOfValue</key>
+	<string>chapterDecoratorRight</string>
+	<key>compositionalSpriteColor</key>
+	<string>secondSpecifierHue</string>
+	<key>enabledPriorityBehavior</key>
+	<string>painterViaEnvironment</string>
+</dict>
+</plist>

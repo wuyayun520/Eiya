@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedErrorOffset</key>
+	<string>buttonFacadeShade</string>
+	<key>curveForActivity</key>
+	<string>accessibleGroupShade</string>
+	<key>sampleBridgeScale</key>
+	<string>crudeDurationOpacity</string>
+	<key>sceneBridgeSpacing</key>
+	<string>textSinceBuffer</string>
+</dict>
+</plist>

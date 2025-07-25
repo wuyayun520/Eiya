@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInFunction</key>
+	<string>viewBridgeVisible</string>
+	<key>compositionalExceptionTransparency</key>
+	<string>singletonAtContext</string>
+	<key>criticalProgressbarOffset</key>
+	<string>decorationObserverDepth</string>
+	<key>managerNumberDensity</key>
+	<string>ternaryKindDepth</string>
+	<key>signatureFacadeFrequency</key>
+	<string>offsetMethodTail</string>
+	<key>storeProxyOpacity</key>
+	<string>blocScopeFrequency</string>
+	<key>transformerBeyondFunction</key>
+	<string>binaryIncludeChain</string>
+	<key>unsortedPositionOffset</key>
+	<string>animatedRouteVisibility</string>
+</dict>
+</plist>

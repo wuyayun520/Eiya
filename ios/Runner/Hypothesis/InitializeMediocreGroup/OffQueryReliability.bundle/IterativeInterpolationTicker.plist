@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorTypeSpeed</key>
+	<string>animatedButtonTail</string>
+	<key>featureVersusNumber</key>
+	<string>arithmeticCanvasBottom</string>
+	<key>slashThanState</key>
+	<string>brushStyleDelay</string>
+</dict>
+</plist>

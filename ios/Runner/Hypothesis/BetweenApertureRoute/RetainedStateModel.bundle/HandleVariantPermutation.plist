@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticLayoutVisibility</key>
+	<string>builderWithVisitor</string>
+	<key>flexibleLoopBrightness</key>
+	<string>listenerAboutValue</string>
+	<key>indicatorIncludeComposite</key>
+	<string>disabledPromiseCenter</string>
+	<key>interactiveLocalizationVisible</key>
+	<string>threadCycleFeedback</string>
+	<key>labelVariableRotation</key>
+	<string>allocatorCycleOpacity</string>
+	<key>radioAdapterAcceleration</key>
+	<string>sequentialProjectDuration</string>
+	<key>resilientAppbarBrightness</key>
+	<string>scalePatternDirection</string>
+	<key>textContainNumber</key>
+	<string>interfaceContextSpacing</string>
+	<key>widgetAboutDecorator</key>
+	<string>rowTypeLocation</string>
+</dict>
+</plist>

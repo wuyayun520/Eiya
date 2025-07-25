@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPatternIndex</key>
+	<string>gateVariableFlags</string>
+	<key>desktopCupertinoShape</key>
+	<string>adaptiveTickerResponse</string>
+	<key>inkwellOperationHue</key>
+	<string>opaqueMobxColor</string>
+	<key>otherSingletonInterval</key>
+	<string>animatedRowShade</string>
+	<key>requestOperationVisible</key>
+	<string>inactiveCellSize</string>
+	<key>sharedAllocatorHead</key>
+	<string>sceneWorkRight</string>
+	<key>ternaryShapeTension</key>
+	<string>groupAwayValue</string>
+</dict>
+</plist>

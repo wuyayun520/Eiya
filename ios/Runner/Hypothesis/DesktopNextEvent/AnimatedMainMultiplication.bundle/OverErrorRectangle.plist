@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileContainerDuration</key>
+	<string>presenterPerPhase</string>
+	<key>customTransitionMomentum</key>
+	<string>unactivatedExtensionStyle</string>
+	<key>dynamicPresenterTag</key>
+	<string>declarativePriorityFrequency</string>
+	<key>memberTypeBehavior</key>
+	<string>backwardControllerShape</string>
+	<key>skinBeyondBridge</key>
+	<string>routeBridgeTint</string>
+</dict>
+</plist>

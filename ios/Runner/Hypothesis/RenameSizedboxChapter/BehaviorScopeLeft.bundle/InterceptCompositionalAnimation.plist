@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOfAction</key>
+	<string>anchorDecoratorBound</string>
+	<key>effectActionType</key>
+	<string>cupertinoPhaseIndex</string>
+	<key>grainInsideEnvironment</key>
+	<string>stateAroundAdapter</string>
+	<key>masterContextLeft</key>
+	<string>mobxLikeType</string>
+	<key>requiredSignInset</key>
+	<string>easyCupertinoFeedback</string>
+</dict>
+</plist>

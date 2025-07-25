@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAndPhase</key>
+	<string>layoutCycleDensity</string>
+	<key>hashNearStrategy</key>
+	<string>descriptionInProxy</string>
+	<key>heapFlyweightFormat</key>
+	<string>delegateFromFramework</string>
+	<key>imageChainAcceleration</key>
+	<string>behaviorCompositeOrientation</string>
+	<key>mutableObserverName</key>
+	<string>singletonLayerTop</string>
+	<key>originalAnchorMargin</key>
+	<string>cacheActivityIndex</string>
+</dict>
+</plist>

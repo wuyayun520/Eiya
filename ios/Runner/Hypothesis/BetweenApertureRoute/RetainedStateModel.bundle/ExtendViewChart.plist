@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledTextAlignment</key>
+	<string>futureValueSkewx</string>
+	<key>queryWithComposite</key>
+	<string>hardIconBound</string>
+	<key>reusableResourceKind</key>
+	<string>durationViaState</string>
+	<key>seamlessCubeCenter</key>
+	<string>viewTypeDirection</string>
+	<key>webLocalizationPressure</key>
+	<string>clipperNumberInterval</string>
+</dict>
+</plist>

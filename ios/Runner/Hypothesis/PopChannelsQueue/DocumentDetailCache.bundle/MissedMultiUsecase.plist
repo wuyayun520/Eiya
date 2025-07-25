@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAsPlatform</key>
+	<string>callbackInBridge</string>
+	<key>futureParamPadding</key>
+	<string>fragmentByState</string>
+	<key>logLikeStrategy</key>
+	<string>optionFlyweightTag</string>
+	<key>sampleContainMemento</key>
+	<string>isolatePerValue</string>
+	<key>sessionDespiteState</key>
+	<string>sinkPlatformStyle</string>
+	<key>typicalMissionState</key>
+	<string>paddingDuringStyle</string>
+</dict>
+</plist>

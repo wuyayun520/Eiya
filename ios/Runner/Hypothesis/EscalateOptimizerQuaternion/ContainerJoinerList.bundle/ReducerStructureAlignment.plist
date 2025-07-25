@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customBoxPadding</key>
+	<string>tappableVariantTint</string>
+	<key>ignoredObserverBound</key>
+	<string>commonManagerInteraction</string>
+	<key>lazyExceptionFormat</key>
+	<string>heroBesideWork</string>
+	<key>lostCapacitiesOpacity</key>
+	<string>labelParamSkewx</string>
+	<key>seamlessProgressbarFrequency</key>
+	<string>flexAgainstAdapter</string>
+	<key>sortedTaskTag</key>
+	<string>stepSystemPosition</string>
+	<key>tweenUntilFlyweight</key>
+	<string>profileOrMediator</string>
+</dict>
+</plist>

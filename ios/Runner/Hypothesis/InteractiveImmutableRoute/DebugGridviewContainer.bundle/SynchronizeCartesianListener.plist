@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProjectionType</key>
+	<string>featureViaStage</string>
+	<key>cardPrototypeSaturation</key>
+	<string>tangentProxyKind</string>
+	<key>delegateChainFeedback</key>
+	<string>sampleWithoutPhase</string>
+	<key>normalIsolateSpacing</key>
+	<string>providerAgainstContext</string>
+	<key>providerAlongMode</key>
+	<string>frameStageOpacity</string>
+	<key>stateFromStyle</key>
+	<string>menuBridgeFormat</string>
+</dict>
+</plist>

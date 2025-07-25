@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerNumberFormat</key>
+	<string>keySliderValidation</string>
+	<key>cellNearAction</key>
+	<string>completionEnvironmentAlignment</string>
+	<key>convolutionWorkEdge</key>
+	<string>mediaOperationBrightness</string>
+	<key>eagerOverlayShade</key>
+	<string>pointFromAction</string>
+	<key>indicatorFrameworkInterval</key>
+	<string>deferredCatalystTail</string>
+	<key>parallelControllerAcceleration</key>
+	<string>channelsMementoName</string>
+	<key>rowThroughCycle</key>
+	<string>scaleParameterBound</string>
+	<key>singletonPerJob</key>
+	<string>managerVarCoord</string>
+	<key>ternaryPerActivity</key>
+	<string>protocolVersusMethod</string>
+</dict>
+</plist>

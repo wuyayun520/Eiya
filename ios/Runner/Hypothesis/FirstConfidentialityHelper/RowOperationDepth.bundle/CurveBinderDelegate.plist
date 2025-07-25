@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedZoneDensity</key>
+	<string>gridviewByVariable</string>
+	<key>displayableListviewDelay</key>
+	<string>subpixelCompositeOrigin</string>
+	<key>localDescriptionBottom</key>
+	<string>prevAppbarDirection</string>
+	<key>musicScopeDelay</key>
+	<string>immediateBaseSpeed</string>
+	<key>repositoryForKind</key>
+	<string>builderTempleSize</string>
+	<key>segmentThroughCommand</key>
+	<string>compositionalIntensityDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridTypeBorder</key>
+	<string>draggableMusicStyle</string>
+	<key>isolateVersusStyle</key>
+	<string>sizeProxyDelay</string>
+	<key>materialSizedboxSpeed</key>
+	<string>groupAdapterLocation</string>
+	<key>mobileUtilAlignment</key>
+	<string>labelNearStyle</string>
+	<key>requiredAxisPadding</key>
+	<string>profileAndScope</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandEnvironmentBound</key>
+	<string>retainedFlexDelay</string>
+	<key>eventBeyondWork</key>
+	<string>statefulListenerFeedback</string>
+	<key>menuPhaseRight</key>
+	<string>sensorParameterShade</string>
+	<key>textureInsideWork</key>
+	<string>eagerPlaybackIndex</string>
+	<key>themeExceptForm</key>
+	<string>effectModeContrast</string>
+</dict>
+</plist>

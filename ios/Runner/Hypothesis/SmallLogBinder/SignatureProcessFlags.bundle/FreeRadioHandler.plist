@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderMediatorAlignment</key>
+	<string>tappableSpotFeedback</string>
+	<key>intensityAsFunction</key>
+	<string>lazyCellStatus</string>
+	<key>iterativeGrainFrequency</key>
+	<string>subpixelContainShape</string>
+	<key>lostMediaResponse</key>
+	<string>containerDuringCycle</string>
+	<key>queryStyleLeft</key>
+	<string>observerVersusPattern</string>
+	<key>temporaryCharacterSpacing</key>
+	<string>nextFactorySize</string>
+	<key>tickerTierTail</key>
+	<string>drawerJobState</string>
+</dict>
+</plist>

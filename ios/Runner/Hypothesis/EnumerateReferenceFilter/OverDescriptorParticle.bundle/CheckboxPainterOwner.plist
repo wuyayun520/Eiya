@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectVersusPrototype</key>
+	<string>semanticEffectBottom</string>
+	<key>equipmentAlongVariable</key>
+	<string>mobileEntityPosition</string>
+	<key>handlerFrameworkFrequency</key>
+	<string>groupInsidePhase</string>
+	<key>iterativeGateBottom</key>
+	<string>spriteTaskIndex</string>
+	<key>newestInteractorBound</key>
+	<string>reactiveZoneStyle</string>
+	<key>rectVariableShade</key>
+	<string>gramContainPrototype</string>
+	<key>ternaryPatternSkewx</key>
+	<string>protectedAwaitDistance</string>
+</dict>
+</plist>

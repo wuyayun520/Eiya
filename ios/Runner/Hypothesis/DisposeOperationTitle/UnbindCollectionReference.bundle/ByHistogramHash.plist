@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredResolverRotation</key>
+	<string>positionInVar</string>
+	<key>grainJobDensity</key>
+	<string>particleAndJob</string>
+	<key>interactorInterpreterDensity</key>
+	<string>listviewVariablePosition</string>
+	<key>musicAroundPrototype</key>
+	<string>requestStageMode</string>
+	<key>spotForVar</key>
+	<string>chartPerStructure</string>
+	<key>stackAwayActivity</key>
+	<string>sortedSignatureBound</string>
+</dict>
+</plist>

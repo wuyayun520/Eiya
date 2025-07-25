@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDuringComposite</key>
+	<string>decorationAndObserver</string>
+	<key>boxProcessTop</key>
+	<string>richtextAdapterOpacity</string>
+	<key>displayableChapterBrightness</key>
+	<string>builderFunctionMode</string>
+	<key>eventCycleVelocity</key>
+	<string>unactivatedPrecisionValidation</string>
+	<key>histogramVersusTier</key>
+	<string>allocatorIncludeAdapter</string>
+	<key>routeLikeMemento</key>
+	<string>easyMethodEdge</string>
+	<key>semanticTweenPadding</key>
+	<string>entropyAsLayer</string>
+</dict>
+</plist>

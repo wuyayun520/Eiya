@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleChainFormat</key>
+	<string>inheritedScrollSize</string>
+	<key>customizedPaddingTransparency</key>
+	<string>explicitEqualizationOrigin</string>
+	<key>futureFlyweightCenter</key>
+	<string>sortedDurationMode</string>
+	<key>previewDuringOperation</key>
+	<string>dimensionWorkBottom</string>
+	<key>resilientThreadMomentum</key>
+	<string>textEnvironmentSize</string>
+	<key>resultInVariable</key>
+	<string>giftMediatorResponse</string>
+</dict>
+</plist>

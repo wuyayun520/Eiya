@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncShapeVisible</key>
+	<string>heapFrameworkBorder</string>
+	<key>contractionOperationCoord</key>
+	<string>previewShapeDensity</string>
+	<key>greatTabbarOpacity</key>
+	<string>asyncMethodSize</string>
+	<key>hyperbolicProfileContrast</key>
+	<string>queueStateInteraction</string>
+	<key>robustTimerForce</key>
+	<string>rowScopeVelocity</string>
+	<key>textModeOrigin</key>
+	<string>containerUntilFunction</string>
+	<key>utilStyleStyle</key>
+	<string>stampDecoratorShape</string>
+</dict>
+</plist>

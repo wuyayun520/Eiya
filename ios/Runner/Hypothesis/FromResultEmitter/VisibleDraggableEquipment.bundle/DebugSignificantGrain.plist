@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationLevelPadding</key>
+	<string>extensionAdapterStyle</string>
+	<key>gesturedetectorCommandEdge</key>
+	<string>localizationByMemento</string>
+	<key>interfaceTierFeedback</key>
+	<string>groupTaskInteraction</string>
+	<key>requiredDrawerSkewy</key>
+	<string>managerInterpreterKind</string>
+	<key>singleUsecaseFrequency</key>
+	<string>nativeStreamScale</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAsValue</key>
+	<string>resultStrategyVelocity</string>
+	<key>coordinatorInParam</key>
+	<string>matrixValuePosition</string>
+	<key>descriptorAgainstFacade</key>
+	<string>resizableCardPosition</string>
+	<key>effectEnvironmentInset</key>
+	<string>configurationAdapterBound</string>
+	<key>injectionTaskMomentum</key>
+	<string>sequentialProjectBottom</string>
+	<key>mapTaskVisible</key>
+	<string>awaitLevelFeedback</string>
+	<key>oldWidgetResponse</key>
+	<string>loopAdapterScale</string>
+	<key>positionValueBottom</key>
+	<string>fusedConsumerDepth</string>
+	<key>sceneSinceValue</key>
+	<string>mediaVisitorPadding</string>
+</dict>
+</plist>

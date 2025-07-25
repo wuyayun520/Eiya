@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationThanMode</key>
+	<string>priorityAlongProcess</string>
+	<key>graphFormForce</key>
+	<string>interfaceAlongScope</string>
+	<key>topicStageVisibility</key>
+	<string>pinchableRectDelay</string>
+</dict>
+</plist>

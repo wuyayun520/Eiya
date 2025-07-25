@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAroundComposite</key>
+	<string>hierarchicalUsecaseDistance</string>
+	<key>constraintInsideObserver</key>
+	<string>commandActionCoord</string>
+	<key>crucialRoleScale</key>
+	<string>textThanFlyweight</string>
+	<key>cubeMementoRate</key>
+	<string>reducerLayerSaturation</string>
+	<key>errorAsParam</key>
+	<string>elasticBulletFrequency</string>
+	<key>optionDespiteAction</key>
+	<string>gridFrameworkIndex</string>
+	<key>requestWorkPadding</key>
+	<string>commonServiceAlignment</string>
+	<key>textureVarSkewy</key>
+	<string>cupertinoNormTheme</string>
+</dict>
+</plist>

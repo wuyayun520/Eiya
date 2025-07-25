@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLocalizationOrientation</key>
+	<string>activeTernaryDistance</string>
+	<key>bufferStateAlignment</key>
+	<string>concurrentVariantLeft</string>
+	<key>cupertinoTaskBottom</key>
+	<string>localAllocatorName</string>
+	<key>discardedOffsetColor</key>
+	<string>contractionStateCoord</string>
+	<key>flexibleDescriptionScale</key>
+	<string>layoutContainVariable</string>
+	<key>functionalNormColor</key>
+	<string>futureOrPattern</string>
+	<key>painterOperationLocation</key>
+	<string>activitySingletonInset</string>
+	<key>sliderNearKind</key>
+	<string>routeStyleContrast</string>
+	<key>stampAgainstMediator</key>
+	<string>singletonWithoutFunction</string>
+	<key>tensorPopupOrigin</key>
+	<string>appbarVisitorFeedback</string>
+</dict>
+</plist>

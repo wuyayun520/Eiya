@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxTempleDuration</key>
+	<string>painterStateTail</string>
+	<key>errorFromCommand</key>
+	<string>similarNormStyle</string>
+	<key>hashOutsideStructure</key>
+	<string>completerParameterSpacing</string>
+	<key>mobxWithPlatform</key>
+	<string>activatedHashAppearance</string>
+	<key>serviceStateFeedback</key>
+	<string>tabbarAwayStyle</string>
+	<key>smallLoopDensity</key>
+	<string>disparateFragmentBehavior</string>
+</dict>
+</plist>

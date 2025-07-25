@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicModulusName</key>
+	<string>bulletTypeType</string>
+	<key>firstBehaviorDuration</key>
+	<string>curveAtPrototype</string>
+	<key>inheritedScreenPosition</key>
+	<string>resourceOrComposite</string>
+	<key>priorityUntilStructure</key>
+	<string>textfieldVarTransparency</string>
+	<key>statefulStreamPressure</key>
+	<string>skinPrototypeShape</string>
+</dict>
+</plist>

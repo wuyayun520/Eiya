@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowBeyondPrototype</key>
+	<string>expandedFrameworkTheme</string>
+	<key>checkboxValueSkewy</key>
+	<string>symmetricRouteLeft</string>
+	<key>materialAlongSingleton</key>
+	<string>titleAtContext</string>
+	<key>webHeapName</key>
+	<string>temporaryStackFeedback</string>
+</dict>
+</plist>

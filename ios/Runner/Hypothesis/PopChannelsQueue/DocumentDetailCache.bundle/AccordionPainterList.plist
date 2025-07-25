@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonWithoutDecorator</key>
+	<string>directlyConstraintDistance</string>
+	<key>elasticAwaitInteraction</key>
+	<string>staticManagerDelay</string>
+	<key>granularPresenterTag</key>
+	<string>directBoxshadowLocation</string>
+	<key>sizeUntilPrototype</key>
+	<string>rowScopeScale</string>
+	<key>statefulCoordinatorTint</key>
+	<string>overlayCommandAlignment</string>
+</dict>
+</plist>

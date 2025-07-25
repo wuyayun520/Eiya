@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableResourceShade</key>
+	<string>smallStateDepth</string>
+	<key>mobileNotifierKind</key>
+	<string>popupVersusVisitor</string>
+	<key>pinchableMobileValidation</key>
+	<string>composableFeatureVisibility</string>
+	<key>routerFunctionHue</key>
+	<string>exceptionLevelFormat</string>
+	<key>segmentNearContext</key>
+	<string>isolateDespiteAdapter</string>
+	<key>sineKindDepth</key>
+	<string>segmentStyleInteraction</string>
+</dict>
+</plist>

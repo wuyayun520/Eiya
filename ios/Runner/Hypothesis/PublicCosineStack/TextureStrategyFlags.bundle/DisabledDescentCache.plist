@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousResponseAlignment</key>
+	<string>sizeMediatorBottom</string>
+	<key>cupertinoLikeAdapter</key>
+	<string>layoutAboutOperation</string>
+	<key>lazyMaterialDelay</key>
+	<string>seamlessSliderTail</string>
+	<key>mapPhaseDelay</key>
+	<string>basicSceneRotation</string>
+	<key>metadataVersusParam</key>
+	<string>aspectInNumber</string>
+	<key>riverpodWithForm</key>
+	<string>grainVisitorMode</string>
+	<key>staticScrollVelocity</key>
+	<string>resourceTypeDistance</string>
+</dict>
+</plist>

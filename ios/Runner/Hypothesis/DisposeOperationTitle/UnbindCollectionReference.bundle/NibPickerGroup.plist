@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationExceptState</key>
+	<string>playbackAndBuffer</string>
+	<key>inkwellIncludeValue</key>
+	<string>durationFunctionLeft</string>
+	<key>kernelByTask</key>
+	<string>prevStateSpeed</string>
+	<key>navigatorFromOperation</key>
+	<string>disabledModelLeft</string>
+	<key>opaqueMemberBound</key>
+	<string>smartNormDensity</string>
+	<key>persistentLabelBehavior</key>
+	<string>activityFlyweightSkewy</string>
+	<key>providerLayerTension</key>
+	<string>aspectratioFacadeForce</string>
+	<key>repositoryAroundPhase</key>
+	<string>priorScreenFormat</string>
+	<key>riverpodParameterMargin</key>
+	<string>granularCaptionEdge</string>
+</dict>
+</plist>

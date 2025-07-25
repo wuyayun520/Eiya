@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisOutsideLayer</key>
+	<string>widgetDecoratorValidation</string>
+	<key>diffableExceptionValidation</key>
+	<string>callbackByValue</string>
+	<key>enabledEquipmentFormat</key>
+	<string>prevOperationDelay</string>
+	<key>lazyPreviewVisible</key>
+	<string>storeStyleType</string>
+	<key>smallChannelsInset</key>
+	<string>titleAndBridge</string>
+	<key>viewPerStyle</key>
+	<string>alphaStructureTransparency</string>
+</dict>
+</plist>

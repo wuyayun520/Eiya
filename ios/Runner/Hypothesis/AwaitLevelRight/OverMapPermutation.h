@@ -1,0 +1,18 @@
+#import "RegulateDurationRect.h"
+#import "DraggablePositionGroup.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface OverMapPermutation : NSObject
+
+
+- (void) streamSessionAsStore;
+
+- (void) wasSpecifyGraphShape;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

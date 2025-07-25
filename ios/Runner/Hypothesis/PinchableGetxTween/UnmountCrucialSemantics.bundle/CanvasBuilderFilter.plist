@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintIncludeTask</key>
+	<string>tangentWithActivity</string>
+	<key>criticalConstraintBottom</key>
+	<string>storageOrObserver</string>
+	<key>gemFrameworkOrientation</key>
+	<string>labelAsDecorator</string>
+	<key>interpolationFacadeDirection</key>
+	<string>containerByParam</string>
+	<key>statefulFormTension</key>
+	<string>batchNearShape</string>
+</dict>
+</plist>

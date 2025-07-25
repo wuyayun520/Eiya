@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistUntilChain</key>
+	<string>viewStageRotation</string>
+	<key>finalResultAlignment</key>
+	<string>grainByContext</string>
+	<key>interactiveDecorationRate</key>
+	<string>sensorCycleInset</string>
+	<key>pinchableAsyncEdge</key>
+	<string>groupWorkTint</string>
+	<key>previewAgainstStrategy</key>
+	<string>statelessRouteType</string>
+	<key>sliderTypeFrequency</key>
+	<string>draggableEntropyLeft</string>
+</dict>
+</plist>

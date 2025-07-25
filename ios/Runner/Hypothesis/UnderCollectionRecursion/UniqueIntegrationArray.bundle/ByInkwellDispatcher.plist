@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSizedboxFeedback</key>
+	<string>beginnerSizeDistance</string>
+	<key>crucialIntegerBorder</key>
+	<string>signVersusValue</string>
+	<key>flexibleButtonBehavior</key>
+	<string>injectionThroughFlyweight</string>
+	<key>projectVersusDecorator</key>
+	<string>discardedConfigurationFlags</string>
+	<key>projectionInsideFacade</key>
+	<string>transitionLayerBound</string>
+</dict>
+</plist>

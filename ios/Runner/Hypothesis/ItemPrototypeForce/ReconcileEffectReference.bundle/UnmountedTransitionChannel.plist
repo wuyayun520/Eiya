@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStageName</key>
+	<string>directAllocatorIndex</string>
+	<key>callbackIncludeBridge</key>
+	<string>isolateAroundActivity</string>
+	<key>completerObserverTop</key>
+	<string>crudeErrorDistance</string>
+	<key>decorationViaStrategy</key>
+	<string>requiredViewVisible</string>
+	<key>grainSinceWork</key>
+	<string>tangentFromFunction</string>
+	<key>immediatePriorityHue</key>
+	<string>commonSegmentCenter</string>
+	<key>labelAmongDecorator</key>
+	<string>queueBesideActivity</string>
+	<key>petInterpreterValidation</key>
+	<string>temporaryCheckboxDirection</string>
+	<key>themeAdapterCenter</key>
+	<string>grainOperationFormat</string>
+	<key>widgetTaskHead</key>
+	<string>rowPatternFrequency</string>
+</dict>
+</plist>

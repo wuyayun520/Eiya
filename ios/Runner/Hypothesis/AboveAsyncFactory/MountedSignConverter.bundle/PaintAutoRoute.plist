@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonChainVisibility</key>
+	<string>asyncOutsideFramework</string>
+	<key>channelKindBehavior</key>
+	<string>nodeThroughChain</string>
+	<key>loopAtEnvironment</key>
+	<string>mainCharacterBorder</string>
+	<key>marginThanWork</key>
+	<string>interactorLevelValidation</string>
+	<key>paddingModeName</key>
+	<string>arithmeticCallbackForce</string>
+	<key>requiredRadiusVelocity</key>
+	<string>allocatorAwayChain</string>
+	<key>staticGateTransparency</key>
+	<string>widgetWithMemento</string>
+</dict>
+</plist>

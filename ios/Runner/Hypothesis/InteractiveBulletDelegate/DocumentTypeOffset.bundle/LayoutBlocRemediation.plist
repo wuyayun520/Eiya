@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSpotDelay</key>
+	<string>aspectCommandLeft</string>
+	<key>cursorFormShape</key>
+	<string>secondMenuPosition</string>
+	<key>eagerLoopShape</key>
+	<string>presenterAlongFunction</string>
+	<key>imageVarEdge</key>
+	<string>appbarAroundCycle</string>
+	<key>lastColumnVisible</key>
+	<string>petStyleVisible</string>
+	<key>nextStatelessRate</key>
+	<string>graphicFlyweightDelay</string>
+	<key>popupPrototypeAppearance</key>
+	<string>globalTransitionPadding</string>
+	<key>precisionObserverPressure</key>
+	<string>priorityCompositeMomentum</string>
+	<key>touchSincePattern</key>
+	<string>providerOperationAlignment</string>
+	<key>usecaseFunctionTop</key>
+	<string>storageProxyState</string>
+</dict>
+</plist>

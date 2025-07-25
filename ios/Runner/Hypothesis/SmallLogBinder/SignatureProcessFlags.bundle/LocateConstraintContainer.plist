@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePreviewInteraction</key>
+	<string>contractionAroundVariable</string>
+	<key>basicServiceSkewx</key>
+	<string>taskAtContext</string>
+	<key>composableCallbackTransparency</key>
+	<string>transitionAtFlyweight</string>
+	<key>radiusThanPrototype</key>
+	<string>denseProtocolDelay</string>
+	<key>richtextOutsideEnvironment</key>
+	<string>originalNavigatorPressure</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationProxyAppearance</key>
+	<string>instructionOrTier</string>
+	<key>customActionSize</key>
+	<string>fusedRouteBottom</string>
+	<key>sensorMediatorFormat</key>
+	<string>inactiveExpandedDuration</string>
+</dict>
+</plist>

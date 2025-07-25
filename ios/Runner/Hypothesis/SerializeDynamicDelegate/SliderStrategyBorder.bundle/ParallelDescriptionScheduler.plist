@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxPrototypeResponse</key>
+	<string>logarithmVersusMode</string>
+	<key>crudeTransitionDelay</key>
+	<string>previewByProxy</string>
+	<key>gateContextSpacing</key>
+	<string>temporaryDelegateAcceleration</string>
+	<key>gradientAndFlyweight</key>
+	<string>crudeGrainPadding</string>
+	<key>managerCompositeSkewy</key>
+	<string>documentBeyondEnvironment</string>
+	<key>topicInsideFlyweight</key>
+	<string>methodProcessDistance</string>
+</dict>
+</plist>

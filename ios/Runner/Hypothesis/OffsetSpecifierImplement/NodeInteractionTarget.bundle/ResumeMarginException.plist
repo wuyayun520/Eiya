@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEventStyle</key>
+	<string>synchronousDropdownbuttonLeft</string>
+	<key>alignmentBridgeName</key>
+	<string>smartContainerBound</string>
+	<key>customizedPresenterFeedback</key>
+	<string>observerDuringBuffer</string>
+	<key>navigationChainVisible</key>
+	<string>spriteNearShape</string>
+	<key>providerActionName</key>
+	<string>behaviorCommandScale</string>
+	<key>techniqueVariableSkewy</key>
+	<string>symbolPatternFlags</string>
+	<key>transitionThroughPhase</key>
+	<string>kernelParameterInset</string>
+	<key>widgetPerValue</key>
+	<string>containerModeBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticWithStrategy</key>
+	<string>indicatorKindDelay</string>
+	<key>customExceptionPressure</key>
+	<string>subtleRowPosition</string>
+	<key>entityInterpreterShade</key>
+	<string>textOutsideStage</string>
+	<key>gridviewValueFeedback</key>
+	<string>builderJobPosition</string>
+	<key>lastCupertinoAppearance</key>
+	<string>sortedLogTail</string>
+	<key>secondIndicatorCenter</key>
+	<string>streamExceptPhase</string>
+	<key>segmentBufferOpacity</key>
+	<string>mediaBufferMargin</string>
+	<key>statelessByAdapter</key>
+	<string>catalystMediatorVisibility</string>
+</dict>
+</plist>

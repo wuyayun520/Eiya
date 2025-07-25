@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPerActivity</key>
+	<string>opaqueGridStatus</string>
+	<key>animatedPlateDelay</key>
+	<string>optimizerVersusLayer</string>
+	<key>interfaceBufferBound</key>
+	<string>rapidSignatureSaturation</string>
+	<key>largeControllerForce</key>
+	<string>flexibleVectorShape</string>
+	<key>previewVisitorKind</key>
+	<string>opaqueObserverBorder</string>
+	<key>respectiveChannelsTint</key>
+	<string>accordionCollectionBehavior</string>
+</dict>
+</plist>

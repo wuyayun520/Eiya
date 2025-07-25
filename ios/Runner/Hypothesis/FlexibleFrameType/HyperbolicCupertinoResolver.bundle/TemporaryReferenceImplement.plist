@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationWorkInset</key>
+	<string>consultativeRouteAcceleration</string>
+	<key>controllerExceptSingleton</key>
+	<string>activeMarginIndex</string>
+	<key>decorationFrameworkCount</key>
+	<string>localizationContainMediator</string>
+	<key>inactiveStreamKind</key>
+	<string>pinchableOverlayResponse</string>
+	<key>prismaticLayoutEdge</key>
+	<string>statelessBoxshadowTheme</string>
+	<key>specifyButtonTint</key>
+	<string>protocolProcessBottom</string>
+</dict>
+</plist>

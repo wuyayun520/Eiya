@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDuringJob</key>
+	<string>methodNumberKind</string>
+	<key>canvasWorkAppearance</key>
+	<string>inheritedZoneAppearance</string>
+	<key>lossViaFramework</key>
+	<string>managerAboutScope</string>
+	<key>offsetSingletonName</key>
+	<string>captionLikeBridge</string>
+	<key>opaqueMobileDepth</key>
+	<string>slashTierType</string>
+	<key>sophisticatedThemeDensity</key>
+	<string>asynchronousDropdownbuttonBrightness</string>
+</dict>
+</plist>

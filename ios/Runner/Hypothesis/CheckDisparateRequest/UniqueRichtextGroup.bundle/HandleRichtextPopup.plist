@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCosineType</key>
+	<string>directSliderFeedback</string>
+	<key>descriptionParameterValidation</key>
+	<string>tangentExceptParam</string>
+	<key>descriptionTempleHue</key>
+	<string>marginAgainstState</string>
+	<key>gridviewCommandBorder</key>
+	<string>mutableUtilSpacing</string>
+	<key>layerBridgeAppearance</key>
+	<string>threadIncludeStructure</string>
+	<key>semanticsAroundCycle</key>
+	<string>layerCommandTop</string>
+	<key>transitionPhaseBorder</key>
+	<string>ignoredApertureTheme</string>
+	<key>widgetSystemBehavior</key>
+	<string>deferredSkinScale</string>
+</dict>
+</plist>

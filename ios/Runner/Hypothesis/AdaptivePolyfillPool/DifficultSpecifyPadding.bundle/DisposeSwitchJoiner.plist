@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureModeHead</key>
+	<string>asyncSceneAlignment</string>
+	<key>equalizationPerTier</key>
+	<string>custompaintBufferSpeed</string>
+	<key>rowByStage</key>
+	<string>menuNearAdapter</string>
+	<key>tappableQueryBound</key>
+	<string>interactorKindPressure</string>
+</dict>
+</plist>

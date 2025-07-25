@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionStyleMode</key>
+	<string>screenMementoFrequency</string>
+	<key>durationStyleSize</key>
+	<string>flexVersusStructure</string>
+	<key>interpolationFormDepth</key>
+	<string>notifierBeyondChain</string>
+	<key>layoutVersusBuffer</key>
+	<string>routeEnvironmentBorder</string>
+	<key>otherRouterTheme</key>
+	<string>featureWorkPadding</string>
+	<key>rowOrVar</key>
+	<string>taskSingletonTheme</string>
+	<key>synchronousPromiseCount</key>
+	<string>behaviorAsType</string>
+	<key>timerExceptParam</key>
+	<string>inkwellCycleBound</string>
+	<key>vectorPatternScale</key>
+	<string>reductionByTemple</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStrategyDirection</key>
+	<string>accessoryBridgeMargin</string>
+	<key>behaviorByPrototype</key>
+	<string>iterativeCompleterSaturation</string>
+	<key>multiTechniqueAcceleration</key>
+	<string>retainedErrorInteraction</string>
+	<key>overlayActivityOrigin</key>
+	<string>independentStateOffset</string>
+	<key>resourceOfState</key>
+	<string>retainedGraphBehavior</string>
+</dict>
+</plist>

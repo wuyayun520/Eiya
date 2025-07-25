@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonThroughFramework</key>
+	<string>tabbarExceptDecorator</string>
+	<key>denseDimensionCount</key>
+	<string>allocatorSystemCoord</string>
+	<key>mediocreLoopPadding</key>
+	<string>containerThroughOperation</string>
+	<key>nodeWorkRotation</key>
+	<string>mobxParameterVisibility</string>
+	<key>operationWithoutOperation</key>
+	<string>entityDuringType</string>
+	<key>significantSeguePosition</key>
+	<string>intermediateTopicTheme</string>
+	<key>sizeAlongObserver</key>
+	<string>reusablePaddingCount</string>
+	<key>stateThroughTask</key>
+	<string>axisAboutOperation</string>
+</dict>
+</plist>

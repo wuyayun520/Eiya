@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryKindBorder</key>
+	<string>callbackNumberAlignment</string>
+	<key>controllerLevelInteraction</key>
+	<string>customizedMetadataShape</string>
+	<key>entityMethodScale</key>
+	<string>adaptiveQueueAcceleration</string>
+	<key>lostContainerBottom</key>
+	<string>usecaseChainInterval</string>
+	<key>secondAnimationBrightness</key>
+	<string>variantAroundObserver</string>
+	<key>stateBridgeSaturation</key>
+	<string>mainSignatureFormat</string>
+</dict>
+</plist>

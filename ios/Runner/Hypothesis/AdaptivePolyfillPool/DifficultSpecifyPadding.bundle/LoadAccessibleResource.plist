@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAroundAction</key>
+	<string>sinkOrTask</string>
+	<key>effectInFramework</key>
+	<string>queryAlongTask</string>
+	<key>equalizationFacadeInteraction</key>
+	<string>navigatorVarMomentum</string>
+	<key>lastAssetStyle</key>
+	<string>apertureParameterDepth</string>
+	<key>providerTaskStyle</key>
+	<string>compositionInterpreterTag</string>
+	<key>semanticRadiusStatus</key>
+	<string>autoWidgetFrequency</string>
+	<key>unactivatedOverlayOffset</key>
+	<string>resizableSingletonSpeed</string>
+</dict>
+</plist>

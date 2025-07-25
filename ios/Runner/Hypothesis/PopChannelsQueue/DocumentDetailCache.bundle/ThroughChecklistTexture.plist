@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencySingletonRate</key>
+	<string>accessibleTaskFlags</string>
+	<key>exceptionPerPattern</key>
+	<string>currentGestureMomentum</string>
+	<key>gesturedetectorShapeCount</key>
+	<string>entropyVisitorVelocity</string>
+	<key>memberDespiteBuffer</key>
+	<string>customPresenterInterval</string>
+	<key>mobileWorkRotation</key>
+	<string>semanticTechniqueDirection</string>
+	<key>navigatorBeyondChain</key>
+	<string>queueDespiteKind</string>
+	<key>offsetChainInset</key>
+	<string>protectedLossVisible</string>
+	<key>smallIconAcceleration</key>
+	<string>switchAmongValue</string>
+	<key>streamWithoutCycle</key>
+	<string>blocDespiteSystem</string>
+</dict>
+</plist>

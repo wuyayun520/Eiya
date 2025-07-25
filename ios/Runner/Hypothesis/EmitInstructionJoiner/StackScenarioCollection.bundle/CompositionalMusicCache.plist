@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pinchableConvolutionFrequency</key>
+	<string>queueViaFramework</string>
+	<key>rectLikeStyle</key>
+	<string>compositionalRowResponse</string>
+	<key>routerPerPhase</key>
+	<string>toolPatternVisibility</string>
+	<key>sustainableGridAppearance</key>
+	<string>slashPerObserver</string>
+	<key>tickerJobRate</key>
+	<string>builderAboutTask</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDuringValue</key>
+	<string>dialogsTaskSpeed</string>
+	<key>containerBridgeVisibility</key>
+	<string>taskJobBorder</string>
+	<key>eventVariableValidation</key>
+	<string>associatedEntropyStatus</string>
+	<key>paddingThroughBuffer</key>
+	<string>navigatorInMode</string>
+	<key>respectiveSinkDuration</key>
+	<string>routeTempleName</string>
+</dict>
+</plist>

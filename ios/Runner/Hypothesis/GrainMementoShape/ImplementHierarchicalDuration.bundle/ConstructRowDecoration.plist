@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletInEnvironment</key>
+	<string>radioModeName</string>
+	<key>challengeKindStyle</key>
+	<string>sliderPrototypeSize</string>
+	<key>displayableAlphaFormat</key>
+	<string>dedicatedDelegateShade</string>
+	<key>fixedStateVisibility</key>
+	<string>alignmentBeyondFacade</string>
+	<key>fragmentKindTension</key>
+	<string>routerModeForce</string>
+	<key>navigationShapeTop</key>
+	<string>resilientUnaryPadding</string>
+	<key>positionTierTail</key>
+	<string>relationalDropdownbuttonPadding</string>
+</dict>
+</plist>

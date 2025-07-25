@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintLevelValidation</key>
+	<string>flexSingletonFlags</string>
+	<key>nextTransitionKind</key>
+	<string>timerContainState</string>
+	<key>priorityContainNumber</key>
+	<string>listenerProcessHead</string>
+	<key>radiusScopeType</key>
+	<string>usedBinaryStatus</string>
+	<key>widgetObserverFlags</key>
+	<string>routeVisitorTail</string>
+</dict>
+</plist>

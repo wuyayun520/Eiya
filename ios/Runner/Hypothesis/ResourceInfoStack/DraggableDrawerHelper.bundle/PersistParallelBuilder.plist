@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSinceFlyweight</key>
+	<string>activatedGroupInset</string>
+	<key>curveBeyondFlyweight</key>
+	<string>customizedReductionTheme</string>
+	<key>mobileExceptionMode</key>
+	<string>globalPageviewStatus</string>
+	<key>radioOperationMargin</key>
+	<string>heapInsideValue</string>
+	<key>servicePerPlatform</key>
+	<string>scaleStageSkewy</string>
+	<key>synchronousObserverKind</key>
+	<string>storyboardAwayBuffer</string>
+</dict>
+</plist>

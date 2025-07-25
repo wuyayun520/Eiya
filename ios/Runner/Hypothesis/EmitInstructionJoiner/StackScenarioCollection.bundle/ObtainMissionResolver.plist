@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionValueStyle</key>
+	<string>viewStateRotation</string>
+	<key>hierarchicalQueryRight</key>
+	<string>desktopGrayscaleDistance</string>
+	<key>hierarchicalUtilInterval</key>
+	<string>dropdownbuttonStateInset</string>
+	<key>menuDuringParameter</key>
+	<string>blocContainVariable</string>
+	<key>synchronousBorderPosition</key>
+	<string>widgetStateFeedback</string>
+	<key>textWithMemento</key>
+	<string>boxshadowLikeScope</string>
+	<key>unactivatedMenuDepth</key>
+	<string>immediateBorderDepth</string>
+</dict>
+</plist>

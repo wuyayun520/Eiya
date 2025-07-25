@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateStrategyValidation</key>
+	<string>methodDespiteCycle</string>
+	<key>dialogsAmongComposite</key>
+	<string>swiftVisitorCenter</string>
+	<key>listenerFlyweightFormat</key>
+	<string>customizedSwitchHue</string>
+	<key>loopJobShade</key>
+	<string>semanticExponentLocation</string>
+	<key>sineVisitorRotation</key>
+	<string>sortedFrameAcceleration</string>
+</dict>
+</plist>

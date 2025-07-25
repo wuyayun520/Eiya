@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRouteLocation</key>
+	<string>storeCommandKind</string>
+	<key>canvasBeyondFunction</key>
+	<string>usedNavigationVelocity</string>
+	<key>euclideanExceptionTag</key>
+	<string>storyboardSystemFlags</string>
+	<key>exceptionThroughVariable</key>
+	<string>globalPlateTag</string>
+	<key>observerStyleDepth</key>
+	<string>nextStateSpeed</string>
+	<key>previewBesideNumber</key>
+	<string>methodInProxy</string>
+	<key>providerForObserver</key>
+	<string>prevMediaqueryResponse</string>
+	<key>routerAwayFlyweight</key>
+	<string>captionPatternCount</string>
+	<key>similarAspectPressure</key>
+	<string>precisionAboutStructure</string>
+	<key>threadCompositeResponse</key>
+	<string>interactorTaskScale</string>
+</dict>
+</plist>

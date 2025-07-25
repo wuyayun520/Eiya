@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInterpreterBound</key>
+	<string>widgetAtFunction</string>
+	<key>borderMediatorBehavior</key>
+	<string>storageViaVar</string>
+	<key>convolutionStateTransparency</key>
+	<string>standaloneWorkflowKind</string>
+	<key>fixedStreamInterval</key>
+	<string>constRowStatus</string>
+	<key>managerMediatorResponse</key>
+	<string>shaderEnvironmentSize</string>
+	<key>missedCaptionBehavior</key>
+	<string>menuAroundVisitor</string>
+	<key>sequentialLayoutVisibility</key>
+	<string>transitionOfInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentKindValidation</key>
+	<string>utilAtState</string>
+	<key>autoScrollRotation</key>
+	<string>easyToolTransparency</string>
+	<key>compositionalGesturedetectorTransparency</key>
+	<string>brushVisitorDistance</string>
+	<key>listenerWithFunction</key>
+	<string>cubitVersusProxy</string>
+	<key>missedStoreCoord</key>
+	<string>textWithoutProxy</string>
+	<key>movementAgainstPlatform</key>
+	<string>checklistChainInterval</string>
+	<key>persistentCosineSaturation</key>
+	<string>similarStoreDensity</string>
+	<key>plateSingletonDuration</key>
+	<string>animationModeSkewy</string>
+	<key>reactiveRowAcceleration</key>
+	<string>pivotalContainerAcceleration</string>
+	<key>segueAlongMediator</key>
+	<string>mutableFragmentDensity</string>
+</dict>
+</plist>

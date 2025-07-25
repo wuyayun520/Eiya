@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitObserverCoord</key>
+	<string>listenerJobSkewx</string>
+	<key>builderByState</key>
+	<string>ignoredTouchEdge</string>
+	<key>completionCompositePosition</key>
+	<string>mainTextureRight</string>
+	<key>errorNumberFrequency</key>
+	<string>cursorStateRight</string>
+	<key>grainAndStyle</key>
+	<string>constraintForCycle</string>
+	<key>groupOfOperation</key>
+	<string>coordinatorCompositeTag</string>
+	<key>workflowBeyondStyle</key>
+	<string>promiseAmongLayer</string>
+</dict>
+</plist>

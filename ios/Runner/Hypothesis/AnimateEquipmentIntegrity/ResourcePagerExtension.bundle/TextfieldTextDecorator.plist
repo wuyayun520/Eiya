@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobxLevelDensity</key>
+	<string>layoutVersusDecorator</string>
+	<key>multiplicationAgainstMemento</key>
+	<string>anchorJobSpeed</string>
+	<key>observerAndFacade</key>
+	<string>presenterCommandDuration</string>
+	<key>sessionByVar</key>
+	<string>chapterFrameworkVisible</string>
+</dict>
+</plist>

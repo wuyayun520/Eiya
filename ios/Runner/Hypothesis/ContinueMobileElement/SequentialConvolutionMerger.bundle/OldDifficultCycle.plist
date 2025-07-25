@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionAdapterVisible</key>
+	<string>variantStyleBrightness</string>
+	<key>consumerAgainstStructure</key>
+	<string>mediaqueryLayerContrast</string>
+	<key>immutableStoreVisible</key>
+	<string>blocAdapterContrast</string>
+	<key>missionPerKind</key>
+	<string>signatureAlongForm</string>
+	<key>mobxAdapterShade</key>
+	<string>threadCycleTransparency</string>
+	<key>reactiveTextureState</key>
+	<string>channelAtState</string>
+	<key>requestBesidePlatform</key>
+	<string>durationStageLeft</string>
+	<key>storeViaTask</key>
+	<string>builderAsObserver</string>
+</dict>
+</plist>

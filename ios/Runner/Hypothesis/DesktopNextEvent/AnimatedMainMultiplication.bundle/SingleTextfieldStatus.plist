@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlySinkOpacity</key>
+	<string>captionTempleSkewy</string>
+	<key>graphicStateHead</key>
+	<string>coordinatorProxyAlignment</string>
+	<key>largeSpriteTransparency</key>
+	<string>isolateSystemShade</string>
+	<key>materialVarTag</key>
+	<string>cellTaskHue</string>
+	<key>memberAboutDecorator</key>
+	<string>materialCycleOrientation</string>
+	<key>threadSingletonPressure</key>
+	<string>factoryKindBorder</string>
+</dict>
+</plist>

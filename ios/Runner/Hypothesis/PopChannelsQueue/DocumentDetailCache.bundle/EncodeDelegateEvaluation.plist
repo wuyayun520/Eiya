@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousResourceValidation</key>
+	<string>concreteLossStatus</string>
+	<key>canvasAgainstAction</key>
+	<string>responseMethodColor</string>
+	<key>coordinatorPhaseVisible</key>
+	<string>exponentJobVisibility</string>
+	<key>gateObserverPadding</key>
+	<string>permanentQueryScale</string>
+	<key>swiftWorkVelocity</key>
+	<string>semanticHandlerSize</string>
+	<key>widgetPerFacade</key>
+	<string>transitionInVisitor</string>
+	<key>widgetWithoutProxy</key>
+	<string>sizedboxAsKind</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicCycleValidation</key>
+	<string>mobxNearCommand</string>
+	<key>observerPatternShape</key>
+	<string>borderPrototypeBound</string>
+	<key>routeActivitySpacing</key>
+	<string>widgetFacadeSaturation</string>
+	<key>spriteEnvironmentPosition</key>
+	<string>expandedPatternCoord</string>
+	<key>usedChannelBottom</key>
+	<string>flexibleAlphaDirection</string>
+</dict>
+</plist>

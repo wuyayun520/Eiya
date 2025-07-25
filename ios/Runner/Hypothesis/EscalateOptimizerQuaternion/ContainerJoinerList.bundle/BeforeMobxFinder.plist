@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicSizedboxPressure</key>
+	<string>playbackWithoutState</string>
+	<key>fragmentMethodDirection</key>
+	<string>firstTernaryInteraction</string>
+	<key>giftPatternRotation</key>
+	<string>hashIncludeTier</string>
+	<key>lastDecorationOpacity</key>
+	<string>timerProcessMode</string>
+	<key>mapForState</key>
+	<string>requiredChannelMargin</string>
+	<key>queueSystemBorder</key>
+	<string>respectiveMediaqueryDistance</string>
+	<key>resilientNormPressure</key>
+	<string>notificationMethodSize</string>
+	<key>storyboardScopeSpeed</key>
+	<string>containerTypeShape</string>
+</dict>
+</plist>

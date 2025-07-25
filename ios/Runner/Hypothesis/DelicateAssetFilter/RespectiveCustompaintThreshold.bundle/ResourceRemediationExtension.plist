@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityBesideInterpreter</key>
+	<string>widgetLayerRate</string>
+	<key>activityWithoutWork</key>
+	<string>concurrentScrollName</string>
+	<key>controllerOperationSkewx</key>
+	<string>diffableCubitBound</string>
+	<key>firstTernaryVisible</key>
+	<string>providerAsAction</string>
+	<key>interpolationFlyweightContrast</key>
+	<string>flexibleCurveColor</string>
+	<key>mediumProviderTransparency</key>
+	<string>significantResultSpeed</string>
+	<key>storageTaskDelay</key>
+	<string>iconOperationInset</string>
+	<key>tickerOrValue</key>
+	<string>flexibleHashStatus</string>
+</dict>
+</plist>

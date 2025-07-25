@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionShapeCount</key>
+	<string>reactiveRectAcceleration</string>
+	<key>activityKindBound</key>
+	<string>ephemeralEffectPadding</string>
+	<key>displayableObserverDepth</key>
+	<string>tappableTangentAlignment</string>
+	<key>enabledGestureDistance</key>
+	<string>scrollableFutureStyle</string>
+	<key>equipmentOrNumber</key>
+	<string>accordionBoxScale</string>
+	<key>isolateAmongActivity</key>
+	<string>appbarAlongMediator</string>
+	<key>operationBufferName</key>
+	<string>sineMediatorAppearance</string>
+	<key>viewBeyondObserver</key>
+	<string>timerAlongBridge</string>
+</dict>
+</plist>

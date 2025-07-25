@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerIndicatorDuration</key>
+	<string>equipmentAdapterBound</string>
+	<key>immediateBrushFeedback</key>
+	<string>intuitiveActionAcceleration</string>
+	<key>kernelModeDuration</key>
+	<string>toolWithBuffer</string>
+	<key>labelAtType</key>
+	<string>hashWithoutPhase</string>
+	<key>labelMethodResponse</key>
+	<string>unactivatedApertureStyle</string>
+	<key>listenerSinceNumber</key>
+	<string>eventPrototypeFeedback</string>
+	<key>scrollableStreamTransparency</key>
+	<string>significantAlphaAppearance</string>
+	<key>sizeAdapterPressure</key>
+	<string>scaffoldTempleKind</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationPrototypeDensity</key>
+	<string>custompaintDespiteFacade</string>
+	<key>optionBeyondState</key>
+	<string>permissiveStreamBorder</string>
+	<key>previewContainPattern</key>
+	<string>getxInTemple</string>
+	<key>tappableBaseDirection</key>
+	<string>navigatorWithoutAction</string>
+</dict>
+</plist>

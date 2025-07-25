@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonForMethod</key>
+	<string>instructionVisitorScale</string>
+	<key>buttonPatternInset</key>
+	<string>localRoleFrequency</string>
+	<key>controllerDecoratorCenter</key>
+	<string>parallelSwiftShade</string>
+	<key>inactiveSignInterval</key>
+	<string>customDescriptorIndex</string>
+	<key>marginMethodContrast</key>
+	<string>painterVariableContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAtChain</key>
+	<string>cursorNumberOpacity</string>
+	<key>canvasFormDistance</key>
+	<string>completionTypeBound</string>
+	<key>compositionInterpreterMode</key>
+	<string>mediumIsolateDelay</string>
+	<key>containerLevelInteraction</key>
+	<string>catalystAgainstLevel</string>
+	<key>difficultSpotTint</key>
+	<string>ephemeralControllerSkewy</string>
+	<key>scrollableNavigationOrientation</key>
+	<string>optimizerThroughMemento</string>
+	<key>standaloneConfigurationPadding</key>
+	<string>getxPerFramework</string>
+	<key>timerContainEnvironment</key>
+	<string>chartOfTier</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOutsideJob</key>
+	<string>titleCommandShade</string>
+	<key>assetDuringJob</key>
+	<string>tweenLayerCenter</string>
+	<key>cubitAndCycle</key>
+	<string>significantDependencyBottom</string>
+	<key>immutableInterfaceInterval</key>
+	<string>exceptionPrototypeEdge</string>
+	<key>imperativeDecorationHue</key>
+	<string>spineValueRotation</string>
+	<key>offsetPlatformDistance</key>
+	<string>constConsumerBorder</string>
+	<key>primaryResourceSaturation</key>
+	<string>stateOperationSpeed</string>
+	<key>requiredTopicAcceleration</key>
+	<string>requestTypeKind</string>
+	<key>spineKindBottom</key>
+	<string>chapterFunctionOrientation</string>
+	<key>topicBeyondFramework</key>
+	<string>batchBesideProcess</string>
+</dict>
+</plist>

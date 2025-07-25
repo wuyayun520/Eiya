@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationDuringFacade</key>
+	<string>uniqueCheckboxDirection</string>
+	<key>pageviewAsStrategy</key>
+	<string>animationMediatorName</string>
+	<key>robustGradientForce</key>
+	<string>adaptiveEventIndex</string>
+	<key>uniformCubeTop</key>
+	<string>assetFunctionRotation</string>
+</dict>
+</plist>

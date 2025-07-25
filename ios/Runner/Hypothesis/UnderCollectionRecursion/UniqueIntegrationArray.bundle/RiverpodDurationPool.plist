@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderCommandOffset</key>
+	<string>sliderLikeMemento</string>
+	<key>completerVersusMediator</key>
+	<string>controllerActionScale</string>
+	<key>interactorStructureRight</key>
+	<string>transitionUntilStrategy</string>
+</dict>
+</plist>

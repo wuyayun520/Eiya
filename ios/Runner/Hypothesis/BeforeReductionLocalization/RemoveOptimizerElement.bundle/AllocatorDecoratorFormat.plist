@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSystemVisibility</key>
+	<string>playbackTypeTail</string>
+	<key>gradientVarSpacing</key>
+	<string>signWithoutAdapter</string>
+	<key>playbackFormDepth</key>
+	<string>sustainableZoneDistance</string>
+	<key>stateViaParam</key>
+	<string>globalHandlerOffset</string>
+	<key>viewLevelKind</key>
+	<string>localizationAgainstAction</string>
+</dict>
+</plist>

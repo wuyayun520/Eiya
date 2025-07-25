@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalAllocatorMode</key>
+	<string>eventAndLayer</string>
+	<key>mobxWithBuffer</key>
+	<string>normSincePhase</string>
+	<key>nibMediatorCount</key>
+	<string>basicAllocatorMargin</string>
+	<key>sinkUntilWork</key>
+	<string>futureObserverTension</string>
+	<key>sophisticatedCoordinatorAcceleration</key>
+	<string>topicThanOperation</string>
+	<key>uniformSessionOffset</key>
+	<string>skinWithParam</string>
+</dict>
+</plist>

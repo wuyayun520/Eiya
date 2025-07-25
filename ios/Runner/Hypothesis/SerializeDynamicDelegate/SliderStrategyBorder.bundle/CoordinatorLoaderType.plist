@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionContainMethod</key>
+	<string>topicAroundMethod</string>
+	<key>configurationDuringStructure</key>
+	<string>textChainFeedback</string>
+	<key>displayableUsecaseIndex</key>
+	<string>responsiveProgressbarOrientation</string>
+	<key>easyAwaitFlags</key>
+	<string>deferredExponentType</string>
+	<key>logEnvironmentSpeed</key>
+	<string>responsiveInjectionAcceleration</string>
+	<key>mediaPlatformSkewx</key>
+	<string>blocInsideContext</string>
+	<key>methodBridgeOrientation</key>
+	<string>cardAndFacade</string>
+	<key>screenContainStage</key>
+	<string>hashLevelSkewy</string>
+	<key>tickerStrategyName</key>
+	<string>smartRowSkewy</string>
+</dict>
+</plist>

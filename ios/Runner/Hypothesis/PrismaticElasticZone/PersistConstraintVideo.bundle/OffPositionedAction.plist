@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorAsTier</key>
+	<string>hardRoutePosition</string>
+	<key>iconNumberInset</key>
+	<string>enabledHandlerCount</string>
+	<key>intensityBesideMemento</key>
+	<string>pinchableRectIndex</string>
+	<key>otherSemanticsBound</key>
+	<string>documentOrProcess</string>
+	<key>scaleShapeDirection</key>
+	<string>immutablePositionFeedback</string>
+	<key>semanticNavigatorTag</key>
+	<string>mediumActionSaturation</string>
+</dict>
+</plist>

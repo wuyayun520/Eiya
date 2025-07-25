@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAndStage</key>
+	<string>hierarchicalDescriptorDepth</string>
+	<key>customUsageBehavior</key>
+	<string>vectorProxyPosition</string>
+	<key>delegateBufferMode</key>
+	<string>containerParamInterval</string>
+	<key>semanticContainerTension</key>
+	<string>mutableManagerAlignment</string>
+	<key>taskJobSize</key>
+	<string>mobxParamStyle</string>
+	<key>textAdapterTheme</key>
+	<string>mobileTierDistance</string>
+</dict>
+</plist>

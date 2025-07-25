@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheProxyDirection</key>
+	<string>agileAssetStatus</string>
+	<key>customCommandFeedback</key>
+	<string>swiftActivityEdge</string>
+	<key>handlerForSingleton</key>
+	<string>coordinatorInTask</string>
+	<key>rowPhaseDepth</key>
+	<string>routePrototypeSpeed</string>
+	<key>semanticNibTransparency</key>
+	<string>progressbarDuringSingleton</string>
+</dict>
+</plist>

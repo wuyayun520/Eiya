@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAgainstLayer</key>
+	<string>delegateFacadeSaturation</string>
+	<key>criticalStorageRotation</key>
+	<string>logarithmAtFacade</string>
+	<key>eagerCustompaintCoord</key>
+	<string>directEffectSpacing</string>
+	<key>futureParamInterval</key>
+	<string>streamAsState</string>
+	<key>interfaceProcessCoord</key>
+	<string>directlyMobileTail</string>
+	<key>providerCommandCount</key>
+	<string>certificateSinceWork</string>
+	<key>routeExceptDecorator</key>
+	<string>opaqueAlignmentAppearance</string>
+	<key>serviceMementoBottom</key>
+	<string>cubitTempleState</string>
+</dict>
+</plist>

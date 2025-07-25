@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionForVariable</key>
+	<string>modelCycleAcceleration</string>
+	<key>crudeSymbolInset</key>
+	<string>paddingLevelSaturation</string>
+	<key>dynamicProjectionValidation</key>
+	<string>radioByFacade</string>
+	<key>fusedAspectratioRate</key>
+	<string>concurrentFramePosition</string>
+	<key>hashDuringMemento</key>
+	<string>controllerVarDepth</string>
+	<key>queryInsideFlyweight</key>
+	<string>overlayActivityResponse</string>
+	<key>streamInsideComposite</key>
+	<string>resilientSubpixelTop</string>
+</dict>
+</plist>

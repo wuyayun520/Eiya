@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstComposite</key>
+	<string>appbarForVar</string>
+	<key>blocWithMediator</key>
+	<string>pinchableSegmentKind</string>
+	<key>bufferAtPrototype</key>
+	<string>interactorAroundKind</string>
+	<key>durationBeyondCycle</key>
+	<string>sequentialToolBorder</string>
+	<key>eagerStampAcceleration</key>
+	<string>sliderAmongTier</string>
+	<key>managerVariableInteraction</key>
+	<string>animatedcontainerAsKind</string>
+	<key>otherFrameDuration</key>
+	<string>subscriptionFromMode</string>
+	<key>tickerContainMediator</key>
+	<string>injectionTempleTension</string>
+	<key>unsortedMethodBound</key>
+	<string>movementFrameworkDuration</string>
+</dict>
+</plist>

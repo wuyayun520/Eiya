@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelViaStage</key>
+	<string>presenterAndAction</string>
+	<key>dialogsEnvironmentOffset</key>
+	<string>rectCyclePosition</string>
+	<key>matrixVisitorFormat</key>
+	<string>multiCoordinatorVelocity</string>
+	<key>prismaticTabviewEdge</key>
+	<string>tableInsideAdapter</string>
+	<key>stepAroundStyle</key>
+	<string>alignmentMementoFeedback</string>
+	<key>widgetLayerName</key>
+	<string>parallelLabelVelocity</string>
+	<key>zoneVarSaturation</key>
+	<string>effectWithoutOperation</string>
+</dict>
+</plist>

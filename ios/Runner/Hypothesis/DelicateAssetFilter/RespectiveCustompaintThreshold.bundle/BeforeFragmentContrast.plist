@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAgainstCommand</key>
+	<string>challengeNearCycle</string>
+	<key>isolateVersusTemple</key>
+	<string>radiusAmongTemple</string>
+	<key>managerActionRotation</key>
+	<string>decorationPatternHue</string>
+	<key>nibByContext</key>
+	<string>subscriptionInsideSingleton</string>
+	<key>resolverAtVar</key>
+	<string>pivotalGateName</string>
+	<key>robustDecorationTheme</key>
+	<string>loopOrBuffer</string>
+	<key>streamLayerLeft</key>
+	<string>delegateSystemDensity</string>
+</dict>
+</plist>

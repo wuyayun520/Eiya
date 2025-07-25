@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectEnvironmentFeedback</key>
+	<string>respectiveGridviewCenter</string>
+	<key>cartesianManagerRight</key>
+	<string>rowNumberFormat</string>
+	<key>frameAsComposite</key>
+	<string>painterDespiteTemple</string>
+	<key>gridDespiteAction</key>
+	<string>transformerModeFormat</string>
+	<key>metadataFormBehavior</key>
+	<string>allocatorShapeIndex</string>
+	<key>nativeConstraintName</key>
+	<string>stateProcessVisible</string>
+	<key>requiredTickerSaturation</key>
+	<string>basicCurveAlignment</string>
+	<key>sharedReducerPosition</key>
+	<string>sliderObserverVelocity</string>
+	<key>vectorTierMargin</key>
+	<string>tickerOrMemento</string>
+</dict>
+</plist>

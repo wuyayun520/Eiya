@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetExceptLevel</key>
+	<string>particleAndDecorator</string>
+	<key>mobxStageSkewy</key>
+	<string>euclideanGramInteraction</string>
+	<key>observerNearTask</key>
+	<string>gatePlatformFrequency</string>
+	<key>stateTierName</key>
+	<string>opaqueSliderMomentum</string>
+</dict>
+</plist>

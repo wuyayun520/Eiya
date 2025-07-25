@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDespiteProxy</key>
+	<string>coordinatorAgainstLayer</string>
+	<key>cycleInsideCycle</key>
+	<string>gridMediatorFrequency</string>
+	<key>imageTempleMargin</key>
+	<string>layerShapeSkewy</string>
+	<key>mediumAllocatorTop</key>
+	<string>nativeExtensionIndex</string>
+	<key>plateLikeMediator</key>
+	<string>deferredNavigationState</string>
+	<key>resizableCompletionFeedback</key>
+	<string>richtextDecoratorDirection</string>
+	<key>synchronousIsolateFrequency</key>
+	<string>animationSinceMode</string>
+	<key>taskViaParam</key>
+	<string>layoutStageInterval</string>
+</dict>
+</plist>

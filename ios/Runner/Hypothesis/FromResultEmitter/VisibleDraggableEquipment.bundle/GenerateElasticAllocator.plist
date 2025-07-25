@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellTierSkewx</key>
+	<string>musicExceptTemple</string>
+	<key>completerPhaseSize</key>
+	<string>activatedButtonPressure</string>
+	<key>disabledDocumentInteraction</key>
+	<string>sophisticatedMenuShade</string>
+	<key>ephemeralScreenSkewy</key>
+	<string>flexibleAllocatorInteraction</string>
+	<key>layoutAgainstEnvironment</key>
+	<string>denseMethodTint</string>
+	<key>missionUntilLevel</key>
+	<string>deferredDurationDelay</string>
+	<key>rowViaFlyweight</key>
+	<string>swiftCommandFrequency</string>
+</dict>
+</plist>

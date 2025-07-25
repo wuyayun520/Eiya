@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeVarCount</key>
+	<string>singleMomentumFeedback</string>
+	<key>enabledLayoutRight</key>
+	<string>resizableBaselineInset</string>
+	<key>imageStyleBehavior</key>
+	<string>tensorMonsterInset</string>
+	<key>intensityVarStatus</key>
+	<string>textDuringMode</string>
+	<key>spineBufferOrigin</key>
+	<string>cupertinoAtStructure</string>
+	<key>textureCycleTop</key>
+	<string>behaviorVersusType</string>
+	<key>widgetShapeRate</key>
+	<string>multiplicationWithoutVariable</string>
+</dict>
+</plist>

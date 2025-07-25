@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTableDensity</key>
+	<string>resourceFrameworkTheme</string>
+	<key>cacheChainRate</key>
+	<string>pageviewTypeOpacity</string>
+	<key>isolateSingletonInset</key>
+	<string>gridviewOfProxy</string>
+	<key>layoutVersusVisitor</key>
+	<string>channelDecoratorIndex</string>
+	<key>mediaValueVelocity</key>
+	<string>curveDecoratorFormat</string>
+	<key>taskMediatorMomentum</key>
+	<string>globalSizeHue</string>
+	<key>widgetChainFlags</key>
+	<string>asynchronousPriorityFrequency</string>
+</dict>
+</plist>

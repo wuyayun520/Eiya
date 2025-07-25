@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionValueFeedback</key>
+	<string>mapOrParam</string>
+	<key>builderNumberStyle</key>
+	<string>temporaryModelPosition</string>
+	<key>columnAndTier</key>
+	<string>fixedStoreFormat</string>
+	<key>finalPaddingColor</key>
+	<string>lazyDecorationShade</string>
+	<key>ignoredNavigationInteraction</key>
+	<string>navigationMementoSize</string>
+	<key>layerLikeStructure</key>
+	<string>providerProxyScale</string>
+	<key>opaqueLayoutScale</key>
+	<string>boxViaState</string>
+	<key>stateAgainstLayer</key>
+	<string>tensorTextBorder</string>
+	<key>staticTernaryInset</key>
+	<string>resultValueIndex</string>
+	<key>utilSystemMargin</key>
+	<string>decorationTierBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRouterInset</key>
+	<string>chapterDecoratorColor</string>
+	<key>containerVersusCommand</key>
+	<string>euclideanAllocatorSpacing</string>
+	<key>cupertinoTaskShape</key>
+	<string>materialLayoutVisible</string>
+	<key>directRequestDuration</key>
+	<string>injectionTierInset</string>
+	<key>firstContainerTheme</key>
+	<string>alertForOperation</string>
+	<key>flexibleSizedboxDirection</key>
+	<string>resultCommandAcceleration</string>
+	<key>inheritedSinkCount</key>
+	<string>boxVarMomentum</string>
+	<key>managerTempleBorder</key>
+	<string>swiftInterpreterFormat</string>
+	<key>segueWithoutSingleton</key>
+	<string>axisOperationSkewx</string>
+</dict>
+</plist>

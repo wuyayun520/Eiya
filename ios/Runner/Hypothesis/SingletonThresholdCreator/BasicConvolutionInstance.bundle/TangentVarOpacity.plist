@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasFlyweightFeedback</key>
+	<string>crudeSessionPosition</string>
+	<key>easyMovementSaturation</key>
+	<string>uniqueShaderResponse</string>
+	<key>listenerAroundType</key>
+	<string>singletonCompositeDirection</string>
+	<key>menuWithoutOperation</key>
+	<string>segueParamColor</string>
+	<key>normalCompleterBehavior</key>
+	<string>materialInsideParam</string>
+	<key>notificationStateAlignment</key>
+	<string>spotAmongProxy</string>
+	<key>popupAgainstParam</key>
+	<string>streamBesideFacade</string>
+	<key>protocolMethodFormat</key>
+	<string>streamLikePrototype</string>
+	<key>transitionBeyondPlatform</key>
+	<string>controllerAtAction</string>
+	<key>webTopicOpacity</key>
+	<string>providerNearState</string>
+</dict>
+</plist>

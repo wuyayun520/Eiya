@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderUntilAction</key>
+	<string>painterWithoutJob</string>
+	<key>capacitiesAsKind</key>
+	<string>layoutWithVar</string>
+	<key>decorationAgainstVariable</key>
+	<string>allocatorStateFormat</string>
+	<key>mediumButtonPadding</key>
+	<string>priorManagerInset</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemForProcess</key>
+	<string>entityTypePadding</string>
+	<key>gridScopeDuration</key>
+	<string>composableGridBehavior</string>
+	<key>seamlessHeapForce</key>
+	<string>decorationOutsideMode</string>
+	<key>serviceSinceFlyweight</key>
+	<string>declarativeServiceValidation</string>
+</dict>
+</plist>

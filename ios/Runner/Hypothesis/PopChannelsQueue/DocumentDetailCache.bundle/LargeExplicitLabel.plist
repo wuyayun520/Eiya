@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectForStrategy</key>
+	<string>crudeConstraintSkewy</string>
+	<key>baseProxyRate</key>
+	<string>configurationScopeOffset</string>
+	<key>promiseFromBuffer</key>
+	<string>mapThroughMediator</string>
+	<key>protectedSampleTag</key>
+	<string>overlayShapeState</string>
+	<key>storageAtChain</key>
+	<string>equalizationDuringForm</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionModalBehavior</key>
+	<string>logActionRate</string>
+	<key>activityAsTask</key>
+	<string>inheritedCatalystMode</string>
+	<key>intuitiveCellContrast</key>
+	<string>localizationAroundScope</string>
+	<key>mediocreSingletonFormat</key>
+	<string>particleFromNumber</string>
+	<key>nativeParticleBehavior</key>
+	<string>transformerCycleTop</string>
+	<key>navigatorAwayAdapter</key>
+	<string>publicSceneColor</string>
+	<key>otherScaffoldMode</key>
+	<string>reducerByStage</string>
+	<key>staticUsageCount</key>
+	<string>substantialResourceCenter</string>
+	<key>widgetBufferFlags</key>
+	<string>storyboardViaTemple</string>
+</dict>
+</plist>

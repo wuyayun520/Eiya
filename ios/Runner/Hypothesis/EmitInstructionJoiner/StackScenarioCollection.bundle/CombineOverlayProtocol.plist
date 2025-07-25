@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopProtocolAppearance</key>
+	<string>disabledTransitionResponse</string>
+	<key>diffableEffectRate</key>
+	<string>signAndContext</string>
+	<key>euclideanSpineKind</key>
+	<string>ephemeralTechniqueBrightness</string>
+	<key>oldTransitionVisibility</key>
+	<string>primaryBoxshadowFeedback</string>
+</dict>
+</plist>

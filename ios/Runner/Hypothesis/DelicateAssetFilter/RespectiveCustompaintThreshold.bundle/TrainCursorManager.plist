@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedProtocolRight</key>
+	<string>routeMediatorInteraction</string>
+	<key>instructionActionRotation</key>
+	<string>navigatorTaskTheme</string>
+	<key>nextProtocolCount</key>
+	<string>timerLikeVariable</string>
+	<key>notifierAsComposite</key>
+	<string>providerContextAlignment</string>
+</dict>
+</plist>

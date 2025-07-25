@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarCycleForce</key>
+	<string>autoRepositoryTint</string>
+	<key>asyncParameterInteraction</key>
+	<string>gestureParameterOrigin</string>
+	<key>coordinatorAtComposite</key>
+	<string>effectOfValue</string>
+	<key>enabledProviderEdge</key>
+	<string>notificationPlatformDuration</string>
+	<key>protectedAppbarTension</key>
+	<string>mediumMasterSize</string>
+</dict>
+</plist>

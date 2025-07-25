@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorChainVisible</key>
+	<string>switchValueInterval</string>
+	<key>coordinatorUntilEnvironment</key>
+	<string>prevServiceDuration</string>
+	<key>effectNearActivity</key>
+	<string>liteHistogramVelocity</string>
+	<key>profileStateFlags</key>
+	<string>scrollForPattern</string>
+	<key>tweenCommandDelay</key>
+	<string>lastSignatureLocation</string>
+</dict>
+</plist>

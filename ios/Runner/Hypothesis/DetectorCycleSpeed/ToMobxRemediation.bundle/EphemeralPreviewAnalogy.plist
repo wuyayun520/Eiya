@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constNavigatorAppearance</key>
+	<string>layoutPerMethod</string>
+	<key>isolateInterpreterLeft</key>
+	<string>finalBlocSkewx</string>
+	<key>optimizerPerProxy</key>
+	<string>providerStateTint</string>
+	<key>specifierDespiteSingleton</key>
+	<string>timerIncludeMediator</string>
+</dict>
+</plist>

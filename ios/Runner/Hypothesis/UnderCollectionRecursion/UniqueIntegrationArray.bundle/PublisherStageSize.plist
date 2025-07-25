@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLayoutDistance</key>
+	<string>backwardHistogramMode</string>
+	<key>cursorBeyondWork</key>
+	<string>gradientAmongActivity</string>
+	<key>keyPositionedFlags</key>
+	<string>singletonThroughObserver</string>
+	<key>metadataDespiteStyle</key>
+	<string>mediaqueryWithoutMemento</string>
+	<key>rowDecoratorFrequency</key>
+	<string>gestureChainTint</string>
+	<key>statefulMementoCount</key>
+	<string>tabbarAgainstMemento</string>
+</dict>
+</plist>

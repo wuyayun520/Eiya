@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleClipperDirection</key>
+	<string>taskInMemento</string>
+	<key>activatedAssetDelay</key>
+	<string>storyboardStrategyMomentum</string>
+	<key>cacheAdapterCount</key>
+	<string>buttonDecoratorScale</string>
+	<key>gridModeInterval</key>
+	<string>transitionByLevel</string>
+	<key>navigatorLikeShape</key>
+	<string>coordinatorWithVisitor</string>
+	<key>reductionModeVisible</key>
+	<string>transitionObserverTop</string>
+	<key>resourceStrategyOrientation</key>
+	<string>greatPointShade</string>
+	<key>responseAdapterDelay</key>
+	<string>statelessStyleEdge</string>
+	<key>richtextPhaseBehavior</key>
+	<string>asyncContextInterval</string>
+	<key>stackWorkTag</key>
+	<string>reusableSubpixelSaturation</string>
+</dict>
+</plist>

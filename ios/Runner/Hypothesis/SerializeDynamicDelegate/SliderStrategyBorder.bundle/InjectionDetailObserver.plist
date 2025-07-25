@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncUntilScope</key>
+	<string>nextFeatureDuration</string>
+	<key>autoHandlerDuration</key>
+	<string>spriteAdapterInterval</string>
+	<key>gridviewWithComposite</key>
+	<string>bitrateBesidePattern</string>
+	<key>ignoredMasterCoord</key>
+	<string>errorProxyCount</string>
+	<key>materialActionScale</key>
+	<string>momentumBufferValidation</string>
+	<key>mediumPopupBorder</key>
+	<string>viewAwayStrategy</string>
+	<key>modelLevelCoord</key>
+	<string>containerStateBehavior</string>
+	<key>modelStageFormat</key>
+	<string>builderBridgeSkewx</string>
+	<key>repositoryPatternTail</key>
+	<string>heroWithTask</string>
+	<key>routeScopeDistance</key>
+	<string>sessionNumberBrightness</string>
+</dict>
+</plist>

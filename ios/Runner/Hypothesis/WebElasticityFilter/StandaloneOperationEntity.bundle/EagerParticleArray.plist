@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAmongKind</key>
+	<string>dimensionObserverForce</string>
+	<key>channelsShapeBehavior</key>
+	<string>controllerOfChain</string>
+	<key>frameFromSingleton</key>
+	<string>lossSystemInterval</string>
+	<key>ternaryPhaseInterval</key>
+	<string>positionActivitySkewx</string>
+</dict>
+</plist>

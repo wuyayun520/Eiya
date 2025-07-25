@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDependencyShade</key>
+	<string>promiseFromShape</string>
+	<key>easyUsecaseDepth</key>
+	<string>finalFrameShade</string>
+	<key>featureAdapterLocation</key>
+	<string>otherProviderTop</string>
+	<key>graphicDecoratorPadding</key>
+	<string>previewTempleColor</string>
+	<key>gridviewPerMemento</key>
+	<string>relationalTextTag</string>
+	<key>liteTimerState</key>
+	<string>functionalTangentFrequency</string>
+	<key>menuPatternVisibility</key>
+	<string>fragmentThroughForm</string>
+	<key>originalCollectionOrientation</key>
+	<string>queryProcessAppearance</string>
+	<key>seamlessSignOffset</key>
+	<string>movementWithoutStage</string>
+	<key>specifyReferenceScale</key>
+	<string>nativeMultiplicationAcceleration</string>
+</dict>
+</plist>

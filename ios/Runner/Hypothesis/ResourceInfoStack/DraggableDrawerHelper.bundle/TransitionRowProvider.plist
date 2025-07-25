@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedBitrateIndex</key>
+	<string>fusedTransitionEdge</string>
+	<key>frameAwayMode</key>
+	<string>cupertinoInstructionEdge</string>
+	<key>reactiveReducerContrast</key>
+	<string>animationStateRight</string>
+	<key>resolverAtWork</key>
+	<string>basicGradientInset</string>
+	<key>seamlessOverlayDirection</key>
+	<string>asynchronousTechniqueOpacity</string>
+</dict>
+</plist>

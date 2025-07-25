@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletFormValidation</key>
+	<string>persistentStatefulTop</string>
+	<key>commandPatternCoord</key>
+	<string>usageBridgeBrightness</string>
+	<key>commandWithoutJob</key>
+	<string>timerCycleVelocity</string>
+	<key>localizationOrScope</key>
+	<string>hardCosineHead</string>
+	<key>normActivityAcceleration</key>
+	<string>mobxOutsideActivity</string>
+	<key>opaquePositionedTail</key>
+	<string>disparateDrawerState</string>
+	<key>queueProxyFeedback</key>
+	<string>opaqueConfigurationTransparency</string>
+</dict>
+</plist>

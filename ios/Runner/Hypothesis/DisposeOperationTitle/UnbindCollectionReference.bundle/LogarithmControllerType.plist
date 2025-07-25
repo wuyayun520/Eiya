@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPerCycle</key>
+	<string>assetActionCount</string>
+	<key>eventOperationColor</key>
+	<string>usecaseCommandColor</string>
+	<key>pageviewSystemResponse</key>
+	<string>roleAwayLevel</string>
+	<key>respectiveRoleTension</key>
+	<string>animationKindFlags</string>
+</dict>
+</plist>

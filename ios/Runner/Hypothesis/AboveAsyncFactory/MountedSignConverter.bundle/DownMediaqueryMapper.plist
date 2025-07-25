@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMobxAcceleration</key>
+	<string>captionTaskTop</string>
+	<key>fixedPreviewDistance</key>
+	<string>alignmentOrDecorator</string>
+	<key>listenerUntilStructure</key>
+	<string>routerActivityFrequency</string>
+	<key>marginFacadeAppearance</key>
+	<string>animationMementoAcceleration</string>
+	<key>robustSensorScale</key>
+	<string>progressbarNearVariable</string>
+</dict>
+</plist>

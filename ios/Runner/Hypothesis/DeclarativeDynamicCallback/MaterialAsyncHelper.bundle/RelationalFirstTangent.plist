@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactivePromiseSkewy</key>
+	<string>allocatorVisitorOpacity</string>
+	<key>keyMomentumAlignment</key>
+	<string>awaitVersusTask</string>
+	<key>labelOrType</key>
+	<string>decorationUntilFunction</string>
+	<key>semanticsPhaseVisible</key>
+	<string>containerFrameworkDirection</string>
+	<key>viewMethodInset</key>
+	<string>modalActivityContrast</string>
+</dict>
+</plist>

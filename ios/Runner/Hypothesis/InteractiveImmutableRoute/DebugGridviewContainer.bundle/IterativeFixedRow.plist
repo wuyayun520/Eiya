@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableDocumentOrigin</key>
+	<string>routeUntilTier</string>
+	<key>enabledResolverColor</key>
+	<string>transformerForComposite</string>
+	<key>routeVariableStyle</key>
+	<string>greatTickerPosition</string>
+	<key>standaloneRoleStatus</key>
+	<string>checklistDecoratorRate</string>
+	<key>timerContainVar</key>
+	<string>bufferVersusActivity</string>
+</dict>
+</plist>

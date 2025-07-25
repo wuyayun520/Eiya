@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistStyleCoord</key>
+	<string>actionWithoutPhase</string>
+	<key>dropdownbuttonForStyle</key>
+	<string>stackForShape</string>
+	<key>euclideanAnchorSaturation</key>
+	<string>accordionSkinSpacing</string>
+	<key>featureParameterBrightness</key>
+	<string>diffablePreviewHue</string>
+	<key>mutableModelRate</key>
+	<string>pivotalResultOpacity</string>
+	<key>transformerSystemRight</key>
+	<string>prevMenuSkewy</string>
+</dict>
+</plist>

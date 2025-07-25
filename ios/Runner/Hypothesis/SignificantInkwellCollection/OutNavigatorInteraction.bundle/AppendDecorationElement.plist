@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTimerDistance</key>
+	<string>popupWithoutMediator</string>
+	<key>compositionAtObserver</key>
+	<string>animatedcontainerWithMediator</string>
+	<key>interactiveTickerPressure</key>
+	<string>positionSystemFeedback</string>
+	<key>listviewStyleOrientation</key>
+	<string>providerAboutPhase</string>
+	<key>robustGridKind</key>
+	<string>intuitiveSizeAlignment</string>
+	<key>singletonFacadeTheme</key>
+	<string>rectAboutForm</string>
+	<key>taskAndSystem</key>
+	<string>builderFromFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>requiredUsecaseMode</key>
+	<string>nibObserverName</string>
+	<key>storageAndActivity</key>
+	<string>constDelegateKind</string>
+	<key>widgetStructureLeft</key>
+	<string>permissiveUtilDirection</string>
+	<key>widgetVersusTier</key>
+	<string>coordinatorBufferInterval</string>
+</dict>
+</plist>

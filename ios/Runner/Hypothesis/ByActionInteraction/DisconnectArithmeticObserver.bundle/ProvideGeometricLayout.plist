@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCommandRate</key>
+	<string>responsiveChannelSpeed</string>
+	<key>enabledHistogramResponse</key>
+	<string>modalCompositeShape</string>
+	<key>inkwellAlongActivity</key>
+	<string>activeButtonForce</string>
+	<key>queryInterpreterBound</key>
+	<string>numericalLocalizationIndex</string>
+	<key>responseContainScope</key>
+	<string>reducerByTemple</string>
+	<key>scaffoldAwayTier</key>
+	<string>singleContainerValidation</string>
+	<key>similarPositionKind</key>
+	<string>menuUntilOperation</string>
+	<key>statelessValueStyle</key>
+	<string>completerWithoutCommand</string>
+	<key>transitionTaskBehavior</key>
+	<string>disparateAlphaAppearance</string>
+</dict>
+</plist>

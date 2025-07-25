@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoShaderState</key>
+	<string>layoutAdapterForce</string>
+	<key>immediateStatefulMode</key>
+	<string>injectionBufferMomentum</string>
+	<key>mobileLikeStyle</key>
+	<string>resilientCustompaintBound</string>
+	<key>nodeVariableIndex</key>
+	<string>popupLevelCoord</string>
+	<key>permanentLayoutIndex</key>
+	<string>titleMethodSize</string>
+	<key>rowParamRotation</key>
+	<string>routeShapeStyle</string>
+</dict>
+</plist>

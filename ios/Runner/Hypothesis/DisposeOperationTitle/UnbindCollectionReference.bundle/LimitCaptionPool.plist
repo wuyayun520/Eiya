@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorUntilParam</key>
+	<string>interpolationUntilCommand</string>
+	<key>customizedMenuTag</key>
+	<string>fixedGraphBorder</string>
+	<key>intermediateAlignmentInset</key>
+	<string>assetTypeFrequency</string>
+	<key>liteLayoutVisible</key>
+	<string>sliderFrameworkFeedback</string>
+	<key>priorUsecaseBound</key>
+	<string>customLabelSaturation</string>
+	<key>reusableHistogramEdge</key>
+	<string>futureForComposite</string>
+	<key>routeInsideTask</key>
+	<string>tableTypeOpacity</string>
+	<key>sceneAdapterForce</key>
+	<string>dialogsWithoutSystem</string>
+</dict>
+</plist>

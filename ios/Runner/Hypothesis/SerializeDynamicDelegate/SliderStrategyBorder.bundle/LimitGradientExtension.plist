@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseResponseStyle</key>
+	<string>themeNearShape</string>
+	<key>finalEventSpacing</key>
+	<string>typicalSwiftSkewx</string>
+	<key>lazyChartContrast</key>
+	<string>crudeFrameLocation</string>
+	<key>originalTaskCoord</key>
+	<string>loopInParam</string>
+	<key>overlayVariableTheme</key>
+	<string>optionPerFramework</string>
+	<key>rectNearVisitor</key>
+	<string>delegateUntilPlatform</string>
+</dict>
+</plist>

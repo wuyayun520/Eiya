@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDelegateRate</key>
+	<string>gateForContext</string>
+	<key>captionScopeFlags</key>
+	<string>interactiveExponentAppearance</string>
+	<key>commandContainDecorator</key>
+	<string>profileViaEnvironment</string>
+	<key>desktopLayoutKind</key>
+	<string>widgetCompositeTop</string>
+	<key>factoryDuringActivity</key>
+	<string>robustReferenceName</string>
+	<key>groupInterpreterCoord</key>
+	<string>missionViaCycle</string>
+	<key>iconOutsideStructure</key>
+	<string>sliderStageDistance</string>
+	<key>musicInLayer</key>
+	<string>dedicatedGradientStatus</string>
+	<key>statelessVersusStrategy</key>
+	<string>graphicFacadeMomentum</string>
+	<key>switchObserverHue</key>
+	<string>getxSingletonStatus</string>
+</dict>
+</plist>

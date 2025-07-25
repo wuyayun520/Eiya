@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleWorkVelocity</key>
+	<string>desktopProfileDuration</string>
+	<key>decorationWithoutCycle</key>
+	<string>permanentBlocFrequency</string>
+	<key>handlerVarScale</key>
+	<string>storyboardSystemAlignment</string>
+	<key>intensityExceptLevel</key>
+	<string>gridviewInNumber</string>
+	<key>offsetThanComposite</key>
+	<string>invisibleCatalystColor</string>
+	<key>rectPlatformIndex</key>
+	<string>entityCompositeAcceleration</string>
+	<key>shaderAndVisitor</key>
+	<string>missionFacadeSpeed</string>
+	<key>staticCanvasStatus</key>
+	<string>constraintAtComposite</string>
+	<key>staticStreamSpacing</key>
+	<string>widgetWithMode</string>
+</dict>
+</plist>

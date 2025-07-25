@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCompositionBound</key>
+	<string>standaloneCertificateSpeed</string>
+	<key>asynchronousAccessoryBound</key>
+	<string>managerValueSkewx</string>
+	<key>composableGramFeedback</key>
+	<string>serviceMementoCenter</string>
+	<key>concreteBinarySkewx</key>
+	<string>lostPainterTransparency</string>
+	<key>featureAtProcess</key>
+	<string>fusedBlocVisible</string>
+	<key>grainInterpreterSpacing</key>
+	<string>synchronousGraphDelay</string>
+	<key>popupStyleKind</key>
+	<string>protectedMemberFormat</string>
+	<key>resizableBlocResponse</key>
+	<string>elasticUsageVisible</string>
+	<key>textOperationSkewx</key>
+	<string>gridviewStrategyInteraction</string>
+</dict>
+</plist>

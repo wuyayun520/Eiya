@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainStrategyOffset</key>
+	<string>subtleNotifierHead</string>
+	<key>heapDecoratorValidation</key>
+	<string>multiplicationInsideMode</string>
+	<key>memberSincePlatform</key>
+	<string>methodContainOperation</string>
+	<key>mobileTransformerMode</key>
+	<string>tickerAroundBuffer</string>
+	<key>mutableSpritePadding</key>
+	<string>dependencyCompositeCoord</string>
+	<key>particleAwaySystem</key>
+	<string>desktopResourceIndex</string>
+	<key>responseWithKind</key>
+	<string>buttonMediatorBrightness</string>
+	<key>statefulSemanticsCoord</key>
+	<string>contractionLevelKind</string>
+	<key>textureInFunction</key>
+	<string>eagerConfigurationEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupAdapterVisibility</key>
+	<string>inheritedChannelSize</string>
+	<key>largeBoxOrigin</key>
+	<string>builderContextMode</string>
+	<key>notifierMethodOrigin</key>
+	<string>toolProcessDepth</string>
+	<key>parallelTransitionScale</key>
+	<string>rectAboutNumber</string>
+	<key>publicAllocatorLocation</key>
+	<string>plateLayerKind</string>
+	<key>unactivatedTransformerAppearance</key>
+	<string>firstDocumentOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderContainMediator</key>
+	<string>oldConstraintOpacity</string>
+	<key>cellOutsideChain</key>
+	<string>visibleNotificationFormat</string>
+	<key>entityIncludeNumber</key>
+	<string>layoutWithoutAdapter</string>
+	<key>factoryCommandDirection</key>
+	<string>retainedUnaryBottom</string>
+	<key>playbackObserverTheme</key>
+	<string>reductionFlyweightFormat</string>
+	<key>resourceViaVar</key>
+	<string>draggableSliderType</string>
+	<key>segueStyleName</key>
+	<string>painterStyleFeedback</string>
+	<key>unaryDuringObserver</key>
+	<string>completionSingletonAlignment</string>
+</dict>
+</plist>

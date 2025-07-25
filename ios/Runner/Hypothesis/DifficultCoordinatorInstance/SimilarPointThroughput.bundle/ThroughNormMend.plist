@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTransitionBottom</key>
+	<string>sequentialVariantVisible</string>
+	<key>channelsParamSkewy</key>
+	<string>exceptionThroughPrototype</string>
+	<key>pinchableOverlayDelay</key>
+	<string>accessibleDrawerVisibility</string>
+	<key>providerFlyweightMode</key>
+	<string>playbackAsWork</string>
+	<key>timerOrPlatform</key>
+	<string>localizationAroundVar</string>
+</dict>
+</plist>

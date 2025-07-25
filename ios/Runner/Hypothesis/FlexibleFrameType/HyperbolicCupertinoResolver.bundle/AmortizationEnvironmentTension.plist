@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowShapeType</key>
+	<string>instructionMementoAppearance</string>
+	<key>directlyGesturedetectorSpacing</key>
+	<string>logUntilContext</string>
+	<key>fusedCursorOffset</key>
+	<string>intuitiveRowAppearance</string>
+	<key>progressbarPatternPressure</key>
+	<string>backwardWidgetFrequency</string>
+</dict>
+</plist>

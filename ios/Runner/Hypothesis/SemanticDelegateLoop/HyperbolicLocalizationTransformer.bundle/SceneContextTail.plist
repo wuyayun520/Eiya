@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorVarMargin</key>
+	<string>promiseAgainstState</string>
+	<key>flexibleCubitVisible</key>
+	<string>prevObserverSkewy</string>
+	<key>integerVisitorAcceleration</key>
+	<string>sceneLayerCoord</string>
+	<key>nodeMethodMode</key>
+	<string>webInterfacePosition</string>
+	<key>subscriptionAboutLayer</key>
+	<string>storageAtVar</string>
+	<key>topicFlyweightRotation</key>
+	<string>ignoredAppbarState</string>
+	<key>touchUntilComposite</key>
+	<string>intermediateAnchorStyle</string>
+</dict>
+</plist>

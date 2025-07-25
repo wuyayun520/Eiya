@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBlocStatus</key>
+	<string>visiblePreviewHue</string>
+	<key>constraintNearKind</key>
+	<string>bufferContainSystem</string>
+	<key>menuTierDirection</key>
+	<string>grayscaleCommandCoord</string>
+	<key>overlayFrameworkRotation</key>
+	<string>radiusShapeVisible</string>
+	<key>scaleAroundContext</key>
+	<string>sampleCycleLocation</string>
+	<key>utilInCycle</key>
+	<string>crudeOffsetPadding</string>
+</dict>
+</plist>

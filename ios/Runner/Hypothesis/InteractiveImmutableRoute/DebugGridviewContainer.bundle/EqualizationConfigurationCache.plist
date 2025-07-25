@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocIncludeActivity</key>
+	<string>priorityInsideShape</string>
+	<key>completerStateForce</key>
+	<string>nativeCacheSaturation</string>
+	<key>finalMonsterTail</key>
+	<string>permanentScrollFeedback</string>
+	<key>notificationFromDecorator</key>
+	<string>lostWidgetDistance</string>
+	<key>petThanLayer</key>
+	<string>finalVectorDirection</string>
+	<key>richtextAndTier</key>
+	<string>currentButtonScale</string>
+</dict>
+</plist>

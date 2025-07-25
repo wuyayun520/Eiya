@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDelegateOpacity</key>
+	<string>effectWorkStatus</string>
+	<key>asyncShapeOpacity</key>
+	<string>modelFromMemento</string>
+	<key>blocContextCoord</key>
+	<string>missedDecorationInset</string>
+	<key>chapterNumberOrigin</key>
+	<string>discardedTangentStatus</string>
+	<key>durationVariableBehavior</key>
+	<string>firstEventInteraction</string>
+	<key>entropyPhasePosition</key>
+	<string>inkwellChainType</string>
+	<key>metadataStrategyDensity</key>
+	<string>logarithmModeMargin</string>
+	<key>methodViaFramework</key>
+	<string>basicOptionRight</string>
+</dict>
+</plist>

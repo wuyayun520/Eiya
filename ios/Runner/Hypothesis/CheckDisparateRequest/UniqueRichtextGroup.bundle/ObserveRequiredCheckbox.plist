@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedAssetTail</key>
+	<string>injectionTypeVisible</string>
+	<key>imageContextSpacing</key>
+	<string>aspectExceptParameter</string>
+	<key>publicLabelTheme</key>
+	<string>subscriptionCycleDuration</string>
+	<key>requestActivityTheme</key>
+	<string>promiseOperationScale</string>
+</dict>
+</plist>

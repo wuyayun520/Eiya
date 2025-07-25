@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMobxPosition</key>
+	<string>dynamicBoxshadowDelay</string>
+	<key>displayablePopupVisible</key>
+	<string>greatTitlePressure</string>
+	<key>numericalGradientOrientation</key>
+	<string>animationScopeCoord</string>
+</dict>
+</plist>

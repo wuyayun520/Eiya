@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeAsMode</key>
+	<string>interactorPhaseBrightness</string>
+	<key>curveBufferTag</key>
+	<string>builderProcessTag</string>
+	<key>diversifiedGesturedetectorFlags</key>
+	<string>intermediateUtilInset</string>
+	<key>firstStoreInterval</key>
+	<string>interactiveControllerRotation</string>
+	<key>prevSkinVisible</key>
+	<string>masterDecoratorVisibility</string>
+	<key>storyboardThanBuffer</key>
+	<string>providerActionDelay</string>
+	<key>transformerInterpreterContrast</key>
+	<string>responsiveFactoryIndex</string>
+	<key>usecaseStateScale</key>
+	<string>sinkSincePhase</string>
+</dict>
+</plist>

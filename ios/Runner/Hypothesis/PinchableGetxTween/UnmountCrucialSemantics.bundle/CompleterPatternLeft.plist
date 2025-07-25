@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGiftShape</key>
+	<string>containerNumberShape</string>
+	<key>coordinatorOfPrototype</key>
+	<string>delicateCellHue</string>
+	<key>customizedControllerValidation</key>
+	<string>basicGetxSkewy</string>
+	<key>directViewDuration</key>
+	<string>commonChecklistPosition</string>
+	<key>dynamicExtensionHue</key>
+	<string>sliderWorkTint</string>
+	<key>enabledUtilInteraction</key>
+	<string>currentRowTransparency</string>
+	<key>layoutBeyondWork</key>
+	<string>spriteNearContext</string>
+	<key>mobileListenerInterval</key>
+	<string>layoutNumberSize</string>
+	<key>offsetVersusAdapter</key>
+	<string>navigatorActionHue</string>
+</dict>
+</plist>

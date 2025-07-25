@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionEnvironmentShade</key>
+	<string>requestOrContext</string>
+	<key>disabledCoordinatorStyle</key>
+	<string>sceneStyleVisible</string>
+	<key>indicatorFacadeSaturation</key>
+	<string>resizableAssetName</string>
+	<key>interpolationThanFunction</key>
+	<string>hierarchicalTweenForce</string>
+	<key>listenerOutsideJob</key>
+	<string>liteEqualizationBound</string>
+	<key>masterWithTier</key>
+	<string>timerSystemPosition</string>
+	<key>normalPreviewRight</key>
+	<string>relationalPresenterCoord</string>
+</dict>
+</plist>

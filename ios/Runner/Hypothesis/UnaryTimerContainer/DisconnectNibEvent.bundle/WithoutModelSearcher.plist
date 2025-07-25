@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchDecoratorLocation</key>
+	<string>crucialEffectInset</string>
+	<key>controllerWithoutMemento</key>
+	<string>overlayDuringCycle</string>
+	<key>durationVersusPhase</key>
+	<string>sessionFromProxy</string>
+	<key>graphOfVisitor</key>
+	<string>composableTextLocation</string>
+	<key>momentumStateOrigin</key>
+	<string>imageContainStructure</string>
+	<key>smartGraphDepth</key>
+	<string>parallelDescriptorName</string>
+</dict>
+</plist>

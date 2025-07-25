@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringPhase</key>
+	<string>timerBesideEnvironment</string>
+	<key>rowViaMediator</key>
+	<string>builderVariableSkewy</string>
+	<key>semanticsExceptVariable</key>
+	<string>numericalTextCoord</string>
+	<key>streamContainOperation</key>
+	<string>crudeKernelCount</string>
+</dict>
+</plist>

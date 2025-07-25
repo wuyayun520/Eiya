@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitLayerHue</key>
+	<string>listviewWithFlyweight</string>
+	<key>intermediateResourceRight</key>
+	<string>channelContextName</string>
+	<key>responsiveNibEdge</key>
+	<string>storeMethodType</string>
+	<key>sizeScopeBound</key>
+	<string>metadataCycleVelocity</string>
+	<key>stateFrameworkSaturation</key>
+	<string>graphicVarSkewy</string>
+	<key>temporaryRiverpodTransparency</key>
+	<string>drawerPhaseType</string>
+</dict>
+</plist>

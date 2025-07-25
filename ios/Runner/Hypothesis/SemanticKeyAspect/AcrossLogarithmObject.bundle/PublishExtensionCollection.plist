@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexSystemMode</key>
+	<string>injectionTypeDuration</string>
+	<key>gridObserverVisibility</key>
+	<string>sineBeyondTier</string>
+	<key>movementSinceAction</key>
+	<string>mapOperationResponse</string>
+	<key>precisionStrategyAcceleration</key>
+	<string>unsortedFrameDelay</string>
+	<key>rowMethodLocation</key>
+	<string>tabviewAdapterSpeed</string>
+	<key>sophisticatedCollectionBrightness</key>
+	<string>customizedOffsetRight</string>
+	<key>storyboardOrLayer</key>
+	<string>resolverPlatformType</string>
+	<key>usageForSystem</key>
+	<string>interactorActionPosition</string>
+</dict>
+</plist>

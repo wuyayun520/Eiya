@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAlertShade</key>
+	<string>statelessSingletonAcceleration</string>
+	<key>callbackBridgeShade</key>
+	<string>scaffoldLevelShade</string>
+	<key>currentRemainderSkewx</key>
+	<string>streamBufferKind</string>
+	<key>delegateCompositeFeedback</key>
+	<string>mobileDurationVisibility</string>
+	<key>hyperbolicCursorDelay</key>
+	<string>viewViaChain</string>
+</dict>
+</plist>

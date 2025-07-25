@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVariableValidation</key>
+	<string>composableViewName</string>
+	<key>beginnerSubscriptionFrequency</key>
+	<string>graphicByKind</string>
+	<key>completionWithLayer</key>
+	<string>scrollableNavigatorTransparency</string>
+	<key>hashScopeFormat</key>
+	<string>intuitiveFeatureSpeed</string>
+	<key>modelInterpreterCenter</key>
+	<string>imperativeHeapVisible</string>
+	<key>particleOperationVelocity</key>
+	<string>subscriptionContainParam</string>
+	<key>serviceFacadeCenter</key>
+	<string>gramVariableTint</string>
+	<key>subpixelKindValidation</key>
+	<string>descriptionAgainstType</string>
+	<key>tensorThreadBorder</key>
+	<string>referenceTempleRotation</string>
+</dict>
+</plist>

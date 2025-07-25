@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxOperationSpacing</key>
+	<string>sensorOrNumber</string>
+	<key>commandBeyondInterpreter</key>
+	<string>frameNumberOffset</string>
+	<key>completerOrPhase</key>
+	<string>appbarAmongFacade</string>
+	<key>deferredControllerSkewx</key>
+	<string>intensityDuringStyle</string>
+	<key>metadataAwayFlyweight</key>
+	<string>inactiveSinkTint</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaWorkValidation</key>
+	<string>protectedCursorScale</string>
+	<key>kernelWithoutScope</key>
+	<string>resilientGridviewInset</string>
+	<key>promiseFacadePadding</key>
+	<string>cartesianTextSkewy</string>
+	<key>robustPlateBound</key>
+	<string>layoutNumberSpeed</string>
+	<key>statelessGraphBound</key>
+	<string>tableOperationCoord</string>
+	<key>vectorParameterOrientation</key>
+	<string>routerLikeSingleton</string>
+</dict>
+</plist>

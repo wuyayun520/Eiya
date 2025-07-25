@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartSinceMethod</key>
+	<string>channelAwayStrategy</string>
+	<key>ephemeralStreamPosition</key>
+	<string>channelsDespiteStage</string>
+	<key>functionalStreamOrientation</key>
+	<string>taskCommandInteraction</string>
+	<key>grayscaleJobDelay</key>
+	<string>graphFromComposite</string>
+	<key>opaqueNavigatorType</key>
+	<string>positionedAndStructure</string>
+	<key>specifierBySystem</key>
+	<string>providerSinceAction</string>
+	<key>textureMethodHue</key>
+	<string>controllerMementoRotation</string>
+	<key>unaryAmongStrategy</key>
+	<string>scrollableThreadSkewy</string>
+	<key>widgetStageAppearance</key>
+	<string>normalQueueMargin</string>
+</dict>
+</plist>

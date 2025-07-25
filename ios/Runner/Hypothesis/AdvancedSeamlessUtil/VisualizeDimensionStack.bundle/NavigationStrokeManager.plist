@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandOperationColor</key>
+	<string>asyncCapsuleDuration</string>
+	<key>discardedDescriptionFeedback</key>
+	<string>retainedMasterVelocity</string>
+	<key>graphicVersusPlatform</key>
+	<string>flexibleAsyncTransparency</string>
+	<key>hashSinceValue</key>
+	<string>euclideanStorageKind</string>
+	<key>ignoredSkirtVelocity</key>
+	<string>signViaAction</string>
+	<key>loopDuringFlyweight</key>
+	<string>gateViaMediator</string>
+	<key>monsterAlongChain</key>
+	<string>mobxFlyweightState</string>
+	<key>observerAndVar</key>
+	<string>characterStyleStyle</string>
+	<key>webModelAlignment</key>
+	<string>convolutionDuringChain</string>
+</dict>
+</plist>

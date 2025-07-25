@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularSpriteOffset</key>
+	<string>gesturedetectorEnvironmentDirection</string>
+	<key>heapPatternSpeed</key>
+	<string>criticalSkirtDelay</string>
+	<key>positionAwayAction</key>
+	<string>accessoryOfValue</string>
+	<key>resourceOperationBorder</key>
+	<string>riverpodValueTransparency</string>
+</dict>
+</plist>

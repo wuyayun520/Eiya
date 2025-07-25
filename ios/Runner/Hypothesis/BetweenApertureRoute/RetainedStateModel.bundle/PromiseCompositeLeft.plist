@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateDecoratorFrequency</key>
+	<string>resolverWithoutBridge</string>
+	<key>cupertinoIncludeVariable</key>
+	<string>liteContainerFormat</string>
+	<key>invisibleTabviewShade</key>
+	<string>widgetByCycle</string>
+	<key>reusableRequestInteraction</key>
+	<string>channelsInsideVar</string>
+	<key>stateStageBehavior</key>
+	<string>customThreadDelay</string>
+	<key>widgetObserverType</key>
+	<string>scrollAmongComposite</string>
+</dict>
+</plist>

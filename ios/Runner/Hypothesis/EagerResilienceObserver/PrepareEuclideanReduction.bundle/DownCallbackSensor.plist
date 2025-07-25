@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardEffectInteraction</key>
+	<string>lazyMarginCoord</string>
+	<key>mapLikeState</key>
+	<string>boxBufferPosition</string>
+	<key>radioTaskVelocity</key>
+	<string>intensityVersusMediator</string>
+	<key>reusableFlexRotation</key>
+	<string>mediumExponentAlignment</string>
+	<key>timerVisitorBound</key>
+	<string>inheritedRouterResponse</string>
+</dict>
+</plist>

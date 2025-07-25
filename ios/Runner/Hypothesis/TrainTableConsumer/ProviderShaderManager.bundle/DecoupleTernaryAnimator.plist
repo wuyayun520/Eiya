@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationDuringStage</key>
+	<string>optionTierDirection</string>
+	<key>criticalCallbackTransparency</key>
+	<string>fixedViewName</string>
+	<key>denseGestureRight</key>
+	<string>titleLikeMethod</string>
+	<key>dependencyMethodPadding</key>
+	<string>originalChannelInterval</string>
+	<key>hyperbolicKernelCoord</key>
+	<string>publicListviewInteraction</string>
+	<key>navigatorShapeStatus</key>
+	<string>sizeMementoHue</string>
+	<key>routerValueAppearance</key>
+	<string>unactivatedNavigatorMomentum</string>
+	<key>subsequentProviderTint</key>
+	<string>immediateSizedboxIndex</string>
+	<key>textfieldBesideCycle</key>
+	<string>customAwaitOrientation</string>
+</dict>
+</plist>

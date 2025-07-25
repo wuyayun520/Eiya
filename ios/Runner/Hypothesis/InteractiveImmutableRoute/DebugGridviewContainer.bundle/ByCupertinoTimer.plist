@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedReducerBorder</key>
+	<string>descriptionAsTemple</string>
+	<key>delegateByPrototype</key>
+	<string>sizedboxAdapterShade</string>
+	<key>directlyContainerScale</key>
+	<string>hashOutsideState</string>
+	<key>hardBufferAppearance</key>
+	<string>autoDelegateMode</string>
+	<key>imperativeFragmentSkewx</key>
+	<string>spriteOperationBrightness</string>
+	<key>mediumIndicatorSkewx</key>
+	<string>constraintDuringPrototype</string>
+	<key>reactivePositionDelay</key>
+	<string>alignmentVariableSkewx</string>
+	<key>reusableInterfaceMode</key>
+	<string>labelContainSingleton</string>
+</dict>
+</plist>

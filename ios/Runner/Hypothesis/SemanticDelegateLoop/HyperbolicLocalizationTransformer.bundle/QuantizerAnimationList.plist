@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineChainStyle</key>
+	<string>mainAllocatorFlags</string>
+	<key>constStreamDirection</key>
+	<string>immediateKernelFeedback</string>
+	<key>delegateSinceKind</key>
+	<string>intuitiveProtocolTag</string>
+	<key>hashKindForce</key>
+	<string>cellInterpreterSpeed</string>
+	<key>imperativeTopicBound</key>
+	<string>nibPatternScale</string>
+</dict>
+</plist>

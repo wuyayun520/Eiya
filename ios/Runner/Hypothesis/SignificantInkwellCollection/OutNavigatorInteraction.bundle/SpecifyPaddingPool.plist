@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStructureFeedback</key>
+	<string>rectObserverTail</string>
+	<key>callbackAboutVar</key>
+	<string>intuitiveCupertinoAlignment</string>
+	<key>discardedTweenBehavior</key>
+	<string>interactorBufferAcceleration</string>
+	<key>functionalDrawerLocation</key>
+	<string>shaderProxyDensity</string>
+	<key>metadataLayerTop</key>
+	<string>paddingKindHue</string>
+	<key>precisionNearForm</key>
+	<string>sortedBehaviorResponse</string>
+	<key>statelessTextOrigin</key>
+	<string>entropyAndAdapter</string>
+</dict>
+</plist>

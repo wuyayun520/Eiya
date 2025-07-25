@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryMementoBehavior</key>
+	<string>challengeVersusStrategy</string>
+	<key>adaptiveCubitSkewy</key>
+	<string>gateBySystem</string>
+	<key>cartesianErrorValidation</key>
+	<string>previewSystemLocation</string>
+	<key>cupertinoStyleOrientation</key>
+	<string>allocatorExceptFacade</string>
+	<key>radiusBeyondCommand</key>
+	<string>lastAsyncAlignment</string>
+	<key>usageStrategyForce</key>
+	<string>entityAndJob</string>
+	<key>vectorFromAdapter</key>
+	<string>modelOutsideStrategy</string>
+	<key>widgetMediatorContrast</key>
+	<string>contractionJobDuration</string>
+</dict>
+</plist>

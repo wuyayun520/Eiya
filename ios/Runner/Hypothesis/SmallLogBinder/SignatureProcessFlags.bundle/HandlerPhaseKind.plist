@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBesideOperation</key>
+	<string>diffableActionDepth</string>
+	<key>compositionalAllocatorFeedback</key>
+	<string>exceptionThanInterpreter</string>
+	<key>expandedCompositeCenter</key>
+	<string>denseSpotSpacing</string>
+	<key>mobileEffectFormat</key>
+	<string>containerContainSingleton</string>
+	<key>mutableResourceValidation</key>
+	<string>staticProfileColor</string>
+	<key>rapidIsolateFormat</key>
+	<string>streamPerAction</string>
+	<key>rapidQueueDistance</key>
+	<string>semanticTimerOpacity</string>
+	<key>statelessInPhase</key>
+	<string>commandAmongMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarIncludeVariable</key>
+	<string>promiseAndJob</string>
+	<key>columnForProcess</key>
+	<string>resizableBorderState</string>
+	<key>descriptorSystemCoord</key>
+	<string>logPlatformMargin</string>
+	<key>finalPlaybackContrast</key>
+	<string>compositionalBatchForce</string>
+	<key>gestureProxyOffset</key>
+	<string>textNearWork</string>
+	<key>grayscaleFacadeDelay</key>
+	<string>accordionRowForce</string>
+	<key>protectedListviewBrightness</key>
+	<string>immutableFactoryPadding</string>
+	<key>spotModeOrientation</key>
+	<string>cupertinoRouteKind</string>
+	<key>tensorConfigurationSkewx</key>
+	<string>skinAboutState</string>
+</dict>
+</plist>

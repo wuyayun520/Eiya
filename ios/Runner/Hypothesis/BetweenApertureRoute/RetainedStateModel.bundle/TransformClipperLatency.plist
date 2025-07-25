@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesSingletonTransparency</key>
+	<string>textForShape</string>
+	<key>deferredPositionedBehavior</key>
+	<string>providerMediatorRate</string>
+	<key>reducerStructureVisibility</key>
+	<string>sensorNearShape</string>
+	<key>stampSingletonFrequency</key>
+	<string>requiredCardFormat</string>
+	<key>tappableTabbarSize</key>
+	<string>diffableResolverDepth</string>
+</dict>
+</plist>

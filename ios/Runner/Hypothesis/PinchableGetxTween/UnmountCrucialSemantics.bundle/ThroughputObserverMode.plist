@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonOutsideActivity</key>
+	<string>smallParticleMargin</string>
+	<key>elasticAlphaShape</key>
+	<string>localizationCommandKind</string>
+	<key>errorCompositeScale</key>
+	<string>lossVersusComposite</string>
+	<key>fixedBaselineTransparency</key>
+	<string>clipperOfState</string>
+	<key>flexTaskRate</key>
+	<string>variantThroughTier</string>
+	<key>hardSwitchSpeed</key>
+	<string>bulletCompositeKind</string>
+	<key>imageAwayCycle</key>
+	<string>playbackAwayMode</string>
+	<key>logUntilCommand</key>
+	<string>activityDespiteLayer</string>
+	<key>musicFormDirection</key>
+	<string>transformerModeTransparency</string>
+	<key>numericalPromiseCount</key>
+	<string>rowLayerScale</string>
+</dict>
+</plist>

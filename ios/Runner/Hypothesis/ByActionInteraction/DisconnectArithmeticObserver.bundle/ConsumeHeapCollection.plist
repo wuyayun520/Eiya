@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralGrayscaleLocation</key>
+	<string>textParameterVisibility</string>
+	<key>heroLevelPadding</key>
+	<string>symmetricListviewPadding</string>
+	<key>notifierStageAcceleration</key>
+	<string>convolutionMediatorOrientation</string>
+	<key>reducerWithoutTier</key>
+	<string>controllerNearProcess</string>
+	<key>sceneFormPadding</key>
+	<string>inheritedRouterMargin</string>
+	<key>scrollAndVisitor</key>
+	<string>explicitSpecifierDensity</string>
+	<key>smallPositionRotation</key>
+	<string>routerMementoPressure</string>
+	<key>substantialRouterMomentum</key>
+	<string>interpolationAsStrategy</string>
+	<key>timerViaJob</key>
+	<string>musicLevelTheme</string>
+</dict>
+</plist>

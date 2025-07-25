@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationPhaseInterval</key>
+	<string>accessibleBorderAppearance</string>
+	<key>normInFramework</key>
+	<string>desktopMaterialStyle</string>
+	<key>reducerInStyle</key>
+	<string>petByForm</string>
+	<key>singleBrushVelocity</key>
+	<string>arithmeticPatternForce</string>
+	<key>timerDuringShape</key>
+	<string>channelMediatorFrequency</string>
+	<key>usecaseActivityEdge</key>
+	<string>assetByScope</string>
+</dict>
+</plist>

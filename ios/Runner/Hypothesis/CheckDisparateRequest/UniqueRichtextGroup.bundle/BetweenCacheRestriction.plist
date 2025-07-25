@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateVariantRate</key>
+	<string>workflowVersusAction</string>
+	<key>extensionInsideAction</key>
+	<string>behaviorExceptState</string>
+	<key>kernelFromDecorator</key>
+	<string>animationWithoutPhase</string>
+	<key>precisionStageAlignment</key>
+	<string>listviewVersusBridge</string>
+	<key>prevControllerDirection</key>
+	<string>mobileRouteValidation</string>
+	<key>similarCommandValidation</key>
+	<string>notifierWithBridge</string>
+	<key>skinVersusType</key>
+	<string>graphOutsideStyle</string>
+	<key>standaloneResourceStyle</key>
+	<string>errorParameterSkewx</string>
+	<key>statelessNotifierBehavior</key>
+	<string>plateNearBridge</string>
+	<key>viewAtDecorator</key>
+	<string>flexFormResponse</string>
+</dict>
+</plist>

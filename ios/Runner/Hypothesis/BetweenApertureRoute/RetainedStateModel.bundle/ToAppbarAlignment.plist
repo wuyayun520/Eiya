@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionStyleCenter</key>
+	<string>scaffoldChainTop</string>
+	<key>errorIncludeEnvironment</key>
+	<string>directScreenAlignment</string>
+	<key>methodSinceForm</key>
+	<string>remainderInEnvironment</string>
+	<key>observerAtChain</key>
+	<string>statePrototypeVisible</string>
+	<key>resourceOutsideFacade</key>
+	<string>lazySemanticsValidation</string>
+	<key>retainedHeapName</key>
+	<string>specifierPlatformOrientation</string>
+</dict>
+</plist>

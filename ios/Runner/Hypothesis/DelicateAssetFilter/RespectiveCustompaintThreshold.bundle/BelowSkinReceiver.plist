@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerCycleContrast</key>
+	<string>fusedLoopTransparency</string>
+	<key>criticalNodeStatus</key>
+	<string>hierarchicalIntegerOrigin</string>
+	<key>dialogsPerKind</key>
+	<string>modalAroundMediator</string>
+	<key>futureOutsideActivity</key>
+	<string>decorationFormRotation</string>
+	<key>getxOutsideAdapter</key>
+	<string>constTransitionStatus</string>
+	<key>localizationThroughFacade</key>
+	<string>concreteVectorVelocity</string>
+	<key>pivotalContainerSkewy</key>
+	<string>pivotalScaleScale</string>
+	<key>requestCycleLocation</key>
+	<string>visibleConstraintPadding</string>
+	<key>spriteLevelTag</key>
+	<string>inactiveRouterTail</string>
+</dict>
+</plist>

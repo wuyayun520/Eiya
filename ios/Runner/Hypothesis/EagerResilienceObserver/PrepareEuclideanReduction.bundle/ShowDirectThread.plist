@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>profileTierMode</key>
+	<string>interfaceDespiteFacade</string>
+	<key>resourceAtCycle</key>
+	<string>pageviewInsideSingleton</string>
+	<key>taskAboutVariable</key>
+	<string>streamOfPhase</string>
+	<key>unaryLikeActivity</key>
+	<string>deferredConstraintForce</string>
+</dict>
+</plist>

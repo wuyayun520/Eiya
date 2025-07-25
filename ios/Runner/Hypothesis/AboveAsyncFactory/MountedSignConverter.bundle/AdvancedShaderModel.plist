@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesShapeColor</key>
+	<string>characterIncludeDecorator</string>
+	<key>grayscaleIncludeWork</key>
+	<string>fusedCharacterBrightness</string>
+	<key>hashExceptOperation</key>
+	<string>animatedSubscriptionValidation</string>
+	<key>presenterSingletonVelocity</key>
+	<string>providerAndOperation</string>
+	<key>subtleToolTransparency</key>
+	<string>controllerForPrototype</string>
+	<key>viewPrototypeSaturation</key>
+	<string>effectFormState</string>
+</dict>
+</plist>

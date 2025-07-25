@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationUntilValue</key>
+	<string>resolverVarFrequency</string>
+	<key>heapNearLayer</key>
+	<string>reactiveBufferSize</string>
+	<key>navigationAdapterSaturation</key>
+	<string>materialPrototypeMargin</string>
+	<key>repositoryKindRight</key>
+	<string>binaryOperationOrigin</string>
+	<key>semanticSampleFlags</key>
+	<string>petSingletonOrigin</string>
+	<key>tabbarContainLevel</key>
+	<string>retainedInjectionColor</string>
+	<key>timerPerVariable</key>
+	<string>allocatorVariableForce</string>
+</dict>
+</plist>

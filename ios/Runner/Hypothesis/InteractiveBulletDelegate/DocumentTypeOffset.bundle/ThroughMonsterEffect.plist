@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorVersusVisitor</key>
+	<string>resizableImageMargin</string>
+	<key>descriptorScopeTail</key>
+	<string>baseAndContext</string>
+	<key>localizationAroundComposite</key>
+	<string>sharedStackTint</string>
+	<key>permissiveTweenDuration</key>
+	<string>specifyGateCenter</string>
+	<key>screenContainVariable</key>
+	<string>activatedPositionTail</string>
+</dict>
+</plist>

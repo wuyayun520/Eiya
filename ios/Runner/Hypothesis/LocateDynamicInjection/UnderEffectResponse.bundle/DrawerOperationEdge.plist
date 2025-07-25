@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxParameterSkewy</key>
+	<string>keyParticleTail</string>
+	<key>compositionThroughParam</key>
+	<string>missionStageSaturation</string>
+	<key>configurationVarBound</key>
+	<string>activeServiceInterval</string>
+	<key>descriptionEnvironmentDuration</key>
+	<string>smallInteractorFlags</string>
+	<key>popupPerType</key>
+	<string>scrollableMenuRate</string>
+	<key>unactivatedMediaqueryFrequency</key>
+	<string>constraintDuringFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>overlayAlongStage</key>
+	<string>tappableEffectKind</string>
+	<key>resourceFacadeAcceleration</key>
+	<string>permissiveMetadataRate</string>
+	<key>sliderPlatformCoord</key>
+	<string>draggableGateContrast</string>
+</dict>
+</plist>

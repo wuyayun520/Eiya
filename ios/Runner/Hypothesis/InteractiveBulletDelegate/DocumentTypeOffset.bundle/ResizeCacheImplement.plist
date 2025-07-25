@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAlphaRight</key>
+	<string>dialogsViaAdapter</string>
+	<key>coordinatorViaPlatform</key>
+	<string>fixedResourceBehavior</string>
+	<key>multiButtonSaturation</key>
+	<string>backwardImageBorder</string>
+	<key>notifierShapeFrequency</key>
+	<string>directlyNibPadding</string>
+	<key>rowForObserver</key>
+	<string>tappableRectTension</string>
+	<key>timerContainValue</key>
+	<string>storageActionLocation</string>
+</dict>
+</plist>

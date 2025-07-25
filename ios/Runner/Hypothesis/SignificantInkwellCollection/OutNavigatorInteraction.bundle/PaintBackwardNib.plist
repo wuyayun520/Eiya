@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralSpriteDelay</key>
+	<string>mobileZonePadding</string>
+	<key>optionAlongFramework</key>
+	<string>retainedBuilderTension</string>
+	<key>reactiveZoneDepth</key>
+	<string>invisibleRouteSize</string>
+	<key>serviceActionBound</key>
+	<string>kernelScopeFlags</string>
+	<key>sharedAllocatorBottom</key>
+	<string>resultAsProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioActionShape</key>
+	<string>responsiveAspectTag</string>
+	<key>injectionThroughVariable</key>
+	<string>immutableProfileBehavior</string>
+	<key>isolateOrStrategy</key>
+	<string>blocFlyweightBrightness</string>
+	<key>storeAgainstMethod</key>
+	<string>containerSinceActivity</string>
+	<key>utilAgainstChain</key>
+	<string>convolutionFacadeTension</string>
+</dict>
+</plist>

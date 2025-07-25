@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentAboutStrategy</key>
+	<string>sampleByPlatform</string>
+	<key>mobxAtJob</key>
+	<string>sequentialAppbarPadding</string>
+	<key>modalAsContext</key>
+	<string>coordinatorMethodFrequency</string>
+	<key>offsetPerMemento</key>
+	<string>convolutionInterpreterTheme</string>
+	<key>scaffoldStageMargin</key>
+	<string>comprehensiveEntityState</string>
+	<key>staticButtonInset</key>
+	<string>stackAmongMode</string>
+</dict>
+</plist>

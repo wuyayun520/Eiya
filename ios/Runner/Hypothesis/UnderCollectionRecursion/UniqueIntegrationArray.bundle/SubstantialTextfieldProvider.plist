@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCurveVisible</key>
+	<string>builderPerScope</string>
+	<key>eagerBlocPosition</key>
+	<string>notificationOrFramework</string>
+	<key>histogramInsidePhase</key>
+	<string>temporaryTitleFrequency</string>
+	<key>lazyCollectionCount</key>
+	<string>swiftStageCount</string>
+	<key>navigationCommandPosition</key>
+	<string>arithmeticSymbolTint</string>
+	<key>oldSampleLeft</key>
+	<string>subscriptionFacadeFrequency</string>
+	<key>storeBufferStyle</key>
+	<string>reactiveEntityTheme</string>
+</dict>
+</plist>

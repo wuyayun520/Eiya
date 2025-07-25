@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintCycleMomentum</key>
+	<string>intermediateAspectratioInset</string>
+	<key>finalNodeFeedback</key>
+	<string>shaderContextSize</string>
+	<key>fixedBaselineOrientation</key>
+	<string>intuitiveMediaqueryState</string>
+	<key>injectionVariableKind</key>
+	<string>controllerMethodLeft</string>
+	<key>layoutAroundSingleton</key>
+	<string>gridUntilNumber</string>
+	<key>mobxFrameworkPosition</key>
+	<string>autoTopicForce</string>
+	<key>transitionContainAction</key>
+	<string>tabbarVarAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionViaEnvironment</key>
+	<string>crudeAnimationBrightness</string>
+	<key>consultativeGestureEdge</key>
+	<string>heapAsSystem</string>
+	<key>offsetVisitorDelay</key>
+	<string>sensorViaVariable</string>
+	<key>responsiveTimerPadding</key>
+	<string>profileThroughChain</string>
+	<key>tensorPositionOffset</key>
+	<string>originalAlignmentMargin</string>
+</dict>
+</plist>

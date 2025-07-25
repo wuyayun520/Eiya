@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEventTheme</key>
+	<string>semanticsBeyondMode</string>
+	<key>basicTouchBound</key>
+	<string>typicalPetSkewx</string>
+	<key>cursorFunctionMargin</key>
+	<string>numericalActionSkewx</string>
+	<key>rowScopeResponse</key>
+	<string>finalSensorHead</string>
+	<key>storeUntilStyle</key>
+	<string>relationalAllocatorTransparency</string>
+	<key>streamIncludeSingleton</key>
+	<string>numericalBitrateFeedback</string>
+	<key>transitionLevelVisibility</key>
+	<string>associatedObserverKind</string>
+	<key>transitionWorkPosition</key>
+	<string>multiplicationPlatformLeft</string>
+</dict>
+</plist>

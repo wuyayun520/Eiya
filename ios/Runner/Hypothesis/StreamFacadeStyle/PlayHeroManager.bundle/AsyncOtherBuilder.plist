@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphThroughComposite</key>
+	<string>sustainableStackFeedback</string>
+	<key>heapStyleVisibility</key>
+	<string>commandDecoratorAlignment</string>
+	<key>independentNavigatorSize</key>
+	<string>tappableUnaryAlignment</string>
+	<key>requiredProjectBottom</key>
+	<string>providerActivityBrightness</string>
+	<key>screenFromKind</key>
+	<string>logDecoratorOpacity</string>
+	<key>signatureCommandInset</key>
+	<string>prismaticIsolatePressure</string>
+	<key>themeThanOperation</key>
+	<string>lazyReductionTheme</string>
+</dict>
+</plist>

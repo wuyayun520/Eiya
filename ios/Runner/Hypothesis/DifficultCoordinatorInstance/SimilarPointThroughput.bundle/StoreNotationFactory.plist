@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerCompositeMargin</key>
+	<string>customizedGetxTag</string>
+	<key>mapModeSaturation</key>
+	<string>cardFacadeDensity</string>
+	<key>mobileFacadeTransparency</key>
+	<string>methodVarRate</string>
+	<key>previewChainKind</key>
+	<string>playbackByChain</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentThroughJob</key>
+	<string>behaviorViaLayer</string>
+	<key>deferredActivityIndex</key>
+	<string>interactiveResolverPressure</string>
+	<key>dimensionVersusShape</key>
+	<string>layoutAsFacade</string>
+	<key>flexShapeInset</key>
+	<string>crudeNavigatorBrightness</string>
+	<key>immutableSkirtAcceleration</key>
+	<string>statefulStyleFrequency</string>
+	<key>optimizerNearNumber</key>
+	<string>layerNumberSkewy</string>
+	<key>popupWithFunction</key>
+	<string>factoryObserverSaturation</string>
+	<key>singleLayoutOpacity</key>
+	<string>subsequentOverlayKind</string>
+</dict>
+</plist>

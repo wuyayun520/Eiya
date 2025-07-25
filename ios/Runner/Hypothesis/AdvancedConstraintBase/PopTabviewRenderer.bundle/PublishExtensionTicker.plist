@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAtActivity</key>
+	<string>tickerInActivity</string>
+	<key>nodeOperationBorder</key>
+	<string>assetExceptNumber</string>
+	<key>primaryBaseMode</key>
+	<string>convolutionForMode</string>
+	<key>synchronousFrameRotation</key>
+	<string>apertureInActivity</string>
+	<key>tangentVariableInteraction</key>
+	<string>dialogsCycleDepth</string>
+	<key>tickerDespiteNumber</key>
+	<string>resilientFuturePadding</string>
+</dict>
+</plist>

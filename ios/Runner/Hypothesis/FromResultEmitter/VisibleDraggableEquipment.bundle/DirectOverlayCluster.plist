@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationOperationBehavior</key>
+	<string>fixedEntityCenter</string>
+	<key>keyControllerOpacity</key>
+	<string>firstFragmentAppearance</string>
+	<key>optionProxyAppearance</key>
+	<string>switchStateOffset</string>
+	<key>rectOperationShape</key>
+	<string>frameStyleTint</string>
+	<key>textStateKind</key>
+	<string>zoneSingletonState</string>
+	<key>topicNearLevel</key>
+	<string>switchPatternType</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandThroughInterpreter</key>
+	<string>futureSincePrototype</string>
+	<key>constraintModeOrigin</key>
+	<string>protectedFutureLocation</string>
+	<key>decorationTypeCenter</key>
+	<string>ignoredFrameStatus</string>
+	<key>gestureDuringTask</key>
+	<string>intermediateRequestResponse</string>
+	<key>intermediateNotifierDepth</key>
+	<string>intermediatePaddingHue</string>
+	<key>loopNearFunction</key>
+	<string>symmetricAccessoryTheme</string>
+	<key>taskInsideVariable</key>
+	<string>tabbarFromKind</string>
+</dict>
+</plist>

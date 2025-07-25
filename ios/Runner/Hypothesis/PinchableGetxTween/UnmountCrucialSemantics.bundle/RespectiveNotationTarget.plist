@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCompleterBehavior</key>
+	<string>screenThroughValue</string>
+	<key>composableGroupResponse</key>
+	<string>musicValueDepth</string>
+	<key>difficultSizeTint</key>
+	<string>projectEnvironmentSkewx</string>
+	<key>labelForVisitor</key>
+	<string>configurationMethodType</string>
+	<key>normalSampleOrigin</key>
+	<string>draggableButtonDensity</string>
+	<key>promiseFunctionMomentum</key>
+	<string>statefulPlatformVelocity</string>
+	<key>reducerFunctionDensity</key>
+	<string>sharedCatalystHead</string>
+	<key>sharedMomentumIndex</key>
+	<string>dynamicDelegateFlags</string>
+</dict>
+</plist>

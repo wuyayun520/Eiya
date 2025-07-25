@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartIncludeComposite</key>
+	<string>chapterChainVelocity</string>
+	<key>coordinatorLikeKind</key>
+	<string>topicPerTemple</string>
+	<key>durationDecoratorSpeed</key>
+	<string>cubeFormCoord</string>
+	<key>integerAgainstStage</key>
+	<string>dependencyPlatformCoord</string>
+	<key>intermediateBoxMargin</key>
+	<string>displayableSceneTransparency</string>
+	<key>invisiblePlaybackSpacing</key>
+	<string>singleGroupType</string>
+	<key>sharedCycleInset</key>
+	<string>checklistStageContrast</string>
+	<key>skinAsChain</key>
+	<string>specifyBehaviorName</string>
+</dict>
+</plist>

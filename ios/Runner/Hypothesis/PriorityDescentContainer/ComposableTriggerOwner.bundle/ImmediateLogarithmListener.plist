@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasByStructure</key>
+	<string>timerPlatformFormat</string>
+	<key>labelCompositeSize</key>
+	<string>singleDrawerLocation</string>
+	<key>respectiveTextPosition</key>
+	<string>originalSpineDuration</string>
+	<key>statefulCaptionOffset</key>
+	<string>queueVariableCenter</string>
+	<key>synchronousCheckboxBorder</key>
+	<string>subtleInteractorScale</string>
+	<key>synchronousMenuLeft</key>
+	<string>optimizerPerStage</string>
+	<key>timerLikeFacade</key>
+	<string>mediaqueryOutsidePhase</string>
+	<key>workflowChainEdge</key>
+	<string>painterVisitorRate</string>
+</dict>
+</plist>

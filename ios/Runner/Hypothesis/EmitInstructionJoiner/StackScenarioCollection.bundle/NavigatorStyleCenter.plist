@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintForScope</key>
+	<string>spriteFunctionTransparency</string>
+	<key>imageBufferInteraction</key>
+	<string>permanentActionInterval</string>
+	<key>navigatorJobAlignment</key>
+	<string>sceneFromProcess</string>
+	<key>popupWithoutStyle</key>
+	<string>baselineTypeOffset</string>
+	<key>storageVariableDepth</key>
+	<string>streamLikeParameter</string>
+	<key>symmetricTitleColor</key>
+	<string>stateStyleTop</string>
+	<key>visibleProviderSkewy</key>
+	<string>singletonMethodRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,370 @@
+{
+  "rabbits": [
+    {
+      "id": "rabbit_1",
+      "name": "Light Tan Domestic Rabbit",
+      "breed": "Domestic Rabbit (likely mixed breed)",
+      "description": "A young, domestic rabbit with soft, dense light tan or beige fur. Standing upright in a grassy outdoor setting with an alert and curious expression. Has large, round, dark eyes with a slight glint, small pink nose, and short upright ears. Creamy white fur visible on belly, chest, and front paws.",
+      "characteristics": {
+        "coat": "Soft, dense light tan or beige fur with creamy white underbelly",
+        "eye_color": "Large, round, dark eyes with slight glint",
+        "size": "Small to medium",
+        "temperament": "Alert, curious, and well-behaved",
+        "distinguishing_features": "Light tan coat, creamy white underbelly, short upright ears"
+      },
+      "care_instructions": {
+        "housing": {
+          "indoor_setup": "Large cage or pen (minimum 4x4 feet)",
+          "outdoor_access": "Supervised outdoor time in secure area",
+          "bedding": "Soft hay, paper bedding, or fleece",
+          "temperature": "Keep in 60-70°F range, avoid extreme heat"
+        },
+        "nutrition": {
+          "hay": "Unlimited timothy hay (80% of diet)",
+          "pellets": "1/4 cup high-quality rabbit pellets daily",
+          "vegetables": "1-2 cups fresh vegetables daily",
+          "water": "Fresh water available 24/7 in heavy bowl or bottle"
+        },
+        "health": {
+          "vaccinations": "Rabbit hemorrhagic disease vaccine",
+          "parasite_prevention": "Regular check-ups for internal parasites",
+          "dental_care": "Unlimited hay for natural tooth wear",
+          "exercise": "Minimum 4 hours daily exercise outside cage"
+        },
+        "environment": {
+          "cage_cleaning": "Spot clean daily, full clean weekly",
+          "litter_box": "Provide litter box with paper-based litter",
+          "toys": "Chew toys, tunnels, cardboard boxes",
+          "socialization": "Gentle handling, avoid picking up by ears"
+        },
+        "grooming": {
+          "brushing": "Weekly brushing, daily during shedding",
+          "nail_trimming": "Every 4-6 weeks",
+          "bathing": "Rarely needed, spot clean if necessary"
+        }
+      },
+      "image_reference": "assets/Animal/Rabbit_1.jpg",
+      "image_description": "Light tan domestic rabbit standing in grassy outdoor setting"
+    },
+    {
+      "id": "rabbit_2",
+      "name": "Tan and Cream Rabbit in Arms",
+      "breed": "Domestic Rabbit (likely mixed breed)",
+      "description": "A small, fluffy rabbit with soft, dense fur in shades of light brown, tan, and cream. Being held gently by a person, showing a calm and curious expression. Large, dark, glossy eyes, light tan ears, and prominent white whiskers extending from cheeks. Cream-colored fur around muzzle and chin.",
+      "characteristics": {
+        "coat": "Soft, dense fur in light brown, tan, and cream",
+        "eye_color": "Large, dark, glossy eyes",
+        "size": "Small",
+        "temperament": "Calm, gentle, and well-socialized",
+        "distinguishing_features": "Tan and cream coat, prominent white whiskers, calm demeanor"
+      },
+      "care_instructions": {
+        "housing": {
+          "indoor_setup": "Large cage or pen (minimum 4x4 feet)",
+          "outdoor_access": "Supervised outdoor time in secure area",
+          "bedding": "Soft hay, paper bedding, or fleece",
+          "temperature": "Keep in 60-70°F range, avoid extreme heat"
+        },
+        "nutrition": {
+          "hay": "Unlimited timothy hay (80% of diet)",
+          "pellets": "1/4 cup high-quality rabbit pellets daily",
+          "vegetables": "1-2 cups fresh vegetables daily",
+          "water": "Fresh water available 24/7 in heavy bowl or bottle"
+        },
+        "health": {
+          "vaccinations": "Rabbit hemorrhagic disease vaccine",
+          "parasite_prevention": "Regular check-ups for internal parasites",
+          "dental_care": "Unlimited hay for natural tooth wear",
+          "exercise": "Minimum 4 hours daily exercise outside cage"
+        },
+        "environment": {
+          "cage_cleaning": "Spot clean daily, full clean weekly",
+          "litter_box": "Provide litter box with paper-based litter",
+          "toys": "Chew toys, tunnels, cardboard boxes",
+          "socialization": "Gentle handling, avoid picking up by ears"
+        },
+        "grooming": {
+          "brushing": "Weekly brushing, daily during shedding",
+          "nail_trimming": "Every 4-6 weeks",
+          "bathing": "Rarely needed, spot clean if necessary"
+        }
+      },
+      "image_reference": "assets/Animal/Rabbit_2.jpg",
+      "image_description": "Tan and cream rabbit being held gently by person"
+    },
+    {
+      "id": "rabbit_3",
+      "name": "Cuddling Lop Rabbits",
+      "breed": "Holland Lop or Mini Lop",
+      "description": "Two small, fluffy lop-eared rabbits cuddling closely on a textured fabric surface. Top rabbit is light brown/tan with some white fur, bottom rabbit is mostly white with light brown/tan patches on face and ears. Both have characteristic floppy (lop) ears and appear relaxed and affectionate.",
+      "characteristics": {
+        "coat": "Top rabbit: light brown/tan with white, Bottom rabbit: white with brown patches",
+        "eye_color": "Dark eyes visible on top rabbit",
+        "size": "Small (dwarf lop breed)",
+        "temperament": "Affectionate, bonded pair, calm and relaxed",
+        "distinguishing_features": "Lop ears, cuddling behavior, dwarf size"
+      },
+      "care_instructions": {
+        "housing": {
+          "indoor_setup": "Large cage or pen (minimum 6x4 feet for pair)",
+          "outdoor_access": "Supervised outdoor time in secure area",
+          "bedding": "Soft hay, paper bedding, or fleece",
+          "temperature": "Keep in 60-70°F range, avoid extreme heat"
+        },
+        "nutrition": {
+          "hay": "Unlimited timothy hay (80% of diet)",
+          "pellets": "1/4 cup high-quality rabbit pellets daily per rabbit",
+          "vegetables": "1-2 cups fresh vegetables daily per rabbit",
+          "water": "Fresh water available 24/7 in heavy bowl or bottle"
+        },
+        "health": {
+          "vaccinations": "Rabbit hemorrhagic disease vaccine",
+          "parasite_prevention": "Regular check-ups for internal parasites",
+          "dental_care": "Unlimited hay for natural tooth wear",
+          "exercise": "Minimum 4 hours daily exercise outside cage"
+        },
+        "environment": {
+          "cage_cleaning": "Spot clean daily, full clean weekly",
+          "litter_box": "Provide litter box with paper-based litter",
+          "toys": "Chew toys, tunnels, cardboard boxes",
+          "socialization": "Gentle handling, avoid picking up by ears"
+        },
+        "grooming": {
+          "brushing": "Weekly brushing, daily during shedding",
+          "nail_trimming": "Every 4-6 weeks",
+          "bathing": "Rarely needed, spot clean if necessary"
+        },
+        "special_care": {
+          "bonding": "Keep bonded pairs together",
+          "space_requirements": "Extra space needed for pair",
+          "social_needs": "Provide companionship and interaction"
+        }
+      },
+      "image_reference": "assets/Animal/Rabbit_3.jpg",
+      "image_description": "Two lop-eared rabbits cuddling on textured fabric surface"
+    },
+    {
+      "id": "rabbit_4",
+      "name": "White Rabbit in Blue Vest",
+      "breed": "Domestic Rabbit (possibly Netherland Dwarf)",
+      "description": "A white rabbit with soft, fluffy fur standing upright on hind legs inside a white wire cage. Wearing a light blue vest/harness covering chest and back. Has prominent upright ears, long whiskers, and light-colored eyes (possibly blue or grey). Small pink nose with curious expression.",
+      "characteristics": {
+        "coat": "Soft, fluffy white fur",
+        "eye_color": "Light-colored eyes (possibly blue or grey)",
+        "size": "Small",
+        "temperament": "Curious, alert, and well-trained",
+        "distinguishing_features": "White coat, blue vest/harness, upright ears"
+      },
+      "care_instructions": {
+        "housing": {
+          "indoor_setup": "Large cage or pen (minimum 4x4 feet)",
+          "outdoor_access": "Supervised outdoor time in secure area",
+          "bedding": "Soft hay, paper bedding, or fleece",
+          "temperature": "Keep in 60-70°F range, avoid extreme heat"
+        },
+        "nutrition": {
+          "hay": "Unlimited timothy hay (80% of diet)",
+          "pellets": "1/4 cup high-quality rabbit pellets daily",
+          "vegetables": "1-2 cups fresh vegetables daily",
+          "water": "Fresh water available 24/7 in heavy bowl or bottle"
+        },
+        "health": {
+          "vaccinations": "Rabbit hemorrhagic disease vaccine",
+          "parasite_prevention": "Regular check-ups for internal parasites",
+          "dental_care": "Unlimited hay for natural tooth wear",
+          "exercise": "Minimum 4 hours daily exercise outside cage"
+        },
+        "environment": {
+          "cage_cleaning": "Spot clean daily, full clean weekly",
+          "litter_box": "Provide litter box with paper-based litter",
+          "toys": "Chew toys, tunnels, cardboard boxes",
+          "socialization": "Gentle handling, avoid picking up by ears"
+        },
+        "grooming": {
+          "brushing": "Weekly brushing, daily during shedding",
+          "nail_trimming": "Every 4-6 weeks",
+          "bathing": "Rarely needed, spot clean if necessary"
+        },
+        "special_care": {
+          "harness_training": "Ensure harness fits properly and is comfortable",
+          "outdoor_safety": "Supervised outdoor time only",
+          "cage_requirements": "Adequate space for standing and movement"
+        }
+      },
+      "image_reference": "assets/Animal/Rabbit_4.jpg",
+      "image_description": "White rabbit in blue vest standing in wire cage outdoors"
+    },
+    {
+      "id": "rabbit_5",
+      "name": "Yawning White Rabbit",
+      "breed": "Domestic Rabbit (possibly Netherland Dwarf)",
+      "description": "A small, fluffy white rabbit lying down on light brown carpet with front paws extended forward. Mouth wide open revealing pink interior and small tongue, possibly yawning or vocalizing. Large, round, glossy black eyes, long white whiskers, and one upright ear with soft pink interior visible.",
+      "characteristics": {
+        "coat": "Pure white, soft, fluffy fur",
+        "eye_color": "Large, round, glossy black eyes",
+        "size": "Small",
+        "temperament": "Expressive, relaxed, and comfortable",
+        "distinguishing_features": "White coat, expressive face, yawning behavior"
+      },
+      "care_instructions": {
+        "housing": {
+          "indoor_setup": "Large cage or pen (minimum 4x4 feet)",
+          "outdoor_access": "Supervised outdoor time in secure area",
+          "bedding": "Soft hay, paper bedding, or fleece",
+          "temperature": "Keep in 60-70°F range, avoid extreme heat"
+        },
+        "nutrition": {
+          "hay": "Unlimited timothy hay (80% of diet)",
+          "pellets": "1/4 cup high-quality rabbit pellets daily",
+          "vegetables": "1-2 cups fresh vegetables daily",
+          "water": "Fresh water available 24/7 in heavy bowl or bottle"
+        },
+        "health": {
+          "vaccinations": "Rabbit hemorrhagic disease vaccine",
+          "parasite_prevention": "Regular check-ups for internal parasites",
+          "dental_care": "Unlimited hay for natural tooth wear",
+          "exercise": "Minimum 4 hours daily exercise outside cage"
+        },
+        "environment": {
+          "cage_cleaning": "Spot clean daily, full clean weekly",
+          "litter_box": "Provide litter box with paper-based litter",
+          "toys": "Chew toys, tunnels, cardboard boxes",
+          "socialization": "Gentle handling, avoid picking up by ears"
+        },
+        "grooming": {
+          "brushing": "Weekly brushing, daily during shedding",
+          "nail_trimming": "Every 4-6 weeks",
+          "bathing": "Rarely needed, spot clean if necessary"
+        }
+      },
+      "image_reference": "assets/Animal/Rabbit_5.jpg",
+      "image_description": "White rabbit yawning while lying on carpet"
+    },
+    {
+      "id": "rabbit_6",
+      "name": "Young Tan Rabbit in Carrier",
+      "breed": "Dwarf Rabbit (possibly Netherland Dwarf)",
+      "description": "A very young, light brown or tan dwarf rabbit standing upright on hind legs within a light-colored fabric carrier. Small size with soft, fluffy fur, large dark round eyes, small pinkish nose, and long white whiskers. Semi-floppy ears matching body color. Blue and white striped trim on carrier.",
+      "characteristics": {
+        "coat": "Soft, fluffy light brown or tan fur with cream underbelly",
+        "eye_color": "Large, dark, round eyes",
+        "size": "Very small (dwarf breed)",
+        "temperament": "Curious, alert, and young",
+        "distinguishing_features": "Young age, dwarf size, semi-floppy ears"
+      },
+      "care_instructions": {
+        "housing": {
+          "indoor_setup": "Large cage or pen (minimum 4x4 feet)",
+          "outdoor_access": "Supervised outdoor time in secure area",
+          "bedding": "Soft hay, paper bedding, or fleece",
+          "temperature": "Keep in 60-70°F range, avoid extreme heat"
+        },
+        "nutrition": {
+          "hay": "Unlimited timothy hay (80% of diet)",
+          "pellets": "1/4 cup high-quality rabbit pellets daily",
+          "vegetables": "1-2 cups fresh vegetables daily",
+          "water": "Fresh water available 24/7 in heavy bowl or bottle"
+        },
+        "health": {
+          "vaccinations": "Rabbit hemorrhagic disease vaccine",
+          "parasite_prevention": "Regular check-ups for internal parasites",
+          "dental_care": "Unlimited hay for natural tooth wear",
+          "exercise": "Minimum 4 hours daily exercise outside cage"
+        },
+        "environment": {
+          "cage_cleaning": "Spot clean daily, full clean weekly",
+          "litter_box": "Provide litter box with paper-based litter",
+          "toys": "Chew toys, tunnels, cardboard boxes",
+          "socialization": "Gentle handling, avoid picking up by ears"
+        },
+        "grooming": {
+          "brushing": "Weekly brushing, daily during shedding",
+          "nail_trimming": "Every 4-6 weeks",
+          "bathing": "Rarely needed, spot clean if necessary"
+        },
+        "special_care": {
+          "young_rabbit": "Extra gentle handling due to young age",
+          "growth_monitoring": "Monitor growth and development",
+          "socialization": "Important to socialize young rabbits early"
+        }
+      },
+      "image_reference": "assets/Animal/Rabbit_6.jpg",
+      "image_description": "Young tan dwarf rabbit in fabric carrier outdoors"
+    }
+  ],
+  "general_care_guidelines": {
+    "veterinary_care": {
+      "annual_checkups": "Required for all rabbits",
+      "vaccinations": "Rabbit hemorrhagic disease vaccine",
+      "parasite_prevention": "Regular check-ups for internal parasites",
+      "dental_care": "Unlimited hay for natural tooth wear"
+    },
+    "nutrition": {
+      "hay": "Unlimited timothy hay (80% of diet)",
+      "pellets": "1/4 cup high-quality rabbit pellets daily",
+      "vegetables": "1-2 cups fresh vegetables daily",
+      "water": "Fresh water available 24/7 in heavy bowl or bottle",
+      "treats": "Limited fruits, avoid sugary treats"
+    },
+    "environment": {
+      "indoor_safety": "Remove toxic plants, secure cords",
+      "cage_size": "Minimum 4x4 feet for single rabbit",
+      "enrichment": "Toys, tunnels, cardboard boxes, chew items",
+      "resting_areas": "Comfortable bedding in quiet areas"
+    },
+    "grooming": {
+      "brushing": "Weekly brushing, daily during shedding",
+      "nail_trimming": "Every 4-6 weeks",
+      "bathing": "Rarely needed, spot clean if necessary",
+      "ear_care": "Check ears regularly for mites or infection"
+    },
+    "behavior": {
+      "socialization": "Gentle handling from young age",
+      "exercise": "Minimum 4 hours daily exercise outside cage",
+      "mental_stimulation": "Toys, tunnels, exploration opportunities",
+      "stress_management": "Routine, quiet spaces, hiding spots"
+    },
+    "exercise": {
+      "daily_exercise": "Minimum 4 hours outside cage",
+      "play_time": "Interactive games and exploration",
+      "mental_stimulation": "Toys, tunnels, cardboard boxes",
+      "outdoor_time": "Supervised outdoor time in secure area"
+    }
+  },
+  "emergency_information": {
+    "signs_of_illness": [
+      "Changes in appetite or water consumption",
+      "Lethargy or unusual behavior",
+      "Diarrhea or constipation",
+      "Changes in bathroom habits",
+      "Sneezing or nasal discharge",
+      "Head tilt or balance issues",
+      "Overgrown teeth or drooling"
+    ],
+    "emergency_contacts": {
+      "veterinarian": "Contact rabbit-savvy veterinarian",
+      "emergency_clinic": "24-hour emergency animal hospital",
+      "online_resources": "House Rabbit Society resources"
+    }
+  },
+  "breed_specific_considerations": {
+    "dwarf_breeds": {
+      "size_considerations": "Smaller space requirements",
+      "fragility": "Handle gently due to small size",
+      "dental_health": "Monitor for dental issues",
+      "temperature": "Sensitive to temperature extremes"
+    },
+    "lop_breeds": {
+      "ear_care": "Regular ear cleaning and monitoring",
+      "ear_infections": "More prone to ear infections",
+      "hearing": "May have hearing difficulties",
+      "grooming": "Extra attention to ear area"
+    },
+    "long_hair_breeds": {
+      "grooming": "Daily brushing required",
+      "matting": "Prevent matting with regular grooming",
+      "shedding": "Increased grooming during shedding seasons",
+      "professional_grooming": "May need professional grooming"
+    }
+  }
+} 

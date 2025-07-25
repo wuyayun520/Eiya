@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainSinceLevel</key>
+	<string>positionAndActivity</string>
+	<key>gramTaskEdge</key>
+	<string>pointViaShape</string>
+	<key>kernelObserverFormat</key>
+	<string>singleCompleterIndex</string>
+	<key>opaqueLayerFormat</key>
+	<string>effectChainShade</string>
+	<key>optimizerBeyondMediator</key>
+	<string>oldBufferOpacity</string>
+	<key>particleChainBottom</key>
+	<string>assetParamSkewx</string>
+	<key>pinchableTopicAppearance</key>
+	<string>pivotalBufferTransparency</string>
+	<key>providerTaskTail</key>
+	<string>specifyReducerColor</string>
+	<key>uniformGrainSpacing</key>
+	<string>bufferAroundActivity</string>
+</dict>
+</plist>

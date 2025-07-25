@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferCycleInset</key>
+	<string>widgetModeBrightness</string>
+	<key>globalGraphHue</key>
+	<string>asyncAtWork</string>
+	<key>logContextVisibility</key>
+	<string>listviewOutsideChain</string>
+	<key>stampStyleBehavior</key>
+	<string>customizedUsageSpacing</string>
+	<key>unactivatedAsyncAlignment</key>
+	<string>subscriptionObserverOrigin</string>
+</dict>
+</plist>

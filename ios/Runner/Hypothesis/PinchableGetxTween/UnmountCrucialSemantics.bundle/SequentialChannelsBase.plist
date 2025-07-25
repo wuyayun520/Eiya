@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionUntilBridge</key>
+	<string>opaqueGraphPosition</string>
+	<key>drawerBufferFormat</key>
+	<string>requestBesideForm</string>
+	<key>metadataBesideFlyweight</key>
+	<string>normalStreamAppearance</string>
+	<key>modulusPerObserver</key>
+	<string>layoutJobTint</string>
+</dict>
+</plist>

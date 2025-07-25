@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutDespitePattern</key>
+	<string>singleProjectionResponse</string>
+	<key>localMetadataStyle</key>
+	<string>retainedControllerAcceleration</string>
+	<key>protectedListenerSize</key>
+	<string>liteConsumerSpacing</string>
+	<key>publicGrayscaleMode</key>
+	<string>widgetOfCommand</string>
+	<key>threadVarOpacity</key>
+	<string>prevPrecisionScale</string>
+	<key>tickerTempleStatus</key>
+	<string>sineAndDecorator</string>
+	<key>titleMediatorDensity</key>
+	<string>projectionEnvironmentInterval</string>
+</dict>
+</plist>

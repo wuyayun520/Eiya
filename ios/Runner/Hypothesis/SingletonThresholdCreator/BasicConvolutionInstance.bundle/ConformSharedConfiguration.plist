@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerDuringPhase</key>
+	<string>resizableDropdownbuttonRate</string>
+	<key>interactiveChartOrientation</key>
+	<string>animatedcontainerContextInteraction</string>
+	<key>operationDecoratorContrast</key>
+	<string>asynchronousListviewSaturation</string>
+	<key>originalTaskRight</key>
+	<string>directlyViewDuration</string>
+	<key>responsiveResourceState</key>
+	<string>binaryChainRotation</string>
+	<key>synchronousSampleRotation</key>
+	<string>modelAtCycle</string>
+</dict>
+</plist>

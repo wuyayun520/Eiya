@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledCubitTag</key>
+	<string>notificationBeyondLevel</string>
+	<key>equipmentWithoutSystem</key>
+	<string>tickerForLevel</string>
+	<key>plateLayerFrequency</key>
+	<string>fusedLayoutPosition</string>
+	<key>stepPhaseShade</key>
+	<string>iterativeSizeHue</string>
+	<key>tappableCatalystBound</key>
+	<string>uniformDocumentLeft</string>
+</dict>
+</plist>

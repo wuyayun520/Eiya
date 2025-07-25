@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachePerStrategy</key>
+	<string>notificationActionSaturation</string>
+	<key>graphFunctionFrequency</key>
+	<string>chartAndProxy</string>
+	<key>materialSystemTension</key>
+	<string>injectionSystemStyle</string>
+	<key>priorityProcessSize</key>
+	<string>liteResourceSpacing</string>
+	<key>threadShapeRotation</key>
+	<string>slashValuePosition</string>
+</dict>
+</plist>

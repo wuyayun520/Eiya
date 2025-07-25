@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyNearKind</key>
+	<string>awaitContainInterpreter</string>
+	<key>effectTypeBottom</key>
+	<string>synchronousSampleDuration</string>
+	<key>scaleActionBehavior</key>
+	<string>dependencyTypeTop</string>
+	<key>sliderPlatformDelay</key>
+	<string>servicePrototypeOpacity</string>
+</dict>
+</plist>

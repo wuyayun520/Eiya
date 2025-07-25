@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBitrateDistance</key>
+	<string>lastStorageDuration</string>
+	<key>explicitStackStyle</key>
+	<string>assetInWork</string>
+	<key>gridExceptDecorator</key>
+	<string>textureDespiteTier</string>
+	<key>ignoredDurationFormat</key>
+	<string>sampleCommandLocation</string>
+	<key>inactiveNotifierFrequency</key>
+	<string>permanentPreviewRate</string>
+	<key>rowLevelDirection</key>
+	<string>descriptionLayerShape</string>
+	<key>subpixelAdapterInteraction</key>
+	<string>cupertinoChainName</string>
+</dict>
+</plist>

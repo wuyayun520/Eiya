@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineMediatorVisible</key>
+	<string>respectiveSinkHue</string>
+	<key>blocProxyAlignment</key>
+	<string>seamlessNodeAppearance</string>
+	<key>desktopResolverInteraction</key>
+	<string>allocatorPerLevel</string>
+	<key>nodeObserverOrientation</key>
+	<string>progressbarDespiteMemento</string>
+	<key>requiredProgressbarSpacing</key>
+	<string>offsetViaBridge</string>
+	<key>routerStateInteraction</key>
+	<string>promiseAgainstFlyweight</string>
+	<key>symmetricFragmentHead</key>
+	<string>radioPerVisitor</string>
+	<key>transformerForVariable</key>
+	<string>uniformCompleterScale</string>
+</dict>
+</plist>

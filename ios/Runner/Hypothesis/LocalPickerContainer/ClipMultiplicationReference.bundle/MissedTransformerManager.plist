@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleInsideInterpreter</key>
+	<string>publicTransformerTail</string>
+	<key>disabledServiceName</key>
+	<string>transformerEnvironmentOffset</string>
+	<key>immediateAllocatorOpacity</key>
+	<string>lastLoopHue</string>
+	<key>progressbarVariablePosition</key>
+	<string>widgetModeEdge</string>
+	<key>respectiveFeatureTension</key>
+	<string>graphicJobPosition</string>
+	<key>retainedBuilderDirection</key>
+	<string>ternaryInPrototype</string>
+	<key>textfieldPerStyle</key>
+	<string>scaffoldAroundKind</string>
+</dict>
+</plist>

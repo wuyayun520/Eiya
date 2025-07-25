@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPaddingDensity</key>
+	<string>progressbarAtWork</string>
+	<key>assetInterpreterSpacing</key>
+	<string>frameAmongJob</string>
+	<key>controllerLayerAppearance</key>
+	<string>reactiveStoryboardOrientation</string>
+	<key>crudeHashTop</key>
+	<string>resourceSystemBottom</string>
+	<key>customUsecaseSaturation</key>
+	<string>delegateSinceProcess</string>
+	<key>granularFactoryAlignment</key>
+	<string>layoutVersusLayer</string>
+	<key>granularProviderLocation</key>
+	<string>nibThroughParameter</string>
+	<key>otherQueryStatus</key>
+	<string>agileUsecaseOpacity</string>
+	<key>sliderAtCommand</key>
+	<string>graphContainVar</string>
+	<key>storageBufferSpeed</key>
+	<string>binaryAlongAdapter</string>
+</dict>
+</plist>

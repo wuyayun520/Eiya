@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMatrixValidation</key>
+	<string>mediocreRouteBottom</string>
+	<key>bulletParameterContrast</key>
+	<string>constCellCoord</string>
+	<key>missedModulusOrigin</key>
+	<string>futureKindSpeed</string>
+	<key>overlayFrameworkForce</key>
+	<string>screenChainSize</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutCycleVisible</key>
+	<string>indicatorFlyweightPosition</string>
+	<key>notifierBesideJob</key>
+	<string>descriptorShapeTheme</string>
+	<key>rowBeyondNumber</key>
+	<string>viewScopeDistance</string>
+	<key>tensorMethodStatus</key>
+	<string>sizeFormSaturation</string>
+	<key>transformerValueSize</key>
+	<string>animatedEntityPosition</string>
+</dict>
+</plist>

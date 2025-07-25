@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelExceptShape</key>
+	<string>alphaContainEnvironment</string>
+	<key>loopIncludeEnvironment</key>
+	<string>cubitFromActivity</string>
+	<key>secondSymbolDuration</key>
+	<string>animatedExceptionHead</string>
+	<key>statefulInteractorMargin</key>
+	<string>popupInterpreterFormat</string>
+</dict>
+</plist>

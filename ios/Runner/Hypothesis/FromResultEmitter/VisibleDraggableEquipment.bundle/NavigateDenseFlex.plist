@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledDependencyForce</key>
+	<string>chartTierBrightness</string>
+	<key>mediumSizeDepth</key>
+	<string>displayableDocumentBorder</string>
+	<key>pinchableButtonRate</key>
+	<string>sinkInsideFacade</string>
+	<key>roleSinceOperation</key>
+	<string>serviceFromSystem</string>
+	<key>sizeProcessTail</key>
+	<string>lostPrecisionSpacing</string>
+	<key>storeInterpreterFormat</key>
+	<string>indicatorLikeVariable</string>
+	<key>textAroundMediator</key>
+	<string>relationalNibPadding</string>
+</dict>
+</plist>

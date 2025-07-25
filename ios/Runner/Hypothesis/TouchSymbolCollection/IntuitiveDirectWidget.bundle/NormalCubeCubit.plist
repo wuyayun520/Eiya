@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSessionOrientation</key>
+	<string>frameAlongValue</string>
+	<key>cardOperationEdge</key>
+	<string>cellStrategyVisible</string>
+	<key>channelAgainstSingleton</key>
+	<string>topicFromParameter</string>
+	<key>pinchableFrameCenter</key>
+	<string>axisMediatorShape</string>
+	<key>subscriptionIncludeTask</key>
+	<string>standaloneKernelIndex</string>
+	<key>touchIncludeBridge</key>
+	<string>mutableStreamVelocity</string>
+	<key>vectorViaAction</key>
+	<string>delegateAdapterHead</string>
+</dict>
+</plist>

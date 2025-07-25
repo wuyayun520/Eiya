@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionThroughMethod</key>
+	<string>nodeActionRate</string>
+	<key>interfaceOutsideState</key>
+	<string>capacitiesNearActivity</string>
+	<key>nodeAgainstParam</key>
+	<string>presenterContextSpeed</string>
+	<key>richtextPerPattern</key>
+	<string>cursorWithDecorator</string>
+	<key>semanticUsageShape</key>
+	<string>mobileCollectionVisible</string>
+	<key>utilBeyondNumber</key>
+	<string>curveOutsideForm</string>
+	<key>vectorKindDelay</key>
+	<string>descriptorVarCenter</string>
+</dict>
+</plist>

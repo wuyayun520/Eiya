@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalProfileVisibility</key>
+	<string>fusedSliderDistance</string>
+	<key>dimensionVersusSystem</key>
+	<string>radiusDuringVariable</string>
+	<key>liteZoneScale</key>
+	<string>oldSizeContrast</string>
+	<key>oldTransitionDuration</key>
+	<string>unactivatedSignOffset</string>
+	<key>reusableAlertAlignment</key>
+	<string>criticalBuilderBottom</string>
+</dict>
+</plist>

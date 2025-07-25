@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerContainFunction</key>
+	<string>buttonVariableMargin</string>
+	<key>fusedProgressbarMode</key>
+	<string>originalDialogsInterval</string>
+	<key>inheritedImageVisible</key>
+	<string>metadataCommandSkewy</string>
+	<key>oldTopicMode</key>
+	<string>metadataThroughEnvironment</string>
+	<key>progressbarPrototypeScale</key>
+	<string>mediaqueryAndState</string>
+	<key>segmentMementoDistance</key>
+	<string>factoryJobValidation</string>
+	<key>storyboardMethodBehavior</key>
+	<string>ternaryContainKind</string>
+</dict>
+</plist>

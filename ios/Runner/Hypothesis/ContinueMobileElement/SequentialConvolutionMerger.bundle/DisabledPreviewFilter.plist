@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerWorkLeft</key>
+	<string>typicalSinkName</string>
+	<key>indicatorAgainstType</key>
+	<string>activeStateIndex</string>
+	<key>resilientTransitionTail</key>
+	<string>fragmentActivityHue</string>
+	<key>semanticLayoutSize</key>
+	<string>keyHeapFrequency</string>
+	<key>textMementoTransparency</key>
+	<string>labelOrVisitor</string>
+</dict>
+</plist>

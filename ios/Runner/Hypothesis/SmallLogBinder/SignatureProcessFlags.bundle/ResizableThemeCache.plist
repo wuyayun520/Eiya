@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRiverpodShape</key>
+	<string>actionFunctionSize</string>
+	<key>brushInComposite</key>
+	<string>marginSinceComposite</string>
+	<key>cartesianTickerStyle</key>
+	<string>sharedIsolateRight</string>
+	<key>durationAgainstContext</key>
+	<string>largeArithmeticSpacing</string>
+	<key>nextShaderHue</key>
+	<string>matrixAmongFramework</string>
+	<key>primaryNormSize</key>
+	<string>hardEntropyOrigin</string>
+	<key>routeFromValue</key>
+	<string>parallelStoryboardDirection</string>
+	<key>spriteFrameworkDepth</key>
+	<string>beginnerZoneDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDecorationColor</key>
+	<string>storyboardDuringDecorator</string>
+	<key>allocatorBesideFlyweight</key>
+	<string>lazyMethodShade</string>
+	<key>assetVarDistance</key>
+	<string>entityStageSize</string>
+	<key>asyncFacadeLeft</key>
+	<string>alphaStructureHue</string>
+	<key>equalizationAwayStructure</key>
+	<string>repositoryAlongProcess</string>
+	<key>getxVarRotation</key>
+	<string>gramAgainstScope</string>
+	<key>listviewFromStructure</key>
+	<string>intensityPerPhase</string>
+	<key>providerNearForm</key>
+	<string>flexibleCapsuleStyle</string>
+	<key>robustOptionCount</key>
+	<string>localCurveLeft</string>
+</dict>
+</plist>

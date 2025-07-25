@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentResolverRate</key>
+	<string>lostEqualizationTag</string>
+	<key>delegateTierBehavior</key>
+	<string>invisibleRouteFlags</string>
+	<key>pointTypeResponse</key>
+	<string>grayscaleOutsideVariable</string>
+	<key>reductionLevelDistance</key>
+	<string>sophisticatedEqualizationSpacing</string>
+	<key>resultObserverFlags</key>
+	<string>grainObserverShade</string>
+	<key>secondRequestSpeed</key>
+	<string>inkwellJobOrientation</string>
+</dict>
+</plist>

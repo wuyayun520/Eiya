@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelStructureRotation</key>
+	<string>concurrentDurationRate</string>
+	<key>largeBuilderForce</key>
+	<string>singletonNumberAlignment</string>
+	<key>localAlertInteraction</key>
+	<string>compositionalSpriteBehavior</string>
+	<key>lossOfKind</key>
+	<string>asynchronousPopupInteraction</string>
+	<key>projectCycleType</key>
+	<string>notifierBesideVariable</string>
+	<key>sharedEqualizationTag</key>
+	<string>controllerPhasePressure</string>
+</dict>
+</plist>

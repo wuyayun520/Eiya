@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoButtonMode</key>
+	<string>observerSystemOrientation</string>
+	<key>delegateAgainstVar</key>
+	<string>elasticReferenceFormat</string>
+	<key>keyCheckboxTail</key>
+	<string>anchorAwayFunction</string>
+	<key>progressbarBridgeHue</key>
+	<string>sineThroughMediator</string>
+	<key>robustSpriteEdge</key>
+	<string>injectionTaskInset</string>
+	<key>seamlessZoneRight</key>
+	<string>protocolValueContrast</string>
+	<key>semanticDecorationDepth</key>
+	<string>composableSliderAcceleration</string>
+	<key>switchParamStatus</key>
+	<string>plateMediatorPadding</string>
+</dict>
+</plist>

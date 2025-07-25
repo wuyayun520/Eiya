@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeAlertSize</key>
+	<string>cacheContainParameter</string>
+	<key>extensionMementoType</key>
+	<string>singleTextfieldResponse</string>
+	<key>localizationParameterInset</key>
+	<string>tickerFacadeDepth</string>
+	<key>overlayPerProxy</key>
+	<string>momentumBufferBehavior</string>
+	<key>permanentFramePadding</key>
+	<string>liteAssetSaturation</string>
+	<key>sinkThanKind</key>
+	<string>firstSymbolMomentum</string>
+	<key>tickerTaskState</key>
+	<string>iconForFlyweight</string>
+	<key>typicalOptionInterval</key>
+	<string>coordinatorInterpreterHue</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBeyondStructure</key>
+	<string>statefulWidgetLocation</string>
+	<key>descriptionParameterCount</key>
+	<string>decorationScopeFrequency</string>
+	<key>mobilePatternTransparency</key>
+	<string>marginActivityDuration</string>
+	<key>sizeAmongShape</key>
+	<string>currentFragmentShape</string>
+	<key>tickerAdapterRate</key>
+	<string>firstEffectTag</string>
+</dict>
+</plist>

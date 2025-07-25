@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDurationOrigin</key>
+	<string>globalSpriteFrequency</string>
+	<key>compositionalCustompaintBound</key>
+	<string>inheritedConstraintCount</string>
+	<key>errorBeyondNumber</key>
+	<string>cellAsComposite</string>
+	<key>numericalRowTransparency</key>
+	<string>cursorProxyRotation</string>
+	<key>spinePatternKind</key>
+	<string>scrollableStreamTransparency</string>
+	<key>variantVersusAction</key>
+	<string>offsetActionDensity</string>
+</dict>
+</plist>

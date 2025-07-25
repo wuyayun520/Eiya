@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMethodTag</key>
+	<string>sceneWorkLeft</string>
+	<key>durationCommandContrast</key>
+	<string>constraintWithoutComposite</string>
+	<key>responseContextOrientation</key>
+	<string>asyncCycleMode</string>
+</dict>
+</plist>

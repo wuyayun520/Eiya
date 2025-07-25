@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandVersusFacade</key>
+	<string>scenePhaseSkewy</string>
+	<key>configurationActionColor</key>
+	<string>standaloneTitleTransparency</string>
+	<key>currentGridviewFeedback</key>
+	<string>draggableMonsterMargin</string>
+	<key>mobileConsumerVelocity</key>
+	<string>euclideanAssetType</string>
+	<key>petWithoutParam</key>
+	<string>textAboutNumber</string>
+	<key>prevUsecaseHead</key>
+	<string>localizationProcessDelay</string>
+	<key>spineAroundStyle</key>
+	<string>dialogsFlyweightScale</string>
+	<key>synchronousNibShade</key>
+	<string>associatedCubitTag</string>
+	<key>tabviewPatternTension</key>
+	<string>signContextSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAdapterFeedback</key>
+	<string>mediumIsolateRight</string>
+	<key>arithmeticTextDistance</key>
+	<string>cubeTierInset</string>
+	<key>futureVersusFunction</key>
+	<string>resizableSemanticsKind</string>
+	<key>keyHashSkewy</key>
+	<string>customizedAnimationResponse</string>
+	<key>logarithmChainType</key>
+	<string>behaviorOutsideJob</string>
+	<key>modalAsProcess</key>
+	<string>autoSwiftHead</string>
+	<key>routerMementoScale</key>
+	<string>liteTickerStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncExtensionLocation</key>
+	<string>taskThroughTier</string>
+	<key>interactiveHashAlignment</key>
+	<string>queryModeOrientation</string>
+	<key>particleShapeDensity</key>
+	<string>oldPopupRotation</string>
+	<key>resolverFlyweightSpeed</key>
+	<string>intermediateClipperDepth</string>
+	<key>seamlessProtocolOrientation</key>
+	<string>sophisticatedStreamType</string>
+	<key>statefulObserverAlignment</key>
+	<string>gateVariableForce</string>
+	<key>stepOutsideChain</key>
+	<string>singleLabelCenter</string>
+</dict>
+</plist>

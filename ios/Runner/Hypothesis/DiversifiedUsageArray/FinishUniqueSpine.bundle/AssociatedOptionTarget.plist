@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisByCycle</key>
+	<string>requiredDelegateVisibility</string>
+	<key>diffableSemanticsMode</key>
+	<string>inheritedCubitLocation</string>
+	<key>queueVersusForm</key>
+	<string>spriteStatePadding</string>
+	<key>segmentVariableSkewy</key>
+	<string>substantialCellFeedback</string>
+	<key>uniformResponseInteraction</key>
+	<string>storeAgainstTask</string>
+</dict>
+</plist>

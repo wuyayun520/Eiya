@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileHashTransparency</key>
+	<string>checkboxByPrototype</string>
+	<key>dedicatedMarginBrightness</key>
+	<string>responsePhaseVisible</string>
+	<key>hardCallbackFeedback</key>
+	<string>textfieldPlatformTail</string>
+	<key>largeCupertinoResponse</key>
+	<string>prevDependencyAppearance</string>
+</dict>
+</plist>

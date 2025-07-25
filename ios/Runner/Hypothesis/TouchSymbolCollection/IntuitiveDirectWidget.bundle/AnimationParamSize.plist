@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>opaqueRowInterval</key>
+	<string>cursorWithoutAction</string>
+	<key>progressbarEnvironmentKind</key>
+	<string>compositionOrJob</string>
+	<key>protocolEnvironmentDensity</key>
+	<string>swiftFacadeCoord</string>
+	<key>providerScopeHue</key>
+	<string>grainAdapterDelay</string>
+	<key>routerSinceProcess</key>
+	<string>handlerBufferBehavior</string>
+	<key>scrollAndPhase</key>
+	<string>permanentBufferOrigin</string>
+	<key>singletonMediatorScale</key>
+	<string>bufferFromProxy</string>
+	<key>stepAboutChain</key>
+	<string>rowVariableDepth</string>
+	<key>widgetAmongComposite</key>
+	<string>workflowSingletonInset</string>
+</dict>
+</plist>

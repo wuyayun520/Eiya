@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCaptionAcceleration</key>
+	<string>notifierDuringCycle</string>
+	<key>concreteBulletSkewx</key>
+	<string>spineTypeLocation</string>
+	<key>rectScopeDelay</key>
+	<string>referenceContainMode</string>
+	<key>storageSingletonTheme</key>
+	<string>sliderCompositeDuration</string>
+</dict>
+</plist>

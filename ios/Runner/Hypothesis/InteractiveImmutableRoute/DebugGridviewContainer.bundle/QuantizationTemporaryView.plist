@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalViewValidation</key>
+	<string>hashAtChain</string>
+	<key>hashIncludeSingleton</key>
+	<string>ternaryOperationPadding</string>
+	<key>matrixAdapterShape</key>
+	<string>zoneChainFeedback</string>
+	<key>taskSinceVar</key>
+	<string>signTierSize</string>
+	<key>unsortedHashSize</key>
+	<string>desktopRadioContrast</string>
+</dict>
+</plist>

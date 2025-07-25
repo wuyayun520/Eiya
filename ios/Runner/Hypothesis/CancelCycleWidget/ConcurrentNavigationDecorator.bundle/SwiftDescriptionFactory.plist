@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPhaseSkewy</key>
+	<string>uniformBatchStyle</string>
+	<key>geometricAspectStatus</key>
+	<string>textLevelOrigin</string>
+	<key>hashFormFrequency</key>
+	<string>synchronousEventFormat</string>
+	<key>liteRowOrientation</key>
+	<string>webGraphicSpeed</string>
+	<key>nodeTierType</key>
+	<string>materialTransformerBrightness</string>
+	<key>statelessMethodSize</key>
+	<string>builderStagePosition</string>
+</dict>
+</plist>

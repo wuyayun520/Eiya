@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintFormVisible</key>
+	<string>usecaseAtContext</string>
+	<key>custompaintLevelVisible</key>
+	<string>controllerTaskRate</string>
+	<key>immediateWidgetOrigin</key>
+	<string>pinchableSemanticsCount</string>
+	<key>loopOfActivity</key>
+	<string>stateCompositeOrientation</string>
+	<key>mobileFunctionVisibility</key>
+	<string>hierarchicalControllerRight</string>
+	<key>observerMementoTint</key>
+	<string>movementCompositeDirection</string>
+	<key>responsiveConstraintColor</key>
+	<string>fixedSpriteVisible</string>
+	<key>sequentialAspectMode</key>
+	<string>getxSincePrototype</string>
+	<key>sliderOrLevel</key>
+	<string>extensionLevelBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedManagerFeedback</key>
+	<string>currentResponseTint</string>
+	<key>collectionDuringProcess</key>
+	<string>navigationMediatorMomentum</string>
+	<key>gateOfStage</key>
+	<string>hashObserverVisibility</string>
+	<key>gesturedetectorDuringStrategy</key>
+	<string>logarithmPrototypeState</string>
+	<key>mutableQueueTint</key>
+	<string>aspectCycleOrientation</string>
+	<key>optimizerWorkVelocity</key>
+	<string>gradientFrameworkAlignment</string>
+	<key>presenterAgainstPrototype</key>
+	<string>desktopAwaitOpacity</string>
+	<key>transitionSincePattern</key>
+	<string>responseMethodCoord</string>
+</dict>
+</plist>

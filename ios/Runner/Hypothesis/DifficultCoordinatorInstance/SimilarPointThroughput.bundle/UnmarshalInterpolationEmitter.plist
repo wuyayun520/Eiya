@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerCycleShade</key>
+	<string>prismaticNodeEdge</string>
+	<key>hardChannelDuration</key>
+	<string>reductionActivityHue</string>
+	<key>inkwellMethodSaturation</key>
+	<string>aspectratioAtStage</string>
+	<key>painterStageBrightness</key>
+	<string>cartesianSkinSaturation</string>
+	<key>sliderBesidePattern</key>
+	<string>scrollableAnimatedcontainerKind</string>
+	<key>textStyleDistance</key>
+	<string>queryAboutCommand</string>
+	<key>tickerPerSystem</key>
+	<string>serviceVersusStage</string>
+</dict>
+</plist>

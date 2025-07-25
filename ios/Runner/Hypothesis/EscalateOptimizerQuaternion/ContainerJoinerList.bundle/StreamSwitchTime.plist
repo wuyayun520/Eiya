@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTransitionStyle</key>
+	<string>instructionAndLevel</string>
+	<key>crudeGraphicInset</key>
+	<string>tweenScopeBehavior</string>
+	<key>delegateWithStage</key>
+	<string>positionWithFacade</string>
+	<key>discardedGateContrast</key>
+	<string>assetLikeStyle</string>
+	<key>frameObserverOpacity</key>
+	<string>interpolationShapeTail</string>
+	<key>intermediateStatefulTag</key>
+	<string>textForCycle</string>
+	<key>originalTableState</key>
+	<string>activatedIndicatorMode</string>
+	<key>statelessGridviewColor</key>
+	<string>specifierOrPlatform</string>
+	<key>unactivatedMobxSpeed</key>
+	<string>multiChallengeCenter</string>
+</dict>
+</plist>

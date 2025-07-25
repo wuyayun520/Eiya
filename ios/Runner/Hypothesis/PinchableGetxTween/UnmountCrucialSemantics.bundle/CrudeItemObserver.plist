@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOperationKind</key>
+	<string>dynamicModelPosition</string>
+	<key>criticalSignatureName</key>
+	<string>getxFrameworkFormat</string>
+	<key>exponentFlyweightBehavior</key>
+	<string>profileBufferBorder</string>
+	<key>gridviewEnvironmentTheme</key>
+	<string>discardedTableFrequency</string>
+	<key>inheritedSingletonTheme</key>
+	<string>agileButtonShape</string>
+	<key>progressbarDuringPrototype</key>
+	<string>utilExceptStructure</string>
+	<key>remainderIncludeStructure</key>
+	<string>baseDespiteComposite</string>
+	<key>subscriptionContainFramework</key>
+	<string>vectorMethodLocation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandContextBrightness</key>
+	<string>alertActivityAlignment</string>
+	<key>effectActionBottom</key>
+	<string>customizedAsyncBehavior</string>
+	<key>localCycleScale</key>
+	<string>resourceMementoOrientation</string>
+	<key>popupActivityShape</key>
+	<string>cellMethodPressure</string>
+	<key>reactiveStepShade</key>
+	<string>responsiveExceptionDistance</string>
+</dict>
+</plist>

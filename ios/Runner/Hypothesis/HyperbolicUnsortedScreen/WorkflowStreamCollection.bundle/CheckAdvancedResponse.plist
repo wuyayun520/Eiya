@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncViewTheme</key>
+	<string>slashFromAction</string>
+	<key>bufferAgainstMethod</key>
+	<string>keyGradientVisibility</string>
+	<key>captionPerVisitor</key>
+	<string>storyboardKindFrequency</string>
+	<key>injectionInsideSingleton</key>
+	<string>uniqueCellShape</string>
+	<key>labelFormKind</key>
+	<string>callbackTierTheme</string>
+	<key>materialLossHue</key>
+	<string>sinkTaskMargin</string>
+	<key>profileBridgeTop</key>
+	<string>statefulSinceLayer</string>
+	<key>significantStreamOffset</key>
+	<string>interactorEnvironmentHead</string>
+	<key>staticOptimizerForce</key>
+	<string>hashFormTag</string>
+	<key>substantialRowCount</key>
+	<string>arithmeticWithFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>popupAlongKind</key>
+	<string>animationProxyVisible</string>
+	<key>providerForMethod</key>
+	<string>alignmentContainPlatform</string>
+	<key>repositoryWorkMode</key>
+	<string>parallelReducerSkewy</string>
+	<key>visiblePopupSpacing</key>
+	<string>customControllerTransparency</string>
+</dict>
+</plist>

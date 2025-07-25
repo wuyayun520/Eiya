@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentModeTension</key>
+	<string>flexibleChecklistDensity</string>
+	<key>exceptionShapeBehavior</key>
+	<string>containerAndNumber</string>
+	<key>progressbarJobVelocity</key>
+	<string>managerAtTask</string>
+	<key>protectedFutureShade</key>
+	<string>dynamicSceneBound</string>
+	<key>resultDuringPlatform</key>
+	<string>synchronousRowIndex</string>
+	<key>staticParticleState</key>
+	<string>chapterAgainstContext</string>
+	<key>tabviewPatternOrigin</key>
+	<string>liteRoleSkewy</string>
+</dict>
+</plist>

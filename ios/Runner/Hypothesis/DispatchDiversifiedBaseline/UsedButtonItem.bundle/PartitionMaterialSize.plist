@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateSinceFunction</key>
+	<string>interactorCycleRotation</string>
+	<key>graphicPrototypeLocation</key>
+	<string>reactiveSizeValidation</string>
+	<key>painterFunctionPressure</key>
+	<string>labelAsTask</string>
+	<key>playbackWithoutParameter</key>
+	<string>graphWorkInterval</string>
+	<key>typicalNodeContrast</key>
+	<string>navigatorFormTension</string>
+</dict>
+</plist>

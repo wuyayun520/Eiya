@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarIncludeParam</key>
+	<string>sortedErrorVisible</string>
+	<key>appbarVariableScale</key>
+	<string>subpixelModePadding</string>
+	<key>boxshadowAwayFlyweight</key>
+	<string>mobileFacadeFrequency</string>
+	<key>eagerTitleLocation</key>
+	<string>delegateIncludeTask</string>
+	<key>metadataSinceParam</key>
+	<string>cosineFacadeTransparency</string>
+	<key>otherCoordinatorSize</key>
+	<string>sinkSystemFlags</string>
+	<key>permanentSinkMode</key>
+	<string>usecaseNumberName</string>
+	<key>prismaticDelegateVelocity</key>
+	<string>pinchableWidgetScale</string>
+	<key>textureInContext</key>
+	<string>delicateHeapMargin</string>
+</dict>
+</plist>

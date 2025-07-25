@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerLocalizationBehavior</key>
+	<string>dropdownbuttonAdapterAppearance</string>
+	<key>descriptionProxyOrientation</key>
+	<string>semanticProgressbarSaturation</string>
+	<key>dimensionObserverSize</key>
+	<string>usedStreamFeedback</string>
+	<key>factoryKindOrientation</key>
+	<string>backwardGridDelay</string>
+	<key>groupPatternTop</key>
+	<string>workflowInVisitor</string>
+	<key>ignoredCupertinoLeft</key>
+	<string>tappablePainterDepth</string>
+	<key>loopMediatorShape</key>
+	<string>gridNearBuffer</string>
+	<key>primaryRadioLeft</key>
+	<string>graphVariableFormat</string>
+</dict>
+</plist>

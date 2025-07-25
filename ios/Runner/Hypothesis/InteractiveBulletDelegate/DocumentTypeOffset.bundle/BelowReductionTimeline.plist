@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphCompositeFormat</key>
+	<string>constraintDuringDecorator</string>
+	<key>localizationNearStrategy</key>
+	<string>responsePlatformInteraction</string>
+	<key>observerSinceSingleton</key>
+	<string>frameFrameworkFeedback</string>
+	<key>repositoryFromScope</key>
+	<string>sineWithoutMemento</string>
+	<key>smallInkwellAlignment</key>
+	<string>positionedNumberRate</string>
+	<key>staticModelPadding</key>
+	<string>requestAtStrategy</string>
+</dict>
+</plist>

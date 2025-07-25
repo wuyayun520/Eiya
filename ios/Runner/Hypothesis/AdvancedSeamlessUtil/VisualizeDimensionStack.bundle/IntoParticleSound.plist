@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSampleRotation</key>
+	<string>gesturedetectorActivityTag</string>
+	<key>canvasInterpreterOffset</key>
+	<string>constRoleVisibility</string>
+	<key>directSliderOrientation</key>
+	<string>isolatePatternCenter</string>
+	<key>displayableAnimationContrast</key>
+	<string>durationStateDepth</string>
+	<key>durationPerType</key>
+	<string>subpixelViaLayer</string>
+	<key>modulusOfScope</key>
+	<string>containerCompositeSize</string>
+	<key>radiusActionForce</key>
+	<string>tweenValueBrightness</string>
+	<key>textCommandDelay</key>
+	<string>descriptionBufferKind</string>
+</dict>
+</plist>

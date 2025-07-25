@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveEnvironmentBehavior</key>
+	<string>symbolStructureInteraction</string>
+	<key>draggableTopicState</key>
+	<string>nativeCoordinatorSize</string>
+	<key>musicOrAdapter</key>
+	<string>topicThroughPrototype</string>
+	<key>semanticSubscriptionBrightness</key>
+	<string>particleFlyweightFeedback</string>
+	<key>slashMethodTheme</key>
+	<string>directMenuSize</string>
+	<key>temporaryDescriptionSaturation</key>
+	<string>custompaintValueDuration</string>
+</dict>
+</plist>

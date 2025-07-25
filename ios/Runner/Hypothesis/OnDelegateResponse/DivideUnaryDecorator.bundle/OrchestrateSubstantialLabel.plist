@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFormSpacing</key>
+	<string>accessibleSliderValidation</string>
+	<key>associatedQueueSize</key>
+	<string>constOffsetVisibility</string>
+	<key>callbackAgainstJob</key>
+	<string>progressbarAgainstContext</string>
+	<key>callbackAtTemple</key>
+	<string>respectiveAlignmentStatus</string>
+	<key>clipperInComposite</key>
+	<string>zoneInsideDecorator</string>
+	<key>pageviewTaskBottom</key>
+	<string>transformerDespiteComposite</string>
+</dict>
+</plist>

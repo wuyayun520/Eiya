@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeConfigurationLeft</key>
+	<string>widgetPatternVisibility</string>
+	<key>extensionFrameworkTop</key>
+	<string>otherScrollPressure</string>
+	<key>responseViaPlatform</key>
+	<string>sequentialTopicFrequency</string>
+	<key>routeVersusProxy</key>
+	<string>staticNavigationBound</string>
+	<key>scaleViaShape</key>
+	<string>blocDespiteDecorator</string>
+	<key>tensorTransitionShade</key>
+	<string>repositoryAroundBridge</string>
+</dict>
+</plist>

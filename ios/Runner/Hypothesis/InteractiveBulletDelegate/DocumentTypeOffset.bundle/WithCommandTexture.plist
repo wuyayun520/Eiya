@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferPerBridge</key>
+	<string>asyncBatchSkewx</string>
+	<key>controllerContextIndex</key>
+	<string>containerProcessOrientation</string>
+	<key>custompaintFlyweightPressure</key>
+	<string>flexibleCustompaintStatus</string>
+	<key>specifierPlatformCount</key>
+	<string>interpolationOutsideTask</string>
+	<key>stateObserverInterval</key>
+	<string>eagerAnchorDistance</string>
+	<key>switchAgainstObserver</key>
+	<string>utilOfMethod</string>
+	<key>tabviewStageFormat</key>
+	<string>asyncEnvironmentOrigin</string>
+	<key>zoneFlyweightRight</key>
+	<string>frameFlyweightMargin</string>
+</dict>
+</plist>

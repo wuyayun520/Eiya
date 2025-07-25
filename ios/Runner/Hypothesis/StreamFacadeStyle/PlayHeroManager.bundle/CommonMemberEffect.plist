@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelExceptStrategy</key>
+	<string>instructionNearValue</string>
+	<key>commandWithScope</key>
+	<string>crudeChapterRotation</string>
+	<key>currentUnaryRate</key>
+	<string>resourceAdapterState</string>
+	<key>displayableIntegerContrast</key>
+	<string>futureCommandFrequency</string>
+	<key>elasticInteractorState</key>
+	<string>visibleTimerCenter</string>
+	<key>lazyBatchRight</key>
+	<string>hashAboutNumber</string>
+	<key>queueNearFramework</key>
+	<string>originalNavigatorLocation</string>
+	<key>rapidEntitySpacing</key>
+	<string>notifierCompositeDelay</string>
+	<key>titleChainCount</key>
+	<string>modelAboutDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileStorageStyle</key>
+	<string>otherRowBehavior</string>
+	<key>certificateParameterAcceleration</key>
+	<string>declarativeWidgetShape</string>
+	<key>cupertinoCubitRate</key>
+	<string>touchEnvironmentFeedback</string>
+	<key>mediumEntropyOffset</key>
+	<string>reducerFormStatus</string>
+	<key>overlayOrForm</key>
+	<string>clipperStageCenter</string>
+	<key>smartColumnHue</key>
+	<string>painterInLayer</string>
+</dict>
+</plist>

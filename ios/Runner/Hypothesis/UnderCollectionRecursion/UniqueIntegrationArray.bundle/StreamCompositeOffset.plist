@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAsMemento</key>
+	<string>cellStateName</string>
+	<key>callbackSincePattern</key>
+	<string>subscriptionFormState</string>
+	<key>statefulForAdapter</key>
+	<string>spineVariableAcceleration</string>
+	<key>subtleLocalizationScale</key>
+	<string>boxshadowTypeShape</string>
+	<key>swiftVarScale</key>
+	<string>segueAtTemple</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSingletonCount</key>
+	<string>injectionSinceBridge</string>
+	<key>independentAsyncForce</key>
+	<string>lazySpriteTop</string>
+	<key>labelBesideChain</key>
+	<string>aspectContainAction</string>
+	<key>listenerJobInteraction</key>
+	<string>asyncBeyondObserver</string>
+	<key>managerPerFramework</key>
+	<string>asyncMetadataOrigin</string>
+	<key>pointOfCycle</key>
+	<string>mobxThroughProxy</string>
+	<key>projectionStageStyle</key>
+	<string>catalystBufferInset</string>
+	<key>serviceFunctionBrightness</key>
+	<string>appbarWorkTail</string>
+	<key>transitionAlongType</key>
+	<string>semanticsPlatformScale</string>
+</dict>
+</plist>

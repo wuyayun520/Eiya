@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPlatformVisibility</key>
+	<string>observerVariableContrast</string>
+	<key>customPlatePressure</key>
+	<string>nextGridFormat</string>
+	<key>gradientParameterOffset</key>
+	<string>compositionWithTier</string>
+	<key>localizationOutsideFunction</key>
+	<string>constraintPatternColor</string>
+	<key>originalPlateSize</key>
+	<string>titleByVariable</string>
+	<key>playbackVarSize</key>
+	<string>parallelConfigurationFrequency</string>
+	<key>resilientSliderScale</key>
+	<string>resilientNavigationDirection</string>
+	<key>responseKindInteraction</key>
+	<string>sequentialFeatureName</string>
+</dict>
+</plist>

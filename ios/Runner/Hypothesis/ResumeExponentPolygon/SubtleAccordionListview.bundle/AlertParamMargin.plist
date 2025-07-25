@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleForOperation</key>
+	<string>commandActionPressure</string>
+	<key>invisibleObserverOrientation</key>
+	<string>optimizerModeType</string>
+	<key>layoutStrategyContrast</key>
+	<string>sensorActionTail</string>
+	<key>materialTextureSpacing</key>
+	<string>dedicatedViewSize</string>
+	<key>routeJobIndex</key>
+	<string>localDescriptorName</string>
+	<key>serviceAndMediator</key>
+	<string>accessoryTypeIndex</string>
+	<key>similarGestureType</key>
+	<string>inheritedAnimationRotation</string>
+	<key>spriteAroundScope</key>
+	<string>eagerChannelSize</string>
+	<key>transformerViaVariable</key>
+	<string>statefulBesideVar</string>
+</dict>
+</plist>

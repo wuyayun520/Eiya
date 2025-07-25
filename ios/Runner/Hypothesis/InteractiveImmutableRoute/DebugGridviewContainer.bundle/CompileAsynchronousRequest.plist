@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveKernelSaturation</key>
+	<string>loopVersusEnvironment</string>
+	<key>autoModelColor</key>
+	<string>currentFeaturePressure</string>
+	<key>immediateLabelTransparency</key>
+	<string>handlerVisitorColor</string>
+	<key>inheritedTouchBehavior</key>
+	<string>specifierOrLayer</string>
+	<key>radiusOrStrategy</key>
+	<string>granularEffectForce</string>
+	<key>resourceActivityHue</key>
+	<string>delegateKindInterval</string>
+	<key>storeOrPrototype</key>
+	<string>greatStreamHead</string>
+</dict>
+</plist>

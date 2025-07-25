@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOperationBorder</key>
+	<string>managerAsStrategy</string>
+	<key>frameIncludeInterpreter</key>
+	<string>unactivatedVectorBound</string>
+	<key>multiFrameMargin</key>
+	<string>statefulCosineShape</string>
+	<key>spriteLikeShape</key>
+	<string>significantExceptionBrightness</string>
+	<key>symmetricFeatureCoord</key>
+	<string>streamChainBrightness</string>
+</dict>
+</plist>

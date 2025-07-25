@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxProcessBehavior</key>
+	<string>similarScreenPadding</string>
+	<key>cursorPrototypeOrientation</key>
+	<string>statefulAtMediator</string>
+	<key>firstCacheSpeed</key>
+	<string>navigationPatternHead</string>
+	<key>matrixWorkVisibility</key>
+	<string>textAroundProcess</string>
+	<key>positionedModeContrast</key>
+	<string>documentOfShape</string>
+	<key>widgetCompositeRate</key>
+	<string>singletonChainTop</string>
+</dict>
+</plist>

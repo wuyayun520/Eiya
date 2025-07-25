@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTransitionBrightness</key>
+	<string>disparateResourceColor</string>
+	<key>blocContainType</key>
+	<string>resizablePresenterKind</string>
+	<key>cupertinoTextColor</key>
+	<string>graphAndSystem</string>
+	<key>dedicatedRouteStyle</key>
+	<string>requiredNavigatorOrigin</string>
+	<key>imperativeManagerRate</key>
+	<string>chartInSystem</string>
+	<key>rapidChannelOrigin</key>
+	<string>euclideanAccessoryInteraction</string>
+	<key>swiftContextAcceleration</key>
+	<string>awaitShapeAlignment</string>
+	<key>viewVersusInterpreter</key>
+	<string>immediateMultiplicationSaturation</string>
+</dict>
+</plist>

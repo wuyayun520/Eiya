@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteInjectionShade</key>
+	<string>fixedTopicColor</string>
+	<key>lostLabelTransparency</key>
+	<string>radiusWithoutScope</string>
+	<key>modulusAndFacade</key>
+	<string>mapLayerSkewx</string>
+	<key>multiMomentumRotation</key>
+	<string>statefulChartKind</string>
+	<key>navigatorAroundSystem</key>
+	<string>specifyMediaqueryRotation</string>
+	<key>newestStoreRotation</key>
+	<string>autoObserverAppearance</string>
+	<key>positionedExceptProxy</key>
+	<string>masterCommandBound</string>
+	<key>taskContainNumber</key>
+	<string>uniqueGetxState</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncButtonSpeed</key>
+	<string>graphMethodMargin</string>
+	<key>customizedMobxRotation</key>
+	<string>cubeInsideEnvironment</string>
+	<key>desktopFlexFormat</key>
+	<string>extensionAndCommand</string>
+	<key>menuFromMemento</key>
+	<string>subtleModelMargin</string>
+	<key>opaqueAnchorDensity</key>
+	<string>popupOfFacade</string>
+	<key>riverpodOfSingleton</key>
+	<string>gemMediatorBottom</string>
+	<key>scrollValueFrequency</key>
+	<string>listviewScopeLeft</string>
+	<key>secondConsumerTheme</key>
+	<string>hashActivityResponse</string>
+	<key>spotInLevel</key>
+	<string>responseAsShape</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionNearVisitor</key>
+	<string>repositoryAroundMediator</string>
+	<key>ignoredPresenterValidation</key>
+	<string>exponentOrForm</string>
+	<key>mainFactoryLeft</key>
+	<string>baselineAtLevel</string>
+	<key>sceneKindInset</key>
+	<string>webGridviewFeedback</string>
+	<key>sessionViaActivity</key>
+	<string>groupFacadeDelay</string>
+	<key>threadIncludeContext</key>
+	<string>exceptionObserverValidation</string>
+	<key>timerStrategyVelocity</key>
+	<string>responsiveSlashInterval</string>
+	<key>uniformSliderDensity</key>
+	<string>projectionCommandDepth</string>
+</dict>
+</plist>

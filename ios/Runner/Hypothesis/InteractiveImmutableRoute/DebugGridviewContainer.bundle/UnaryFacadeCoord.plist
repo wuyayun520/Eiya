@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationCompositeName</key>
+	<string>transitionFlyweightHead</string>
+	<key>configurationByStage</key>
+	<string>lazyLocalizationSize</string>
+	<key>errorAwayStyle</key>
+	<string>secondCollectionInteraction</string>
+	<key>intermediateStorageDirection</key>
+	<string>coordinatorAgainstTask</string>
+	<key>metadataAmongStrategy</key>
+	<string>notificationFrameworkMomentum</string>
+	<key>sliderPhaseStyle</key>
+	<string>offsetLayerDistance</string>
+	<key>stackBridgeTension</key>
+	<string>typicalPromiseTransparency</string>
+	<key>titlePhaseTransparency</key>
+	<string>resilientDurationShade</string>
+</dict>
+</plist>

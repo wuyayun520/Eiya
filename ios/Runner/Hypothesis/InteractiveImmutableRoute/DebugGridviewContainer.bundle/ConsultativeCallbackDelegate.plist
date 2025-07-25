@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyServiceDepth</key>
+	<string>configurationValueShade</string>
+	<key>displayablePositionOpacity</key>
+	<string>specifyLayoutHue</string>
+	<key>draggableGramRate</key>
+	<string>animatedTextureTint</string>
+	<key>enabledErrorCenter</key>
+	<string>globalOverlayBehavior</string>
+	<key>originalTickerCenter</key>
+	<string>zonePatternTheme</string>
+	<key>protocolWithJob</key>
+	<string>widgetSystemBorder</string>
+	<key>sharedExpandedContrast</key>
+	<string>semanticIsolateDelay</string>
+	<key>visibleLocalizationBorder</key>
+	<string>spotCommandShape</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleAgainstComposite</key>
+	<string>sustainableEventVisibility</string>
+	<key>desktopFragmentOffset</key>
+	<string>stateObserverAlignment</string>
+	<key>interfaceFrameworkBound</key>
+	<string>transitionMediatorTension</string>
+	<key>stateAgainstWork</key>
+	<string>sliderParamLeft</string>
+</dict>
+</plist>

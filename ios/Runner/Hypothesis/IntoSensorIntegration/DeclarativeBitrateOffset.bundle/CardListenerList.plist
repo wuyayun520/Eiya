@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicIsolateInterval</key>
+	<string>singleProviderFormat</string>
+	<key>buttonUntilContext</key>
+	<string>durationBeyondComposite</string>
+	<key>dynamicSlashTop</key>
+	<string>layerOperationTag</string>
+	<key>multiShaderOffset</key>
+	<string>alignmentMethodPadding</string>
+	<key>nextGateSkewy</key>
+	<string>tickerAdapterOrigin</string>
+	<key>normalTitleOrigin</key>
+	<string>retainedCellTension</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitForFramework</key>
+	<string>errorAsState</string>
+	<key>intuitiveDecorationMode</key>
+	<string>priorityInterpreterAcceleration</string>
+	<key>methodIncludeFacade</key>
+	<string>hardCellHead</string>
+	<key>queryAsBuffer</key>
+	<string>mediocreEffectBehavior</string>
+	<key>semanticsStateVisibility</key>
+	<string>behaviorAwayFlyweight</string>
+	<key>sensorDuringScope</key>
+	<string>modelStyleValidation</string>
+	<key>standaloneScaffoldTop</key>
+	<string>coordinatorAroundBuffer</string>
+	<key>tweenOrPhase</key>
+	<string>substantialStreamEdge</string>
+</dict>
+</plist>

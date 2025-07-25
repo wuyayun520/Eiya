@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackWithoutJob</key>
+	<string>signatureSingletonResponse</string>
+	<key>channelStrategyDistance</key>
+	<string>entityAgainstLayer</string>
+	<key>characterPrototypeOrigin</key>
+	<string>graphicContextStatus</string>
+	<key>dialogsOutsideStyle</key>
+	<string>crudeAnimationLocation</string>
+	<key>elasticTimerPosition</key>
+	<string>musicJobAlignment</string>
+	<key>equalizationFromJob</key>
+	<string>grayscaleCompositeFrequency</string>
+	<key>numericalInjectionDepth</key>
+	<string>missedChartResponse</string>
+	<key>numericalInterpolationInterval</key>
+	<string>masterVisitorTheme</string>
+	<key>observerAndAction</key>
+	<string>criticalGridValidation</string>
+</dict>
+</plist>

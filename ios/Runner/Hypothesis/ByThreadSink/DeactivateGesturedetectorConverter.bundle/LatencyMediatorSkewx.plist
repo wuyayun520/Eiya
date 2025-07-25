@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorCommandAppearance</key>
+	<string>layoutProcessTheme</string>
+	<key>isolateUntilObserver</key>
+	<string>providerByScope</string>
+	<key>nextCharacterIndex</key>
+	<string>widgetWithObserver</string>
+	<key>reductionAdapterVisible</key>
+	<string>interpolationLayerPosition</string>
+	<key>symbolUntilCommand</key>
+	<string>dedicatedActivityPosition</string>
+	<key>textureWithNumber</key>
+	<string>decorationPrototypeSaturation</string>
+	<key>zoneByPattern</key>
+	<string>behaviorKindTail</string>
+</dict>
+</plist>

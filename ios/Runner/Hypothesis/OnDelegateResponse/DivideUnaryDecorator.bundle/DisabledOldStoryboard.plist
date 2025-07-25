@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFormDirection</key>
+	<string>effectTaskDensity</string>
+	<key>asyncRouterStatus</key>
+	<string>playbackByJob</string>
+	<key>enabledReductionOffset</key>
+	<string>lostMusicMode</string>
+	<key>getxBesidePlatform</key>
+	<string>routeBufferForce</string>
+	<key>largeResultState</key>
+	<string>sharedLayoutInset</string>
+	<key>tangentVisitorBorder</key>
+	<string>materialWithoutPrototype</string>
+</dict>
+</plist>

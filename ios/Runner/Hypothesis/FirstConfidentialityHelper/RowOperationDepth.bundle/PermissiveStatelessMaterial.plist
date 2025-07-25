@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>menuActivityScale</key>
+	<string>secondEntityDirection</string>
+	<key>opaqueMenuTop</key>
+	<string>aspectFromFramework</string>
+	<key>symbolBesidePrototype</key>
+	<string>singletonUntilWork</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceStyleOrientation</key>
+	<string>secondEffectRight</string>
+	<key>loopAroundCommand</key>
+	<string>hyperbolicRectTransparency</string>
+	<key>overlayDuringSingleton</key>
+	<string>isolateViaEnvironment</string>
+	<key>persistentExceptionDensity</key>
+	<string>hashContainAdapter</string>
+	<key>semanticTextureStyle</key>
+	<string>methodSingletonOffset</string>
+	<key>substantialHandlerTint</key>
+	<string>beginnerSubscriptionKind</string>
+	<key>tappableChapterTag</key>
+	<string>normAwayShape</string>
+	<key>unaryObserverInterval</key>
+	<string>explicitAspectTint</string>
+</dict>
+</plist>

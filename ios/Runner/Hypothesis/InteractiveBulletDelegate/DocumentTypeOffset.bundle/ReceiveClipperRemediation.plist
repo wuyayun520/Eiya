@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAboutTier</key>
+	<string>widgetByProxy</string>
+	<key>captionAboutAction</key>
+	<string>presenterFromLevel</string>
+	<key>cubitModeInterval</key>
+	<string>standaloneObserverRate</string>
+	<key>custompaintBufferMode</key>
+	<string>memberActivityMargin</string>
+	<key>cycleAboutVisitor</key>
+	<string>unaryInsideValue</string>
+	<key>declarativeIconName</key>
+	<string>convolutionInterpreterVelocity</string>
+	<key>explicitQueryDuration</key>
+	<string>primaryTextfieldInteraction</string>
+	<key>sampleByMethod</key>
+	<string>relationalModulusSpeed</string>
+	<key>widgetLevelResponse</key>
+	<string>missionParamType</string>
+</dict>
+</plist>

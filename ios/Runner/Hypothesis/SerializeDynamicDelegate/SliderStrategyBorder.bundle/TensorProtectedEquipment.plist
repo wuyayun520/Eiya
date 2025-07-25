@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerContainType</key>
+	<string>viewPhaseEdge</string>
+	<key>customAnchorTheme</key>
+	<string>cacheNearStrategy</string>
+	<key>imageFacadeLeft</key>
+	<string>iterativeStoryboardLeft</string>
+	<key>layoutModeLocation</key>
+	<string>animationIncludeMediator</string>
+	<key>projectParamShade</key>
+	<string>builderParamShade</string>
+	<key>radiusAgainstParam</key>
+	<string>typicalTextureCenter</string>
+	<key>sessionIncludeDecorator</key>
+	<string>popupAwayValue</string>
+	<key>symbolThroughNumber</key>
+	<string>localReducerFrequency</string>
+	<key>textfieldFlyweightCenter</key>
+	<string>allocatorSystemScale</string>
+</dict>
+</plist>

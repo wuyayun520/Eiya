@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintByMediator</key>
+	<string>curvePrototypeOrientation</string>
+	<key>customProviderDirection</key>
+	<string>tweenDecoratorMode</string>
+	<key>dropdownbuttonAmongLayer</key>
+	<string>constraintContextTint</string>
+	<key>firstServiceRight</key>
+	<string>requestFunctionOpacity</string>
+	<key>notifierAboutLevel</key>
+	<string>notificationCompositeTint</string>
+	<key>reductionAwayOperation</key>
+	<string>exceptionInterpreterTransparency</string>
+	<key>requiredTweenDirection</key>
+	<string>builderAlongSystem</string>
+	<key>significantPreviewCenter</key>
+	<string>queueBufferSize</string>
+</dict>
+</plist>

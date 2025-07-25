@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAllocatorBound</key>
+	<string>graphicProxySaturation</string>
+	<key>graphPhaseShape</key>
+	<string>secondResultLeft</string>
+	<key>gridviewInFacade</key>
+	<string>taskAgainstStage</string>
+	<key>groupAndNumber</key>
+	<string>labelCommandKind</string>
+	<key>movementIncludeWork</key>
+	<string>inheritedChartOpacity</string>
+	<key>precisionStructureShade</key>
+	<string>cubeTaskSize</string>
+	<key>projectionLevelDuration</key>
+	<string>priorityMediatorMode</string>
+	<key>storeBridgeMargin</key>
+	<string>composableGraphTransparency</string>
+</dict>
+</plist>

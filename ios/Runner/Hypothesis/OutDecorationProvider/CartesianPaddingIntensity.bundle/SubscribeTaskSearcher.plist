@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalAccessoryAppearance</key>
+	<string>missedPresenterPadding</string>
+	<key>imageStatePadding</key>
+	<string>errorModeAlignment</string>
+	<key>interactiveConfigurationValidation</key>
+	<string>lazyInterfaceCount</string>
+	<key>managerAgainstFramework</key>
+	<string>routerExceptOperation</string>
+	<key>mediumModelDensity</key>
+	<string>buttonPrototypeVelocity</string>
+	<key>operationSingletonFormat</key>
+	<string>missedImageBound</string>
+	<key>serviceLayerLeft</key>
+	<string>localizationExceptKind</string>
+</dict>
+</plist>

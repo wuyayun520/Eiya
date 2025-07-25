@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAgainstComposite</key>
+	<string>taskAgainstBridge</string>
+	<key>buttonCommandContrast</key>
+	<string>opaqueCosineInteraction</string>
+	<key>characterCommandInset</key>
+	<string>visibleChapterBound</string>
+	<key>flexTypeSpeed</key>
+	<string>singleMultiplicationBound</string>
+	<key>movementWithoutVisitor</key>
+	<string>loopContextEdge</string>
+	<key>positionIncludeStyle</key>
+	<string>constraintLikeShape</string>
+	<key>resizableProviderSpeed</key>
+	<string>commandBufferTheme</string>
+	<key>skirtAmongStrategy</key>
+	<string>specifierAmongEnvironment</string>
+	<key>sliderStrategyInset</key>
+	<string>cellAsFramework</string>
+	<key>stateFacadeAcceleration</key>
+	<string>gradientBridgeInterval</string>
+</dict>
+</plist>

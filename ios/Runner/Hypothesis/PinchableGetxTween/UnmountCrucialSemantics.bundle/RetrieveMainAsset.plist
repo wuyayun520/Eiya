@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanBaselinePressure</key>
+	<string>immediateArithmeticRotation</string>
+	<key>imageParamOrientation</key>
+	<string>stepAboutState</string>
+	<key>managerParameterFormat</key>
+	<string>hardTransitionSaturation</string>
+	<key>nativeRoutePressure</key>
+	<string>observerFunctionRotation</string>
+	<key>offsetObserverScale</key>
+	<string>progressbarProcessVisible</string>
+	<key>queryWithPhase</key>
+	<string>chapterPerEnvironment</string>
+	<key>vectorMediatorFlags</key>
+	<string>segueDespiteLayer</string>
+	<key>webStreamVelocity</key>
+	<string>shaderChainTension</string>
+	<key>widgetAndDecorator</key>
+	<string>directlyThemeLeft</string>
+</dict>
+</plist>

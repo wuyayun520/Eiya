@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicWidgetSpacing</key>
+	<string>requestLikeSingleton</string>
+	<key>paddingStyleSaturation</key>
+	<string>ephemeralProgressbarHead</string>
+	<key>singletonAlongContext</key>
+	<string>draggableMetadataTransparency</string>
+	<key>specifierBridgeHue</key>
+	<string>tabviewActivitySpeed</string>
+	<key>spriteActionName</key>
+	<string>fixedQueueBrightness</string>
+</dict>
+</plist>

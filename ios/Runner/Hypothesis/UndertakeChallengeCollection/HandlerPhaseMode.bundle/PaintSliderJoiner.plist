@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistInComposite</key>
+	<string>scaffoldVersusSingleton</string>
+	<key>cubitViaStructure</key>
+	<string>equipmentAlongCycle</string>
+	<key>displayableEquipmentOpacity</key>
+	<string>explicitStateTint</string>
+	<key>histogramFormMomentum</key>
+	<string>materialSystemStyle</string>
+	<key>scaffoldObserverTag</key>
+	<string>secondContainerVisible</string>
+	<key>significantOverlayBottom</key>
+	<string>ignoredStoreInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>overlayOperationRight</key>
+	<string>positionedAtStage</string>
+	<key>reductionAgainstShape</key>
+	<string>mediocreInterpolationState</string>
+	<key>retainedErrorHue</key>
+	<string>progressbarTaskDelay</string>
+	<key>stateJobMargin</key>
+	<string>cycleSinceLayer</string>
+</dict>
+</plist>

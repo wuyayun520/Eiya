@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateSceneShape</key>
+	<string>pointExceptTier</string>
+	<key>fusedPreviewRight</key>
+	<string>desktopResolverContrast</string>
+	<key>futureAsJob</key>
+	<string>prismaticCardSaturation</string>
+	<key>inactiveActionType</key>
+	<string>requiredLocalizationResponse</string>
+	<key>navigationAlongBuffer</key>
+	<string>cubitAndMode</string>
+	<key>serviceAdapterBound</key>
+	<string>cursorLevelLocation</string>
+	<key>sineCommandSkewx</key>
+	<string>smartAlignmentShade</string>
+	<key>spineWithoutInterpreter</key>
+	<string>descriptionFormContrast</string>
+	<key>spriteValueMomentum</key>
+	<string>builderThroughMethod</string>
+</dict>
+</plist>

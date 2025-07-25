@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardVersusCommand</key>
+	<string>customScreenSpeed</string>
+	<key>commandModeBorder</key>
+	<string>popupCompositeBottom</string>
+	<key>imperativeCommandMargin</key>
+	<string>spriteBeyondStage</string>
+	<key>mediaqueryForProxy</key>
+	<string>catalystUntilContext</string>
+	<key>normalGroupDelay</key>
+	<string>sizedboxMethodKind</string>
+	<key>specifyCallbackContrast</key>
+	<string>consultativeMetadataContrast</string>
+	<key>textureFunctionDirection</key>
+	<string>cubeDecoratorFormat</string>
+</dict>
+</plist>

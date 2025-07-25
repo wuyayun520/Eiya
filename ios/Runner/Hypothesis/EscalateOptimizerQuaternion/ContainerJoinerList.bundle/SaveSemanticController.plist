@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionOfLayer</key>
+	<string>progressbarBesideStrategy</string>
+	<key>overlayFromSingleton</key>
+	<string>localGateHead</string>
+	<key>primaryResponseTheme</key>
+	<string>channelPerVisitor</string>
+	<key>reductionValueVisibility</key>
+	<string>reducerOperationShape</string>
+	<key>transitionAndTask</key>
+	<string>observerInsideFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAgainstVisitor</key>
+	<string>inkwellUntilTask</string>
+	<key>cupertinoOrCycle</key>
+	<string>spriteChainDirection</string>
+	<key>granularHashBehavior</key>
+	<string>geometricGrainLeft</string>
+	<key>loopContainFramework</key>
+	<string>behaviorContainLayer</string>
+	<key>precisionSingletonBound</key>
+	<string>delegateMementoMomentum</string>
+	<key>publicContainerFrequency</key>
+	<string>difficultContainerTop</string>
+</dict>
+</plist>

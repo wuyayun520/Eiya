@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalEqualizationTint</key>
+	<string>exponentInBuffer</string>
+	<key>cursorTempleEdge</key>
+	<string>featureVarPadding</string>
+	<key>customizedCoordinatorStyle</key>
+	<string>arithmeticWidgetDirection</string>
+	<key>groupBridgeLeft</key>
+	<string>activityAroundSingleton</string>
+	<key>primarySpriteIndex</key>
+	<string>managerScopeCoord</string>
+	<key>sharedRouterShape</key>
+	<string>enabledOptimizerCoord</string>
+	<key>tappableCompleterBrightness</key>
+	<string>scrollableControllerLocation</string>
+</dict>
+</plist>

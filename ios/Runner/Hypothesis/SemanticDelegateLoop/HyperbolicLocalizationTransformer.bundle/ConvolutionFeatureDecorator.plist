@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constCheckboxVisibility</key>
+	<string>curveContextFrequency</string>
+	<key>dynamicSwitchCount</key>
+	<string>inkwellCompositeBehavior</string>
+	<key>immediateExpandedBrightness</key>
+	<string>samplePatternVisibility</string>
+	<key>iterativeRemainderDelay</key>
+	<string>delegateCycleTheme</string>
+	<key>primaryVectorLocation</key>
+	<string>checklistValueResponse</string>
+	<key>routerLayerIndex</key>
+	<string>modalAlongStyle</string>
+	<key>substantialResponseDuration</key>
+	<string>advancedLocalizationDelay</string>
+	<key>textfieldTypeDistance</key>
+	<string>entropyAwayObserver</string>
+	<key>titleNearForm</key>
+	<string>priorTableCount</string>
+</dict>
+</plist>

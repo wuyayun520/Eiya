@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSceneCount</key>
+	<string>bulletBeyondParam</string>
+	<key>customChallengeFrequency</key>
+	<string>entityEnvironmentContrast</string>
+	<key>explicitCallbackFlags</key>
+	<string>futureMementoContrast</string>
+	<key>resolverShapeBorder</key>
+	<string>inactiveConvolutionFlags</string>
+	<key>responseBufferTint</key>
+	<string>independentAllocatorLeft</string>
+	<key>scaleDuringScope</key>
+	<string>normalThreadVisible</string>
+</dict>
+</plist>

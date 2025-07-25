@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerOutsideComposite</key>
+	<string>sizeForBridge</string>
+	<key>isolateOrStyle</key>
+	<string>unactivatedChecklistInterval</string>
+	<key>marginChainShade</key>
+	<string>subscriptionBeyondBuffer</string>
+	<key>originalResolverKind</key>
+	<string>effectEnvironmentStatus</string>
+	<key>priorRequestOrientation</key>
+	<string>priorSingletonShape</string>
+	<key>progressbarActivityTension</key>
+	<string>significantTransitionTension</string>
+	<key>riverpodWithoutPlatform</key>
+	<string>basicTransformerTag</string>
+	<key>subscriptionStrategyTail</key>
+	<string>precisionOfMemento</string>
+	<key>vectorUntilMethod</key>
+	<string>retainedDurationStatus</string>
+</dict>
+</plist>

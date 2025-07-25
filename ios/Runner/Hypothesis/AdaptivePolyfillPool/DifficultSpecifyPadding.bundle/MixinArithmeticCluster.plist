@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationJobEdge</key>
+	<string>spineDuringTask</string>
+	<key>batchInsideParameter</key>
+	<string>textureWithoutParameter</string>
+	<key>constraintStyleStatus</key>
+	<string>grainPlatformSkewx</string>
+	<key>intermediateStoryboardFormat</key>
+	<string>referenceFacadeSpacing</string>
+	<key>marginParameterLeft</key>
+	<string>switchShapeRight</string>
+</dict>
+</plist>

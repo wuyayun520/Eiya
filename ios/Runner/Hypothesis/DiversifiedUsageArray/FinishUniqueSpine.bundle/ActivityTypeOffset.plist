@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMomentumSkewy</key>
+	<string>activatedIntegerScale</string>
+	<key>animationDuringOperation</key>
+	<string>persistentAsyncFeedback</string>
+	<key>catalystInCommand</key>
+	<string>dedicatedViewTransparency</string>
+	<key>descriptorBridgeMargin</key>
+	<string>shaderViaFramework</string>
+	<key>independentAsyncHead</key>
+	<string>disabledStoreValidation</string>
+	<key>providerProxyRate</key>
+	<string>observerNearKind</string>
+	<key>symbolPrototypeFeedback</key>
+	<string>statefulBuilderDelay</string>
+	<key>visiblePetLocation</key>
+	<string>tensorRadioRight</string>
+</dict>
+</plist>

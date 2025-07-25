@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSpriteVelocity</key>
+	<string>greatGroupInteraction</string>
+	<key>chapterCompositeAppearance</key>
+	<string>lazyActionSpacing</string>
+	<key>globalListenerSpeed</key>
+	<string>actionAlongPhase</string>
+	<key>repositorySingletonState</key>
+	<string>requestShapeColor</string>
+	<key>semanticViewInteraction</key>
+	<string>unactivatedContainerBehavior</string>
+	<key>switchCycleResponse</key>
+	<string>capsuleTaskVisible</string>
+	<key>toolValueFrequency</key>
+	<string>baselineStateTail</string>
+	<key>uniqueInterfaceStatus</key>
+	<string>cellVariableTint</string>
+	<key>viewVersusCycle</key>
+	<string>navigatorAtStructure</string>
+</dict>
+</plist>

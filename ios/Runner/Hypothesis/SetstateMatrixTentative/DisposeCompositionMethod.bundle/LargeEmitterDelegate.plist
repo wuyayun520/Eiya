@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardCubitDistance</key>
+	<string>animatedcontainerContainMediator</string>
+	<key>textfieldVersusParam</key>
+	<string>sliderStyleMargin</string>
+	<key>themeVarKind</key>
+	<string>tweenKindBrightness</string>
+	<key>unaryCommandDensity</key>
+	<string>builderStrategyPosition</string>
+</dict>
+</plist>

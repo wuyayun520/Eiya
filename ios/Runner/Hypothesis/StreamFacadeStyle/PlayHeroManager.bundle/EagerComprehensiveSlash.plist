@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOptimizerFrequency</key>
+	<string>positionWithProcess</string>
+	<key>batchExceptComposite</key>
+	<string>intermediateSignatureBehavior</string>
+	<key>custompaintDecoratorCount</key>
+	<string>localizationCommandDelay</string>
+	<key>delegateIncludeFunction</key>
+	<string>invisibleZoneColor</string>
+	<key>dynamicBaseTransparency</key>
+	<string>captionAboutForm</string>
+	<key>imperativeDurationStatus</key>
+	<string>denseSceneAppearance</string>
+	<key>sliderParamContrast</key>
+	<string>allocatorModeDistance</string>
+	<key>subsequentBufferMode</key>
+	<string>stackByShape</string>
+</dict>
+</plist>

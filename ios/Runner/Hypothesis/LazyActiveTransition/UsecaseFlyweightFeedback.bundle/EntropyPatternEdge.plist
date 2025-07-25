@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionWithoutFlyweight</key>
+	<string>commonPopupStyle</string>
+	<key>containerCommandScale</key>
+	<string>captionModeContrast</string>
+	<key>deferredContainerFlags</key>
+	<string>opaqueNormMode</string>
+	<key>disparateStoreName</key>
+	<string>numericalInterfaceAppearance</string>
+	<key>groupAroundOperation</key>
+	<string>requiredWorkflowFrequency</string>
+	<key>taskSystemOrientation</key>
+	<string>giftAboutStage</string>
+	<key>usageBeyondVisitor</key>
+	<string>difficultDurationPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVersusCycle</key>
+	<string>smallParticleInteraction</string>
+	<key>customizedModelTail</key>
+	<string>navigationFunctionDistance</string>
+	<key>layerOrChain</key>
+	<string>previewViaPrototype</string>
+	<key>lossVarShape</key>
+	<string>responseModeBound</string>
+</dict>
+</plist>

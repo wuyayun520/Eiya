@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateStatelessType</key>
+	<string>navigationAtSingleton</string>
+	<key>descriptorBesideMediator</key>
+	<string>isolateCompositeFeedback</string>
+	<key>grayscaleWorkAcceleration</key>
+	<string>sceneExceptShape</string>
+	<key>greatRowOrientation</key>
+	<string>inactiveButtonOpacity</string>
+	<key>gridviewActionInterval</key>
+	<string>resultSystemPosition</string>
+	<key>navigationSinceStructure</key>
+	<string>threadKindResponse</string>
+	<key>offsetAlongMode</key>
+	<string>curveModeBorder</string>
+	<key>prismaticCompletionMode</key>
+	<string>disabledOffsetBehavior</string>
+	<key>secondEventPadding</key>
+	<string>animatedIndicatorDirection</string>
+</dict>
+</plist>

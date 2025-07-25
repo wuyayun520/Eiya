@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackInsideWork</key>
+	<string>taskAtMediator</string>
+	<key>completerNearSingleton</key>
+	<string>sensorOfProxy</string>
+	<key>comprehensiveAssetScale</key>
+	<string>dedicatedPresenterTransparency</string>
+	<key>desktopChartInset</key>
+	<string>declarativeChannelTail</string>
+	<key>imageFlyweightDuration</key>
+	<string>gemTypeSpacing</string>
+	<key>priorityScopeVisibility</key>
+	<string>mediumBrushAppearance</string>
+	<key>rapidNavigationSaturation</key>
+	<string>advancedFeatureTop</string>
+	<key>requiredListenerFrequency</key>
+	<string>callbackFrameworkInset</string>
+</dict>
+</plist>

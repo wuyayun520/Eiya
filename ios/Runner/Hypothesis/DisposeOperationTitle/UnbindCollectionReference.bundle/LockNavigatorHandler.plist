@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGateName</key>
+	<string>decorationBufferPressure</string>
+	<key>coordinatorSingletonBehavior</key>
+	<string>clipperLevelRate</string>
+	<key>handlerAmongFunction</key>
+	<string>clipperMethodVisible</string>
+	<key>handlerFormSize</key>
+	<string>statefulAroundAction</string>
+	<key>interfacePerAdapter</key>
+	<string>allocatorWithoutSingleton</string>
+	<key>streamBeyondMethod</key>
+	<string>animationOfCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,355 @@
+{
+  "dogs": [
+    {
+      "id": "dog_1",
+      "name": "Light Labrador Retriever",
+      "breed": "Labrador Retriever",
+      "description": "A well-built, healthy light-colored Labrador Retriever with cream or light yellow fur. Standing in an outdoor setting with a confident posture, tail held high and slightly curled. Wearing a blue collar and showing a happy expression with mouth slightly open.",
+      "characteristics": {
+        "coat": "Short, dense cream or light yellow fur",
+        "eye_color": "Not clearly visible in image",
+        "size": "Large",
+        "temperament": "Confident, alert, and well-trained",
+        "distinguishing_features": "Blue collar, high tail carriage, athletic build"
+      },
+      "care_instructions": {
+        "grooming": {
+          "frequency": "Weekly brushing",
+          "tools": "Slicker brush, shedding blade, grooming mitt",
+          "special_notes": "Labradors shed heavily, especially during seasonal changes"
+        },
+        "nutrition": {
+          "diet": "High-quality large breed dog food",
+          "feeding_schedule": "2 times daily for adults",
+          "water": "Fresh water available at all times"
+        },
+        "health": {
+          "vaccinations": "Core vaccines (DHPP, rabies, bordetella)",
+          "parasite_prevention": "Monthly flea and tick prevention, heartworm prevention",
+          "dental_care": "Regular dental check-ups, dental chews",
+          "exercise": "Daily exercise including walks, swimming, and play sessions"
+        },
+        "environment": {
+          "indoor_outdoor": "Both indoor and outdoor access",
+          "crate_training": "Recommended for house training",
+          "bedding": "Comfortable dog bed in quiet area",
+          "outdoor_access": "Secure yard with fence"
+        },
+        "training": {
+          "basic_commands": "Sit, stay, come, heel",
+          "socialization": "Early socialization with people and other dogs",
+          "mental_stimulation": "Puzzle toys, training sessions, interactive games"
+        }
+      },
+      "image_reference": "assets/Animal/dog_1.jpg",
+      "image_description": "Light-colored Labrador Retriever standing in outdoor field with blue collar"
+    },
+    {
+      "id": "dog_2",
+      "name": "Golden Retriever in Sunset",
+      "breed": "Golden Retriever",
+      "description": "A beautiful golden retriever lying on vibrant green grass under a stunning sunset sky. The dog has light golden fur and is looking directly at the camera with a happy, open-mouthed expression. Front paws extended forward in a relaxed pose.",
+      "characteristics": {
+        "coat": "Medium-length golden fur",
+        "eye_color": "Not clearly visible in image",
+        "size": "Large",
+        "temperament": "Happy, relaxed, and friendly",
+        "distinguishing_features": "Golden coat, happy expression, relaxed posture"
+      },
+      "care_instructions": {
+        "grooming": {
+          "frequency": "2-3 times per week brushing",
+          "tools": "Slicker brush, undercoat rake, grooming mitt",
+          "special_notes": "Heavy shedding, especially during seasonal changes"
+        },
+        "nutrition": {
+          "diet": "High-quality large breed dog food",
+          "feeding_schedule": "2 times daily for adults",
+          "water": "Fresh water available at all times"
+        },
+        "health": {
+          "vaccinations": "Core vaccines (DHPP, rabies, bordetella)",
+          "parasite_prevention": "Monthly flea and tick prevention, heartworm prevention",
+          "dental_care": "Regular dental check-ups, dental chews",
+          "exercise": "Daily exercise including walks, swimming, and play sessions"
+        },
+        "environment": {
+          "indoor_outdoor": "Both indoor and outdoor access",
+          "crate_training": "Recommended for house training",
+          "bedding": "Comfortable dog bed in quiet area",
+          "outdoor_access": "Secure yard with fence"
+        },
+        "training": {
+          "basic_commands": "Sit, stay, come, heel",
+          "socialization": "Early socialization with people and other dogs",
+          "mental_stimulation": "Puzzle toys, training sessions, interactive games"
+        }
+      },
+      "image_reference": "assets/Animal/dog_2.jpg",
+      "image_description": "Golden Retriever lying on green grass under sunset sky"
+    },
+    {
+      "id": "dog_3",
+      "name": "Goldendoodle with Sunflower Bandana",
+      "breed": "Goldendoodle or Cockapoo",
+      "description": "A light brown, curly-haired dog sitting upright on a white fluffy rug. Wearing a bright yellow bandana with sunflower pattern and a matching yellow bow on its head. Looking directly at the camera with a calm, well-behaved expression.",
+      "characteristics": {
+        "coat": "Curly, light brown fur",
+        "eye_color": "Not clearly visible in image",
+        "size": "Medium",
+        "temperament": "Calm, well-trained, and patient",
+        "distinguishing_features": "Curly coat, yellow bandana and bow, well-groomed appearance"
+      },
+      "care_instructions": {
+        "grooming": {
+          "frequency": "Daily brushing required",
+          "tools": "Slicker brush, detangling comb, grooming spray",
+          "special_notes": "Curly coats require regular professional grooming every 6-8 weeks"
+        },
+        "nutrition": {
+          "diet": "High-quality medium breed dog food",
+          "feeding_schedule": "2 times daily for adults",
+          "water": "Fresh water available at all times"
+        },
+        "health": {
+          "vaccinations": "Core vaccines (DHPP, rabies, bordetella)",
+          "parasite_prevention": "Monthly flea and tick prevention, heartworm prevention",
+          "dental_care": "Regular dental check-ups, dental chews",
+          "exercise": "Daily walks and play sessions"
+        },
+        "environment": {
+          "indoor_outdoor": "Both indoor and outdoor access",
+          "crate_training": "Recommended for house training",
+          "bedding": "Comfortable dog bed in quiet area",
+          "outdoor_access": "Secure yard with fence"
+        },
+        "training": {
+          "basic_commands": "Sit, stay, come, heel",
+          "socialization": "Early socialization with people and other dogs",
+          "mental_stimulation": "Puzzle toys, training sessions, interactive games"
+        },
+        "special_care": {
+          "coat_maintenance": "Regular professional grooming essential",
+          "matting_prevention": "Daily brushing to prevent matting",
+          "accessories": "Safe bandanas and bows, monitor for comfort"
+        }
+      },
+      "image_reference": "assets/Animal/dog_3.jpg",
+      "image_description": "Curly-haired dog with yellow bandana sitting on white rug in decorated setting"
+    },
+    {
+      "id": "dog_4",
+      "name": "Cavalier King Charles Spaniel with LED Collar",
+      "breed": "Cavalier King Charles Spaniel",
+      "description": "A tricolor Cavalier King Charles Spaniel sitting on a paved surface near water at dusk. Has black back and ears, white chest and paws, and tan markings on face. Wearing a bright glowing red/orange LED collar that illuminates the white fur on its chest.",
+      "characteristics": {
+        "coat": "Medium-length silky fur, tricolor pattern",
+        "eye_color": "Not clearly visible in image",
+        "size": "Small",
+        "temperament": "Gentle, affectionate, and well-behaved",
+        "distinguishing_features": "Tricolor coat, LED collar, long wavy ears"
+      },
+      "care_instructions": {
+        "grooming": {
+          "frequency": "2-3 times per week brushing",
+          "tools": "Slicker brush, comb, grooming spray",
+          "special_notes": "Silky coat requires regular grooming to prevent matting"
+        },
+        "nutrition": {
+          "diet": "High-quality small breed dog food",
+          "feeding_schedule": "2 times daily for adults",
+          "water": "Fresh water available at all times"
+        },
+        "health": {
+          "vaccinations": "Core vaccines (DHPP, rabies, bordetella)",
+          "parasite_prevention": "Monthly flea and tick prevention, heartworm prevention",
+          "dental_care": "Regular dental check-ups, dental chews",
+          "exercise": "Daily walks and gentle play sessions"
+        },
+        "environment": {
+          "indoor_outdoor": "Both indoor and outdoor access",
+          "crate_training": "Recommended for house training",
+          "bedding": "Comfortable dog bed in quiet area",
+          "outdoor_access": "Secure yard with fence"
+        },
+        "training": {
+          "basic_commands": "Sit, stay, come, heel",
+          "socialization": "Early socialization with people and other dogs",
+          "mental_stimulation": "Puzzle toys, training sessions, interactive games"
+        },
+        "special_care": {
+          "heart_health": "Regular cardiac screening due to breed predisposition",
+          "eye_care": "Regular eye check-ups",
+          "temperature": "Sensitive to extreme temperatures"
+        }
+      },
+      "image_reference": "assets/Animal/dog_4.jpg",
+      "image_description": "Tricolor Cavalier King Charles Spaniel with LED collar near water at dusk"
+    },
+    {
+      "id": "dog_5",
+      "name": "Long-haired Chihuahua on Pink Blanket",
+      "breed": "Long-haired Chihuahua",
+      "description": "A small, fluffy long-haired Chihuahua sitting upright on a soft pink blanket. Has predominantly white fur with a distinct light brown/tan patch running along its back and side. Large, erect ears tipped with light brown color. Large, dark round eyes and small black nose.",
+      "characteristics": {
+        "coat": "Long, fluffy white fur with tan patches",
+        "eye_color": "Dark",
+        "size": "Very small",
+        "temperament": "Alert, curious, and attentive",
+        "distinguishing_features": "Long fluffy coat, large erect ears, small size"
+      },
+      "care_instructions": {
+        "grooming": {
+          "frequency": "Daily brushing required",
+          "tools": "Slicker brush, comb, detangling spray",
+          "special_notes": "Long coat requires regular grooming to prevent matting"
+        },
+        "nutrition": {
+          "diet": "High-quality small breed dog food",
+          "feeding_schedule": "2-3 times daily for small dogs",
+          "water": "Fresh water available at all times"
+        },
+        "health": {
+          "vaccinations": "Core vaccines (DHPP, rabies, bordetella)",
+          "parasite_prevention": "Monthly flea and tick prevention, heartworm prevention",
+          "dental_care": "Regular dental check-ups, dental chews",
+          "exercise": "Daily walks and play sessions"
+        },
+        "environment": {
+          "indoor_outdoor": "Primarily indoor with supervised outdoor time",
+          "crate_training": "Recommended for house training",
+          "bedding": "Comfortable dog bed in quiet area",
+          "outdoor_access": "Supervised outdoor time"
+        },
+        "training": {
+          "basic_commands": "Sit, stay, come, heel",
+          "socialization": "Early socialization with people and other dogs",
+          "mental_stimulation": "Puzzle toys, training sessions, interactive games"
+        },
+        "special_care": {
+          "temperature_sensitivity": "Sensitive to cold, provide warm bedding",
+          "dental_health": "Small dogs prone to dental issues",
+          "fragility": "Handle gently due to small size"
+        }
+      },
+      "image_reference": "assets/Animal/dog_5.jpg",
+      "image_description": "Long-haired Chihuahua sitting on pink blanket with duck pattern"
+    },
+    {
+      "id": "dog_6",
+      "name": "Medium Dog with Patterned Collar",
+      "breed": "Mixed Breed or Medium-sized Dog",
+      "description": "A medium-sized dog with light creamy-tan fur sitting on a dirt path in an outdoor setting. Has distinctive upright, pointed ears giving it an alert appearance. Wearing a patterned collar with abstract/floral design in green, blue, and white colors.",
+      "characteristics": {
+        "coat": "Short to medium-length creamy-tan fur",
+        "eye_color": "Dark",
+        "size": "Medium",
+        "temperament": "Calm, attentive, and well-behaved",
+        "distinguishing_features": "Upright pointed ears, patterned collar, alert expression"
+      },
+      "care_instructions": {
+        "grooming": {
+          "frequency": "Weekly brushing",
+          "tools": "Slicker brush, grooming mitt",
+          "special_notes": "Regular brushing to maintain coat health"
+        },
+        "nutrition": {
+          "diet": "High-quality medium breed dog food",
+          "feeding_schedule": "2 times daily for adults",
+          "water": "Fresh water available at all times"
+        },
+        "health": {
+          "vaccinations": "Core vaccines (DHPP, rabies, bordetella)",
+          "parasite_prevention": "Monthly flea and tick prevention, heartworm prevention",
+          "dental_care": "Regular dental check-ups, dental chews",
+          "exercise": "Daily walks and play sessions"
+        },
+        "environment": {
+          "indoor_outdoor": "Both indoor and outdoor access",
+          "crate_training": "Recommended for house training",
+          "bedding": "Comfortable dog bed in quiet area",
+          "outdoor_access": "Secure yard with fence"
+        },
+        "training": {
+          "basic_commands": "Sit, stay, come, heel",
+          "socialization": "Early socialization with people and other dogs",
+          "mental_stimulation": "Puzzle toys, training sessions, interactive games"
+        }
+      },
+      "image_reference": "assets/Animal/dog_6.jpg",
+      "image_description": "Medium-sized dog with patterned collar sitting on dirt path outdoors"
+    }
+  ],
+  "general_care_guidelines": {
+    "veterinary_care": {
+      "annual_checkups": "Required for all dogs",
+      "vaccinations": "Core vaccines: DHPP, rabies, bordetella",
+      "parasite_prevention": "Monthly flea and tick prevention, heartworm prevention",
+      "dental_care": "Regular dental check-ups and cleanings"
+    },
+    "nutrition": {
+      "quality_food": "High-quality, age-appropriate dog food",
+      "feeding_schedule": "2 times daily for adults, 3 times for puppies",
+      "water": "Fresh water available 24/7",
+      "treats": "Limited treats, avoid human food"
+    },
+    "environment": {
+      "indoor_safety": "Remove toxic plants, secure cords",
+      "crate_training": "Recommended for house training",
+      "enrichment": "Toys, chew items, interactive games",
+      "resting_areas": "Comfortable dog beds in quiet areas"
+    },
+    "grooming": {
+      "short_hair": "Weekly brushing",
+      "medium_hair": "2-3 times per week brushing",
+      "long_hair": "Daily brushing required",
+      "nail_trimming": "Every 2-4 weeks",
+      "bathing": "As needed, typically every 4-8 weeks"
+    },
+    "behavior": {
+      "socialization": "Early socialization with people and other dogs",
+      "play_time": "Daily interactive play sessions",
+      "mental_stimulation": "Puzzle toys, training sessions",
+      "stress_management": "Routine, quiet spaces, positive reinforcement"
+    },
+    "exercise": {
+      "daily_walks": "Minimum 30 minutes for most breeds",
+      "play_sessions": "Interactive games and fetch",
+      "mental_stimulation": "Training sessions, puzzle toys",
+      "breed_specific": "Adjust exercise based on breed and age"
+    }
+  },
+  "emergency_information": {
+    "signs_of_illness": [
+      "Changes in appetite or water consumption",
+      "Lethargy or unusual behavior",
+      "Vomiting or diarrhea",
+      "Changes in bathroom habits",
+      "Coughing or sneezing",
+      "Limping or difficulty moving",
+      "Excessive scratching or skin issues"
+    ],
+    "emergency_contacts": {
+      "veterinarian": "Contact your local vet",
+      "emergency_clinic": "24-hour emergency animal hospital",
+      "poison_control": "ASPCA Animal Poison Control"
+    }
+  },
+  "breed_specific_considerations": {
+    "large_breeds": {
+      "joint_health": "Monitor for hip dysplasia, arthritis",
+      "growth_rate": "Slow growth food for puppies",
+      "exercise_needs": "Higher exercise requirements"
+    },
+    "small_breeds": {
+      "dental_health": "More prone to dental issues",
+      "temperature": "Sensitive to cold weather",
+      "fragility": "Handle gently due to small size"
+    },
+    "long_hair_breeds": {
+      "grooming": "Daily brushing essential",
+      "matting": "Regular professional grooming",
+      "seasonal_shedding": "Increased grooming during shedding seasons"
+    }
+  }
+} 

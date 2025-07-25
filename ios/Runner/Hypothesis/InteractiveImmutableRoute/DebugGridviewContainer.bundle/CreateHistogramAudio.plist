@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferThroughPattern</key>
+	<string>interfaceOutsideMediator</string>
+	<key>delegateChainVisibility</key>
+	<string>publicDimensionName</string>
+	<key>denseStoryboardTint</key>
+	<string>oldSwiftLocation</string>
+	<key>largeProviderTag</key>
+	<string>localCardVelocity</string>
+	<key>primaryTextSaturation</key>
+	<string>cubitProcessSpacing</string>
+</dict>
+</plist>

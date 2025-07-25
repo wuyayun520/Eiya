@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInterpolationSize</key>
+	<string>behaviorThroughFunction</string>
+	<key>commandAsSystem</key>
+	<string>subscriptionUntilMemento</string>
+	<key>completerNearVariable</key>
+	<string>significantSceneOrigin</string>
+	<key>consumerFunctionRotation</key>
+	<string>significantButtonPressure</string>
+	<key>queryPhaseScale</key>
+	<string>lastDependencyRotation</string>
+	<key>respectiveButtonFrequency</key>
+	<string>heapFrameworkRight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioActivityAcceleration</key>
+	<string>multiSessionTransparency</string>
+	<key>convolutionFlyweightSize</key>
+	<string>touchMediatorRotation</string>
+	<key>cubeFacadeContrast</key>
+	<string>explicitAllocatorStyle</string>
+	<key>giftFrameworkDistance</key>
+	<string>reducerPhaseOffset</string>
+	<key>hierarchicalFutureFormat</key>
+	<string>utilNearNumber</string>
+	<key>methodPerSingleton</key>
+	<string>nativeStepBound</string>
+	<key>opaqueWorkflowRotation</key>
+	<string>checkboxShapeSize</string>
+	<key>positionSystemRate</key>
+	<string>managerInterpreterSpacing</string>
+	<key>spotInLayer</key>
+	<string>localLocalizationDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalKernelType</key>
+	<string>optimizerAtActivity</string>
+	<key>elasticSpriteInteraction</key>
+	<string>queryVarHue</string>
+	<key>featureActivityCount</key>
+	<string>nativeRemainderTail</string>
+	<key>numericalLayoutAcceleration</key>
+	<string>gridShapeRotation</string>
+	<key>spriteLikeEnvironment</key>
+	<string>interactorVariableInterval</string>
+	<key>staticMobxSkewx</key>
+	<string>routerValueCenter</string>
+	<key>subpixelNumberType</key>
+	<string>plateMementoPosition</string>
+</dict>
+</plist>

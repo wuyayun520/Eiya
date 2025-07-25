@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAroundJob</key>
+	<string>spriteParamContrast</string>
+	<key>controllerShapeResponse</key>
+	<string>resilientGestureOffset</string>
+	<key>cursorThanState</key>
+	<string>bufferDecoratorInterval</string>
+	<key>lastInjectionTransparency</key>
+	<string>lostSignatureStyle</string>
+	<key>layoutJobRate</key>
+	<string>singletonMementoVisible</string>
+	<key>rectPerVisitor</key>
+	<string>listenerPerForm</string>
+	<key>singletonUntilMethod</key>
+	<string>subpixelOutsideStyle</string>
+</dict>
+</plist>

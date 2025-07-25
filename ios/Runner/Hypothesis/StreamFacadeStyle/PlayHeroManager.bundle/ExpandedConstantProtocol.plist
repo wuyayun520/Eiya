@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTierInteraction</key>
+	<string>utilMementoTop</string>
+	<key>cursorStyleSkewx</key>
+	<string>segueVersusPlatform</string>
+	<key>descriptionVersusOperation</key>
+	<string>methodModeTransparency</string>
+	<key>inheritedReferenceRotation</key>
+	<string>chapterContextCount</string>
+	<key>requestSingletonTransparency</key>
+	<string>dropdownbuttonProxyPosition</string>
+	<key>seamlessMethodDistance</key>
+	<string>intensityLayerDirection</string>
+	<key>storeDespiteParam</key>
+	<string>tickerDecoratorInteraction</string>
+</dict>
+</plist>

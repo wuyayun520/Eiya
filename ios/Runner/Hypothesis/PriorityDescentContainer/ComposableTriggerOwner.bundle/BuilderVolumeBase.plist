@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAgainstStrategy</key>
+	<string>swiftParamBorder</string>
+	<key>builderOrParameter</key>
+	<string>directlyLabelSaturation</string>
+	<key>buttonTierLocation</key>
+	<string>nibAsCommand</string>
+	<key>entityVersusStrategy</key>
+	<string>stepAmongMethod</string>
+	<key>frameFrameworkScale</key>
+	<string>loopCommandShade</string>
+	<key>navigationLikeMethod</key>
+	<string>chartLevelTint</string>
+	<key>navigationVersusPhase</key>
+	<string>radiusDespiteParameter</string>
+	<key>permanentPopupIndex</key>
+	<string>canvasVersusVisitor</string>
+	<key>sceneUntilInterpreter</key>
+	<string>mutableBufferShade</string>
+	<key>tensorCapacitiesValidation</key>
+	<string>originalNibPosition</string>
+</dict>
+</plist>

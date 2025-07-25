@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateIncludePattern</key>
+	<string>descriptionExceptState</string>
+	<key>layoutJobShade</key>
+	<string>mediumWidgetCoord</string>
+	<key>modalAlongMediator</key>
+	<string>positionedWithComposite</string>
+	<key>prismaticBuilderOrientation</key>
+	<string>serviceCommandTail</string>
+	<key>promiseTypeMode</key>
+	<string>queryByJob</string>
+</dict>
+</plist>

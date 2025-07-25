@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAsNumber</key>
+	<string>buttonWithoutObserver</string>
+	<key>captionSystemContrast</key>
+	<string>disabledLabelDensity</string>
+	<key>eagerGestureTail</key>
+	<string>switchCyclePadding</string>
+	<key>eventInMethod</key>
+	<string>adaptiveFrameVelocity</string>
+	<key>hierarchicalEntityDelay</key>
+	<string>mapPlatformCount</string>
+	<key>lazyQueryValidation</key>
+	<string>semanticsBesideValue</string>
+	<key>providerAsFramework</key>
+	<string>clipperActivityRate</string>
+	<key>requestBesideFunction</key>
+	<string>effectVarLocation</string>
+	<key>utilThroughCycle</key>
+	<string>skirtShapeMomentum</string>
+</dict>
+</plist>

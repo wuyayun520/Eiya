@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOrCommand</key>
+	<string>singletonTierTransparency</string>
+	<key>disabledAssetOrientation</key>
+	<string>customContainerRate</string>
+	<key>durationOperationStatus</key>
+	<string>listenerExceptEnvironment</string>
+	<key>invisibleMovementEdge</key>
+	<string>memberTierState</string>
+	<key>spotFromFramework</key>
+	<string>activatedGroupContrast</string>
+</dict>
+</plist>

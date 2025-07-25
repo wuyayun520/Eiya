@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPrototypeInteraction</key>
+	<string>cycleOperationTag</string>
+	<key>eventAndAction</key>
+	<string>streamViaAction</string>
+	<key>handlerAmongKind</key>
+	<string>zoneShapeSpacing</string>
+	<key>requestAndForm</key>
+	<string>tweenAndJob</string>
+	<key>tabbarActivitySpacing</key>
+	<string>extensionForMediator</string>
+</dict>
+</plist>

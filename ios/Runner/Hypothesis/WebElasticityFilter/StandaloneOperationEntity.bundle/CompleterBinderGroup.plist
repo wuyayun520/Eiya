@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianMetadataVelocity</key>
+	<string>interpolationFormMomentum</string>
+	<key>eagerOffsetSkewx</key>
+	<string>fusedTransformerIndex</string>
+	<key>kernelBufferStatus</key>
+	<string>projectionAtLayer</string>
+	<key>scaleNumberDirection</key>
+	<string>factoryContainJob</string>
+	<key>sessionWithoutTier</key>
+	<string>layerTierFlags</string>
+	<key>textStateCount</key>
+	<string>listenerDespiteStyle</string>
+</dict>
+</plist>

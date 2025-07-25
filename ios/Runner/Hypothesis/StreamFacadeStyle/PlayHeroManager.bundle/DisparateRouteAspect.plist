@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupMethodAcceleration</key>
+	<string>sliderParamFeedback</string>
+	<key>routeAtChain</key>
+	<string>priorityInEnvironment</string>
+	<key>scrollableStampTint</key>
+	<string>isolateDecoratorCoord</string>
+	<key>textureInDecorator</key>
+	<string>intermediateUsageBound</string>
+	<key>zoneByComposite</key>
+	<string>taskAgainstMethod</string>
+</dict>
+</plist>

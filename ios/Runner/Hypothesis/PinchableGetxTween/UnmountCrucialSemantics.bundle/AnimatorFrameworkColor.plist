@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateActivityScale</key>
+	<string>movementStageBound</string>
+	<key>chartProxyStatus</key>
+	<string>scaleBeyondProxy</string>
+	<key>checkboxDuringMethod</key>
+	<string>immediateLabelCount</string>
+	<key>coordinatorIncludeChain</key>
+	<string>granularClipperLeft</string>
+	<key>labelInPhase</key>
+	<string>gateTypeMode</string>
+	<key>requiredProviderScale</key>
+	<string>usageAsFlyweight</string>
+	<key>unaryBesideForm</key>
+	<string>eventOutsideVar</string>
+</dict>
+</plist>

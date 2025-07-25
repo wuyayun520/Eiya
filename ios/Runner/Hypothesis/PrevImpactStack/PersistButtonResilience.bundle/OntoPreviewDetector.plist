@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelNearType</key>
+	<string>sizedboxForScope</string>
+	<key>completerFrameworkFlags</key>
+	<string>diffableStorageAcceleration</string>
+	<key>completerObserverStyle</key>
+	<string>textEnvironmentTransparency</string>
+	<key>graphThroughShape</key>
+	<string>transitionSinceJob</string>
+	<key>localTransitionRotation</key>
+	<string>localFrameOrientation</string>
+	<key>materialOrState</key>
+	<string>configurationVersusFunction</string>
+	<key>radioCommandMomentum</key>
+	<string>alignmentChainDirection</string>
+	<key>spritePrototypeSpeed</key>
+	<string>accessoryWithStage</string>
+</dict>
+</plist>

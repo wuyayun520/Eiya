@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartValueAcceleration</key>
+	<string>tickerAdapterTransparency</string>
+	<key>equalizationLayerFormat</key>
+	<string>layoutDecoratorPadding</string>
+	<key>invisibleDependencyOrientation</key>
+	<string>discardedRectFormat</string>
+	<key>tabbarSinceMethod</key>
+	<string>navigationExceptFacade</string>
+	<key>tangentStructureHue</key>
+	<string>statelessParamRate</string>
+	<key>tappableRepositoryFlags</key>
+	<string>composableVectorSpacing</string>
+	<key>transitionVersusNumber</key>
+	<string>kernelVersusChain</string>
+</dict>
+</plist>

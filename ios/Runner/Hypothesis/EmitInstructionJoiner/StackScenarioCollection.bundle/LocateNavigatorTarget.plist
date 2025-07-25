@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionVariableRotation</key>
+	<string>advancedAwaitName</string>
+	<key>optimizerInterpreterValidation</key>
+	<string>denseConstraintMomentum</string>
+	<key>resultScopeBorder</key>
+	<string>concurrentIsolateState</string>
+</dict>
+</plist>

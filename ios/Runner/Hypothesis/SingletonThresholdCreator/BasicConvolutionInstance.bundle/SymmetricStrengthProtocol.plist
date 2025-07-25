@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorChainShape</key>
+	<string>normAndPattern</string>
+	<key>batchUntilJob</key>
+	<string>fixedZoneMomentum</string>
+	<key>contractionDuringTier</key>
+	<string>routeOutsideSingleton</string>
+	<key>customizedErrorStatus</key>
+	<string>profileStateFrequency</string>
+	<key>custompaintInParam</key>
+	<string>lazyGraphSpacing</string>
+	<key>pivotalToolVisibility</key>
+	<string>radiusOrProcess</string>
+	<key>prevTextCoord</key>
+	<string>mutableSizeFlags</string>
+	<key>sceneAsMemento</key>
+	<string>dedicatedMetadataTransparency</string>
+</dict>
+</plist>

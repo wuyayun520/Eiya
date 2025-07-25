@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryStyleSkewy</key>
+	<string>checklistBesideMethod</string>
+	<key>containerBridgeStyle</key>
+	<string>reusableStreamMode</string>
+	<key>delicateProjectCoord</key>
+	<string>graphicEnvironmentOrientation</string>
+	<key>positionLevelAlignment</key>
+	<string>interpolationProxyPadding</string>
+	<key>referenceAmongObserver</key>
+	<string>routeTierState</string>
+	<key>remainderParameterStyle</key>
+	<string>columnContainProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisParameterBrightness</key>
+	<string>modelActionState</string>
+	<key>bulletWithEnvironment</key>
+	<string>materialOffsetOrientation</string>
+	<key>completionAgainstTask</key>
+	<string>segmentFlyweightSaturation</string>
+	<key>denseButtonTheme</key>
+	<string>storageContainActivity</string>
+	<key>instructionBridgeShade</key>
+	<string>newestRowFormat</string>
+	<key>popupFunctionLeft</key>
+	<string>widgetNearForm</string>
+	<key>priorityAwayContext</key>
+	<string>allocatorOrDecorator</string>
+	<key>reactiveStreamValidation</key>
+	<string>segmentOperationContrast</string>
+	<key>requestUntilSystem</key>
+	<string>mediaqueryJobPressure</string>
+	<key>utilPrototypeAlignment</key>
+	<string>interpolationAlongTask</string>
+</dict>
+</plist>

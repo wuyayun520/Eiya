@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTypeTop</key>
+	<string>momentumFromInterpreter</string>
+	<key>baselineModeKind</key>
+	<string>histogramAtCycle</string>
+	<key>dependencyInterpreterLocation</key>
+	<string>directCharacterSpeed</string>
+	<key>descriptionProxyAppearance</key>
+	<string>techniqueAndSingleton</string>
+	<key>directlyBorderDistance</key>
+	<string>immediateHeapVelocity</string>
+	<key>intensityBridgeLocation</key>
+	<string>modulusNumberMode</string>
+	<key>playbackOfBridge</key>
+	<string>titleBesideLayer</string>
+	<key>smallActionDuration</key>
+	<string>euclideanArithmeticShade</string>
+</dict>
+</plist>

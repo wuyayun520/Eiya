@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitTaskCount</key>
+	<string>switchModeBehavior</string>
+	<key>lazyStoreColor</key>
+	<string>normalChapterDepth</string>
+	<key>lossBeyondVariable</key>
+	<string>listviewStrategyInset</string>
+	<key>memberDuringFunction</key>
+	<string>spineForNumber</string>
+</dict>
+</plist>

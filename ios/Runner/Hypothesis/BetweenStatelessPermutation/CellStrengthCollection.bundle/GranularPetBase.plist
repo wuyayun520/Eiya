@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSystemMode</key>
+	<string>radioFlyweightInterval</string>
+	<key>callbackOrMediator</key>
+	<string>segmentAsAdapter</string>
+	<key>decorationFunctionVisible</key>
+	<string>radioActivityState</string>
+	<key>independentIntegerSpeed</key>
+	<string>modelTaskOpacity</string>
+	<key>localNodeName</key>
+	<string>precisionThanStage</string>
+	<key>materialSceneSkewy</key>
+	<string>singletonOutsideMode</string>
+	<key>mutableVariantCoord</key>
+	<string>particleThanNumber</string>
+	<key>observerVersusWork</key>
+	<string>listviewDespiteJob</string>
+</dict>
+</plist>

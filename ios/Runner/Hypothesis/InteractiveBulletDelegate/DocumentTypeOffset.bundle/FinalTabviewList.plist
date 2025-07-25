@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAtOperation</key>
+	<string>skinStrategySkewx</string>
+	<key>compositionalTimerVisibility</key>
+	<string>dependencyNumberDelay</string>
+	<key>displayableProjectionDuration</key>
+	<string>segmentViaChain</string>
+	<key>presenterStyleTail</key>
+	<string>storeChainOrientation</string>
+	<key>taskFromProxy</key>
+	<string>isolateLikeJob</string>
+	<key>textAlongLayer</key>
+	<string>ternaryForShape</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalHashSkewy</key>
+	<string>animatedPresenterContrast</string>
+	<key>interpolationDespiteShape</key>
+	<string>materialRowInteraction</string>
+	<key>localizationThroughActivity</key>
+	<string>themeThroughNumber</string>
+	<key>nativeRectShade</key>
+	<string>asyncTickerDistance</string>
+	<key>sizedboxOrCycle</key>
+	<string>anchorMementoMode</string>
+	<key>textWorkSpeed</key>
+	<string>awaitBridgeOrientation</string>
+</dict>
+</plist>

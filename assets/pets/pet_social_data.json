@@ -1,0 +1,370 @@
+{
+  "users": [
+    {
+      "id": "user_1",
+      "username": "PetLover_Emma",
+      "displayName": "Emma Johnson",
+      "bio": "Animal lover sharing precious moments 🐾 Every day is an adventure!",
+      "avatar": "assets/pets/1/userpic.jpg",
+      "location": "San Francisco, CA",
+      "followers": 1245,
+      "following": 890,
+      "petType": "pets",
+      "verified": true,
+      "post": {
+        "id": "post_1",
+        "content": "Sharing some beautiful moments with my furry friends! 🐾 Each photo captures a special memory that makes my heart full. Love these precious companions! ✨",
+        "images": [
+          "assets/pets/1/post_1.jpg",
+          "assets/pets/1/post_2.jpg",
+          "assets/pets/1/post_3.jpg",
+          "assets/pets/1/post_4.jpg"
+        ],
+        "likes": 789,
+        "comments": 156,
+        "tags": ["pets", "love", "memories", "companions", "precious"]
+      }
+    },
+    {
+      "id": "user_2",
+      "username": "AnimalFriend_Mike",
+      "displayName": "Mike Wilson",
+      "bio": "Pet enthusiast 🐕 Living life with my four-legged family",
+      "avatar": "assets/pets/2/userpic.jpg",
+      "location": "Austin, TX",
+      "followers": 2156,
+      "following": 1340,
+      "petType": "pets",
+      "verified": false,
+      "post": {
+        "id": "post_2",
+        "content": "Life with pets brings so much joy! 🐾 Here are some wonderful moments I wanted to share with everyone. These little ones make every day brighter! 💕",
+        "images": [
+          "assets/pets/2/post_1.jpg",
+          "assets/pets/2/post_2.jpg",
+          "assets/pets/2/post_3.jpg",
+          "assets/pets/2/post_4.jpg"
+        ],
+        "likes": 1234,
+        "comments": 267,
+        "tags": ["pets", "joy", "family", "love", "moments"]
+      }
+    },
+    {
+      "id": "user_3",
+      "username": "PetVideos_Sarah",
+      "displayName": "Sarah Chen",
+      "bio": "Capturing pet moments in motion 🎥🐾 Video creator & animal enthusiast",
+      "avatar": "assets/pets/3/userpic.jpg",
+      "location": "Los Angeles, CA",
+      "followers": 5678,
+      "following": 2100,
+      "petType": "pets",
+      "verified": true,
+      "post": {
+        "id": "post_3",
+        "content": "Pet video time! 🎥🐾 Captured some amazing footage that I just had to share. There's something magical about seeing our furry friends in motion! ✨",
+        "video": "assets/pets/3/video.mp4",
+        "thumbnail": "assets/pets/3/userpic.jpg",
+        "likes": 2456,
+        "comments": 432,
+        "duration": "00:12",
+        "tags": ["pets", "video", "motion", "amazing", "magical"]
+      }
+    },
+    {
+      "id": "user_4",
+      "username": "PetFamily_Alex",
+      "displayName": "Alex Rodriguez",
+      "bio": "Multi-pet household 🐾 Sharing the love with all my furry family",
+      "avatar": "assets/pets/4/userpic.jpg",
+      "location": "Miami, FL",
+      "followers": 987,
+      "following": 654,
+      "petType": "pets",
+      "verified": false,
+      "post": {
+        "id": "post_4",
+        "content": "My pet family brings me endless happiness! 🐾 Here are some beautiful shots of my beloved companions. Each one has their own unique personality! 💖",
+        "images": [
+          "assets/pets/4/post_1.jpg",
+          "assets/pets/4/post_2.jpg",
+          "assets/pets/4/post_3.jpg",
+          "assets/pets/4/post_4.jpg"
+        ],
+        "likes": 1567,
+        "comments": 314,
+        "tags": ["pets", "family", "happiness", "personality", "beloved"]
+      }
+    },
+    {
+      "id": "user_5",
+      "username": "PetPhotos_Lisa",
+      "displayName": "Lisa Thompson",
+      "bio": "Pet photography enthusiast 📸 Capturing the beauty of our animal friends",
+      "avatar": "assets/pets/5/userpic.jpg",
+      "location": "Seattle, WA",
+      "followers": 3421,
+      "following": 1876,
+      "petType": "pets",
+      "verified": true,
+      "post": {
+        "id": "post_5",
+        "content": "Photography session highlights! 📸✨ Love capturing these beautiful moments and the unique character of each furry friend. Every shot tells a story! 🐾",
+        "images": [
+          "assets/pets/5/post_1.jpg",
+          "assets/pets/5/post_2.jpg",
+          "assets/pets/5/post_3.jpg",
+          "assets/pets/5/post_4.jpg"
+        ],
+        "likes": 2134,
+        "comments": 375,
+        "tags": ["pets", "photography", "beautiful", "character", "story"]
+      }
+    },
+    {
+      "id": "user_6",
+      "username": "FurryCompanions_David",
+      "displayName": "David Kim",
+      "bio": "Pet lover and adventure seeker 🐾 Sharing life's sweetest moments with my furry friends",
+      "avatar": "assets/pets/6/userpic.jpg",
+      "location": "Denver, CO",
+      "followers": 1876,
+      "following": 1234,
+      "petType": "pets",
+      "verified": false,
+      "post": {
+        "id": "post_6",
+        "content": "Amazing day with my adorable companions! 🐾 These four shots perfectly capture why I love spending time with these wonderful creatures. Pure happiness! ✨",
+        "images": [
+          "assets/pets/6/post_1.jpg",
+          "assets/pets/6/post_2.jpg",
+          "assets/pets/6/post_3.jpg",
+          "assets/pets/6/post_4.jpg"
+        ],
+        "likes": 1432,
+        "comments": 298,
+        "tags": ["pets", "adventure", "companions", "happiness", "wonderful"]
+      }
+    },
+    {
+      "id": "user_7",
+      "username": "PetVideoCreator_Anna",
+      "displayName": "Anna Martinez",
+      "bio": "Creating magical pet videos 🎥🐾 Every moment with animals is worth capturing",
+      "avatar": "assets/pets/7/userpic.jpg",
+      "location": "Phoenix, AZ",
+      "followers": 4523,
+      "following": 1876,
+      "petType": "pets",
+      "verified": true,
+      "post": {
+        "id": "post_7",
+        "content": "New video alert! 🎥✨ Captured some incredible moments that will melt your heart. Watch these adorable pets in action! 🐾",
+        "video": "assets/pets/7/video.mp4",
+        "thumbnail": "assets/pets/7/userpic.jpg",
+        "likes": 3245,
+        "comments": 567,
+        "duration": "00:15",
+        "tags": ["pets", "video", "incredible", "adorable", "action"]
+      }
+    },
+    {
+      "id": "user_8",
+      "username": "AnimalMoments_Rachel",
+      "displayName": "Rachel Brown",
+      "bio": "Documenting precious animal moments 📸 Every pet has a unique story to tell",
+      "avatar": "assets/pets/8/userpic.jpg",
+      "location": "Portland, OR",
+      "followers": 2187,
+      "following": 1543,
+      "petType": "pets",
+      "verified": false,
+      "post": {
+        "id": "post_8",
+        "content": "Precious moments captured! 📸 These beautiful shots show the unique personality and charm of each furry friend. Love documenting these stories! 🐾",
+        "images": [
+          "assets/pets/8/post_1.jpg",
+          "assets/pets/8/post_2.jpg",
+          "assets/pets/8/post_3.jpg",
+          "assets/pets/8/post_4.jpg"
+        ],
+        "likes": 1876,
+        "comments": 334,
+        "tags": ["pets", "precious", "personality", "charm", "stories"]
+      }
+    },
+    {
+      "id": "user_9",
+      "username": "PetLife_James",
+      "displayName": "James Wilson",
+      "bio": "Living the pet life to the fullest 🐾 Sharing daily adventures with my animal family",
+      "avatar": "assets/pets/9/userpic.jpg",
+      "location": "Nashville, TN",
+      "followers": 1654,
+      "following": 987,
+      "petType": "pets",
+      "verified": false,
+      "post": {
+        "id": "post_9",
+        "content": "Daily pet adventures! 🐾 These four moments perfectly capture the joy and love that fills my days. My animal family is everything! 💕",
+        "images": [
+          "assets/pets/9/post_1.jpg",
+          "assets/pets/9/post_2.jpg",
+          "assets/pets/9/post_3.jpg",
+          "assets/pets/9/post_4.jpg"
+        ],
+        "likes": 1298,
+        "comments": 245,
+        "tags": ["pets", "adventures", "joy", "love", "family"]
+      }
+    },
+    {
+      "id": "user_10",
+      "username": "FurryFriends_Sophie",
+      "displayName": "Sophie Davis",
+      "bio": "Furry friends enthusiast 🐾 Celebrating the bond between humans and animals",
+      "avatar": "assets/pets/10/userpic.jpg",
+      "location": "Charlotte, NC",
+      "followers": 2456,
+      "following": 1765,
+      "petType": "pets",
+      "verified": true,
+      "post": {
+        "id": "post_10",
+        "content": "Celebrating the amazing bond with my furry friends! 🐾 These special moments remind me why animals bring such joy to our lives. Pure love! ✨",
+        "images": [
+          "assets/pets/10/post_1.jpg",
+          "assets/pets/10/post_2.jpg",
+          "assets/pets/10/post_3.jpg",
+          "assets/pets/10/post_4.jpg"
+        ],
+        "likes": 2134,
+        "comments": 456,
+        "tags": ["pets", "bond", "special", "joy", "love"]
+      }
+    },
+    {
+      "id": "user_11",
+      "username": "PetVideoMagic_Tom",
+      "displayName": "Tom Anderson",
+      "bio": "Creating pet video magic ✨🎥 Bringing animal stories to life through motion",
+      "avatar": "assets/pets/11/userpic.jpg",
+      "location": "Atlanta, GA",
+      "followers": 5234,
+      "following": 2345,
+      "petType": "pets",
+      "verified": true,
+      "post": {
+        "id": "post_11",
+        "content": "Video magic in the making! ✨🎥 This amazing footage showcases the incredible beauty and spirit of our animal friends. Must watch! 🐾",
+        "video": "assets/pets/11/video.mp4",
+        "thumbnail": "assets/pets/11/userpic.jpg",
+        "likes": 4567,
+        "comments": 789,
+        "duration": "00:09",
+        "tags": ["pets", "magic", "amazing", "beauty", "spirit"]
+      }
+    },
+    {
+      "id": "user_12",
+      "username": "AnimalStories_Maya",
+      "displayName": "Maya Patel",
+      "bio": "Telling animal stories through photos 📸 Every pet has something beautiful to share",
+      "avatar": "assets/pets/12/userpic.jpg",
+      "location": "San Diego, CA",
+      "followers": 1987,
+      "following": 1432,
+      "petType": "pets",
+      "verified": false,
+      "post": {
+        "id": "post_12",
+        "content": "Beautiful animal stories captured! 📸 Each photo tells a unique tale of love, friendship, and the special bond we share with our pets. 🐾",
+        "images": [
+          "assets/pets/12/post_1.jpg",
+          "assets/pets/12/post_2.jpg",
+          "assets/pets/12/post_3.jpg",
+          "assets/pets/12/post_4.jpg"
+        ],
+        "likes": 1654,
+        "comments": 287,
+        "tags": ["pets", "stories", "love", "friendship", "bond"]
+      }
+    },
+    {
+      "id": "user_13",
+      "username": "PetMoments_Chris",
+      "displayName": "Chris Taylor",
+      "bio": "Capturing pet moments that matter 🐾 Life is better with furry companions by your side",
+      "avatar": "assets/pets/13/userpic.jpg",
+      "location": "Boston, MA",
+      "followers": 2765,
+      "following": 1876,
+      "petType": "pets",
+      "verified": true,
+      "post": {
+        "id": "post_13",
+        "content": "Moments that truly matter! 🐾 These captures show why life is infinitely better with our furry companions. Each moment is a treasure! 💎",
+        "images": [
+          "assets/pets/13/post_1.jpg",
+          "assets/pets/13/post_2.jpg",
+          "assets/pets/13/post_3.jpg",
+          "assets/pets/13/post_4.jpg"
+        ],
+        "likes": 2345,
+        "comments": 432,
+        "tags": ["pets", "moments", "companions", "treasure", "better"]
+      }
+    },
+    {
+      "id": "user_14",
+      "username": "FurryFamily_Jessica",
+      "displayName": "Jessica Lee",
+      "bio": "My furry family is my world 🌟🐾 Sharing the love and laughter they bring daily",
+      "avatar": "assets/pets/14/userpic.jpg",
+      "location": "Chicago, IL",
+      "followers": 3456,
+      "following": 2134,
+      "petType": "pets",
+      "verified": true,
+      "post": {
+        "id": "post_14",
+        "content": "My furry family brings endless love and laughter! 🌟🐾 These precious shots capture the heart and soul of what makes every day special. Family first! 💕",
+        "images": [
+          "assets/pets/14/post_1.jpg",
+          "assets/pets/14/post_2.jpg",
+          "assets/pets/14/post_3.jpg",
+          "assets/pets/14/post_4.jpg"
+        ],
+        "likes": 2987,
+        "comments": 543,
+        "tags": ["pets", "family", "love", "laughter", "special"]
+      }
+    },
+    {
+      "id": "user_15",
+      "username": "PetJoy_Kevin",
+      "displayName": "Kevin Wright",
+      "bio": "Finding joy in every pet moment 😊🐾 These amazing creatures make life extraordinary",
+      "avatar": "assets/pets/15/userpic.jpg",
+      "location": "Las Vegas, NV",
+      "followers": 2234,
+      "following": 1654,
+      "petType": "pets",
+      "verified": false,
+      "post": {
+        "id": "post_15",
+        "content": "Pure joy in every moment! 😊🐾 These amazing creatures never fail to make life extraordinary. Grateful for these wonderful companions every day! ✨",
+        "images": [
+          "assets/pets/15/post_1.jpg",
+          "assets/pets/15/post_2.jpg",
+          "assets/pets/15/post_3.jpg",
+          "assets/pets/15/post_4.jpg"
+        ],
+        "likes": 1876,
+        "comments": 321,
+        "tags": ["pets", "joy", "amazing", "extraordinary", "grateful"]
+      }
+    }
+  ]
+} 

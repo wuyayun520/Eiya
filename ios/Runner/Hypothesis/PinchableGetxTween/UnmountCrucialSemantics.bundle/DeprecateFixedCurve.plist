@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionWorkScale</key>
+	<string>referenceCommandFrequency</string>
+	<key>customizedQueueDistance</key>
+	<string>fixedRadiusTint</string>
+	<key>durationKindSize</key>
+	<string>localizationWithPattern</string>
+	<key>frameExceptForm</key>
+	<string>gestureKindBehavior</string>
+	<key>indicatorOperationTail</key>
+	<string>difficultExceptionStyle</string>
+	<key>tableInPhase</key>
+	<string>localizationThroughOperation</string>
+	<key>transitionFromVar</key>
+	<string>exceptionPrototypeDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxPlatformState</key>
+	<string>sharedSpotPosition</string>
+	<key>customStorageDuration</key>
+	<string>optionSingletonOpacity</string>
+	<key>dimensionMementoFrequency</key>
+	<string>appbarViaActivity</string>
+	<key>elasticListviewTint</key>
+	<string>capacitiesFormDepth</string>
+	<key>sinkForFacade</key>
+	<string>relationalStoryboardTag</string>
+</dict>
+</plist>

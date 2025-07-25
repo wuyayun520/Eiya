@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerPerFunction</key>
+	<string>stepMediatorDelay</string>
+	<key>ephemeralStreamTint</key>
+	<string>declarativeBaselineMode</string>
+	<key>listenerProxySpeed</key>
+	<string>notifierStateAcceleration</string>
+	<key>mediaBridgeFrequency</key>
+	<string>segmentDuringMode</string>
+	<key>operationEnvironmentDirection</key>
+	<string>loopNumberSaturation</string>
+	<key>statelessCommandCenter</key>
+	<string>segmentOutsideActivity</string>
+</dict>
+</plist>

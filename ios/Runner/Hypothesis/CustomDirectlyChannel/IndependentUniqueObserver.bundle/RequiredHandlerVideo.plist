@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioPatternVisible</key>
+	<string>unaryInLevel</string>
+	<key>blocVariableScale</key>
+	<string>coordinatorVariableBound</string>
+	<key>bufferTypeMomentum</key>
+	<string>stampProcessBorder</string>
+	<key>coordinatorInFacade</key>
+	<string>previewThroughMode</string>
+	<key>effectFlyweightMode</key>
+	<string>logContextRate</string>
+	<key>immediateAnchorDistance</key>
+	<string>queueContextEdge</string>
+	<key>queueVisitorSaturation</key>
+	<string>exceptionMementoTint</string>
+	<key>resolverBufferTint</key>
+	<string>taskWithoutState</string>
+	<key>resultShapeColor</key>
+	<string>builderAndForm</string>
+</dict>
+</plist>

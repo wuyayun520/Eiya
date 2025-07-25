@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisInsideFunction</key>
+	<string>cubitBufferDepth</string>
+	<key>coordinatorAtMemento</key>
+	<string>fusedSkirtDelay</string>
+	<key>coordinatorBridgeBehavior</key>
+	<string>semanticOptimizerDirection</string>
+	<key>finalDurationStyle</key>
+	<string>uniqueGraphInteraction</string>
+	<key>movementCompositeTint</key>
+	<string>staticGemInteraction</string>
+	<key>numericalAnimationDepth</key>
+	<string>invisibleModelSpeed</string>
+	<key>observerMementoSaturation</key>
+	<string>oldTextPosition</string>
+	<key>originalTweenValidation</key>
+	<string>mediumPainterEdge</string>
+	<key>workflowFromMethod</key>
+	<string>navigatorThroughTask</string>
+</dict>
+</plist>

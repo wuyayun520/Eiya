@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionWorkTransparency</key>
+	<string>checklistInProxy</string>
+	<key>contractionTaskAcceleration</key>
+	<string>effectStyleDirection</string>
+	<key>cupertinoOutsideJob</key>
+	<string>unactivatedErrorInset</string>
+	<key>customizedTableCount</key>
+	<string>viewByCycle</string>
+	<key>directlyBufferOpacity</key>
+	<string>elasticIconShape</string>
+	<key>statefulWithPrototype</key>
+	<string>histogramFlyweightBorder</string>
+	<key>techniqueInsideJob</key>
+	<string>timerShapeBrightness</string>
+</dict>
+</plist>

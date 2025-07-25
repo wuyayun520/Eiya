@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerSystemAppearance</key>
+	<string>monsterNearKind</string>
+	<key>interfaceInsideFramework</key>
+	<string>eventScopeState</string>
+	<key>missionSystemAlignment</key>
+	<string>widgetWithFramework</string>
+	<key>navigatorViaProxy</key>
+	<string>resolverPhaseRight</string>
+	<key>precisionNumberPosition</key>
+	<string>chapterStageOffset</string>
+	<key>temporaryCoordinatorCount</key>
+	<string>resultOfPlatform</string>
+</dict>
+</plist>

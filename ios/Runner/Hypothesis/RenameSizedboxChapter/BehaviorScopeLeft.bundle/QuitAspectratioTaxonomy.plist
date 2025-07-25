@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonThroughStrategy</key>
+	<string>inkwellUntilLayer</string>
+	<key>capsuleAgainstTask</key>
+	<string>responsivePopupVisible</string>
+	<key>convolutionBridgeDuration</key>
+	<string>asyncInStructure</string>
+	<key>cubitLayerFlags</key>
+	<string>localizationAlongChain</string>
+	<key>functionalProgressbarAlignment</key>
+	<string>typicalRequestFrequency</string>
+	<key>materialGesturedetectorDelay</key>
+	<string>numericalCubeTransparency</string>
+	<key>optionOfKind</key>
+	<string>operationSinceType</string>
+	<key>otherDependencyFrequency</key>
+	<string>gradientCompositeOpacity</string>
+	<key>resizableManagerAppearance</key>
+	<string>uniformRepositoryRotation</string>
+	<key>rowForMediator</key>
+	<string>histogramDecoratorTail</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerActionBrightness</key>
+	<string>assetPerObserver</string>
+	<key>desktopChannelsTag</key>
+	<string>cosinePerLayer</string>
+	<key>dropdownbuttonInterpreterTransparency</key>
+	<string>configurationValueSkewx</string>
+	<key>effectAlongStage</key>
+	<string>appbarAndStructure</string>
+	<key>pivotalGrainDirection</key>
+	<string>sliderOfState</string>
+	<key>sharedGridviewDensity</key>
+	<string>listenerDuringMediator</string>
+	<key>signatureAlongProxy</key>
+	<string>reductionUntilPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMovementTail</key>
+	<string>momentumUntilActivity</string>
+	<key>batchOutsideType</key>
+	<string>agileMapRotation</string>
+	<key>equalizationStageInteraction</key>
+	<string>notificationAdapterOffset</string>
+	<key>granularGemTag</key>
+	<string>desktopClipperTail</string>
+	<key>sortedRemainderFrequency</key>
+	<string>immutableBoxVelocity</string>
+	<key>synchronousCubitFeedback</key>
+	<string>granularRemainderHue</string>
+	<key>tweenFacadeDepth</key>
+	<string>containerStrategyValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTierEdge</key>
+	<string>errorNearPhase</string>
+	<key>cellNearMethod</key>
+	<string>singletonWorkForce</string>
+	<key>consumerWithoutFlyweight</key>
+	<string>interfaceChainTint</string>
+	<key>descriptorAtScope</key>
+	<string>normalOffsetSpeed</string>
+	<key>equipmentWithProxy</key>
+	<string>disabledCustompaintDirection</string>
+</dict>
+</plist>

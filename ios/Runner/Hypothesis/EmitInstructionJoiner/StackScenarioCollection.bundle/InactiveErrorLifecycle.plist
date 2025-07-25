@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentMemberFeedback</key>
+	<string>resizableNotificationBound</string>
+	<key>entropyExceptFunction</key>
+	<string>permissiveUtilOrientation</string>
+	<key>grayscaleForCommand</key>
+	<string>immutableStateAcceleration</string>
+	<key>pageviewFromShape</key>
+	<string>beginnerTaskFeedback</string>
+	<key>resultMethodTint</key>
+	<string>axisAdapterMargin</string>
+	<key>slashOrForm</key>
+	<string>sliderContainContext</string>
+	<key>transitionExceptShape</key>
+	<string>repositoryInterpreterPosition</string>
+</dict>
+</plist>

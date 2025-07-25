@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryContextDensity</key>
+	<string>flexibleObserverOpacity</string>
+	<key>dedicatedButtonSaturation</key>
+	<string>visibleThemeOrientation</string>
+	<key>enabledContainerSize</key>
+	<string>uniqueAccessoryPressure</string>
+	<key>multiCoordinatorInset</key>
+	<string>decorationValueSkewy</string>
+	<key>sortedPopupSize</key>
+	<string>normStyleBottom</string>
+	<key>textureAsPrototype</key>
+	<string>navigatorPerAdapter</string>
+	<key>toolNearWork</key>
+	<string>interactorVersusLayer</string>
+</dict>
+</plist>

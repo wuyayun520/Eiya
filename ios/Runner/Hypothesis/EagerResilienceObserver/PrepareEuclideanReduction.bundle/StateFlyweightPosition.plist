@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferContextVisibility</key>
+	<string>seamlessUsecaseSkewx</string>
+	<key>compositionalProtocolAlignment</key>
+	<string>declarativeStoryboardSkewy</string>
+	<key>observerAmongTask</key>
+	<string>signatureCommandDistance</string>
+	<key>resourceScopeSpeed</key>
+	<string>viewFrameworkType</string>
+</dict>
+</plist>

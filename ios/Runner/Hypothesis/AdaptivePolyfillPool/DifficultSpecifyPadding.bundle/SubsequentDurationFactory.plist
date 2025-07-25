@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectSystemCoord</key>
+	<string>secondSessionHue</string>
+	<key>granularButtonPressure</key>
+	<string>tangentTaskTail</string>
+	<key>interpolationCycleFeedback</key>
+	<string>temporaryCurveLocation</string>
+	<key>localObserverHead</key>
+	<string>greatSliderBehavior</string>
+	<key>mediumTransitionRate</key>
+	<string>aspectratioIncludeForm</string>
+	<key>pinchableGradientTail</key>
+	<string>baselinePhaseBottom</string>
+	<key>semanticsInsideMethod</key>
+	<string>modelWithoutPrototype</string>
+</dict>
+</plist>

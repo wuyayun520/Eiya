@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartAgainstFramework</key>
+	<string>numericalMasterTransparency</string>
+	<key>chartFrameworkAppearance</key>
+	<string>cartesianStatefulSkewy</string>
+	<key>equalizationStateOffset</key>
+	<string>specifierStyleMode</string>
+	<key>firstGraphicRotation</key>
+	<string>compositionSystemPressure</string>
+	<key>grainShapeCenter</key>
+	<string>progressbarFunctionLocation</string>
+	<key>lostGiftVisible</key>
+	<string>equipmentParamRate</string>
+	<key>stateUntilScope</key>
+	<string>uniformHeroPosition</string>
+	<key>stateViaStyle</key>
+	<string>convolutionViaPhase</string>
+</dict>
+</plist>
