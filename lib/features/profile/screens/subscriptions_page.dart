@@ -19,7 +19,6 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
   List<ProductDetails> _products = [];
   bool _isLoading = true;
   bool _purchasePending = false;
-  String? _purchaseError;
   int _selectedIndex = 0;
   bool _isVip = false;
   DateTime? _vipExpiry;
@@ -88,7 +87,6 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     if (!isAvailable) {
       setState(() {
         _isLoading = false;
-        _purchaseError = "Store is not available.";
       });
       return;
     }
@@ -102,7 +100,6 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     } catch (e) {
       setState(() {
         _isLoading = false;
-        _purchaseError = "Failed to load products: $e";
       });
     }
   }
@@ -118,6 +115,8 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
 
   Future<void> _listenToPurchaseUpdated(List<PurchaseDetails> purchaseDetailsList) async {
     for (var purchaseDetails in purchaseDetailsList) {
+      debugPrint('Purchase status: ${purchaseDetails.status}');
+      
       if (purchaseDetails.status == PurchaseStatus.pending) {
         setState(() {
           _purchasePending = true;
@@ -126,16 +125,17 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
         if (purchaseDetails.status == PurchaseStatus.error) {
           setState(() {
             _purchasePending = false;
-            _purchaseError = purchaseDetails.error?.message ?? "Unknown error occurred";
           });
           _showSnackBar("Purchase failed: ${purchaseDetails.error?.message ?? 'Unknown error'}");
         } else if (purchaseDetails.status == PurchaseStatus.purchased ||
             purchaseDetails.status == PurchaseStatus.restored) {
-          _handleSuccessfulPurchase(purchaseDetails);
+          debugPrint('Successful purchase/restore: ${purchaseDetails.productID}');
+          await _handleSuccessfulPurchase(purchaseDetails);
         } else if (purchaseDetails.status == PurchaseStatus.canceled) {
           setState(() {
             _purchasePending = false;
           });
+          _showSnackBar("Purchase was canceled");
         }
         if (purchaseDetails.pendingCompletePurchase) {
           await _inAppPurchase.completePurchase(purchaseDetails);
@@ -206,14 +206,30 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     setState(() {
       _purchasePending = true;
     });
+    
     try {
+      debugPrint('Starting restore purchases...');
       await _inAppPurchase.restorePurchases();
-      _showSnackBar("Restoring purchases...");
+      _showSnackBar("Restoring purchases... Please wait.");
+      
+      // 给一些时间让恢复过程完成
+      await Future.delayed(const Duration(seconds: 2));
+      
+      // 重新加载VIP状态以检查是否有恢复的购买
+      await _loadVipStatus();
+      
+      if (_isVip) {
+        _showSnackBar("Purchases restored successfully! Premium activated.");
+      } else {
+        _showSnackBar("No previous purchases found to restore.");
+      }
     } catch (e) {
+      debugPrint('Error restoring purchases: $e');
+      _showSnackBar("Error restoring purchases: $e");
+    } finally {
       setState(() {
         _purchasePending = false;
       });
-      _showSnackBar("Error restoring purchases: $e");
     }
   }
 
@@ -581,22 +597,36 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
                           ),
                         ),
                         
-                        if (!_isVip) ...[
-                          const SizedBox(height: 16),
-                          Center(
-                            child: TextButton(
-                              onPressed: _purchasePending ? null : _restorePurchases,
-                              child: Text(
-                                'Restore Purchases',
-                                style: TextStyle(
+                        const SizedBox(height: 16),
+                        
+                        // Restore Purchases Button
+                        Center(
+                          child: TextButton(
+                            onPressed: _purchasePending ? null : _restorePurchases,
+                            style: TextButton.styleFrom(
+                              padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                            ),
+                            child: Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                Icon(
+                                  Icons.restore,
                                   color: Colors.grey[600],
-                                  fontSize: 16,
-                                  decoration: TextDecoration.underline,
+                                  size: 18,
                                 ),
-                              ),
+                                const SizedBox(width: 8),
+                                Text(
+                                  'Restore Purchases',
+                                  style: TextStyle(
+                                    color: Colors.grey[600],
+                                    fontSize: 16,
+                                    fontWeight: FontWeight.w500,
+                                  ),
+                                ),
+                              ],
                             ),
                           ),
-                        ],
+                        ),
                         
                         const SizedBox(height: 32),
                         
