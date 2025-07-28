@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../../../core/theme/app_theme.dart';
 import '../../animal_detail/screens/animal_detail_screen.dart';
+import '../../profile/screens/in_app_purchases_page.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -14,11 +16,57 @@ class _HomeScreenState extends State<HomeScreen> {
   int _selectedPopularIndex = 0; // 默认选中第一个
   List<AnimalData> _animalList = [];
   bool _isLoading = false;
+  int _petCoins = 0; // 宠物金币
+  Set<String> _unlockedAnimals = {}; // 已解锁的动物ID集合
 
   @override
   void initState() {
     super.initState();
+    _loadPetCoins();
+    _loadUnlockedAnimals();
     _loadAnimalData();
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // 只在页面重新获得焦点时重新加载金币，避免频繁更新
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (mounted) {
+        _loadPetCoins();
+      }
+    });
+  }
+
+  Future<void> _loadPetCoins() async {
+    final prefs = await SharedPreferences.getInstance();
+    int coins = prefs.getInt('petCoins') ?? 0;
+    debugPrint('HomeScreen: Loading pet coins: $coins');
+    setState(() {
+      _petCoins = coins;
+    });
+  }
+
+  Future<void> _loadUnlockedAnimals() async {
+    final prefs = await SharedPreferences.getInstance();
+    final unlockedList = prefs.getStringList('unlockedAnimals') ?? [];
+    setState(() {
+      _unlockedAnimals = unlockedList.toSet();
+    });
+  }
+
+  Future<void> _saveUnlockedAnimals() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('unlockedAnimals', _unlockedAnimals.toList());
+  }
+
+  Future<void> _deductCoins(int amount) async {
+    final prefs = await SharedPreferences.getInstance();
+    debugPrint('HomeScreen: Deducting coins: current=$_petCoins, deducting=$amount, new=${_petCoins - amount}');
+    setState(() {
+      _petCoins -= amount;
+    });
+    await prefs.setInt('petCoins', _petCoins);
   }
 
   Future<void> _loadAnimalData() async {
@@ -92,6 +140,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget _buildAnimalCard(AnimalData animal) {
     // 为每个动物生成固定的星级（基于id确保每次显示相同）
     int starCount = (animal.id.hashCode % 3) + 3; // 3-5颗星
+    bool isUnlocked = _unlockedAnimals.contains(animal.id);
     
     return GestureDetector(
       onTap: () {
@@ -104,95 +153,324 @@ class _HomeScreenState extends State<HomeScreen> {
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(12),
           ),
-          child: Padding(
-            padding: const EdgeInsets.all(16),
-            child: Row(
-              children: [
-                // 左侧图片
-                Container(
-                  width: 80,
-                  height: 80,
-                  decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(8),
-                    color: Colors.grey[200],
-                  ),
-                  child: ClipRRect(
-                    borderRadius: BorderRadius.circular(8),
-                    child: Image.asset(
-                      animal.imageReference,
-                      fit: BoxFit.cover,
-                      errorBuilder: (context, error, stackTrace) {
-                        return Container(
-                          color: Colors.grey[300],
-                          child: const Icon(
-                            Icons.pets,
-                            size: 32,
-                            color: Colors.grey,
-                          ),
-                        );
-                      },
+          child: Stack(
+            children: [
+              Padding(
+                padding: const EdgeInsets.all(16),
+                child: Row(
+                  children: [
+                    // 左侧图片
+                    Container(
+                      width: 80,
+                      height: 80,
+                      decoration: BoxDecoration(
+                        borderRadius: BorderRadius.circular(8),
+                        color: Colors.grey[200],
+                      ),
+                      child: ClipRRect(
+                        borderRadius: BorderRadius.circular(8),
+                        child: Stack(
+                          children: [
+                            Image.asset(
+                              animal.imageReference,
+                              fit: BoxFit.cover,
+                              errorBuilder: (context, error, stackTrace) {
+                                return Container(
+                                  color: Colors.grey[300],
+                                  child: const Icon(
+                                    Icons.pets,
+                                    size: 32,
+                                    color: Colors.grey,
+                                  ),
+                                );
+                              },
+                            ),
+                            // 未解锁时添加半透明遮罩
+                            if (!isUnlocked)
+                              Container(
+                                decoration: BoxDecoration(
+                                  color: Colors.black.withValues(alpha: 0.5),
+                                  borderRadius: BorderRadius.circular(8),
+                                ),
+                                child: const Center(
+                                  child: Icon(
+                                    Icons.lock,
+                                    color: Colors.white,
+                                    size: 24,
+                                  ),
+                                ),
+                              ),
+                          ],
+                        ),
+                      ),
                     ),
-                  ),
+                    
+                    const SizedBox(width: 16),
+                    
+                    // 右侧文字信息
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          // 名称和锁定状态
+                          Row(
+                            children: [
+                              Expanded(
+                                child: Text(
+                                  animal.name,
+                                  style: TextStyle(
+                                    fontSize: 16,
+                                    fontWeight: FontWeight.bold,
+                                    color: isUnlocked ? Colors.black87 : Colors.grey[600],
+                                  ),
+                                ),
+                              ),
+                              if (!isUnlocked)
+                                Container(
+                                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                  decoration: BoxDecoration(
+                                    color: AppTheme.primaryColor,
+                                    borderRadius: BorderRadius.circular(12),
+                                  ),
+                                  child: const Text(
+                                    '5 Coins',
+                                    style: TextStyle(
+                                      color: Colors.white,
+                                      fontSize: 12,
+                                      fontWeight: FontWeight.bold,
+                                    ),
+                                  ),
+                                ),
+                            ],
+                          ),
+                          
+                          const SizedBox(height: 4),
+                          
+                          // 星级评分（仅已解锁显示）
+                          if (isUnlocked)
+                            Row(
+                              children: List.generate(5, (index) {
+                                return Icon(
+                                  index < starCount ? Icons.star : Icons.star_border,
+                                  size: 16,
+                                  color: index < starCount ? Colors.pink : Colors.grey[400],
+                                );
+                              }),
+                            ),
+                          
+                          const SizedBox(height: 4),
+                          
+                          // 描述或解锁提示
+                          Text(
+                            isUnlocked 
+                                ? animal.description
+                                : 'Unlock to view details and ratings',
+                            style: TextStyle(
+                              fontSize: 14,
+                              color: isUnlocked ? Colors.grey[600] : Colors.grey[500],
+                              fontStyle: isUnlocked ? FontStyle.normal : FontStyle.italic,
+                            ),
+                            maxLines: 2,
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
                 ),
-                
-                const SizedBox(width: 16),
-                
-                // 右侧文字信息
-                Expanded(
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      // 名称
-                      Text(
-                        animal.name,
-                        style: const TextStyle(
-                          fontSize: 16,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.black87,
-                        ),
-                      ),
-                      
-                      const SizedBox(height: 4),
-                      
-                      // 星级评分
-                      Row(
-                        children: List.generate(5, (index) {
-                          return Icon(
-                            index < starCount ? Icons.star : Icons.star_border,
-                            size: 16,
-                            color: index < starCount ? Colors.pink : Colors.grey[400],
-                          );
-                        }),
-                      ),
-                      
-                      const SizedBox(height: 4),
-                      
-                      // 描述
-                      Text(
-                        animal.description,
-                        style: TextStyle(
-                          fontSize: 14,
-                          color: Colors.grey[600],
-                        ),
-                        maxLines: 2,
-                        overflow: TextOverflow.ellipsis,
-                      ),
-                    ],
-                  ),
-                ),
-              ],
-            ),
+              ),
+            ],
           ),
         ),
       ),
     );
   }
 
-  void _navigateToAnimalDetail(AnimalData animal) {
+  void _navigateToAnimalDetail(AnimalData animal) async {
+    // 检查是否已解锁
+    if (_unlockedAnimals.contains(animal.id)) {
+      // 已解锁，直接跳转
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => AnimalDetailScreen(animal: animal),
+        ),
+      );
+      return;
+    }
+
+    // 检查金币是否足够
+    if (_petCoins < 5) {
+      // 金币不足，显示充值确认弹窗
+      _showInsufficientCoinsDialog();
+      return;
+    }
+
+    // 金币足够，显示解锁确认弹窗
+    _showUnlockConfirmDialog(animal);
+  }
+
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+          title: Row(
+            children: [
+              Icon(Icons.monetization_on, color: AppTheme.primaryColor),
+              const SizedBox(width: 8),
+              const Text('Insufficient Coins'),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'You need 5 Pet Coins to unlock this animal.',
+                style: TextStyle(fontSize: 16, color: AppTheme.textPrimary),
+              ),
+              const SizedBox(height: 8),
+              Text(
+                'Current coins: $_petCoins',
+                style: TextStyle(fontSize: 14, color: AppTheme.textSecondary),
+              ),
+              const SizedBox(height: 16),
+              Text(
+                'Would you like to purchase more coins?',
+                style: TextStyle(fontSize: 14, color: AppTheme.textSecondary),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: Text('Cancel', style: TextStyle(color: AppTheme.textHint)),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.pop(context);
+                _navigateToPurchasePage();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: AppTheme.primaryColor,
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+              ),
+              child: const Text('Purchase Coins', style: TextStyle(color: Colors.white)),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  void _showUnlockConfirmDialog(AnimalData animal) {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+          title: Row(
+            children: [
+              Icon(Icons.lock_open, color: AppTheme.primaryColor),
+              const SizedBox(width: 8),
+              const Text('Unlock Animal'),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'Unlock ${animal.name}?',
+                style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: AppTheme.textPrimary),
+              ),
+              const SizedBox(height: 8),
+              Text(
+                'This will cost 5 Pet Coins.',
+                style: TextStyle(fontSize: 14, color: AppTheme.textSecondary),
+              ),
+              const SizedBox(height: 8),
+              Text(
+                'Current coins: $_petCoins',
+                style: TextStyle(fontSize: 14, color: AppTheme.textSecondary),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: Text('Cancel', style: TextStyle(color: AppTheme.textHint)),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.pop(context);
+                _unlockAnimal(animal);
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: AppTheme.primaryColor,
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+              ),
+              child: const Text('Unlock', style: TextStyle(color: Colors.white)),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  Future<void> _unlockAnimal(AnimalData animal) async {
+    // 扣除金币
+    await _deductCoins(5);
+    
+    // 添加到已解锁列表
+    setState(() {
+      _unlockedAnimals.add(animal.id);
+    });
+    await _saveUnlockedAnimals();
+    
+    // 显示成功提示
+    if (mounted) {
+      _showSuccessSnackBar('${animal.name} unlocked successfully! 🎉');
+      
+      // 跳转到详情页面
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => AnimalDetailScreen(animal: animal),
+        ),
+      );
+    }
+  }
+
+  void _navigateToPurchasePage() {
     Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (context) => AnimalDetailScreen(animal: animal),
+        builder: (context) => const InAppPurchasesPage(),
+      ),
+    ).then((_) {
+      // 返回时重新加载金币
+      _loadPetCoins();
+    });
+  }
+
+  void _showSuccessSnackBar(String message) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Row(
+          children: [
+            const Icon(Icons.check_circle, color: Colors.white, size: 20),
+            const SizedBox(width: 8),
+            Expanded(child: Text(message)),
+          ],
+        ),
+        backgroundColor: AppTheme.primaryColor,
+        duration: const Duration(seconds: 2),
+        behavior: SnackBarBehavior.floating,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+        margin: const EdgeInsets.all(16),
       ),
     );
   }
@@ -231,6 +509,47 @@ class _HomeScreenState extends State<HomeScreen> {
                     },
                   ),
                   
+                  // 金币显示
+                  Positioned(
+                    top: 10,
+                    right: 20,
+                    child: GestureDetector(
+                      onTap: _navigateToPurchasePage,
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                        decoration: BoxDecoration(
+                          color: Colors.white.withValues(alpha: 0.9),
+                          borderRadius: BorderRadius.circular(20),
+                          boxShadow: [
+                            BoxShadow(
+                              color: Colors.black.withValues(alpha: 0.1),
+                              blurRadius: 4,
+                              offset: const Offset(0, 2),
+                            ),
+                          ],
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(
+                              Icons.monetization_on,
+                              color: AppTheme.primaryColor,
+                              size: 16,
+                            ),
+                            const SizedBox(width: 4),
+                            Text(
+                              '$_petCoins',
+                              style: TextStyle(
+                                color: AppTheme.primaryColor,
+                                fontWeight: FontWeight.bold,
+                                fontSize: 14,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ),
                 ],
               ),
             ),

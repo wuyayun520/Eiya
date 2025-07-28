@@ -7,6 +7,7 @@ import '../../../core/theme/app_theme.dart';
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';
 import 'dart:convert';
+import 'video_call_page.dart';
 
 class ChatPage extends StatefulWidget {
   final YogaUser user;
@@ -383,7 +384,7 @@ class _ChatPageState extends State<ChatPage> {
         leading: Container(
           margin: const EdgeInsets.all(8),
           decoration: BoxDecoration(
-            color: Colors.black.withOpacity(0.3),
+            color: Colors.black.withValues(alpha: 0.3),
             borderRadius: BorderRadius.circular(12),
           ),
           child: IconButton(
@@ -431,6 +432,44 @@ class _ChatPageState extends State<ChatPage> {
             ),
           ],
         ),
+        actions: [
+          // 视频通话按钮
+          Container(
+            margin: const EdgeInsets.all(8),
+            decoration: BoxDecoration(
+              color: Colors.black.withValues(alpha: 0.3),
+              borderRadius: BorderRadius.circular(12),
+            ),
+            child: IconButton(
+              icon: const Icon(Icons.video_call, size: 20),
+              onPressed: () {
+                // 使用 showGeneralDialog 来覆盖 tabbar
+                showGeneralDialog(
+                  context: context,
+                  barrierDismissible: false,
+                  barrierColor: Colors.transparent,
+                  transitionDuration: const Duration(milliseconds: 300),
+                  pageBuilder: (context, animation, secondaryAnimation) {
+                    return VideoCallPage(user: widget.user);
+                  },
+                  transitionBuilder: (context, animation, secondaryAnimation, child) {
+                    const begin = Offset(0.0, 1.0); // 从底部开始
+                    const end = Offset.zero;
+                    const curve = Curves.easeInOut;
+
+                    var tween = Tween(begin: begin, end: end).chain(CurveTween(curve: curve));
+                    var offsetAnimation = animation.drive(tween);
+
+                    return SlideTransition(
+                      position: offsetAnimation,
+                      child: child,
+                    );
+                  },
+                );
+              },
+            ),
+          ),
+        ],
       ),
       body: Stack(
         children: [

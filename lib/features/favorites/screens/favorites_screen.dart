@@ -224,7 +224,7 @@ class _FavoritesScreenState extends State<FavoritesScreen> {
                   ),
                 )
               : ListView.builder(
-                  padding: const EdgeInsets.all(20),
+                  padding: const EdgeInsets.fromLTRB(20, 20, 20, 100),
                   itemCount: _favorites.length,
                   itemBuilder: (context, index) {
                     return _buildFavoriteCard(_favorites[index]);

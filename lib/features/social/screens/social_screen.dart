@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 import '../../../core/theme/app_theme.dart';
 import 'post_detail_screen.dart';
+import '../../profile/screens/subscriptions_page.dart';
 
 class SocialScreen extends StatefulWidget {
   const SocialScreen({super.key});
@@ -15,11 +17,14 @@ class SocialScreen extends StatefulWidget {
 class _SocialScreenState extends State<SocialScreen> {
   List<dynamic> _users = [];
   bool _isLoading = true;
+  bool _isVip = false;
+  DateTime? _vipExpiry;
 
   @override
   void initState() {
     super.initState();
     _loadPetData();
+    _loadVipStatus();
   }
 
   Future<void> _loadPetData() async {
@@ -36,6 +41,167 @@ class _SocialScreenState extends State<SocialScreen> {
         _isLoading = false;
       });
     }
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+    });
+  }
+
+  bool _isVipActive() {
+    if (!_isVip) return false;
+    if (_vipExpiry == null) return false;
+    return DateTime.now().isBefore(_vipExpiry!);
+  }
+
+  void _showVipDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+          title: Row(
+            children: [
+              Icon(Icons.star, color: AppTheme.primaryColor),
+              const SizedBox(width: 8),
+              Expanded(
+                child: const Text('Premium Required'),
+              ),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'To view post details, you need Premium access.',
+                style: TextStyle(fontSize: 16, color: AppTheme.textPrimary),
+              ),
+              const SizedBox(height: 16),
+              Text(
+                'Choose your Premium plan:',
+                style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold, color: AppTheme.textPrimary),
+              ),
+              const SizedBox(height: 12),
+              // Weekly plan
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: Colors.grey[50],
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: Colors.grey[300]!),
+                ),
+                child: Row(
+                  children: [
+                    Icon(Icons.calendar_today, color: AppTheme.primaryColor, size: 20),
+                    const SizedBox(width: 8),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            'Weekly Premium',
+                            style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold, color: AppTheme.textPrimary),
+                          ),
+                          Text(
+                            '\$12.99 per week',
+                            style: TextStyle(fontSize: 12, color: AppTheme.textSecondary),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 8),
+              // Monthly plan
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: AppTheme.primaryColor.withValues(alpha: 0.1),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: AppTheme.primaryColor),
+                ),
+                child: Row(
+                  children: [
+                    Icon(Icons.star, color: AppTheme.primaryColor, size: 20),
+                    const SizedBox(width: 8),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            'Monthly Premium',
+                            style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold, color: AppTheme.textPrimary),
+                          ),
+                          Text(
+                            '\$49.99 per month',
+                            style: TextStyle(fontSize: 12, color: AppTheme.textSecondary),
+                          ),
+                        ],
+                      ),
+                    ),
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                      decoration: BoxDecoration(
+                        color: AppTheme.primaryColor,
+                        borderRadius: BorderRadius.circular(4),
+                      ),
+                      child: const Text(
+                        'POPULAR',
+                        style: TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.bold),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: Text('Cancel', style: TextStyle(color: AppTheme.textHint)),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.pop(context);
+                _navigateToSubscriptions();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: AppTheme.primaryColor,
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+              ),
+              child: const Text('Get Premium', style: TextStyle(color: Colors.white)),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  void _navigateToSubscriptions() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => const SubscriptionsPage(),
+      ),
+    ).then((_) {
+      // 返回时重新加载VIP状态
+      _loadVipStatus();
+    });
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // 每次页面重新获得焦点时重新加载VIP状态
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _loadVipStatus();
+    });
   }
 
   @override
@@ -115,6 +281,12 @@ class _SocialScreenState extends State<SocialScreen> {
     
     return GestureDetector(
       onTap: () {
+        // 检查VIP状态
+        if (!_isVipActive()) {
+          _showVipDialog();
+          return;
+        }
+        
         // 使用完全独立的Navigator来避免底部导航显示
         showGeneralDialog(
           context: context,
@@ -325,7 +497,7 @@ class _SocialScreenState extends State<SocialScreen> {
       // 截取内容的前50个字符
       String content = post['content'] ?? '';
       if (content.length > 50) {
-        content = content.substring(0, 50) + '...';
+        content = '${content.substring(0, 50)}...';
       }
       return content;
     }
@@ -344,6 +516,12 @@ class _SocialScreenState extends State<SocialScreen> {
     
     return GestureDetector(
       onTap: () {
+        // 检查VIP状态
+        if (!_isVipActive()) {
+          _showVipDialog();
+          return;
+        }
+        
         if (user != null) {
           showGeneralDialog(
             context: context,

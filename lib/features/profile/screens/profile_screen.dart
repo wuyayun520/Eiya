@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:io';
 import 'dart:convert';
 import '../../../core/theme/app_theme.dart';
@@ -9,6 +10,8 @@ import '../../auth/screens/terms_of_service_screen.dart';
 import '../../auth/screens/privacy_policy_screen.dart';
 import '../../favorites/screens/favorites_screen.dart';
 import '../../about/screens/about_screen.dart';
+import 'in_app_purchases_page.dart';
+import 'subscriptions_page.dart';
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({super.key});
@@ -22,6 +25,8 @@ class _ProfileScreenState extends State<ProfileScreen> {
   String _userSignature = 'My favorite dog miya will always be with me';
   String? _avatarPath;
   bool _isEditing = false;
+  bool _isVip = false;
+  DateTime? _vipExpiry;
   final TextEditingController _nameController = TextEditingController();
   final TextEditingController _signatureController = TextEditingController();
   final ImagePicker _picker = ImagePicker();
@@ -30,6 +35,168 @@ class _ProfileScreenState extends State<ProfileScreen> {
   void initState() {
     super.initState();
     _loadUserData();
+    _loadVipStatus();
+  }
+
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+    });
+  }
+
+  bool _isVipActive() {
+    if (!_isVip) return false;
+    if (_vipExpiry == null) return false;
+    return DateTime.now().isBefore(_vipExpiry!);
+  }
+
+  void _showVipDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+          title: Row(
+            children: [
+              Icon(Icons.star, color: AppTheme.primaryColor),
+              const SizedBox(width: 8),
+              Expanded(
+                child: const Text('Premium Required'),
+              ),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'To modify your avatar, you need Premium access.',
+                style: TextStyle(fontSize: 16, color: AppTheme.textPrimary),
+              ),
+              const SizedBox(height: 16),
+              Text(
+                'Choose your Premium plan:',
+                style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold, color: AppTheme.textPrimary),
+              ),
+              const SizedBox(height: 12),
+              // Weekly plan
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: Colors.grey[50],
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: Colors.grey[300]!),
+                ),
+                child: Row(
+                  children: [
+                    Icon(Icons.calendar_today, color: AppTheme.primaryColor, size: 20),
+                    const SizedBox(width: 8),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            'Weekly Premium',
+                            style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold, color: AppTheme.textPrimary),
+                          ),
+                          Text(
+                            '\$12.99 per week',
+                            style: TextStyle(fontSize: 12, color: AppTheme.textSecondary),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 8),
+              // Monthly plan
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: AppTheme.primaryColor.withValues(alpha: 0.1),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: AppTheme.primaryColor),
+                ),
+                child: Row(
+                  children: [
+                    Icon(Icons.star, color: AppTheme.primaryColor, size: 20),
+                    const SizedBox(width: 8),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            'Monthly Premium',
+                            style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold, color: AppTheme.textPrimary),
+                          ),
+                          Text(
+                            '\$49.99 per month',
+                            style: TextStyle(fontSize: 12, color: AppTheme.textSecondary),
+                          ),
+                        ],
+                      ),
+                    ),
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                      decoration: BoxDecoration(
+                        color: AppTheme.primaryColor,
+                        borderRadius: BorderRadius.circular(4),
+                      ),
+                      child: const Text(
+                        'POPULAR',
+                        style: TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.bold),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: Text('Cancel', style: TextStyle(color: AppTheme.textHint)),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.pop(context);
+                _navigateToSubscriptions();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: AppTheme.primaryColor,
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
+              ),
+              child: const Text('Get Premium', style: TextStyle(color: Colors.white)),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  void _navigateToSubscriptions() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => const SubscriptionsPage(),
+      ),
+    ).then((_) {
+      // 返回时重新加载VIP状态
+      _loadVipStatus();
+    });
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    // 每次页面重新获得焦点时重新加载VIP状态
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _loadVipStatus();
+    });
   }
 
   @override
@@ -145,7 +312,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
       body: Column(
         children: [
           // 顶部图片 - 从电池栏开始
-          Container(
+          SizedBox(
             width: double.infinity,
             height: MediaQuery.of(context).size.height * 0.4,
             child: Stack(
@@ -190,7 +357,14 @@ class _ProfileScreenState extends State<ProfileScreen> {
                       children: [
                         // 头像
                         GestureDetector(
-                          onTap: _isEditing ? _pickAvatar : null,
+                          onTap: _isEditing ? () {
+                            // 检查VIP状态
+                            if (!_isVipActive()) {
+                              _showVipDialog();
+                              return;
+                            }
+                            _pickAvatar();
+                          } : null,
                           child: Stack(
                             children: [
                               Container(
@@ -336,9 +510,44 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   // 空白内容区域
                   Expanded(
                     child: ListView(
-                      padding: const EdgeInsets.symmetric(horizontal: 20),
+                      padding: const EdgeInsets.fromLTRB(20, 0, 20, 100),
                       children: [
                         const SizedBox(height: 20),
+                        
+                        // Wallet and VIP Options
+                        Row(
+                          children: [
+                            Expanded(
+                              child: _WalletVipCard(
+                                imagePath: 'assets/images/eiya_me_wallet.png',
+                                onTap: () {
+                                  Navigator.push(
+                                    context,
+                                    MaterialPageRoute(
+                                      builder: (context) => const InAppPurchasesPage(),
+                                    ),
+                                  );
+                                },
+                              ),
+                            ),
+                            const SizedBox(width: 12),
+                            Expanded(
+                              child: _WalletVipCard(
+                                imagePath: 'assets/images/eiya_me_vip.png',
+                                onTap: () {
+                                  Navigator.push(
+                                    context,
+                                    MaterialPageRoute(
+                                      builder: (context) => const SubscriptionsPage(),
+                                    ),
+                                  );
+                                },
+                              ),
+                            ),
+                          ],
+                        ),
+                        
+                        const SizedBox(height: 24),
                         
                         // My Likes
                         _MenuOption(
@@ -545,6 +754,62 @@ class _MenuOption extends StatelessWidget {
                   color: Colors.grey[400],
                 ),
               ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+} 
+
+class _WalletVipCard extends StatelessWidget {
+  final String imagePath;
+  final VoidCallback onTap;
+
+  const _WalletVipCard({
+    required this.imagePath,
+    required this.onTap,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return SizedBox(
+      height: 80,
+      child: Material(
+        color: Colors.transparent,
+        child: InkWell(
+          onTap: onTap,
+          borderRadius: BorderRadius.circular(16),
+          child: Container(
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(16),
+              boxShadow: [
+                BoxShadow(
+                  color: Colors.black.withValues(alpha: 0.05),
+                  blurRadius: 8,
+                  offset: const Offset(0, 2),
+                ),
+              ],
+            ),
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(16),
+              child: Image.asset(
+                imagePath,
+                fit: BoxFit.cover,
+                errorBuilder: (context, error, stackTrace) {
+                  return Container(
+                    decoration: BoxDecoration(
+                      color: Colors.grey[300],
+                      borderRadius: BorderRadius.circular(16),
+                    ),
+                    child: Icon(
+                      Icons.account_balance_wallet,
+                      color: Colors.grey[600],
+                      size: 32,
+                    ),
+                  );
+                },
+              ),
             ),
           ),
         ),
