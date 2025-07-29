@@ -14,7 +14,7 @@ class GoldProduct {
 
 class GoldProducts {
   static const List<GoldProduct> all = [
-    GoldProduct('32', 'asweetecoin_9', 0.99),
+    GoldProduct('32', 'Eiya', 0.99),
     GoldProduct('96', 'Eiya2', 2.99),
     GoldProduct('189', 'Eiya5', 5.99),
     GoldProduct('299', 'Eiya9', 9.99),
