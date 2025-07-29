@@ -12,6 +12,7 @@ class GoldProduct {
   const GoldProduct(this.amountStr, this.productId, this.price);
 }
 
+
 class GoldProducts {
   static const List<GoldProduct> all = [
     GoldProduct('32', 'Eiya', 0.99),
