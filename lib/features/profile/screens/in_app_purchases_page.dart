@@ -14,7 +14,7 @@ class GoldProduct {
 
 class GoldProducts {
   static const List<GoldProduct> all = [
-    GoldProduct('32', 'Eiya', 0.99),
+    GoldProduct('32', 'asweetecoin_9', 0.99),
     GoldProduct('96', 'Eiya2', 2.99),
     GoldProduct('189', 'Eiya5', 5.99),
     GoldProduct('299', 'Eiya9', 9.99),
@@ -39,11 +39,10 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
   List<ProductDetails> _products = [];
   bool _isLoading = true;
   bool _purchasePending = false;
-  String? _purchaseError;
   int _goldCoins = 0;
   late AnimationController _animationController;
   late Animation<double> _pulseAnimation;
-  Set<String> _processedPurchases = {}; // 跟踪已处理的购买
+  final Set<String> _processedPurchases = {}; // 跟踪已处理的购买
   bool _isInitialized = false; // 标记是否已初始化
 
   List<GoldProduct> get _goldProducts => GoldProducts.all;
@@ -102,29 +101,41 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
 
   Future<void> _initInAppPurchase() async {
     final bool isAvailable = await _inAppPurchase.isAvailable();
+    debugPrint('Store availability: $isAvailable');
+    
     if (!isAvailable) {
       setState(() {
         _isLoading = false;
-        _purchaseError = "Store is not available.";
         _isInitialized = true; // 即使出错也标记为已初始化
       });
       return;
     }
+    
     final Set<String> productIds = _goldProducts.map((e) => e.productId).toSet();
+    debugPrint('Querying products: $productIds');
+    
     try {
       final ProductDetailsResponse response = await _inAppPurchase.queryProductDetails(productIds);
+      debugPrint('Found ${response.productDetails.length} products');
+      debugPrint('Product IDs: ${response.productDetails.map((p) => p.id).toList()}');
+      
       setState(() {
         _products = response.productDetails;
         _isLoading = false;
         _isInitialized = true; // 标记初始化完成
       });
       debugPrint('InAppPurchase initialized successfully');
+      
+      if (response.productDetails.isEmpty) {
+        _showSnackBar("No products available");
+      }
     } catch (e) {
+      debugPrint('Error loading products: $e');
       setState(() {
         _isLoading = false;
-        _purchaseError = "Failed to load products: $e";
         _isInitialized = true; // 即使出错也标记为已初始化
       });
+      _showSnackBar("Failed to load products: $e");
     }
   }
 
@@ -146,27 +157,25 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
         if (purchaseDetails.status == PurchaseStatus.error) {
           setState(() {
             _purchasePending = false;
-            _purchaseError = purchaseDetails.error?.message ?? "Unknown error occurred";
           });
           _showSnackBar("Purchase failed: ${purchaseDetails.error?.message ?? 'Unknown error'}");
         } else if (purchaseDetails.status == PurchaseStatus.purchased ||
-            purchaseDetails.status == PurchaseStatus.restored) {
+                   purchaseDetails.status == PurchaseStatus.restored) {
+          // 处理新购买和恢复的购买
           _handleSuccessfulPurchase(purchaseDetails);
         } else if (purchaseDetails.status == PurchaseStatus.canceled) {
           setState(() {
             _purchasePending = false;
           });
         }
-        if (purchaseDetails.pendingCompletePurchase) {
-          await _inAppPurchase.completePurchase(purchaseDetails);
-        }
+        // 移除重复的completePurchase调用，现在在_handleSuccessfulPurchase中处理
       }
     }
   }
 
   Future<void> _handleSuccessfulPurchase(PurchaseDetails purchaseDetails) async {
     // 检查是否已经处理过这个购买
-    String purchaseKey = '${purchaseDetails.productID}_${purchaseDetails.purchaseID}';
+    String purchaseKey = '${purchaseDetails.productID}_${purchaseDetails.purchaseID}_${purchaseDetails.status}';
     if (_processedPurchases.contains(purchaseKey)) {
       debugPrint('Purchase already processed: $purchaseKey');
       return;
@@ -175,16 +184,32 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
     // 添加到已处理列表
     _processedPurchases.add(purchaseKey);
     
+    debugPrint('Handling successful purchase: ${purchaseDetails.productID} (${purchaseDetails.status})');
+    debugPrint('Available product IDs: ${_goldProducts.map((p) => p.productId).toList()}');
+    
     setState(() {
       _purchasePending = false;
     });
     
-    final product = _goldProducts.firstWhere((e) => e.productId == purchaseDetails.productID, orElse: () => GoldProduct('', '', 0));
+    final product = _goldProducts.firstWhere(
+      (e) => e.productId == purchaseDetails.productID, 
+      orElse: () {
+        debugPrint('Product not found in configuration: ${purchaseDetails.productID}');
+        return GoldProduct('', '', 0);
+      }
+    );
+    
     if (product.amount > 0) {
       debugPrint('Processing purchase: ${product.amount} coins for product ${purchaseDetails.productID}');
       await _saveGoldCoins(product.amount);
       _showSnackBar("Purchase successful! +${product.amount} Pet Coins");
+    } else {
+      debugPrint('Product amount is 0 or product not found: ${purchaseDetails.productID}');
     }
+    
+    // 总是清除订单
+    debugPrint('Completing purchase: ${purchaseDetails.productID}');
+    await _inAppPurchase.completePurchase(purchaseDetails);
   }
 
   void _showSnackBar(String msg) {
@@ -201,18 +226,32 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
   }
 
   Future<void> _processPurchase(String productId) async {
+    debugPrint('Attempting to purchase product: $productId');
+    debugPrint('Available products: ${_products.map((p) => p.id).toList()}');
+    
     final ProductDetails? product = _products.firstWhereOrNull((p) => p.id == productId);
     if (product == null) {
+      debugPrint('Product not found: $productId');
       _showSnackBar("Product not available");
       return;
     }
+    
+    debugPrint('Product found: ${product.id} - ${product.title} - ${product.price}');
+    
     setState(() {
       _purchasePending = true;
     });
+    
     try {
+      // 添加短暂延迟，确保系统准备好
+      await Future.delayed(const Duration(milliseconds: 500));
+      
       final PurchaseParam purchaseParam = PurchaseParam(productDetails: product);
-      await _inAppPurchase.buyConsumable(purchaseParam: purchaseParam, autoConsume: true);
+      debugPrint('Starting purchase for: ${product.id}');
+      await _inAppPurchase.buyConsumable(purchaseParam: purchaseParam);
+      debugPrint('Purchase initiated successfully');
     } catch (e) {
+      debugPrint('Error starting purchase: $e');
       setState(() {
         _purchasePending = false;
       });
