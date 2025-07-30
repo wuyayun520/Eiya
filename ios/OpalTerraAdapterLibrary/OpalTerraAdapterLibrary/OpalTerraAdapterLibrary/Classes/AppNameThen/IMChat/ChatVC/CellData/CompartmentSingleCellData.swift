@@ -1,0 +1,164 @@
+
+//: Declare String Begin
+
+/*: "title" :*/
+fileprivate let kManagerToPath:String = "rendertle"
+
+/*: "content" :*/
+fileprivate let kTableId:String = "codetailtedetailt"
+
+/*: "init(coder:) has not been implemented" :*/
+fileprivate let kPlayerUrl:[UInt8] = [0x57,0x50,0x57,0x4a,0x16,0x5d,0x51,0x5a,0x5b,0x4c,0x4,0x17,0x1e,0x56,0x5f,0x4d,0x1e,0x50,0x51,0x4a,0x1e,0x5c,0x5b,0x5b,0x50,0x1e,0x57,0x53,0x4e,0x52,0x5b,0x53,0x5b,0x50,0x4a,0x5b,0x5a]
+
+private func plugIn(range num: UInt8) -> UInt8 {
+    return num ^ 62
+}
+
+/*: "img" :*/
+fileprivate let kEndTitle:[Character] = ["i","m","g"]
+
+/*: "jumpKey" :*/
+fileprivate let k_menuKey:[Character] = ["j","u","m","p","K","e","y"]
+
+//: Declare String End
+
+// __DEBUG__
+// __CLOSE_PRINT__
+//
+//  CompartmentSingleCellData.swift
+//  AbroadTalking
+//
+//  Created by young on 2023/11/8.
+//
+
+//: import UIKit
+import UIKit
+
+//: @objcMembers public class TalkingChatSystemNotifJumpMsgCellData: TalkingChatMsgBaseCellData {
+@objcMembers public class CompartmentSingleCellData: GroupReactiveCompatible {
+    // 数据
+    //: var extraJson: JSON {
+    var extraJson: JSON {
+        //: return JSON(extraDict)
+        return JSON(extraDict)
+    }
+
+    // banner size
+    //: var bannerSize = CGSize(width: actualWidth(w: 210), height: actualWidth(w: 50))
+    var bannerSize = CGSize(width: actualWidth(w: 210), height: actualWidth(w: 50))
+    // 是否有标题
+    //: var hasBanner = false
+    var hasBanner = false
+    // 标题高度
+    //: var titleHeight = 0.0
+    var titleHeight = 0.0
+    // 内容高度
+    //: var contentHeight = 0.0
+    var contentHeight = 0.0
+    // 跳转高度
+    //: var jumpHeight = 0.0
+    var jumpHeight = 0.0
+    // 标题富文本
+    //: public lazy var titleAttrStr: NSMutableAttributedString = {
+    public lazy var titleAttrStr: NSMutableAttributedString = {
+        //: let attributes = [.foregroundColor: UIColor.colorStatuteNameApp(), .font: UIFont.fontChange(type: .Medium, fontSize: 17)] as [NSAttributedString.Key: Any]
+        let attributes = [.foregroundColor: UIColor.colorStatuteNameApp(), .font: UIFont.fontChange(type: .Medium, fontSize: 17)] as [NSAttributedString.Key: Any]
+        //: let attributeStr = NSMutableAttributedString(string: extraJson["title"].stringValue)
+        let attributeStr = NSMutableAttributedString(string: extraJson[(kManagerToPath.replacingOccurrences(of: "render", with: "ti"))].stringValue)
+        //: attributeStr.addAttributes(attributes, range: NSRange(location: 0, length: attributeStr.length))
+        attributeStr.addAttributes(attributes, range: NSRange(location: 0, length: attributeStr.length))
+        //: return attributeStr
+        return attributeStr
+        //: }()
+    }()
+
+    // 内容富文本
+    //: public lazy var contentAttrStr: NSMutableAttributedString = {
+    public lazy var contentAttrStr: NSMutableAttributedString = {
+        //: let attributes = [.foregroundColor: UIColor.appValueColor(), .font: UIFont.fontChange(type: .Regular, fontSize: 14)] as [NSAttributedString.Key: Any]
+        let attributes = [.foregroundColor: UIColor.scaleValueTo(), .font: UIFont.fontChange(type: .Regular, fontSize: 14)] as [NSAttributedString.Key: Any]
+        //: let attributeStr = NSMutableAttributedString(string: extraJson["content"].stringValue)
+        let attributeStr = NSMutableAttributedString(string: extraJson[(kTableId.replacingOccurrences(of: "detail", with: "n"))].stringValue)
+        //: attributeStr.addAttributes(attributes, range: NSRange(location: 0, length: attributeStr.length))
+        attributeStr.addAttributes(attributes, range: NSRange(location: 0, length: attributeStr.length))
+        //: return attributeStr
+        return attributeStr
+        //: }()
+    }()
+
+    //: required init?(coder: NSCoder) {
+    required init?(coder _: NSCoder) {
+        //: fatalError("init(coder:) has not been implemented")
+        fatalError(String(bytes: kPlayerUrl.map{plugIn(range: $0)}, encoding: .utf8)!)
+    }
+
+    //: override public init(direction: TMsgDirection) {
+    override public init(direction: UserAppMeasurable) {
+        //: super.init(direction: direction)
+        super.init(direction: direction)
+    }
+
+    //: override public func voiceOver() -> CGSize {
+    override public func voiceOver() -> CGSize {
+        //: let height = self.pathDetail(0)-20
+        let height = self.pathDetail(0) - 20
+        //: return CGSize(width: bannerSize.width, height: height)
+        return CGSize(width: bannerSize.width, height: height)
+    }
+
+    //: override public func pathDetail(_ width: CGFloat) -> CGFloat {
+    override public func pathDetail(_: CGFloat) -> CGFloat {
+        //: var height = 0.0
+        var height = 0.0
+        //: if extraJson["img"].stringValue.count > 0 {
+        if extraJson[(String(kEndTitle))].stringValue.count > 0 {
+            //: height += bannerSize.height
+            height += bannerSize.height
+            //: hasBanner = true
+            hasBanner = true
+        }
+        //: height += 10
+        height += 10
+        //: if extraJson["title"].stringValue.count > 0 {
+        if extraJson[(kManagerToPath.replacingOccurrences(of: "render", with: "ti"))].stringValue.count > 0 {
+            //: let yyLayout = YYTextLayout.init(containerSize: CGSize(width: bannerSize.width-20, height: CGFLOAT_MAX), text: self.titleAttrStr)
+            let yyLayout = YYTextLayout(containerSize: CGSize(width: bannerSize.width - 20, height: CGFLOAT_MAX), text: self.titleAttrStr)
+            //: if let titleH = yyLayout?.textBoundingSize.height {
+            if let titleH = yyLayout?.textBoundingSize.height {
+                //: titleHeight = titleH
+                titleHeight = titleH
+                //: height += titleHeight
+                height += titleHeight
+            }
+        }
+        //: if extraJson["content"].stringValue.count > 0 {
+        if extraJson[(kTableId.replacingOccurrences(of: "detail", with: "n"))].stringValue.count > 0 {
+            //: height += 4
+            height += 4
+            //: let yyLayout = YYTextLayout.init(containerSize: CGSize(width: bannerSize.width-20, height: CGFLOAT_MAX), text: self.contentAttrStr)
+            let yyLayout = YYTextLayout(containerSize: CGSize(width: bannerSize.width - 20, height: CGFLOAT_MAX), text: self.contentAttrStr)
+            //: if let contentH = yyLayout?.textBoundingSize.height {
+            if let contentH = yyLayout?.textBoundingSize.height {
+                //: contentHeight = contentH
+                contentHeight = contentH
+                //: height += contentHeight
+                height += contentHeight
+            }
+        }
+        //: height += 10
+        height += 10
+        //: if extraJson["jumpKey"].stringValue.count > 0 {
+        if extraJson[(String(k_menuKey))].stringValue.count > 0 {
+            //: jumpHeight = 35
+            jumpHeight = 35
+            //: height += jumpHeight
+            height += jumpHeight
+        }
+        // cell间距
+        //: height += 20
+        height += 20
+
+        //: return height
+        return height
+    }
+}
