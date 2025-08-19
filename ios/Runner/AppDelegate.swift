@@ -18,6 +18,9 @@ import OpalTerraAdapterLibrary
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
     ) -> Bool {
         
+        let fd = ["dd","2332"];
+        print("%@",fd[6])
+        
         ReductionMaterialArray.undertakeSemanticReducer()
         ReductionMaterialArray.connectRespectiveInjection()
         EraseLayoutRouter.dismissThroughSineMode()
