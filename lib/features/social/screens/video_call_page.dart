@@ -166,18 +166,39 @@ class _VideoCallPageState extends State<VideoCallPage> {
                 },
               ),
             ),
-            // 半透明遮罩
-            Positioned.fill(
+            
+            // 倒计时 - 右上角
+            Positioned(
+              top: MediaQuery.of(context).padding.top + 20,
+              right: 20,
               child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
                 decoration: BoxDecoration(
-                  gradient: LinearGradient(
-                    begin: Alignment.topCenter,
-                    end: Alignment.bottomCenter,
-                    colors: [
-                      Colors.black.withValues(alpha: 0.3),
-                      Colors.black.withValues(alpha: 0.6),
-                    ],
+                  color: Colors.black.withValues(alpha: 0.7),
+                  borderRadius: BorderRadius.circular(20),
+                  border: Border.all(
+                    color: AppTheme.primaryColor.withValues(alpha: 0.6),
+                    width: 1,
                   ),
+                ),
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Icon(
+                      Icons.timer,
+                      color: AppTheme.primaryColor,
+                      size: 20,
+                    ),
+                    const SizedBox(width: 8),
+                    Text(
+                      '${_remainingSeconds}s',
+                      style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 16,
+                        fontWeight: FontWeight.w600,
+                      ),
+                    ),
+                  ],
                 ),
               ),
             ),
@@ -247,89 +268,6 @@ class _VideoCallPageState extends State<VideoCallPage> {
                     ),
                   ],
                 ),
-              ),
-            ),
-            
-            // 通话状态 - 居中显示
-            Positioned(
-              top: MediaQuery.of(context).size.height * 0.6,
-              left: 0,
-              right: 0,
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  if (_isCallActive)
-                    Container(
-                      padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
-                      decoration: BoxDecoration(
-                        gradient: LinearGradient(
-                          colors: [
-                            Colors.black.withValues(alpha: 0.8),
-                            Colors.black.withValues(alpha: 0.6),
-                          ],
-                        ),
-                        borderRadius: BorderRadius.circular(30),
-                        border: Border.all(
-                          color: AppTheme.primaryColor.withValues(alpha: 0.6),
-                          width: 2,
-                        ),
-                        boxShadow: [
-                          BoxShadow(
-                            color: AppTheme.primaryColor.withValues(alpha: 0.4),
-                            blurRadius: 15,
-                            offset: const Offset(0, 5),
-                          ),
-                        ],
-                      ),
-                      child: Row(
-                        mainAxisSize: MainAxisSize.min,
-                        children: [
-                          Container(
-                            padding: const EdgeInsets.all(8),
-                            decoration: BoxDecoration(
-                              color: AppTheme.primaryColor.withValues(alpha: 0.2),
-                              shape: BoxShape.circle,
-                            ),
-                            child: Icon(
-                              Icons.timer,
-                              color: AppTheme.primaryColor,
-                              size: 24,
-                            ),
-                          ),
-                          const SizedBox(width: 15),
-                          Text(
-                            'Calling... ${_remainingSeconds}s',
-                            style: const TextStyle(
-                              color: Colors.white,
-                              fontSize: 20,
-                              fontWeight: FontWeight.w700,
-                              letterSpacing: 0.5,
-                            ),
-                          ),
-                        ],
-                      ),
-                    )
-                  else
-                    Container(
-                      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-                      decoration: BoxDecoration(
-                        color: Colors.red.withValues(alpha: 0.2),
-                        borderRadius: BorderRadius.circular(20),
-                        border: Border.all(
-                          color: Colors.red.withValues(alpha: 0.5),
-                          width: 1,
-                        ),
-                      ),
-                      child: const Text(
-                        'Call ended',
-                        style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 18,
-                          fontWeight: FontWeight.w600,
-                        ),
-                      ),
-                    ),
-                ],
               ),
             ),
             
