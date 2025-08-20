@@ -93,11 +93,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
               // Weekly plan
               Container(
                 padding: const EdgeInsets.all(12),
-                decoration: BoxDecoration(
-                  color: Colors.grey[50],
-                  borderRadius: BorderRadius.circular(8),
-                  border: Border.all(color: Colors.grey[300]!),
-                ),
+                
                 child: Row(
                   children: [
                     Icon(Icons.calendar_today, color: AppTheme.primaryColor, size: 20),
@@ -124,11 +120,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
               // Monthly plan
               Container(
                 padding: const EdgeInsets.all(12),
-                decoration: BoxDecoration(
-                  color: AppTheme.primaryColor.withValues(alpha: 0.1),
-                  borderRadius: BorderRadius.circular(8),
-                  border: Border.all(color: AppTheme.primaryColor),
-                ),
+               
                 child: Row(
                   children: [
                     Icon(Icons.star, color: AppTheme.primaryColor, size: 20),
@@ -148,17 +140,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                         ],
                       ),
                     ),
-                    Container(
-                      padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
-                      decoration: BoxDecoration(
-                        color: AppTheme.primaryColor,
-                        borderRadius: BorderRadius.circular(4),
-                      ),
-                      child: const Text(
-                        'POPULAR',
-                        style: TextStyle(color: Colors.white, fontSize: 10, fontWeight: FontWeight.bold),
-                      ),
-                    ),
+                    
                   ],
                 ),
               ),
