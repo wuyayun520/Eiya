@@ -870,12 +870,6 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
                         Expanded(
                           child: ElevatedButton(
                             onPressed: () {
-                              // 检查月订阅VIP状态
-                              if (!_isMonthlyVipActive()) {
-                                _showVipDialog();
-                                return;
-                              }
-                              
                               // 直接跳转到聊天页面
                               final yogaUser = YogaUser.fromJson(widget.user);
                               Navigator.of(context).push(
